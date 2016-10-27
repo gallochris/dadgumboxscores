@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+
+  <head>
+    <title>Dadgum Box Scores</title>
+    <meta name="title" content="Dadgum Box Scores">
+    <meta name="description" content="Every UNC basketball box score since 03-04.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700,700italic,100,100italic,300,300italic,500,400italic,500italic' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="/js/felton.min.js"></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+
+    <!-- start autocompletejs -->
+    <script>
+    $(document).ready( function () {
+    $('#table_id').DataTable();
+    responsive: true
+    } );
+    </script>
+
+
+    <script type="text/javascript" class="init">
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "paging":   false,
+        "info":     false,
+        "oSearch": {"sSearch": $.urlParam('filter')}
+    
+    } );
+    } );
+
+   $.urlParam = function(name){
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (!results)
+    { 
+    return ; 
+    }
+    return decodeURI(results[1]) || 0;
+    } 
+
+
+
+    // Read a page's GET URL variables and return them as an associative array.
+    function getUrlVars()
+    {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = decodeURIComponent(value);
+
+    
+        
+    });
+    return vars;
+
+    }
+
+    $(document).ready(function() {
+    // Get the query from the url
+    var query = getUrlVars()['q'];
+    // create the table
+    var oTable = $('#example').dataTable();
+    // Filter it
+    oTable.fnFilter( query, 2 );
+    });
+
+    </script>
+
+    <!-- end autocompletejs -->
+
+    <!-- styles -->
+    <link href="/css/dannygreen.css" rel="stylesheet" type="text/css">
+    <!-- end styles -->
+  </head>
+
+
+
+<div class="row twelve columns">
+<body>
+<pre class="stilwata">
+
+  Official Basketball Box Score
+Wake Forest vs North Carolina
+12/20/03 4 p.m. at Smith Center, Chapel Hill, N.C.
+--------------------------------------------------------------------------------
+VISITORS: Wake Forest 7-0, 1-0 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+01 Gray, Justin........    8-15   4-9    0-0    1  5  6   5  20  4  3  0  2  33
+03 Paul, Chris.........    6-16   1-8    5-9    0  4  4   5  18  8  6  1  5  46
+04 Downey, Taron.......    6-15   4-9    3-4    2  2  4   4  19  7  1  0  0  48
+10 Levy, Jamaal........    4-9    0-2    2-6    5  9 14   3  10  2  2  2  0  49
+31 Williams, Eric......   11-18   0-0    2-2    2  6  8   3  24  0  2  1  1  40
+33 Strickland, Trent...    5-9    2-2    3-7    1  3  4   3  15  0  1  0  0  33
+34 Hendley, Todd.......    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0   6
+55 Visser, Kyle........    6-8    0-0    1-3    5  3  8   3  13  0  1  1  0  20
+   TEAM................                         2  3  5
+   Totals..............   46-90  11-30  16-31  18 35 53  26 119 21 16  5  8 275
+
+
+
+TOTAL FG% 1st Half:  0-0   0.0%   2nd Half:  0-0   0.0%   OT: 46-90 51.1%   Game: 51.1%  DEADB
+3-Pt. FG% 1st Half:  0-0   0.0%   2nd Half:  0-0   0.0%   OT: 11-30 36.7%   Game: 36.7%   REBS
+F Throw % 1st Half:  0-0   0.0%   2nd Half:  0-0   0.0%   OT: 16-31 51.6%   Game: 51.6%    8
+
+
+
+--------------------------------------------------------------------------------
+HOME TEAM: North Carolina 6-1, 0-1 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+01 Scott, Melvin.......    6-13   3-8    1-1    0  2  2   4  16  5  2  1  2  43
+02 Felton, Raymond.....    8-16   1-5    5-7    1  4  5   5  22 11  5  0  2  48
+03 Terry, Reyshawn.....    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0   1
+05 Manuel, Jackie......    5-7    0-0    0-2    2  2  4   2  10  3  0  0  1  29
+21 Williams, Jawad.....    6-13   0-3    5-10   5  7 12   4  17  2  1  1  4  50
+22 Bohlander, Justin...    0-0    0-0    2-2    0  0  0   0   2  0  0  0  0   3
+32 McCants, Rashad.....    9-23   4-5    3-6    4  4  8   2  25  3  2  0  4  44
+34 Noel, David.........    3-6    1-2    0-0    2  1  3   4   7  0  2  2  0  18
+41 Sanders, Byron......    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0   2
+42 May, Sean...........    7-12   0-0    1-3    3  8 11   5  15  1  3  2  1  37
+   TEAM................                         1  3  4
+   Totals..............   44-90   9-23  17-31  18 31 49  26 114 25 15  6 14 275
+
+
+
+TOTAL FG% 1st Half:  0-0   0.0%   2nd Half:  0-0   0.0%   OT: 44-90 48.9%   Game: 48.9%  DEADB
+3-Pt. FG% 1st Half:  0-0   0.0%   2nd Half:  0-0   0.0%   OT:  9-23 39.1%   Game: 39.1%   REBS
+F Throw % 1st Half:  0-0   0.0%   2nd Half:  0-0   0.0%   OT: 17-31 54.8%   Game: 54.8%    9
+
+
+
+--------------------------------------------------------------------------------
+Officials: Duke Edsall, Reggie Cofer, Jamie Luckie
+Technical fouls: Wake Forest-None. North Carolina-None.
+Attendance: 21750
+Score by Periods                1st  2nd   OT  OT2  OT3   Total
+Wake Forest...................   47   41   16    2   13  -  119
+North Carolina................   47   41   16    2    8  -  114
+
+</pre>
+</body>
+</div>
+</html>

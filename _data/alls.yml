@@ -18,7 +18,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2004/unc-63-af-52.txt
+  box: boxes/2004/unc-63-af-52
 
 - game: Georgia Tech 83 | UNC 82
   date: March 12, 2004
@@ -29,7 +29,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2004/gt-83-unc-82.txt
+  box: boxes/2004/gt-83-unc-82
 
 - game: Duke 70 | UNC 65
   date: March 6, 2004
@@ -40,7 +40,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/duke-70-unc-65.txt
+  box: boxes/2004/duke-70-unc-65
 
 - game: UNC 69 | Clemson 53
   date: March 2, 2004
@@ -51,7 +51,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-69-clem-53.txt
+  box: boxes/2004/unc-69-clem-53
 
 - game: UNC 71 | North Carolina State 64
   date: February 29, 2004
@@ -62,7 +62,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-71-state-64.txt
+  box: boxes/2004/unc-71-state-64
 
 - game: Virginia 74 | UNC 72
   date: February 24, 2004
@@ -73,7 +73,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/uva-74-unc-72.txt
+  box: boxes/2004/uva-74-unc-72
 
 - game: UNC 78 | Florida State 71
   date: February 21, 2004
@@ -84,7 +84,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-78-fsu-71.txt
+  box: boxes/2004/unc-78-fsu-71
 
 - game: UNC 97 | Maryland 86
   date: February 15, 2004
@@ -95,7 +95,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-97-maryland-86.txt
+  box: boxes/2004/unc-97-maryland-86
 
 - game: Georgia Tech 88 | UNC 77
   date: February 7, 2004
@@ -106,7 +106,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/gt-88-unc-77.txt
+  box: boxes/2004/gt-88-unc-77
 
 - game: UNC 79 | Wake Forest 73
   date: February 7, 2004
@@ -117,7 +117,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-79-wake-73.txt
+  box: boxes/2004/unc-79-wake-73
 
 - game: Duke 83 | UNC 81 (OT)
   date: February 5, 2004
@@ -128,7 +128,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/duke-83-unc-81.txt
+  box: boxes/2004/duke-83-unc-81
 
 - game: Clemson 81 | UNC 72
   date: January 31, 2004
@@ -139,7 +139,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/clem-81-unc-72.txt
+  box: boxes/2004/clem-81-unc-72
 
 - game: UNC 68 | North Carolina State 66
   date: January 28, 2004
@@ -150,7 +150,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-68-state-66.txt
+  box: boxes/2004/unc-68-state-66
 
 - game: UNC 96 | Virginia 77
   date: January 24, 2004
@@ -161,7 +161,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-96-uva-77.txt
+  box: boxes/2004/unc-96-uva-77
 
 - game: Florida State 90 | UNC 81 (OT)
   date: January 22, 2004
@@ -172,7 +172,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/fsu-90-unc-81.txt
+  box: boxes/2004/fsu-90-unc-81
 
 - game: UNC 86 | Connecticut 83
   date: January 17, 2004
@@ -183,7 +183,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2004/unc-86-uconn-83.txt
+  box: boxes/2004/unc-86-uconn-83
 
 - game: Maryland 90 | UNC 84
   date: January 14, 2004
@@ -194,7 +194,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2004/maryland-90-unc-84.txt
+  box: boxes/2004/maryland-90-unc-84
 
 - game: UNC 103 | Georgia Tech 88
   date: January 11, 2004
@@ -205,7 +205,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-103-gt-88.txt
+  box: boxes/2004/unc-103-gt-88
 
 - game: UNC 89 | Miami 64
   date: January 7, 2004
@@ -216,7 +216,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/unc-89-miami-64.txt
+  box: boxes/2004/unc-89-miami-64
 
 - game: Kentucky 61 | UNC 56
   date: January 3, 2004
@@ -227,7 +227,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2004/kentucky-61-unc-56.txt
+  box: boxes/2004/kentucky-61-unc-56
 
 - game: UNC 105 | Coastal Carolina 72
   date: December 30, 2003
@@ -238,7 +238,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2004/unc-105-coastal-72.txt
+  box: boxes/2004/unc-105-coastal-72
 
 - game: UNC 71 | UNC Wilmington 54
   date: December 28, 2003
@@ -249,7 +249,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2004/unc-71-uncw-54.txt
+  box: boxes/2004/unc-71-uncw-54
 
 - game: Wake Forest 119 | UNC 114 (3OT)
   date: December 20, 2003
@@ -260,7 +260,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2004/wake-119-unc-114.txt
+  box: boxes/2004/wake-119-unc-114
 
 - game: UNC 64 | Akron 53
   date: December 14, 2003
@@ -271,7 +271,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2004/unc-64-akron-53.txt
+  box: boxes/2004/unc-64-akron-53
 
 - game: UNC 115 | George Mason 81
   date: December 7, 2003
@@ -282,7 +282,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2004/unc-115-gmason-81.txt
+  box: boxes/2004/unc-115-gmason-81
 
 - game: UNC 88 | Illinois 81
   date: December 2, 2003
@@ -293,7 +293,7 @@
   location: neutral
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2004/unc-88-ill-81.txt
+  box: boxes/2004/unc-88-ill-81
 
 - game: UNC 82 | Cleveland State 76
   date: November 29, 2003
@@ -304,7 +304,7 @@
   location: road
   type: Non-conference 
   type-sort: 1
-  box: boxes/2004/unc-82-cs-76.txt
+  box: boxes/2004/unc-82-cs-76
 
 - game: UNC 91 | Davidson 68
   date: November 24, 2003
@@ -315,7 +315,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2004/unc-91-davidson-68.txt
+  box: boxes/2004/unc-91-davidson-68
 
 - game: UNC 90 | Old Dominion 64
   date: November 22, 2003
@@ -326,7 +326,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2004/unc-90-odu-64.txt
+  box: boxes/2004/unc-90-odu-64
 
 - game: UNC 75 | Illinois 70
   date: April 4, 2005
@@ -337,7 +337,7 @@
   location: neutral
   type: NCAA Tournament Championship
   type-sort: 4
-  box: boxes/2005/unc-75-ill-70.txt
+  box: boxes/2005/unc-75-ill-70
 
 - game: UNC 87 | Michigan State 71
   date: April 2, 2005
@@ -348,7 +348,7 @@
   location: neutral
   type: NCAA Tournament Final 4
   type-sort: 4
-  box: boxes/2005/unc-87-msu-71.txt
+  box: boxes/2005/unc-87-msu-71
 
 - game: UNC 88 | Wisconsin 82
   date: March 27, 2005

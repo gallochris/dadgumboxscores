@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+
+  <head>
+    <title>Dadgum Box Scores</title>
+    <meta name="title" content="Dadgum Box Scores">
+    <meta name="description" content="Every UNC basketball box score since 03-04.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700,700italic,100,100italic,300,300italic,500,400italic,500italic' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="/js/felton.min.js"></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+
+    <!-- start autocompletejs -->
+    <script>
+    $(document).ready( function () {
+    $('#table_id').DataTable();
+    responsive: true
+    } );
+    </script>
+
+
+    <script type="text/javascript" class="init">
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "paging":   false,
+        "info":     false,
+        "oSearch": {"sSearch": $.urlParam('filter')}
+    
+    } );
+    } );
+
+   $.urlParam = function(name){
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (!results)
+    { 
+    return ; 
+    }
+    return decodeURI(results[1]) || 0;
+    } 
+
+
+
+    // Read a page's GET URL variables and return them as an associative array.
+    function getUrlVars()
+    {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = decodeURIComponent(value);
+
+    
+        
+    });
+    return vars;
+
+    }
+
+    $(document).ready(function() {
+    // Get the query from the url
+    var query = getUrlVars()['q'];
+    // create the table
+    var oTable = $('#example').dataTable();
+    // Filter it
+    oTable.fnFilter( query, 2 );
+    });
+
+    </script>
+
+    <!-- end autocompletejs -->
+
+    <!-- styles -->
+    <link href="/css/dannygreen.css" rel="stylesheet" type="text/css">
+    <!-- end styles -->
+  </head>
+
+
+
+<div class="row twelve columns">
+<body>
+<pre class="stilwata">
+
+  Official Basketball Box Score
+Illinois vs North Carolina
+12/02/03 9 p.m. at Greensboro Coliseum, Greensboro, N.C.
+--------------------------------------------------------------------------------
+VISITORS: Illinois 3-1
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+05 Williams, Deron..... *  9-18   2-6    2-3    0  5  5   4  22  8  5  0  2  36
+11 Brown, Dee.......... *  3-17   2-10   0-0    2  0  2   2   8  3  1  0  2  34
+40 Augustine, James.... *  4-6    0-0    1-6    5  6 11   3   9  1  1  0  0  32
+43 Powell, Roger....... *  8-10   0-0    4-7    2  2  4   4  20  0  3  1  0  22
+45 Smith, Nick......... *  0-7    0-1    0-0    1  5  6   2   0  4  0  1  1  23
+01 Spears, Aaron.......    2-2    0-0    0-0    0  1  1   2   4  0  0  0  0   6
+04 Head, Luther........    4-8    1-4    0-0    2  2  4   1   9  1  4  0  2  17
+42 Randle, Brian.......    3-5    1-2    0-2    3  2  5   1   7  0  0  0  0  20
+50 Ingram, Jack........    1-2    0-1    0-0    2  1  3   2   2  0  0  0  1  10
+   TEAM................                         1     1
+   Totals..............   34-75   6-24   7-18  18 24 42  21  81 17 14  2  8 200
+
+TOTAL FG% 1st Half:  0-0   0.0%   2nd Half: 34-75 45.3%   Game: 45.3%  DEADB
+3-Pt. FG% 1st Half:  0-0   0.0%   2nd Half:  6-24 25.0%   Game: 25.0%   REBS
+F Throw % 1st Half:  0-0   0.0%   2nd Half:  7-18 38.9%   Game: 38.9%    5
+
+
+--------------------------------------------------------------------------------
+HOME TEAM: North Carolina 4-0
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+01 Scott, Melvin....... *  3-6    1-3    1-2    1  1  2   3   8  1  3  0  2  31
+02 Felton, Raymond..... *  3-7    0-1    7-8    1  0  1   0  13  5  4  0  1  36
+21 Williams, Jawad..... *  6-15   2-4    4-4    4  8 12   1  18  1  0  1  0  36
+32 McCants, Rashad..... *  8-16   3-6    1-2    1  5  6   3  20  3  1  1  2  32
+42 May, Sean........... *  7-15   0-1    9-10   3 11 14   2  23  4  2  2  2  33
+05 Manuel, Jackie......    2-3    0-1    0-2    1  3  4   4   4  5  1  1  0  21
+22 Bohlander, Justin...    1-1    0-0    0-0    0  0  0   2   2  0  2  0  1  11
+   TEAM................                         1  1  2
+   Totals..............   30-63   6-16  22-28  12 29 41  15  88 19 13  5  8 200
+
+
+TOTAL FG% 1st Half:  0-0   0.0%   2nd Half: 30-63 47.6%   Game: 47.6%  DEADB
+3-Pt. FG% 1st Half:  0-0   0.0%   2nd Half:  6-16 37.5%   Game: 37.5%   REBS
+F Throw % 1st Half:  0-0   0.0%   2nd Half: 22-28 78.6%   Game: 78.6%    3
+
+
+--------------------------------------------------------------------------------
+Officials: Reggie Cofer, Jamie Luckie, Bryan Kersey
+Technical fouls: Illinois-None. North Carolina-None.
+Attendance: 16211
+Score by Periods                1st  2nd   Total
+Illinois......................   33   48  -   81
+North Carolina................   39   49  -   88
+
+</pre>
+</body>
+</div>
+</html>
