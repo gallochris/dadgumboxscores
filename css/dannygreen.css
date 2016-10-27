@@ -588,15 +588,7 @@ input {
     font-size: 1.4em;
   }
 
-   .stilwata {
-  	font-size: 10px;
-  }
 
-  @media screen and (max-width: 600px) {
-
-  .stilwata {
-  	font-size: 6px;
-  }
  
   /* Option 1 - Display Inline */
   .nav li {
