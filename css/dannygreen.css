@@ -611,6 +611,13 @@ input {
   */
 }
 
+@media screen and (max-width: 600px) {
+  .stilwata {
+  	font-size: 6px;
+  }
+
+}
+
 /* End Nav */ 
 
 /* Footer */ 
