@@ -613,8 +613,15 @@ input {
 
 @media screen and (max-width: 600px) {
   .stilwata {
-  	font-size: 6px;
-  }
+ 	white-space: pre;       /* css-3 */
+ 	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+ 	overflow-x: auto;
+}
+
+ tbody { 
+ font-size: 8px; 
+
+}
 
 }
 
@@ -643,3 +650,7 @@ input {
 /* End Footer */
 
 
+/* Pre text */ 
+
+
+/* end pre text */

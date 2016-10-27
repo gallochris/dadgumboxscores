@@ -613,8 +613,15 @@ input {
 
 @media screen and (max-width: 600px) {
   .stilwata {
-  	font-size: 6px;
-  }
+ 	white-space: pre;       /* css-3 */
+ 	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+ 	overflow-x: auto;
+}
+
+ tbody { 
+ font-size: 8px; 
+
+}
 
 }
 
@@ -644,12 +651,6 @@ input {
 
 
 /* Pre text */ 
-pre {
- white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
+
 
 /* end pre text */
