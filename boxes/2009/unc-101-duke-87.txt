@@ -1,0 +1,52 @@
+Official Basketball Box Score
+North Carolina vs Duke
+2/11/09 9:06 p.m. at Durham, N.C. - Cameron Indoor Stadium
+
+--------------------------------------------------------------------------------
+VISITORS: North Carolina 22-2, 8-2 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+14 Danny Green......... f  5-9    1-3    4-4    0  5  5   4  15  2  3  0  1  24
+21 Deon Thompson....... f  6-11   0-0    2-2    3  1  4   2  14  0  1  0  1  24
+50 Tyler Hansbrough.... c  6-9    1-1    4-6    2  4  6   4  17  1  2  1  0  33
+05 Ty Lawson........... g  8-11   0-1    9-9    1  3  4   1  25  5  5  0  2  34
+22 Wayne Ellington..... g  4-15   1-6    6-8    1  6  7   2  15  2  1  0  3  34
+04 Bobby Frasor........    3-4    3-4    0-0    0  2  2   2   9  2  0  0  0  27
+11 Larry Drew II.......    0-0    0-0    0-0    0  0  0   0   0  1  2  0  0   7
+32 Ed Davis............    2-3    0-0    2-2    3  1  4   2   6  0  1  1  1  14
+40 Mike Copeland.......    0-0    0-0    0-0    0  1  1   0   0  0  0  0  0   3
+   TEAM................                         2  1  3
+   Totals..............   34-62   6-15  27-31  12 24 36  17 101 13 15  2  8 200
+
+TOTAL FG% 1st Half: 15-30 50.0%   2nd Half: 19-32 59.4%   Game: 54.8%  DEADB
+3-Pt. FG% 1st Half:  4-7  57.1%   2nd Half:  2-8  25.0%   Game: 40.0%   REBS
+F Throw % 1st Half: 10-12 83.3%   2nd Half: 17-19 89.5%   Game: 87.1%   3,2
+
+
+--------------------------------------------------------------------------------
+HOME TEAM: Duke 20-4, 7-3 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+12 Kyle Singler........ f  9-15   3-5    1-3    3  3  6   3  22  3  1  0  2  33
+15 Gerald Henderson.... f  7-16   1-6    2-4    0  3  3   4  17  2  4  1  0  34
+42 Lance Thomas........ f  2-4    0-0    1-3    4  2  6   2   5  0  1  0  0  20
+03 Greg Paulus......... g  3-5    2-3    0-0    1  1  2   3   8  3  2  0  4  28
+30 Jon Scheyer......... g  6-15   2-7    6-7    1  1  2   1  20  4  3  0  2  33
+02 Nolan Smith.........    5-9    0-2    1-1    1  4  5   4  11  2  3  0  2  22
+14 David McClure.......    1-3    0-1    0-0    1  1  2   4   2  3  0  1  2  21
+55 Brian Zoubek........    1-3    0-0    0-0    3  1  4   2   2  1  0  1  0   9
+   TEAM................                            1  1             1
+   Totals..............   34-70   8-24  11-18  14 17 31  23  87 18 15  3 12 200
+
+TOTAL FG% 1st Half: 21-34 61.8%   2nd Half: 13-36 36.1%   Game: 48.6%  DEADB
+3-Pt. FG% 1st Half:  6-9  66.7%   2nd Half:  2-15 13.3%   Game: 33.3%   REBS
+F Throw % 1st Half:  4-7  57.1%   2nd Half:  7-11 63.6%   Game: 61.1%    3
+
+
+--------------------------------------------------------------------------------
+Officials: Karl Hess, Tony Greene, Mike Wood
+Technical fouls: North Carolina-None. Duke-Kyle Singler.
+Attendance: 9314
+Score by Periods                1st  2nd   Total
+North Carolina................   44   57  -  101
+Duke..........................   52   35  -   87

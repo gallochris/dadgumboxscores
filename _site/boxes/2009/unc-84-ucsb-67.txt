@@ -1,0 +1,61 @@
+Official Basketball Box Score
+North Carolina vs UC Santa Barbara
+11/21/08 7:00 pm at The Thunderdome, Santa Barbara, Calif.
+
+--------------------------------------------------------------------------------
+VISITORS: North Carolina 3-0
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+14 Danny Green......... f  5-10   1-4    0-0    1  2  3   3  11  2  2  0  2  26
+21 Deon Thompson....... f  6-11   0-0    0-3    2  8 10   2  12  0  1  1  2  29
+50 Tyler Hansbrough.... f  2-8    0-1    9-10   5  2  7   2  13  2  2  1  1  25
+05 Ty Lawson........... g  6-7    2-2    5-10   1  2  3   0  19  3  2  0  3  32
+22 Wayne Ellington..... g  6-10   3-6    2-2    3  1  4   4  17  2  2  0  2  30
+02 Marc Campbell.......    0-0    0-0    2-2    0  0  0   0   2  0  0  0  0  0+
+04 Bobby Frasor........    0-5    0-4    0-0    0  0  0   1   0  3  3  1  1  18
+11 Larry Drew II.......    0-1    0-1    0-0    0  2  2   0   0  2  0  0  0   8
+13 Will Graves.........    0-2    0-1    0-0    0  2  2   2   0  1  0  0  0   9
+15 J.B. Tanner.........    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0  0+
+24 Justin Watts........    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0  0+
+30 Jack Wooten.........    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0  0+
+32 Ed Davis............    3-5    0-0    4-4    1  2  3   2  10  0  3  0  0  23
+35 Patrick Moody.......    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0  0+
+   TEAM................                         1  5  6
+   Totals..............   28-59   6-19  22-31  14 26 40  16  84 15 15  3 11 200
+
+TOTAL FG% 1st Half: 13-29 44.8%   2nd Half: 15-30 50.0%   Game: 47.5%  DEADB
+3-Pt. FG% 1st Half:  4-11 36.4%   2nd Half:  2-8  25.0%   Game: 31.6%   REBS
+F Throw % 1st Half: 15-20 75.0%   2nd Half:  7-11 63.6%   Game: 71.0%    4
+
+
+--------------------------------------------------------------------------------
+HOME TEAM: UC Santa Barbara 1-2
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+10 Devine, Chris....... f  2-6    0-1    0-1    1  0  1   3   4  4  4  0  1  27
+44 Byrd, Jesse......... f  4-5    0-0    4-4    1  4  5   3  12  0  1  0  2  21
+01 Posley, D.J......... g  0-2    0-0    0-0    0  1  1   1   0  5  2  0  1   9
+04 Roemer, Paul........ g  2-3    2-2    0-0    0  0  0   4   6  4  1  0  1  23
+42 Powell, James....... g  4-16   1-9    0-1    0  1  1   0   9  2  3  0  3  31
+00 Serna, Jaime........    2-2    0-0    2-2    0  1  1   3   6  0  2  1  0  16
+02 Quick, Nick.........    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0  0+
+03 Weiner, Jordan......    1-1    1-1    0-0    0  1  1   1   3  0  0  0  0  10
+15 Phippen, Sam........    1-1    0-0    0-0    0  1  1   2   2  0  0  0  0   8
+20 Brew, Will..........    0-3    0-2    1-2    1  2  3   3   1  3  6  0  1  20
+21 Nunnally, James.....    8-15   3-4    3-3    2  5  7   2  22  0  2  1  1  26
+55 Somogyi, Greg.......    1-1    0-0    0-0    0  3  3   1   2  0  0  1  0   9
+   TEAM................                         1  3  4
+   Totals..............   25-55   7-19  10-13   6 22 28  23  67 18 21  3 10 200
+
+TOTAL FG% 1st Half: 14-27 51.9%   2nd Half: 11-28 39.3%   Game: 45.5%  DEADB
+3-Pt. FG% 1st Half:  3-9  33.3%   2nd Half:  4-10 40.0%   Game: 36.8%   REBS
+F Throw % 1st Half:  6-9  66.7%   2nd Half:  4-4  100 %   Game: 76.9%    1
+
+
+--------------------------------------------------------------------------------
+Officials: Dick Cartmell, Mike Scyphers, Duane Allen
+Technical fouls: North Carolina-None. UC Santa Barbara-None.
+Attendance: 6000
+Score by Periods                1st  2nd   Total
+North Carolina................   45   39  -   84
+UC Santa Barbara..............   37   30  -   67

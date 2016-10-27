@@ -1,0 +1,27 @@
+more 
+123456789 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 
+
+
+wins(31)
+losses(2)
+
+less
+123456
+
+
+wins(5)
+losses(1)
+
+
+even
+
+
+
+In 2007-2008, UNC attempted more free throws than it's opponents in 33 out of 39 games. 
+
+When it attempted more, the Tar Heels were 31-2. 
+
+When attempting less free throws, Carolina was 5-1. 
+
+36-3
+

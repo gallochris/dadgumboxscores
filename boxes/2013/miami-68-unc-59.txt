@@ -1,0 +1,54 @@
+Official Basketball Box Score
+Miami vs North Carolina
+01/10/13 7:00 PM at Smith Center, Chapel Hill
+
+
+--------------------------------------------------------------------------------
+VISITORS: Miami 11-3, 2-0 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+35 Kadji, Kenny........ f  7-11   2-5    2-3    0  9  9   2  18  3  0  4  0  37
+45 Gamble, Julian...... f  7-10   0-0    0-0    3  3  6   4  14  0  1  3  1  33
+00 Larkin, Shane....... g  3-7    1-3    4-6    0  3  3   2  11  1  4  0  2  36
+01 Scott, Durand....... g  4-12   2-6    1-2    1  5  6   2  11  5  1  0  3  38
+04 McKinney Jones, Trey g  1-5    1-4    2-2    0  1  1   1   5  1  5  0  1  26
+10 Akpejiori, Raphael..    0-0    0-0    0-0    0  0  0   0   0  0  0  1  0   7
+15 Brown, Rion.........    3-8    3-8    0-0    0  2  2   0   9  0  1  0  0  21
+23 Jekiri, Tonye.......    0-0    0-0    0-0    1  0  1   0   0  0  0  0  0   2
+   TEAM................                         3  3  6
+   Totals..............   25-53   9-26   9-13   8 26 34  11  68 10 12  8  7 200
+
+TOTAL FG% 1st Half: 12-26 46.2%   2nd Half: 13-27 48.1%   Game: 47.2%  DEADB
+3-Pt. FG% 1st Half:  4-12 33.3%   2nd Half:  5-14 35.7%   Game: 34.6%   REBS
+F Throw % 1st Half:  2-4  50.0%   2nd Half:  7-9  77.8%   Game: 69.2%    3
+
+
+--------------------------------------------------------------------------------
+HOME TEAM: North Carolina 10-5, 0-2 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+14 Desmond Hubert...... f  0-1    0-0    1-2    2  0  2   0   1  0  0  1  0  12
+35 Reggie Bullock...... f  4-16   3-8    0-0    2  4  6   0  11  5  4  0  1  34
+43 James M McAdoo...... f  5-14   0-0    4-5    2  4  6   3  14  0  1  0  1  32
+01 Dexter Strickland... g  0-1    0-0    0-0    0  0  0   0   0  0  0  0  0  26
+05 Marcus Paige........ g  4-7    2-3    0-0    0  5  5   4  10  5  3  0  0  33
+00 Joel James..........    1-1    0-0    0-0    0  1  1   0   2  0  0  0  0   4
+11 Brice Johnson.......    5-8    0-0    0-1    2  1  3   2  10  1  1  1  1  18
+15 P.J. Hairston.......    2-7    1-4    0-0    1  2  3   1   5  2  2  1  2  26
+21 Jackson Simmons.....    1-1    0-0    0-0    0  1  1   0   2  1  0  0  0   3
+25 J.P. Tokoto.........    2-4    0-0    0-0    1  2  3   1   4  1  0  0  4  12
+   TEAM................                         2  1  3
+   Totals..............   24-60   6-15   5-8   12 21 33  11  59 15 11  3  9 200
+
+TOTAL FG% 1st Half: 13-27 48.1%   2nd Half: 11-33 33.3%   Game: 40.0%  DEADB
+3-Pt. FG% 1st Half:  4-8  50.0%   2nd Half:  2-7  28.6%   Game: 40.0%   REBS
+F Throw % 1st Half:  2-2  100 %   2nd Half:  3-6  50.0%   Game: 62.5%    1
+
+
+--------------------------------------------------------------------------------
+Officials: Les Jones, Michael Stephens, Joe Lindsay
+Technical fouls: Miami-None. North Carolina-None.
+Attendance: 20516
+Score by Periods                1st  2nd   Total
+Miami.........................   30   38  -   68
+North Carolina................   32   27  -   59

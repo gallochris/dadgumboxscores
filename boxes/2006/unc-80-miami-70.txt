@@ -1,0 +1,56 @@
+Official Basketball Box Score
+North Carolina vs University of Miami
+02-12-06 8:00 p.m. at BankUnited Center, Coral Gables, FL
+--------------------------------------------------------------------------------
+VISITORS: North Carolina 15-6, 6-4 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+03 Reyshawn Terry...... f  6-9    2-4    4-6    5  3  8   4  18  1  2  1  2  22
+34 David Noel.......... f  4-7    1-2    0-0    0  3  3   3   9  3  3  1  1  36
+50 Tyler Hansbrough.... c 11-17   0-1    3-5    5  2  7   2  25  0  3  2  0  35
+04 Bobby Frasor........ g  5-8    2-4    1-2    0  1  1   0  13  2  0  0  0  33
+22 Wes Miller.......... g  2-4    2-4    0-0    1  1  2   3   6  2  1  0  1  29
+01 Marcus Ginyard......    2-5    0-1    2-4    2  1  3   2   6  1  1  0  2  17
+11 Quentin Thomas......    0-0    0-0    0-0    0  0  0   2   0  1  0  0  0   7
+14 Danny Green.........    1-4    1-2    0-0    0  2  2   0   3  1  2  0  0  12
+41 Byron Sanders.......    0-2    0-0    0-0    1  1  2   1   0  1  1  0  0   9
+   TEAM................                         3  2  5
+   Totals..............   31-56   8-18  10-17  17 16 33  17  80 12 13  4  6 200
+
+TOTAL FG% 1st Half: 16-30 53.3%   2nd Half: 15-26 57.7%   Game: 55.4%  DEADB
+3-Pt. FG% 1st Half:  4-10 40.0%   2nd Half:  4-8  50.0%   Game: 44.4%   REBS
+F Throw % 1st Half:  3-3  100 %   2nd Half:  7-14 50.0%   Game: 58.8%    3
+
+--------------------------------------------------------------------------------
+HOME TEAM: University of Miami 14-10, 6-5 ACC
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+02 Gary Hamilton....... f  1-1    0-0    2-2    1  2  3   4   4  0  1  0  2  21
+50 Anthony King........ c  5-7    0-0    4-4    4  0  4   1  14  0  0  0  0  29
+12 Anthony Harris...... g  2-5    0-1    8-10   0  0  0   1  12  5  2  0  0  29
+13 Guillermo Diaz...... g  9-14   3-7    0-0    0  3  3   2  21  2  1  0  0  36
+22 Robert Hite......... g  5-16   1-8    4-4    0  0  0   4  15  0  2  1  2  32
+00 Jimmy Graham........    1-2    0-0    0-0    2  1  3   0   2  0  0  2  3  13
+15 Denis Clemente......    0-1    0-1    0-0    0  0  0   1   0  1  3  0  0  11
+32 Brian Asbury........    0-2    0-1    0-0    1  1  2   0   0  0  0  0  0  12
+42 Raymond Hicks.......    1-2    0-0    0-0    0  2  2   1   2  0  0  0  0  17
+   TEAM................                         2  3  5             2
+   Totals..............   24-50   4-18  18-20  10 12 22  14  70  8 11  3  7 200
+
+TOTAL FG% 1st Half: 13-26 50.0%   2nd Half: 11-24 45.8%   Game: 48.0%  DEADB
+3-Pt. FG% 1st Half:  2-8  25.0%   2nd Half:  2-10 20.0%   Game: 22.2%   REBS
+F Throw % 1st Half: 10-10 100 %   2nd Half:  8-10 80.0%   Game: 90.0%    2
+
+--------------------------------------------------------------------------------
+Officials: Jamie Luckie, Tony Greene, Tim Nestor
+Technical fouls: North Carolina-Tyler Hansbrough. University of Miami-None.
+Attendance: 7000
+Score by Periods                1st  2nd   Total
+North Carolina................   39   41  -   80
+University of Miami...........   38   32  -   70
+
+Points in the paint-NC 34,UM 30. Points off turnovers-NC 13,UM 16.
+2nd chance points-NC 13,UM 13. Fast break points-NC 0,UM 4.
+Bench points-NC 9,UM 4. Score tied-4 times. Lead changed-12 times.
+Last FG-NC 2nd-01:16, UM 2nd-00:49.
+Largest lead-NC by 12 2nd-00:56, UM by 2 2nd-18:40.

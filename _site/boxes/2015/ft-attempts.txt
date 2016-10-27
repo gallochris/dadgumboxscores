@@ -1,0 +1,31 @@
+more 
+123456789 10 11 12 13 14 15 16 17 18
+
+wins(15)
+losses(3)
+
+less
+123456789 10 11 12 13 14 15 16 17 18 19
+
+wins(10)
+losses(9)
+
+even
+1
+
+wins(1)
+losses()
+
+72-71 win over Louisville
+
+
+
+In 2014-2015, UNC attempted more free throws than it's opponents in 18 out of 38 games. 
+
+When it attempted more, the Tar Heels were 15-3. 
+
+When attempting less free throws, Carolina was 10-9. 
+
+UNC attempted the exact same amount of free throws once, a 72-71 win over Louisville. 
+
+

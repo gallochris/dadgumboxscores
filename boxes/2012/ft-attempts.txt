@@ -1,0 +1,33 @@
+more 
+123456789 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+
+wins(28)
+losses(3)
+
+less
+123456
+
+wins(3)
+losses(3)
+
+even
+1
+
+wins(1)
+losses()
+
+68-53 over wake
+
+
+
+
+In 2011-2012, UNC attempted more free throws than it's opponents in 31 out of 38 games. 
+
+When it attempted more, the Tar Heels were 28-3. 
+
+When attempting less free throws, Carolina was 3-3. 
+
+UNC attempted the exact same amount of free throws once, a 68-53 win over Wake Forest. 
+
+
+

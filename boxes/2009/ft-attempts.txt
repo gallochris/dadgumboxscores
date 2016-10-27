@@ -1,0 +1,42 @@
+more 
+123456789 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+
+
+wins(31)
+losses(3)
+
+fla state
+
+maryland
+
+bc 
+
+less
+123
+
+
+wins(2)
+losses(1)
+
+wake forest
+
+
+even
+1
+
+wins(1)
+losses()
+
+oklahoma
+
+
+In 2008-2009, UNC attempted more free throws than it's opponents in 34 out of 38 games. 
+
+When it attempted more, the Tar Heels were 31-3. 
+
+When attempting less free throws, Carolina was 2-1. 
+
+UNC attempted the exact same amount of free throws once, a 72-60 win in the NCAA Tournament over Oklahoma. 
+
+
+

@@ -1,0 +1,61 @@
+Official Basketball Box Score
+Maryland vs North Carolina
+12/01/15 9:30 PM at Smith Center, Chapel Hill
+
+--------------------------------------------------------------------------------
+VISITORS: Maryland 6-1
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+04 Carter, Robert...... f  5-8    1-3    0-1    0  5  5   4  11  0  3  4  2  24
+10 Layman, Jake........ f  1-5    0-3    2-2    1  7  8   4   4  1  3  0  2  28
+33 Stone, Diamond...... c  4-7    0-0    1-2    3  2  5   2   9  0  2  0  0  21
+00 Sulaimon, Rasheed... g  6-12   5-9    1-1    0  3  3   1  18  3  3  1  1  35
+02 Trimble, Melo....... g  8-14   4-5    3-3    0  2  2   2  23 12  8  0  2  38
+01 Brantley, Jaylen....    0-0    0-0    0-0    0  0  0   1   0  0  0  0  0   1
+11 Nickens, Jared......    2-6    2-6    0-0    0  0  0   4   6  0  1  0  0  20
+15 Cekovsky, Michal....    1-2    0-0    2-2    2  1  3   0   4  0  1  0  0  11
+21 Ram, Varun..........    0-0    0-0    0-0    0  0  0   0   0  0  0  0  0   1
+35 Dodd, Damonte.......    3-5    0-0    0-0    1  1  2   3   6  0  0  1  1  21
+   TEAM................                         1  1  2             1
+   Totals..............   30-59  12-26   9-11   8 22 30  21  81 16 22  6  8 200
+
+TOTAL FG% 1st Half: 14-25 56.0%   2nd Half: 16-34 47.1%   Game: 50.8%  DEADB
+3-Pt. FG% 1st Half:  4-8  50.0%   2nd Half:  8-18 44.4%   Game: 46.2%   REBS
+F Throw % 1st Half:  3-4  75.0%   2nd Half:  6-7  85.7%   Game: 81.8%    1
+
+
+--------------------------------------------------------------------------------
+HOME TEAM: North Carolina 6-1
+                          TOT-FG  3-PT         REBOUNDS
+## Player Name            FG-FGA FG-FGA FT-FTA OF DE TOT PF  TP  A TO BLK S MIN
+03 Kennedy Meeks....... f  6-11   0-0    0-0    3  3  6   2  12  3  3  2  3  28
+11 Brice Johnson....... f  7-12   0-0    2-2    0  6  6   1  16  0  2  0  1  27
+44 Justin Jackson...... f  3-7    1-2    2-4    2  2  4   0   9  3  3  1  5  27
+02 Joel Berry II....... g  4-7    3-5    3-7    0  1  1   1  14  5  2  0  2  32
+05 Marcus Paige........ g  7-12   4-5    2-4    0  2  2   1  20  5  1  0  2  34
+00 Nate Britt..........    2-5    1-1    0-0    0  0  0   1   5  3  0  0  0  10
+01 Theo Pinson.........    1-3    0-0    4-6    1  3  4   1   6  2  1  0  0  18
+04 Isaiah Hicks........    2-3    0-0    0-0    2  4  6   2   4  1  1  0  0  15
+42 Joel James..........    1-2    0-0    1-2    1  0  1   3   3  0  2  0  0   9
+   TEAM................                         2     2
+   Totals..............   33-62   9-13  14-25  11 21 32  12  89 22 15  3 13 200
+
+TOTAL FG% 1st Half: 17-31 54.8%   2nd Half: 16-31 51.6%   Game: 53.2%  DEADB
+3-Pt. FG% 1st Half:  3-6  50.0%   2nd Half:  6-7  85.7%   Game: 69.2%   REBS
+F Throw % 1st Half:  4-8  50.0%   2nd Half: 10-17 58.8%   Game: 56.0%   7,1
+
+
+--------------------------------------------------------------------------------
+Officials: Michael Stephens, Pat Driscoll, Michael Roberts
+Technical fouls: Maryland-None. North Carolina-None.
+Attendance: 21163
+Score by Periods                1st  2nd   Total
+Maryland......................   35   46  -   81
+North Carolina................   41   48  -   89
+
+Points in the paint-UMD 30,NC 34. Points off turnovers-UMD 15,NC 23.
+2nd chance points-UMD 6,NC 10. Fast break points-UMD 6,NC 6.
+Bench points-UMD 16,NC 18. Score tied-5 times. Lead changed-2 times.
+Last FG-UMD 2nd-01:27, NC 2nd-02:17.
+Largest lead-UMD by 1 2nd-13:40, NC by 13 1st-07:16.
+UMD led for 00:08. NC led for 38:07. Game  was tied for 01:19.
