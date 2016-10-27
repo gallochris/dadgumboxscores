@@ -36,6 +36,8 @@ It doesn't include schedules, analysis, or any other stats. If you're looking fo
 
 * * *
 
+<a name="faq"></a>
+
 ## [Frequently Asked Questions](/purpose/#faq)
 
 ### What format are the box scores in?
