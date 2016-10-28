@@ -62,7 +62,7 @@ Yes. Feel free to print these box scores or link to them on your own sites or fo
 
 Add `?filter=YOURSEARCHTEAM` to the URL to share a filter or pre-filter the list of box scores. 
 
-For example, if you wanted to share all box scores against Michigan State, add `?filter=michigan%20state` to the URL: [dadgumboxscores.com?filter=michigan%20state](dadgumboxscores.com?filter=michigan%20state)
+For example, if you wanted to share all box scores against Michigan State, add `?filter=michigan%20state` to the URL: [dadgumboxscores.com?filter=michigan%20state](http://dadgumboxscores.com?filter=michigan%20state)
 
 ### I found an error, what should I do next?
 
