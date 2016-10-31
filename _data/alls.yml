@@ -744,7 +744,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2006/gmason-65-unc-60.txt
+  box: boxes/2006/gmason-65-unc-60
 
 - game: UNC 69 | Murray State 65
   date: March 17, 2006
@@ -755,7 +755,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2006/unc-69-mstate-65.txt
+  box: boxes/2006/unc-69-mstate-65
 
 - game: Boston College 85 | UNC 82
   date: March 11, 2006
@@ -766,7 +766,7 @@
   location: neutral
   type: ACC Tournament Semifinal
   type-sort: 3
-  box: boxes/2006/bc-85-unc-82.txt
+  box: boxes/2006/bc-85-unc-82
 
 - game: UNC 79 | Virginia 67
   date: March 10, 2006
@@ -777,7 +777,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2006/unc-79-uva-67.txt
+  box: boxes/2006/unc-79-uva-67
 
 - game: UNC 83 | Duke 76
   date: March 4, 2006
@@ -788,7 +788,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-83-duke-76.txt
+  box: boxes/2006/unc-83-duke-76
 
 - game: UNC 99 | Virginia 54
   date: March 1, 2006
@@ -799,7 +799,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-99-uva-54.txt
+  box: boxes/2006/unc-99-uva-54
 
 - game: UNC 81 | Maryland 57
   date: February 26, 2006
@@ -810,7 +810,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-81-maryland-57.txt
+  box: boxes/2006/unc-81-maryland-57
 
 - game: UNC 95 | North Carolina State 71
   date: February 22, 2006
@@ -821,7 +821,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-95-state-71.txt
+  box: boxes/2006/unc-95-state-71
 
 - game: UNC 83 | Wake Forest 72
   date: February 19, 2006
@@ -832,7 +832,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-83-wake-72.txt
+  box: boxes/2006/unc-83-wake-72
 
 - game: UNC 82 | Georgia Tech 75
   date: February 15, 2006
@@ -843,7 +843,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-82-gt-75.txt
+  box: boxes/2006/unc-82-gt-75
 
 - game: UNC 80 | Miami 70
   date: February 12, 2006
@@ -854,7 +854,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-80-miami-70.txt
+  box: boxes/2006/unc-80-miami-70
 
 - game: Duke 87 | UNC 83
   date: February 7, 2006
@@ -865,7 +865,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/duke-87-unc-83.txt
+  box: boxes/2006/duke-87-unc-83
 
 - game: UNC 76 | Clemson 61
   date: February 4, 2006
@@ -876,7 +876,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-76-clem-61.txt
+  box: boxes/2006/unc-76-clem-61
 
 - game: UNC 77 | Maryland 62
   date: February 2, 2006
@@ -887,7 +887,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-77-maryland-62.txt
+  box: boxes/2006/unc-77-maryland-62
 
 - game: UNC 86 | Arizona 69
   date: January 28, 2006
@@ -898,7 +898,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/unc-86-zona-69.txt
+  box: boxes/2006/unc-86-zona-69
 
 - game: Boston College 81 | UNC 74
   date: January 25, 2006
@@ -909,7 +909,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/bc-81-unc-74.txt
+  box: boxes/2006/bc-81-unc-74
 
 - game: UNC 81 | Florida State 80
   date: January 22, 2006
@@ -920,7 +920,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-81-fsu-80.txt
+  box: boxes/2006/unc-81-fsu-80
 
 - game: Virginia 72 | UNC 68
   date: January 19, 2006
@@ -931,7 +931,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/uva-72-unc-68.txt
+  box: boxes/2006/uva-72-unc-68
 
 - game: Miami 81 | UNC 70
   date: January 14, 2006
@@ -942,7 +942,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/miami-81-unc-70.txt
+  box: boxes/2006/miami-81-unc-70
 
 - game: UNC 64 | Virginia Tech 61
   date: January 10, 2006
@@ -953,7 +953,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-64-vt-61.txt
+  box: boxes/2006/unc-64-vt-61
 
 - game: UNC 82 | North Carolina State 69
   date: January 7, 2006
@@ -964,7 +964,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2006/unc-82-state-69.txt
+  box: boxes/2006/unc-82-state-69
 
 - game: UNC 82 | Davidson 58
   date: January 3, 2006
@@ -975,7 +975,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/unc-82-davidson-58.txt
+  box: boxes/2006/unc-82-davidson-58
 
 - game: UNC 89 | UNC Asheville 47
   date: December 28, 2005
@@ -986,7 +986,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/unc-89-unca-47.txt
+  box: boxes/2006/unc-89-unca-47
 
 - game: USC 74 | UNC 59
   date: December 21, 2005
@@ -997,7 +997,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/usc-74-unc-59.txt
+  box: boxes/2006/usc-74-unc-59
 
 - game: UNC 76 | Santa Clara 58
   date: December 17, 2005
@@ -1008,7 +1008,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/unc-76-sc-58.txt
+  box: boxes/2006/unc-76-sc-58
 
 - game: UNC 75 | Saint Louis 63
   date: December 7, 2005
@@ -1019,7 +1019,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/unc-75-slu-63.txt
+  box: boxes/2006/unc-75-slu-63
 
 - game: UNC 83 | Kentucky 79
   date: December 3, 2005
@@ -1030,7 +1030,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2006/unc-83-kentucky-79.txt
+  box: boxes/2006/unc-83-kentucky-79
 
 - game: Illinois 68 | UNC 64
   date: November 29, 2005
@@ -1041,7 +1041,7 @@
   location: home
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2006/ill-68-unc-64.txt
+  box: boxes/2006/ill-68-unc-64
 
 - game: UNC 83 | UC Santa Barbara 66
   date: November 25, 2005
@@ -1052,7 +1052,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2006/unc-83-ucsb-66.txt
+  box: boxes/2006/unc-83-ucsb-66
 
 - game: UNC 112 | Cleveland State 55
   date: November 22, 2005
@@ -1063,7 +1063,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2006/unc-112-cs-55.txt
+  box: boxes/2006/unc-112-cs-55
 
 - game: UNC 83 | Gardner Webb 80
   date: November 19, 2005
@@ -1074,7 +1074,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2006/unc-83-gw-80.txt
+  box: boxes/2006/unc-83-gw-80
 
 - game: Georgetown 96 | UNC 84 (OT)
   date: March 25, 2007
@@ -1085,7 +1085,7 @@
   location: neutral
   type: NCAA Tournament Elite 8 
   type-sort: 4
-  box: boxes/2007/gtown-96-unc-84.txt
+  box: boxes/2007/gtown-96-unc-84
 
 - game: UNC 74 | USC 64
   date: March 23, 2007
@@ -1096,7 +1096,7 @@
   location: neutral
   type: NCAA Tournament Sweet 16
   type-sort: 4
-  box: boxes/2007/unc-74-usc-64.txt
+  box: boxes/2007/unc-74-usc-64
 
 - game: UNC 81 | Michigan State 67
   date: March 17, 2007
@@ -1107,7 +1107,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2007/unc-81-msu-67.txt
+  box: boxes/2007/unc-81-msu-67
 
 - game: UNC 86 | Eastern Kentucky 65
   date: March 15, 2007
@@ -1118,7 +1118,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2007/unc-86-eku-65.txt
+  box: boxes/2007/unc-86-eku-65
 
 - game: UNC 89 | North Carolina State 80 
   date: March 11, 2007
@@ -1129,7 +1129,7 @@
   location: neutral
   type: ACC Tournament Championship
   type-sort: 3
-  box: boxes/2007/unc-89-state-80.txt
+  box: boxes/2007/unc-89-state-80
 
 - game: UNC 71 | Boston College 56
   date: March 10, 2007
@@ -1140,7 +1140,7 @@
   location: neutral
   type: ACC Tournament Semifinal
   type-sort: 3
-  box: boxes/2007/unc-71-bc-56.txt
+  box: boxes/2007/unc-71-bc-56
 
 - game: UNC 73 | Florida State 58
   date: March 9, 2007
@@ -1151,7 +1151,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2007/unc-73-fsu-58.txt
+  box: boxes/2007/unc-73-fsu-58
 
 - game: UNC 86 | Duke 72
   date: March 4, 2007
@@ -1162,7 +1162,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-86-duke-72.txt
+  box: boxes/2007/unc-86-duke-72
 
 - game: Georgia Tech 84 | UNC 77
   date: March 1, 2007
@@ -1173,7 +1173,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/gt-84-unc-77.txt
+  box: boxes/2007/gt-84-unc-77
 
 - game: Maryland 89 | UNC 87
   date: February 25, 2007
@@ -1184,7 +1184,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/maryland-89-unc-87.txt
+  box: boxes/2007/maryland-89-unc-87
 
 - game: UNC 83 | North Carolina State 64
   date: February 21, 2007
@@ -1195,7 +1195,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-83-state-64.txt
+  box: boxes/2007/unc-83-state-64
 
 - game: UNC 77 | Boston College 72
   date: February 17, 2007
@@ -1206,7 +1206,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-77-bc-72.txt
+  box: boxes/2007/unc-77-bc-72
 
 - game: Virginia Tech 81 | UNC 80 (OT)
   date: February 13, 2007
@@ -1217,7 +1217,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/vt-81-unc-80.txt
+  box: boxes/2007/vt-81-unc-80
 
 - game: UNC 104 | Wake Forest 67
   date: February 10, 2007
@@ -1228,7 +1228,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-104-wake-67.txt
+  box: boxes/2007/unc-104-wake-67
 
 - game: UNC 79 | Duke 73
   date: February 7, 2007
@@ -1239,7 +1239,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-79-duke-73.txt
+  box: boxes/2007/unc-79-duke-73
 
 - game: North Carolina State 83 | UNC 79
   date: February 3, 2007
@@ -1250,7 +1250,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/state-83-unc-79.txt
+  box: boxes/2007/state-83-unc-79
 
 - game: UNC 105 | Miami 64
   date: January 31, 2007
@@ -1261,7 +1261,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-105-miami-64.txt
+  box: boxes/2007/unc-105-miami-64
 
 - game: UNC 92 | Arizona 64
   date: January 27, 2007
@@ -1272,7 +1272,7 @@
   location: road
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-92-zona-64.txt
+  box: boxes/2007/unc-92-zona-64
 
 - game: UNC 88 | Wake Forest 60
   date: January 24, 2007
@@ -1283,7 +1283,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-88-wake-60.txt
+  box: boxes/2007/unc-88-wake-60
 
 - game: UNC 77 | Georgia Tech 61
   date: January 20, 2007
@@ -1294,7 +1294,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-77-gt-61.txt
+  box: boxes/2007/unc-77-gt-61
 
 - game: UNC 77 | Clemson 55
   date: January 17, 2007
@@ -1305,7 +1305,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-77-clem-55.txt
+  box: boxes/2007/unc-77-clem-55
 
 - game: Virginia Tech 94 | UNC 88 
   date: January 13, 2007
@@ -1316,7 +1316,7 @@
   location: road
   type: Conference 
   type-sort: 2
-  box: boxes/2007/vt-94-unc-88.txt
+  box: boxes/2007/vt-94-unc-88
 
 - game: UNC 79 | Virginia 69
   date: January 10, 2007
@@ -1327,7 +1327,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-79-uva-69.txt
+  box: boxes/2007/unc-79-uva-69
 
 - game: UNC 84 | Florida State 58
   date: January 7, 2007
@@ -1338,7 +1338,7 @@
   location: home
   type: Conference 
   type-sort: 2
-  box: boxes/2007/unc-84-fsu-58.txt
+  box: boxes/2007/unc-84-fsu-58
 
 - game: UNC 102 | Penn 64
   date: January 3, 2007
@@ -1349,7 +1349,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-102-penn-64.txt
+  box: boxes/2007/unc-102-penn-64
 
 - game: UNC 81 | Dayton 51
   date: December 31, 2006
@@ -1360,7 +1360,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-81-dayton-51.txt
+  box: boxes/2007/unc-81-dayton-51
 
 - game: UNC 87 | Rutgers 48
   date: December 28, 2006
@@ -1371,7 +1371,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-87-rutgers-48.txt
+  box: boxes/2007/unc-87-rutgers-48
 
 - game: UNC 69 | Saint Louis 48
   date: December 22, 2006
@@ -1382,7 +1382,7 @@
   location: road
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-69-slu-48.txt
+  box: boxes/2007/unc-69-slu-48
 
 - game: UNC 105 | Florida Atlantic 52
   date: December 19, 2006
@@ -1393,7 +1393,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-105-fau-52.txt
+  box: boxes/2007/unc-105-fau-52
 
 - game: UNC 93 | UNC Asheville 62
   date: December 16, 2006
@@ -1404,7 +1404,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-93-unca-62.txt
+  box: boxes/2007/unc-93-unca-62
 
 - game: UNC 94 | High Point 69
   date: December 9, 2006
@@ -1415,7 +1415,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-94-hpu-69.txt
+  box: boxes/2007/unc-94-hpu-69
 
 - game: UNC 75 | Kentucky 63
   date: December 2, 2006
@@ -1426,7 +1426,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-75-kentucky-63.txt
+  box: boxes/2007/unc-75-kentucky-63
 
 - game: UNC 98 | Ohio State 89
   date: November 29, 2006
@@ -1437,7 +1437,7 @@
   location: home
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2007/unc-98-osu-89.txt
+  box: boxes/2007/unc-98-osu-89
 
 - game: UNC 101 | Tennessee 87
   date: November 24, 2006
@@ -1448,7 +1448,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-101-tenn-87.txt
+  box: boxes/2007/unc-101-tenn-87
 
 - game: Gonzaga 82 | UNC 74
   date: November 22, 2006
@@ -1459,7 +1459,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/zaga-82-unc-74.txt
+  box: boxes/2007/zaga-82-unc-74
 
 - game: UNC 103 | Gardner Webb 50
   date: November 19, 2006
@@ -1470,7 +1470,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-103-gw-50.txt
+  box: boxes/2007/unc-103-gw-50
 
 - game: UNC 73 | Winthrop 66
   date: November 15, 2006
@@ -1481,7 +1481,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-73-win-66.txt
+  box: boxes/2007/unc-73-win-66
 
 - game: UNC 103 | Sacred Heart 81
   date: November 14, 2006
@@ -1492,7 +1492,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2007/unc-103-sc-81.txt
+  box: boxes/2007/unc-103-sc-81
 
 - game: Kansas 84 | UNC 66
   date: April 5, 2008
