@@ -1503,7 +1503,7 @@
   location: neutral
   type: NCAA Tournament Final 4 
   type-sort: 4
-  box: boxes/2008/kansas-84-unc-66.txt
+  box: boxes/2008/kansas-84-unc-66
 
 - game: UNC 83 | Louisville 73
   date: March 29, 2008
@@ -1514,7 +1514,7 @@
   location: neutral
   type: NCAA Elite 8
   type-sort: 4
-  box: boxes/2008/unc-83-lville-73.txt
+  box: boxes/2008/unc-83-lville-73
 
 - game: UNC 68 | Washington State 47
   date: March 27, 2008
@@ -1525,7 +1525,7 @@
   location: neutral
   type: NCAA Sweet 16
   type-sort: 4
-  box: boxes/2008/unc-68-wsu-47.txt
+  box: boxes/2008/unc-68-wsu-47
 
 - game: UNC 108 | Arkansas 77
   date: March 23, 2008
@@ -1536,7 +1536,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2008/unc-108-arkansas-77.txt
+  box: boxes/2008/unc-108-arkansas-77
 
 - game: UNC 113 | Mount St. Mary's 74
   date: March 21, 2008
@@ -1547,7 +1547,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2008/unc-113-msm-74.txt
+  box: boxes/2008/unc-113-msm-74
 
 - game: UNC 86 | Clemson 81
   date: March 16, 2008
@@ -1558,7 +1558,7 @@
   location: neutral
   type: ACC Tournament Championship
   type-sort: 3
-  box: boxes/2008/unc-86-clem-81.txt
+  box: boxes/2008/unc-86-clem-81
 
 - game: UNC 68 | Virginia Tech 66
   date: March 15, 2008
@@ -1569,7 +1569,7 @@
   location: neutral
   type: ACC Tournament Semifinal
   type-sort: 3
-  box: boxes/2008/unc-68-vt-66.txt
+  box: boxes/2008/unc-68-vt-66
 
 - game: UNC 82 | Florida State 70
   date: March 14, 2008
@@ -1580,7 +1580,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2008/unc-82-fsu-70.txt
+  box: boxes/2008/unc-82-fsu-70
 
 - game: UNC 76 | Duke 68
   date: March 8, 2008
@@ -1591,7 +1591,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-76-duke-68.txt
+  box: boxes/2008/unc-76-duke-68
 
 - game: UNC 90 | Florida State 77
   date: March 4, 2008
@@ -1602,7 +1602,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-90-fsu-77.txt
+  box: boxes/2008/unc-90-fsu-77
 
 - game: UNC 90 | Boston College 80
   date: March 1, 2008
@@ -1613,7 +1613,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-90-bc-80.txt
+  box: boxes/2008/unc-90-bc-80
 
 - game: UNC 89 | Wake Forest 73
   date: February 24, 2008
@@ -1624,7 +1624,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-89-wake-73.txt
+  box: boxes/2008/unc-89-wake-73
 
 - game: UNC 84 | North Carolina State 70
   date: February 20, 2008
@@ -1635,7 +1635,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-84-state-70.txt
+  box: boxes/2008/unc-84-state-70
 
 - game: UNC 92 | Virginia Tech 53
   date: February 16, 2008
@@ -1646,7 +1646,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-92-vt-53.txt
+  box: boxes/2008/unc-92-vt-53
 
 - game: UNC 75 | Virginia 74
   date: February 12, 2008
@@ -1657,7 +1657,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-75-uva-74.txt
+  box: boxes/2008/unc-75-uva-74
 
 - game: UNC 103 | Clemson 93 (2OT)
   date: February 10, 2008
@@ -1668,7 +1668,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-103-clem-93.txt
+  box: boxes/2008/unc-103-clem-93
 
 - game: Duke 89 | UNC 78
   date: February 6, 2008
@@ -1679,7 +1679,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/duke-89-unc-78.txt
+  box: boxes/2008/duke-89-unc-78
 
 - game: UNC 84 | Florida State 73 (OT)
   date: February 3, 2008
@@ -1690,7 +1690,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-84-fsu-73.txt
+  box: boxes/2008/unc-84-fsu-73
 
 - game: UNC 91 | Boston College 69
   date: January 31, 2008
@@ -1701,7 +1701,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-91-bc-69.txt
+  box: boxes/2008/unc-91-bc-69
 
 - game: UNC 98 | Miami 82
   date: January 23, 2008
@@ -1712,7 +1712,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-98-miami-82.txt
+  box: boxes/2008/unc-98-miami-82
 
 - game: Maryland 82 | UNC 80
   date: January 19, 2008
@@ -1723,7 +1723,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/maryland-82-unc-80.txt
+  box: boxes/2008/maryland-82-unc-80
 
 - game: UNC 83 | Georgia Tech 82
   date: January 16, 2008
@@ -1734,7 +1734,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-83-gt-82.txt
+  box: boxes/2008/unc-83-gt-82
 
 - game: UNC 93 | North Carolina State 62
   date: January 12, 2008
@@ -1745,7 +1745,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-93-state-62.txt
+  box: boxes/2008/unc-93-state-62
 
 - game: UNC 93 | UNC Asheville 81
   date: January 9, 2008
@@ -1756,7 +1756,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-93-unca-81.txt
+  box: boxes/2008/unc-93-unca-81
 
 - game: UNC 90 | Clemson 88 (OT)
   date: January 6, 2008
@@ -1767,7 +1767,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2008/unc-90-clem-88.txt
+  box: boxes/2008/unc-90-clem-88
 
 - game: UNC 90 | Kent State 61
   date: January 2, 2008
@@ -1778,7 +1778,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-90-kstate-61.txt
+  box: boxes/2008/unc-90-kstate-61
 
 - game: UNC 90 | Valparaiso 58
   date: December 30, 2007
@@ -1789,7 +1789,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-90-valpo-58.txt
+  box: boxes/2008/unc-90-valpo-58
 
 - game: UNC 106 | Nevada 70
   date: December 27, 2007
@@ -1800,7 +1800,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-106-nv-70.txt
+  box: boxes/2008/unc-106-nv-70
 
 - game: UNC 105 | UC Santa Barbara 70
   date: December 22, 2007
@@ -1811,7 +1811,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-105-sb-70.txt
+  box: boxes/2008/unc-105-sb-70
 
 - game: UNC 88 | Nicholls State 78
   date: December 19, 2007
@@ -1822,7 +1822,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-88-ns-78.txt
+  box: boxes/2008/unc-88-ns-78
 
 - game: UNC 93 | Rutgers 71
   date: December 16, 2007
@@ -1833,7 +1833,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-93-rutgers-71.txt
+  box: boxes/2008/unc-93-rutgers-71
 
 - game: UNC 106 | Penn 71
   date: December 4, 2007
@@ -1844,7 +1844,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-106-penn-71.txt
+  box: boxes/2008/unc-106-penn-71
 
 - game: UNC 86 | Kentucky 77 
   date: December 1, 2007
@@ -1855,7 +1855,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2008/unc-86-kentucky-77.txt
+  box: boxes/2008/unc-86-kentucky-77
 
 - game: UNC 66 | Ohio State 55 
   date: November 28, 2007
@@ -1866,7 +1866,7 @@
   location: road
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2008/unc-66-osu-55.txt
+  box: boxes/2008/unc-66-osu-55
 
 - game: UNC 73 | BYU 63 
   date: November 24, 2007
@@ -1877,7 +1877,7 @@
   location: neutral
   type: Non-conference (Las Vegas Invitational)
   type-sort: 1
-  box: boxes/2008/unc-73-byu-63.txt
+  box: boxes/2008/unc-73-byu-63
 
 - game: UNC 99 | Old Dominion 82 
   date: November 23, 2007
@@ -1888,7 +1888,7 @@
   location: neutral
   type: Non-conference (Las Vegas Invitational)
   type-sort: 1
-  box: boxes/2008/unc-99-odu-82.txt
+  box: boxes/2008/unc-99-odu-82
 
 - game: UNC 110 | South Carolina State 64 
   date: November 20, 2007
@@ -1899,7 +1899,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2008/unc-110-scs-64.txt
+  box: boxes/2008/unc-110-scs-64
 
 - game: UNC 107 | Iona 72 
   date: November 18, 2007
@@ -1910,7 +1910,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2008/unc-107-iona-72.txt
+  box: boxes/2008/unc-107-iona-72
 
 - game: UNC 72 | Davidson 68 
   date: November 14, 2007
@@ -1921,7 +1921,7 @@
   location: road
   type: Non-conference 
   type-sort: 1
-  box: boxes/2008/unc-72-davidson-68.txt
+  box: boxes/2008/unc-72-davidson-68
 
 - game: UNC 89 | Michigan State 72
   date: April 6, 2009
