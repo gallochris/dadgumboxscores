@@ -1932,7 +1932,7 @@
   location: neutral
   type: NCAA Tournament Championship
   type-sort: 4
-  box: boxes/2009/unc-89-msu-72.txt
+  box: boxes/2009/unc-89-msu-72
 
 - game: UNC 83 | Villanova 69
   date: April 4, 2009
@@ -1943,7 +1943,7 @@
   location: neutral
   type: NCAA Tournament Final 4
   type-sort: 4
-  box: boxes/2009/unc-83-nova-69.txt
+  box: boxes/2009/unc-83-nova-69
 
 - game: UNC 72 | Oklahoma 60
   date: March 29, 2009
@@ -1954,7 +1954,7 @@
   location: neutral
   type: NCAA Elite 8
   type-sort: 4
-  box: boxes/2009/unc-72-ok-60.txt
+  box: boxes/2009/unc-72-ok-60
 
 - game: UNC 98 | Gonzaga 77
   date: March 27, 2009
@@ -1965,7 +1965,7 @@
   location: neutral
   type: NCAA Sweet 16
   type-sort: 4
-  box: boxes/2009/unc-98-zaga-77.txt
+  box: boxes/2009/unc-98-zaga-77
 
 - game: UNC 84 | LSU 70
   date: March 21, 2009
@@ -1976,7 +1976,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2009/unc-84-lsu-70.txt
+  box: boxes/2009/unc-84-lsu-70
 
 - game: UNC 101 | Radford 58
   date: March 19, 2009
@@ -1987,7 +1987,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2009/unc-101-radford-58.txt
+  box: boxes/2009/unc-101-radford-58
 
 - game: Florida State 73 | UNC 70
   date: March 14, 2009
@@ -1998,7 +1998,7 @@
   location: neutral
   type: ACC Tournament Semifinal
   type-sort: 3
-  box: boxes/2009/fsu-73-unc-70.txt
+  box: boxes/2009/fsu-73-unc-70
 
 - game: UNC 79 | Virginia Tech 76
   date: March 13, 2009
@@ -2009,7 +2009,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2009/unc-79-vt-76.txt
+  box: boxes/2009/unc-79-vt-76
 
 - game: UNC 79 | Duke 71
   date: March 8, 2009
@@ -2020,7 +2020,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-79-duke-71.txt
+  box: boxes/2009/unc-79-duke-71
 
 - game: UNC 86 | Virginia Tech 78
   date: March 4, 2009
@@ -2031,7 +2031,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-86-vt-78.txt
+  box: boxes/2009/unc-86-vt-78
 
 - game: UNC 104 | Georgia Tech 74
   date: February 28, 2009
@@ -2042,7 +2042,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-104-gt-74.txt
+  box: boxes/2009/unc-104-gt-74
 
 - game: Maryland 88 | UNC 85 (OT)
   date: February 21, 2009
@@ -2053,7 +2053,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/maryland-88-unc-85.txt
+  box: boxes/2009/maryland-88-unc-85
 
 - game: UNC 89 | North Carolina State 80
   date: February 18, 2009
@@ -2064,7 +2064,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-89-state-80.txt
+  box: boxes/2009/unc-89-state-80
 
 - game: UNC 69 | Miami 65
   date: February 15, 2009
@@ -2075,7 +2075,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-69-miami-65.txt
+  box: boxes/2009/unc-69-miami-65
 
 - game: UNC 101 | Duke 87
   date: February 11, 2009
@@ -2086,7 +2086,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-101-duke-87.txt
+  box: boxes/2009/unc-101-duke-87
 
 - game: UNC 76 | Virginia 61
   date: February 7, 2009
@@ -2097,7 +2097,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-76-uva-61.txt
+  box: boxes/2009/unc-76-uva-61
 
 - game: UNC 108 | Maryland 91
   date: February 3, 2009
@@ -2108,7 +2108,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-108-maryland-91.txt
+  box: boxes/2009/unc-108-maryland-91
 
 - game: UNC 89 | North Carolina State 80
   date: January 31, 2009
@@ -2119,7 +2119,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-89-state-80.txt
+  box: boxes/2009/unc-89-state-80
 
 - game: UNC 80 | Florida State 77
   date: January 28, 2009
@@ -2130,7 +2130,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-80-fsu-77.txt
+  box: boxes/2009/unc-80-fsu-77
 
 - game: UNC 94 | Clemson 70
   date: January 21, 2009
@@ -2141,7 +2141,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-94-clem-70.txt
+  box: boxes/2009/unc-94-clem-70
 
 - game: UNC 82 | Miami 65
   date: January 17, 2009
@@ -2152,7 +2152,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-82-miami-65.txt
+  box: boxes/2009/unc-82-miami-65
 
 - game: UNC 83 | Virginia 61
   date: January 15, 2009
@@ -2163,7 +2163,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/unc-83-uva-61.txt
+  box: boxes/2009/unc-83-uva-61
 
 - game: Wake Forest 92 | UNC 89
   date: January 11, 2009
@@ -2174,7 +2174,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2009/wake-92-unc-89.txt
+  box: boxes/2009/wake-92-unc-89
 
 - game: UNC 108 | College of Charleston 70
   date: January 7, 2009
@@ -2185,7 +2185,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-108-cofc-70.txt
+  box: boxes/2009/unc-108-cofc-70
 
 - game: Boston College 85 | UNC 78
   date: January 4, 2009
@@ -2196,7 +2196,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2009/bc-85-unc-78.txt
+  box: boxes/2009/bc-85-unc-78
 
 - game: UNC 84 | Nevada 61
   date: December 31, 2008
@@ -2207,7 +2207,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-84-nv-61.txt
+  box: boxes/2009/unc-84-nv-61
 
 - game: UNC 97 | Rutgers 75
   date: December 28, 2008
@@ -2218,7 +2218,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-97-rutgers-75.txt
+  box: boxes/2009/unc-97-rutgers-75
 
 - game: UNC 85 | Valparaiso 63
   date: December 20, 2008
@@ -2229,7 +2229,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-85-valpo-63.txt
+  box: boxes/2009/unc-85-valpo-63
 
 - game: UNC 91 | Evansville 73
   date: December 18, 2008
@@ -2240,7 +2240,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-91-eville-73.txt
+  box: boxes/2009/unc-91-eville-73
 
 - game: UNC 100 | Oral Roberts 84
   date: December 13, 2008
@@ -2251,7 +2251,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-100-or-84.txt
+  box: boxes/2009/unc-100-or-84
 
 - game: UNC 98 | Michigan State 63
   date: December 3, 2008
@@ -2262,7 +2262,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-98-msu-63.txt
+  box: boxes/2009/unc-98-msu-63
 
 - game: UNC 116 | UNC Asheville 48
   date: November 30, 2008
@@ -2273,7 +2273,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2009/unc-116-unca-48.txt
+  box: boxes/2009/unc-116-unca-48
 
 - game: UNC 102 | Notre Dame 87
   date: November 26, 2008
@@ -2284,7 +2284,7 @@
   location: neutral
   type: Non-conference (Maui Invitational)
   type-sort: 1
-  box: boxes/2009/unc-102-nd-87.txt
+  box: boxes/2009/unc-102-nd-87
 
 - game: UNC 98 | Oregon 69
   date: November 25, 2008
@@ -2295,7 +2295,7 @@
   location: neutral
   type: Non-conference (Maui Invitational)
   type-sort: 1
-  box: boxes/2009/unc-98-oregon-69.txt
+  box: boxes/2009/unc-98-oregon-69
 
 - game: UNC 115 | Chaminade 70
   date: November 24, 2008
@@ -2306,7 +2306,7 @@
   location: neutral
   type: Non-conference (Maui Invitational)
   type-sort: 1
-  box: boxes/2009/unc-115-cham-70.txt
+  box: boxes/2009/unc-115-cham-70
 
 - game: UNC 84 | UC Santa Barbara 67
   date: November 21, 2008
@@ -2317,7 +2317,7 @@
   location: road
   type: Non-conference 
   type-sort: 1
-  box: boxes/2009/unc-84-ucsb-67.txt
+  box: boxes/2009/unc-84-ucsb-67
 
 - game: UNC 77 | Kentucky 58
   date: November 18, 2008
@@ -2328,7 +2328,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2009/unc-77-kentucky-58.txt
+  box: boxes/2009/unc-77-kentucky-58
 
 - game: UNC 86 | Penn 71
   date: November 15, 2008
@@ -2339,7 +2339,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2009/unc-86-penn-71.txt
+  box: boxes/2009/unc-86-penn-71
 
 - game: Dayton 79 | UNC 68
   date: April 1, 2010
