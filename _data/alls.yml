@@ -3978,7 +3978,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2014/isu-85-unc-83.txt
+  box: boxes/2014/isu-85-unc-83
 
 - game: UNC 79 | Providence 77
   date: March 21, 2014
@@ -3989,7 +3989,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2014/unc-79-prov-77.txt
+  box: boxes/2014/unc-79-prov-77
 
 - game: Pittsburgh 80 | UNC 75
   date: March 14, 2014
@@ -4000,7 +4000,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2014/pitt-80-unc-75.txt
+  box: boxes/2014/pitt-80-unc-75
 
 - game: Duke 93 | UNC 81 
   date: March 8, 2014
@@ -4011,7 +4011,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/duke-93-unc-81.txt
+  box: boxes/2014/duke-93-unc-81
 
 - game: UNC 63 | Notre Dame 61
   date: March 3, 2014
@@ -4022,7 +4022,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-63-nd-61.txt
+  box: boxes/2014/unc-63-nd-61
 
 - game: UNC 60 | Virginia Tech 56
   date: March 1, 2014
@@ -4033,7 +4033,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-60-vt-56.txt
+  box: boxes/2014/unc-60-vt-56
 
 - game: UNC 85 | North Carolina State 84 (OT)
   date: February 26, 2014
@@ -4044,7 +4044,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-85-state-84.txt
+  box: boxes/2014/unc-85-state-84
 
 - game: UNC 105 | Wake Forest 72
   date: February 22, 2014
@@ -4055,7 +4055,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-105-wake-72.txt
+  box: boxes/2014/unc-105-wake-72
 
 - game: UNC 74 | Duke 66
   date: February 20, 2014
@@ -4066,7 +4066,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-74-duke-66.txt
+  box: boxes/2014/unc-74-duke-66
 
 - game: UNC 81 | Florida State 75
   date: February 17, 2014
@@ -4077,7 +4077,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-81-fsu-75.txt
+  box: boxes/2014/unc-81-fsu-75
 
 - game: UNC 75 | Pittsburgh 71
   date: February 15, 2014
@@ -4088,7 +4088,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-75-pitt-71.txt
+  box: boxes/2014/unc-75-pitt-71
 
 - game: UNC 73 | Notre Dame 62
   date: February 8, 2014
@@ -4099,7 +4099,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-73-nd-62.txt
+  box: boxes/2014/unc-73-nd-62
 
 - game: UNC 75 | Maryland 63
   date: February 4, 2014
@@ -4110,7 +4110,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-75-maryland-63.txt
+  box: boxes/2014/unc-75-maryland-63
 
 - game: UNC 84 | North Carolina State 70
   date: February 1, 2014
@@ -4121,7 +4121,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-84-state-70.txt
+  box: boxes/2014/unc-84-state-70
 
 - game: UNC 78 | Georgia Tech 65
   date: January 29, 2014
@@ -4132,7 +4132,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-78-gt-65.txt
+  box: boxes/2014/unc-78-gt-65
 
 - game: UNC 80 | Clemson 61
   date: January 26, 2014
@@ -4143,7 +4143,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-80-clem-61.txt
+  box: boxes/2014/unc-80-clem-61
 
 - game: Virginia 76 | UNC 61
   date: January 20, 2014
@@ -4154,7 +4154,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/uva-76-unc-61.txt
+  box: boxes/2014/uva-76-unc-61
 
 - game: UNC 82 | Boston College 71
   date: January 18, 2014
@@ -4165,7 +4165,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/unc-82-bc-71.txt
+  box: boxes/2014/unc-82-bc-71
 
 - game: Syracuse 57 | UNC 45
   date: January 11, 2014
@@ -4176,7 +4176,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/cuse-57-unc-45.txt
+  box: boxes/2014/cuse-57-unc-45
 
 - game: Miami 63 | UNC 57
   date: January 8, 2014
@@ -4187,7 +4187,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2014/miami-63-unc-57.txt
+  box: boxes/2014/miami-63-unc-57
 
 - game: Wake Forest 73 | UNC 67
   date: January 5, 2014
@@ -4198,7 +4198,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2014/wake-73-unc-67.txt
+  box: boxes/2014/wake-73-unc-67
 
 - game: UNC 84 | UNC Wilmington 51
   date: December 31, 2013
@@ -4209,7 +4209,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-84-uncw-51.txt
+  box: boxes/2014/unc-84-uncw-51
 
 - game: UNC 75 | Northern Kentucky 60
   date: December 27, 2013
@@ -4220,7 +4220,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-75-nk-60.txt
+  box: boxes/2014/unc-75-nk-60
 
 - game: UNC 87 | Davidson 85 (OT)
   date: December 21, 2013
@@ -4231,7 +4231,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-87-davidson-85.txt
+  box: boxes/2014/unc-87-davidson-85
 
 - game: Texas 86 | UNC 83
   date: December 18, 2013
@@ -4242,7 +4242,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/texas-86-unc-83.txt
+  box: boxes/2014/texas-86-unc-83
 
 - game: UNC 82 | Kentucky 77
   date: December 14, 2013
@@ -4253,7 +4253,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-82-kentucky-77.txt
+  box: boxes/2014/unc-82-kentucky-77
 
 - game: UNC 81 | UNCG 50
   date: December 7, 2013
@@ -4264,7 +4264,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-81-uncg-50.txt
+  box: boxes/2014/unc-81-uncg-50
 
 - game: UNC 79 | Michigan State 65
   date: December 4, 2013
@@ -4275,7 +4275,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-79-msu-65.txt
+  box: boxes/2014/unc-79-msu-65
 
 - game: UAB 63 | UNC 59
   date: December 1, 2013
@@ -4286,7 +4286,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/uab-63-unc-59.txt
+  box: boxes/2014/uab-63-unc-59
 
 - game: UNC 93 | Louisville 84
   date: November 24, 2013
@@ -4297,7 +4297,7 @@
   location: neutral
   type: Non-conference (Hall of Fame Tipoff)
   type-sort: 1
-  box: boxes/2014/unc-93-lville-84.txt
+  box: boxes/2014/unc-93-lville-84
 
 - game: UNC 82 | Richmond 72
   date: November 23, 2013
@@ -4308,7 +4308,7 @@
   location: neutral
   type: Non-conference (Hall of Fame Tipoff)
   type-sort: 1
-  box: boxes/2014/unc-82-richmond-72.txt
+  box: boxes/2014/unc-82-richmond-72
 
 - game: Belmont 83 | UNC 80
   date: November 17, 2013
@@ -4319,7 +4319,7 @@
   location: home
   type: Non-conference (Hall of Fame Tipoff)
   type-sort: 1
-  box: boxes/2014/belmont-83-unc-80.txt
+  box: boxes/2014/belmont-83-unc-80
 
 - game: UNC 62 | Holy Cross 54
   date: November 15, 2013
@@ -4330,7 +4330,7 @@
   location: home
   type: Non-conference (Hall of Fame Tipoff)
   type-sort: 1
-  box: boxes/2014/unc-62-hc-54.txt
+  box: boxes/2014/unc-62-hc-54
 
 - game: UNC 84 | Oakland 61
   date: November 8, 2013
@@ -4341,7 +4341,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2014/unc-84-oak-61.txt
+  box: boxes/2014/unc-84-oak-61
 
 - game: Wisconsin 79 | UNC 72
   date: March 26, 2015
