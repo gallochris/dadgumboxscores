@@ -4352,7 +4352,7 @@
   location: neutral
   type: NCAA Sweet 16
   type-sort: 4
-  box: boxes/2015/wisco-79-unc-72.txt
+  box: boxes/2015/wisco-79-unc-72
 
 - game: UNC 87 | Arkansas 78
   date: March 21, 2015
@@ -4363,7 +4363,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2015/unc-87-ark-78.txt
+  box: boxes/2015/unc-87-ark-78
 
 - game: UNC 67 | Harvard 65
   date: March 19, 2015
@@ -4374,7 +4374,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2015/unc-67-harvard-65.txt
+  box: boxes/2015/unc-67-harvard-65
 
 - game: Notre Dame 90 | UNC 82
   date: March 14, 2015
@@ -4385,7 +4385,7 @@
   location: neutral
   type: ACC Tournament Championship 
   type-sort: 3
-  box: boxes/2015/nd-90-unc-82.txt
+  box: boxes/2015/nd-90-unc-82
 
 - game: UNC 71 | Virginia 67
   date: March 13, 2015
@@ -4396,7 +4396,7 @@
   location: neutral
   type: ACC Tournament Semifinal
   type-sort: 3
-  box: boxes/2015/unc-71-uva-67.txt
+  box: boxes/2015/unc-71-uva-67
 
 - game: UNC 70 | Louisville 60
   date: March 12, 2015
@@ -4407,7 +4407,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2015/unc-70-lville-60.txt
+  box: boxes/2015/unc-70-lville-60
 
 - game: UNC 81 | Boston College 63
   date: March 11, 2015
@@ -4418,7 +4418,7 @@
   location: neutral
   type: ACC Tournament 2nd Round
   type-sort: 3
-  box: boxes/2015/unc-81-bc-63.txt
+  box: boxes/2015/unc-81-bc-63
 
 - game: Duke 84 | UNC 77
   date: March 7, 2015
@@ -4429,7 +4429,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/duke-84-unc-77.txt
+  box: boxes/2015/duke-84-unc-77
 
 - game: UNC 81 | Georgia Tech 49
   date: March 3, 2015
@@ -4440,7 +4440,7 @@
   location: road
   type: Conference
   type-sort: 3
-  box: boxes/2015/unc-81-gt-49.txt
+  box: boxes/2015/unc-81-gt-49
 
 - game: UNC 73 | Miami 64
   date: February 28, 2015
@@ -4451,7 +4451,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-73-miami-64.txt
+  box: boxes/2015/unc-73-miami-64
 
 - game: North Carolina State 58 | UNC 46
   date: February 24, 2015
@@ -4462,7 +4462,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/state-58-unc-46.txt
+  box: boxes/2015/state-58-unc-46
 
 - game: UNC 89 | Georgia Tech 60
   date: February 21, 2015
@@ -4473,7 +4473,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-89-gt-60.txt
+  box: boxes/2015/unc-89-gt-60
 
 - game: Duke 92 | UNC 90 (OT)
   date: February 18, 2015
@@ -4484,7 +4484,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/duke-92-unc-90.txt
+  box: boxes/2015/duke-92-unc-90
 
 - game: Pittsburgh 89 | UNC 76
   date: February 14, 2015
@@ -4495,7 +4495,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/pitt-89-unc-76.txt
+  box: boxes/2015/pitt-89-unc-76
 
 - game: UNC 79 | Boston College 68
   date: February 7, 2015
@@ -4506,7 +4506,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-79-bc-68.txt
+  box: boxes/2015/unc-79-bc-68
 
 - game: Virginia 75 | UNC 64
   date: February 2, 2015
@@ -4517,7 +4517,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/uva-75-unc-64.txt
+  box: boxes/2015/uva-75-unc-64
 
 - game: Louisville 78 | UNC 68
   date: January 31, 2015
@@ -4528,7 +4528,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/lville-78-unc-68.txt
+  box: boxes/2015/lville-78-unc-68
 
 - game: UNC 93 | Syracuse 83
   date: January 26, 2015
@@ -4539,7 +4539,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-93-cuse-83.txt
+  box: boxes/2015/unc-93-cuse-83
 
 - game: UNC 78 | Florida State 74
   date: January 24, 2015
@@ -4550,7 +4550,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-78-fsu-74.txt
+  box: boxes/2015/unc-78-fsu-74
 
 - game: UNC 87 | Wake Forest 71
   date: January 21, 2015
@@ -4561,7 +4561,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-87-wake-71.txt
+  box: boxes/2015/unc-87-wake-71
 
 - game: UNC 68 | Virginia Tech 63
   date: January 18, 2015
@@ -4572,7 +4572,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-68-vt-63.txt
+  box: boxes/2015/unc-68-vt-63
 
 - game: UNC 81 | North Carolina State 79
   date: January 14, 2015
@@ -4583,7 +4583,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-81-state-79.txt
+  box: boxes/2015/unc-81-state-79
 
 - game: UNC 72 | Louisville 71
   date: January 10, 2016
@@ -4594,7 +4594,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-72-lville-71.txt
+  box: boxes/2015/unc-72-lville-71
 
 - game: Notre Dame 71 | UNC 70
   date: January 5, 2015
@@ -4605,7 +4605,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2015/nd-71-unc-70.txt
+  box: boxes/2015/nd-71-unc-70
 
 - game: UNC 74 | Clemson 50
   date: January 3, 2015
@@ -4616,7 +4616,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2015/unc-74-clem-50.txt
+  box: boxes/2015/unc-74-clem-50
 
 - game: UNC 86 | William & Mary 64
   date: December 30, 2014
@@ -4627,7 +4627,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/unc-86-bill-and-mary-64.txt
+  box: boxes/2015/unc-86-bill-and-mary-64
 
 - game: UNC 89 | UAB 58
   date: December 27, 2014
@@ -4638,7 +4638,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/unc-89-uab-58.txt
+  box: boxes/2015/unc-89-uab-58
 
 - game: UNC 82 | Ohio State 74
   date: December 20, 2014
@@ -4649,7 +4649,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/unc-82-osu-74.txt
+  box: boxes/2015/unc-82-osu-74
 
 - game: UNC 79 | UNCG 56
   date: December 16, 2014
@@ -4660,7 +4660,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/unc-79-uncg-56.txt
+  box: boxes/2015/unc-79-uncg-56
 
 - game: Kentucky 84 | UNC 70
   date: December 13, 2014
@@ -4671,7 +4671,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/kentucky-84-unc-70.txt
+  box: boxes/2015/kentucky-84-unc-70
 
 - game: UNC 108 | East Carolina 64
   date: December 7, 2014
@@ -4682,7 +4682,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/unc-108-ecu-64.txt
+  box: boxes/2015/unc-108-ecu-64
 
 - game: Iowa 60 | UNC 55
   date: December 3, 2014
@@ -4693,7 +4693,7 @@
   location: home
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2015/iowa-60-unc-55.txt
+  box: boxes/2015/iowa-60-unc-55
 
 - game: UNC 75 | Florida 64
   date: November 28, 2014
@@ -4704,7 +4704,7 @@
   location: neutral
   type: Non-conference (Battle 4 Atlantis)
   type-sort: 1
-  box: boxes/2015/unc-75-fla-64.txt
+  box: boxes/2015/unc-75-fla-64
 
 - game: UNC 78 | UCLA 56
   date: November 27, 2014
@@ -4715,7 +4715,7 @@
   location: neutral
   type: Non-conference (Battle 4 Atlantis)
   type-sort: 1
-  box: boxes/2015/unc-78-ucla-56.txt
+  box: boxes/2015/unc-78-ucla-56
 
 - game: Butler 74 | UNC 66
   date: November 26, 2014
@@ -4726,7 +4726,7 @@
   location: neutral
   type: Non-conference (Battle 4 Atlantis)
   type-sort: 1
-  box: boxes/2015/butler-74-unc-66.txt
+  box: boxes/2015/butler-74-unc-66
 
 - game: UNC 90 | Davidson 72
   date: November 22, 2014
@@ -4737,7 +4737,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2015/unc-90-davidson-72.txt
+  box: boxes/2015/unc-90-davidson-72
 
 - game: UNC 103 | Robert Morris 59
   date: November 16, 2014
@@ -4748,7 +4748,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2015/unc-103-rm-59.txt
+  box: boxes/2015/unc-103-rm-59
 
 - game: UNC 76 | NC Central 60
   date: November 14, 2014
@@ -4759,7 +4759,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2015/unc-76-nccu-60.txt
+  box: boxes/2015/unc-76-nccu-60
 
 - game: Villanova 77 | UNC 74
   date: April 4, 2016
