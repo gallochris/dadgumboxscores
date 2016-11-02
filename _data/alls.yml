@@ -2350,7 +2350,7 @@
   location: neutral
   type: NIT Final
   type-sort: 4
-  box: boxes/2010/dayton-79-unc-68.txt
+  box: boxes/2010/dayton-79-unc-68
 
 - game: UNC 68 | Rhode Island 67 (OT)
   date: March 30, 2010
@@ -2361,7 +2361,7 @@
   location: neutral
   type: NIT Semifinal
   type-sort: 4
-  box: boxes/2010/unc-68-rhody-67.txt
+  box: boxes/2010/unc-68-rhody-67
 
 - game: UNC 60 | UAB 55
   date: March 23, 2010
@@ -2372,7 +2372,7 @@
   location: road
   type: NIT 3rd Round
   type-sort: 4
-  box: boxes/2010/unc-60-uab-55.txt
+  box: boxes/2010/unc-60-uab-55
 
 - game: UNC 76 | Mississippi State 74
   date: March 20, 2010
@@ -2383,7 +2383,7 @@
   location: road
   type: NIT 2nd Round
   type-sort: 4
-  box: boxes/2010/unc-76-ms-74.txt
+  box: boxes/2010/unc-76-ms-74
 
 - game: UNC 80 | William & Mary 72
   date: March 16, 2010
@@ -2394,7 +2394,7 @@
   location: home
   type: NIT 1st Round
   type-sort: 4
-  box: boxes/2010/unc-80-bill-and-mary-72.txt
+  box: boxes/2010/unc-80-bill-and-mary-72
 
 - game: Georgia Tech 62 | UNC 58
   date: March 11, 2010
@@ -2405,7 +2405,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2010/gt-62-unc-58.txt
+  box: boxes/2010/gt-62-unc-58
 
 - game: Duke 82 | UNC 50
   date: March 6, 2010
@@ -2416,7 +2416,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/duke-82-unc-50.txt
+  box: boxes/2010/duke-82-unc-50
 
 - game: UNC 69 | Miami 62
   date: March 2, 2010
@@ -2427,7 +2427,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/unc-69-miami-62.txt
+  box: boxes/2010/unc-69-miami-62
 
 - game: UNC 77 | Wake Forest 68
   date: February 27, 2010
@@ -2438,7 +2438,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/unc-77-wake-68.txt
+  box: boxes/2010/unc-77-wake-68
 
 - game: Florida State 77 | UNC 67
   date: February 24, 2010
@@ -2449,7 +2449,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/fsu-77-unc-67.txt
+  box: boxes/2010/fsu-77-unc-67
 
 - game: Boston College 71 | UNC 67
   date: February 20, 2010
@@ -2460,7 +2460,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/bc-71-unc-67.txt
+  box: boxes/2010/bc-71-unc-67
 
 - game: Georgia Tech 68 | UNC 51
   date: February 16, 2010
@@ -2471,7 +2471,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/gt-68-unc-51.txt
+  box: boxes/2010/gt-68-unc-51
 
 - game: UNC 74 | North Carolina State 61
   date: February 13, 2010
@@ -2482,7 +2482,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/unc-74-state-61.txt
+  box: boxes/2010/unc-74-state-61
 
 - game: Duke 64 | UNC 54
   date: February 10, 2010
@@ -2493,7 +2493,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/duke-64-unc-54.txt
+  box: boxes/2010/duke-64-unc-54
 
 - game: Maryland 92 | UNC 71
   date: February 7, 2010
@@ -2504,7 +2504,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/maryland-92-unc-71.txt
+  box: boxes/2010/maryland-92-unc-71
 
 - game: Virginia Tech 74 | UNC 70
   date: February 4, 2010
@@ -2515,7 +2515,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/vt-74-unc-70.txt
+  box: boxes/2010/vt-74-unc-70
 
 - game: Virginia 75 | UNC 60
   date: January 31, 2010
@@ -2526,7 +2526,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/uva-75-unc-60.txt
+  box: boxes/2010/uva-75-unc-60
 
 - game: UNC 77 | North Carolina State 63
   date: January 26, 2010
@@ -2537,7 +2537,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/unc-77-state-63.txt
+  box: boxes/2010/unc-77-state-63
 
 - game: Wake Forest 82 | UNC 69
   date: January 20, 2010
@@ -2548,7 +2548,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/wake-82-unc-69.txt
+  box: boxes/2010/wake-82-unc-69
 
 - game: Georgia Tech 73 | UNC 71
   date: January 16, 2010
@@ -2559,7 +2559,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/gt-73-unc-71.txt
+  box: boxes/2010/gt-73-unc-71
 
 - game: Clemson 83 | UNC 64
   date: January 13, 2010
@@ -2570,7 +2570,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2010/clem-83-unc-64.txt
+  box: boxes/2010/clem-83-unc-64
 
 - game: UNC 78 | Virginia Tech 64
   date: January 10, 2010
@@ -2581,7 +2581,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2010/unc-78-vt-64.txt
+  box: boxes/2010/unc-78-vt-64
 
 - game: College of Charleston 82 | UNC 79 (OT)
   date: January 4, 2010
@@ -2592,7 +2592,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/cofc-82-unc-79.txt
+  box: boxes/2010/cofc-82-unc-79
 
 - game: UNC 87 | Albany 70
   date: December 30, 2009
@@ -2603,7 +2603,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/unc-87-albany-70.txt
+  box: boxes/2010/unc-87-albany-70
 
 - game: UNC 81 | Rutgers 67
   date: December 28, 2009
@@ -2614,7 +2614,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/unc-81-rutgers-67.txt
+  box: boxes/2010/unc-81-rutgers-67
 
 - game: UNC 98 | Marshall 61
   date: December 22, 2009
@@ -2625,7 +2625,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/unc-98-marshall-61.txt
+  box: boxes/2010/unc-98-marshall-61
 
 - game: Texas 103 | UNC 90
   date: December 19, 2009
@@ -2636,7 +2636,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/texas-103-unc-90.txt
+  box: boxes/2010/texas-103-unc-90
 
 - game: UNC 103 | Presbyterian 64
   date: December 12, 2009
@@ -2647,7 +2647,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/unc-103-pres-64.txt
+  box: boxes/2010/unc-103-pres-64
 
 - game: Kentucky 68 | UNC 66
   date: December 5, 2009
@@ -2658,7 +2658,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2010/kentucky-68-unc-66.txt
+  box: boxes/2010/kentucky-68-unc-66
 
 - game: UNC 89 | Michigan State 82
   date: December 1, 2009
@@ -2669,7 +2669,7 @@
   location: home
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2010/unc-89-msu-82.txt
+  box: boxes/2010/unc-89-msu-82
 
 - game: UNC 80 | Nevada 73
   date: November 29, 2009
@@ -2680,7 +2680,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2010/unc-80-nv-73.txt
+  box: boxes/2010/unc-80-nv-73
 
 - game: UNC 93 | Gardner Webb 72
   date: November 23, 2009
@@ -2691,7 +2691,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2010/unc-93-gw-72.txt
+  box: boxes/2010/unc-93-gw-72
 
 - game: Syracuse 87 | UNC 71
   date: November 20, 2009
@@ -2702,7 +2702,7 @@
   location: neutral
   type: Non-conference (2K Sports Classic)
   type-sort: 1
-  box: boxes/2010/cuse-87-unc-71.txt
+  box: boxes/2010/cuse-87-unc-71
 
 - game: UNC 77 | Ohio State 73
   date: November 19, 2009
@@ -2713,7 +2713,7 @@
   location: neutral
   type: Non-conference (2K Sports Classic)
   type-sort: 1
-  box: boxes/2010/unc-77-osu-73.txt
+  box: boxes/2010/unc-77-osu-73
 
 - game: UNC 88 | Valparaiso 77
   date: November 15, 2009
@@ -2724,7 +2724,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2010/unc-88-valpo-77.txt
+  box: boxes/2010/unc-88-valpo-77
 
 - game: UNC 89 | NC Central 42
   date: November 11, 2009
@@ -2735,7 +2735,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2010/unc-89-nccu-42.txt
+  box: boxes/2010/unc-89-nccu-42
 
 - game: UNC 88 | FIU 72
   date: November 9, 2009
@@ -2746,7 +2746,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2010/unc-88-fiu-72.txt
+  box: boxes/2010/unc-88-fiu-72
 
 - game: Kentucky 76 | UNC 69
   date: March 27, 2011
@@ -2757,7 +2757,7 @@
   location: neutral
   type: NCAA Elite 8
   type-sort: 4
-  box: boxes/2011/kentucky-76-unc-69.txt
+  box: boxes/2011/kentucky-76-unc-69
 
 - game: UNC 81 | Marquette 63
   date: March 25, 2011
@@ -2768,7 +2768,7 @@
   location: neutral
   type: NCAA Sweet 16
   type-sort: 4
-  box: boxes/2011/unc-81-marq-63.txt
+  box: boxes/2011/unc-81-marq-63
 
 - game: UNC 86 | Washington 83
   date: March 20, 2011
@@ -2779,7 +2779,7 @@
   location: neutral
   type: NCAA Tournament 2nd Round
   type-sort: 4
-  box: boxes/2011/unc-86-wash-83.txt
+  box: boxes/2011/unc-86-wash-83
 
 - game: UNC 102 | LIU 87
   date: March 18, 2011
@@ -2790,7 +2790,7 @@
   location: neutral
   type: NCAA Tournament 1st Round
   type-sort: 4
-  box: boxes/2011/unc-102-liu-87.txt
+  box: boxes/2011/unc-102-liu-87
 
 - game: Duke 75 | UNC 58
   date: March 18, 2011
@@ -2801,7 +2801,7 @@
   location: neutral
   type: ACC Tournament Championship
   type-sort: 3
-  box: boxes/2011/duke-75-unc-58.txt
+  box: boxes/2011/duke-75-unc-58
 
 - game: UNC 92 | Clemson 87 (OT)
   date: March 12, 2011
@@ -2812,7 +2812,7 @@
   location: neutral
   type: ACC Tournament Semifinal
   type-sort: 3
-  box: boxes/2011/unc-92-clem-87.txt
+  box: boxes/2011/unc-92-clem-87
 
 - game: UNC 61 | Miami 59
   date: March 11, 2011
@@ -2823,7 +2823,7 @@
   location: neutral
   type: ACC Tournament Quarterfinal
   type-sort: 3
-  box: boxes/2011/unc-61-miami-59.txt
+  box: boxes/2011/unc-61-miami-59
 
 - game: UNC 81 | Duke 67
   date: March 5, 2011
@@ -2834,7 +2834,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-81-duke-67.txt
+  box: boxes/2011/unc-81-duke-67
 
 - game: UNC 72 | Florida State 70
   date: March 2, 2011
@@ -2845,7 +2845,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-72-fsu-70.txt
+  box: boxes/2011/unc-72-fsu-70
 
 - game: UNC 87 | Maryland 76
   date: February 27, 2011
@@ -2856,7 +2856,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-87-maryland-76.txt
+  box: boxes/2011/unc-87-maryland-76
 
 - game: UNC 75 | North Carolina State 63
   date: February 23, 2011
@@ -2867,7 +2867,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-75-state-63.txt
+  box: boxes/2011/unc-75-state-63
 
 - game: UNC 48 | Boston College 46
   date: February 19, 2011
@@ -2878,7 +2878,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-48-bc-46.txt
+  box: boxes/2011/unc-48-bc-46
 
 - game: UNC 78 | Wake Forest 64
   date: February 15, 2011
@@ -2889,7 +2889,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-78-wake-64.txt
+  box: boxes/2011/unc-78-wake-64
 
 - game: UNC 64 | Clemson 62
   date: February 12, 2011
@@ -2900,7 +2900,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-64-clem-62.txt
+  box: boxes/2011/unc-64-clem-62
 
 - game: Duke 79 | UNC 73
   date: February 9, 2011
@@ -2911,7 +2911,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/duke-79-unc-73.txt
+  box: boxes/2011/duke-79-unc-73
 
 - game: UNC 89 | Florida State 69
   date: February 6, 2011
@@ -2922,7 +2922,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-89-fsu-69.txt
+  box: boxes/2011/unc-89-fsu-69
 
 - game: UNC 106 | Boston College 74
   date: February 1, 2011
@@ -2933,7 +2933,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-106-bc-74.txt
+  box: boxes/2011/unc-106-bc-74
 
 - game: UNC 84 | North Carolina State 64
   date: January 29, 2011
@@ -2944,7 +2944,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-84-state-64.txt
+  box: boxes/2011/unc-84-state-64
 
 - game: UNC 74 | Miami 71
   date: January 26, 2011
@@ -2955,7 +2955,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-74-miami-71.txt
+  box: boxes/2011/unc-74-miami-71
 
 - game: UNC 75 | Clemson 65
   date: January 18, 2011
@@ -2966,7 +2966,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-75-clem-65.txt
+  box: boxes/2011/unc-75-clem-65
 
 - game: Georgia Tech 78 | UNC 58
   date: January 16, 2011
@@ -2977,7 +2977,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/gt-78-unc-58.txt
+  box: boxes/2011/gt-78-unc-58
 
 - game: UNC 64 | Virginia Tech 61
   date: January 13, 2011
@@ -2988,7 +2988,7 @@
   location: home
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-64-vt-61.txt
+  box: boxes/2011/unc-64-vt-61
 
 - game: UNC 62 | Virginia 56
   date: January 8, 2011
@@ -2999,7 +2999,7 @@
   location: road
   type: Conference
   type-sort: 2
-  box: boxes/2011/unc-62-uva-56.txt
+  box: boxes/2011/unc-62-uva-56
 
 - game: UNC 103 | St. Francis PA 54
   date: January 2, 2011
@@ -3010,7 +3010,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/unc-103-sf-54.txt
+  box: boxes/2011/unc-103-sf-54
 
 - game: UNC 78 | Rutgers 55
   date: December 28, 2010
@@ -3021,7 +3021,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/unc-78-rutgers-55.txt
+  box: boxes/2011/unc-78-rutgers-55
 
 - game: UNC 85 | William & Mary 60
   date: December 21, 2010
@@ -3032,7 +3032,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/unc-85-bill-and-mary-60.txt
+  box: boxes/2011/unc-85-bill-and-mary-60
 
 - game: Texas 78 | UNC 76
   date: December 18, 2010
@@ -3043,7 +3043,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/texas-78-unc-76.txt
+  box: boxes/2011/texas-78-unc-76
 
 - game: UNC 96 | Long Beach State 91
   date: December 11, 2010
@@ -3054,7 +3054,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/unc-96-lbsu-91.txt
+  box: boxes/2011/unc-96-lbsu-91
 
 - game: UNC 76 | Evansville 49
   date: December 8, 2010
@@ -3065,7 +3065,7 @@
   location: road
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/unc-76-eville-49.txt
+  box: boxes/2011/unc-76-eville-49
 
 - game: UNC 75 | Kentucky 73
   date: December 4, 2010
@@ -3076,7 +3076,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: boxes/2011/unc-75-kentucky-73.txt
+  box: boxes/2011/unc-75-kentucky-73
 
 - game: Illinois 79 | UNC 67
   date: November 30, 2010
@@ -3087,7 +3087,7 @@
   location: road
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: boxes/2011/ill-79-unc-67.txt
+  box: boxes/2011/ill-79-unc-67
 
 - game: UNC 74 | College of Charleston 69
   date: November 28, 2010
@@ -3098,7 +3098,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2011/unc-74-cofc-69.txt
+  box: boxes/2011/unc-74-cofc-69
 
 - game: UNC 80 | UNC Asheville 69
   date: November 23, 2010
@@ -3109,7 +3109,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2011/unc-80-unca-69.txt
+  box: boxes/2011/unc-80-unca-69
 
 - game: Vanderbilt 72 | UNC 65
   date: November 21, 2010
@@ -3120,7 +3120,7 @@
   location: neutral
   type: Non-conference (Puerto Rico Tip-Off)
   type-sort: 1
-  box: boxes/2011/vandy-72-unc-65.txt
+  box: boxes/2011/vandy-72-unc-65
 
 - game: Minnesota 72 | UNC 67
   date: November 19, 2010
@@ -3131,7 +3131,7 @@
   location: neutral
   type: Non-conference (Puerto Rico Tip-Off)
   type-sort: 1
-  box: boxes/2011/minn-72-unc-67.txt
+  box: boxes/2011/minn-72-unc-67
 
 - game: UNC 107 | Hofstra 63
   date: November 18, 2010
@@ -3142,7 +3142,7 @@
   location: neutral
   type: Non-conference 
   type-sort: 1
-  box: boxes/2011/unc-107-hof-63.txt
+  box: boxes/2011/unc-107-hof-63
 
 - game: UNC 80 | Lipscomb 66
   date: November 12, 2010
@@ -3153,7 +3153,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: boxes/2011/unc-80-lip-66.txt
+  box: boxes/2011/unc-80-lip-66
 
 - game: Kansas 80 | UNC 67
   date: March 25, 2012
