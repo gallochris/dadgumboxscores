@@ -28,7 +28,7 @@ layout: default
   			<td>{{ all.season }}</td> 
   			<td class="larrydrew">{{ all.date }}</td> 
   			<td style="display: none;">{{ all.result }}</td>
-  			<td>{{ all.location }}</td>
+  			<td class="larrydrew">{{ all.location }}</td>
   			<td class="larrydrew">{{ all.type }}</td>
   			<td><a href="{{ all.box }}" target="_blank">{{ all.game }}</a></td></tr>
   			{% endfor %}
