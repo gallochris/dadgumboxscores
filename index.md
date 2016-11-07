@@ -16,7 +16,7 @@ layout: default
            <th>Season ↑↓</th>
            <th class="larrydrew">Date ↑↓</th>
            <th style="display: none;">Result ↑↓</th>
-           <th>Location ↑↓</th>
+           <th class="larrydrew">Location ↑↓</th>
            <th class="larrydrew">Type ↑↓</th>
            <th data-sortable="false">Box Score</th>
          </tr>
