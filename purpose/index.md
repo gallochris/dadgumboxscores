@@ -17,9 +17,9 @@ Or how many times [UNC has beaten Michigan State](/?filter=michigan%20state) in 
 
 Stop scouring different sites and wasting your time. Find any box score by season or opponent. Sort by wins or losses, location, conference or non-conference. And get exactly what you need without any headaches.
 
-This site only has box scores. Nothing else. 
+This site only has box scores. Every so often, I do share some observations and opinions here: [fyi.dadgumboxscores.com](https://fyi.dadgumboxscores.com)
 
-It doesn't include schedules, analysis, or any other stats. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
+But this site doesn't include schedules, player interviews or news, or any other stats. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
 
 
 - [goheels.com](http://goheels.com) - official site of UNC athletics 
@@ -27,7 +27,6 @@ It doesn't include schedules, analysis, or any other stats. If you're looking fo
 - Jones Angell - play-by-play voice for UNC, great insight [@JonesAngell](https://twitter.com/JonesAngell) 
 - [insidecarolina.com](http://insidecarolina.com) - this site covers it all, has in-depth analysis and scoops 
 - Sherrell D. McMillan - covers recuriting for Inside Carolina, follow him [@RellDMC](https://twitter.com/RellDMC)
-- Bryan Ives - follow him [@awaytoworthy](https://twitter.com/awaytoworthy), shares lots of useful stats
 - [kenpom.com](http://kenpom.com) - holy grail for advanced stats, a yearly subscription is $19.95 and totally worth it
 - [cbbstatshelp.com](https://cbbstatshelp.com) - explains what advanced stats mean, like a Kenpom for Dummies 
 - Adrian Atkinson - shares advanced stats on UNC [@FreeportKid](https://twitter.com/FreeportKid)
@@ -72,9 +71,9 @@ I want this site to be as accurate as possible and would love your help.
 
 ### Who am I?
 
-I'm [Chris Gallo](http://hotdogsandeggs.com). I put together this site because I wanted it to be easier to find old UNC box scores. 
+I'm [Chris Gallo](https://hotdogsandeggs.com). I put together this site because I wanted it to be easier to find old UNC box scores. 
 
-I used to work in sports information, and find all kind of stats fascinating. If you're curious, I built another site to help folks learn and understand advanced stats for college oopsh. Think of it as a Kenpom for Dummies. Check it out at [cbbstatshelp.com](https://cbbstatshelp.com).
+I used to work in sports information, and find all kind of stats fascinating. If you're curious, I built another site to help folks learn and understand advanced stats for college hoops. Think of it as a KenPom for Dummies. Check it out at [cbbstatshelp.com](https://cbbstatshelp.com).
 
 If you have any questions, please send me an [email here](mailto:cbbstatshelp@gmail.com). 
 
