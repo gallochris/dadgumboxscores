@@ -1,3 +1,14 @@
+- game: UNC 95 | Tulane 75
+  date: November 11, 2016
+  time: 20161111
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: road
+  type: Non-conference 
+  type-sort: 1
+  box: boxes/2017/unc-95-tulane-75
+  
 - game: Texas 78 | UNC 75
   date: March 20, 2004
   time: 20040320
@@ -5201,3 +5212,4 @@
   type: Non-conference (Veterans Classic)
   type-sort: 1
   box: boxes/2016/unc-91-temple-67
+
