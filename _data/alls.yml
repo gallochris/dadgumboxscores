@@ -8,7 +8,448 @@
   type: Non-conference 
   type-sort: 1
   box: boxes/2017/unc-95-tulane-75
-  
+
+- game: Villanova 77 | UNC 74
+  date: April 4, 2016
+  time: 20160404
+  season: 15-16
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: NCAA Tournament Championship
+  type-sort: 4
+  box: boxes/2016/nova-77-unc-74
+
+- game: UNC 83 | Syracuse 66
+  date: April 2, 2016
+  time: 20160402
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Final 4
+  type-sort: 4
+  box: boxes/2016/unc-83-cuse-66
+
+- game: UNC 88 | Notre Dame 74
+  date: March 27, 2016
+  time: 20160327
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Elite 8
+  type-sort: 4
+  box: boxes/2016/unc-88-nd-74
+
+- game: UNC 101 | Indiana 86
+  date: March 25, 2016
+  time: 20160325
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Sweet 16
+  type-sort: 4
+  box: boxes/2016/unc-101-iu-86
+
+- game: UNC 85 | Providence 66
+  date: March 19, 2016
+  time: 20160319
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament 2nd Round
+  type-sort: 4
+  box: boxes/2016/unc-85-providence-66
+
+- game: UNC 83 | Florida Gulf-Coast 67
+  date: March 17, 2016
+  time: 20160317
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament 1st Round
+  type-sort: 4
+  box: boxes/2016/unc-83-fgcu-67
+
+- game: UNC 61 | Virginia 57
+  date: March 12, 2016
+  time: 20160312
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: ACC Tournament Championship
+  type-sort: 3
+  box: boxes/2016/unc-61-uva-57
+
+- game: UNC 78 | Notre Dame 47
+  date: March 11, 2016
+  time: 20160311
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: ACC Tournament Semifinal
+  type-sort: 3
+  box: boxes/2016/unc-78-nd-47
+
+- game: UNC 88 | Pittsburgh 71
+  date: March 10, 2016
+  time: 20160310
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: ACC Tournament Quarterfinal
+  type-sort: 3
+  box: boxes/2016/unc-88-pitt-71
+
+- game: UNC 76 | Duke 72
+  date: March 5, 2016
+  time: 20160305
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-76-duke-72
+
+- game: UNC 75 | Syracuse 70
+  date: February 29, 2016
+  time: 20160229
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-75-cuse-70
+
+- game: Virginia 79 | UNC 74
+  date: February 27, 2016
+  time: 20160227
+  season: 15-16
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/uva-79-unc-74
+
+- game: UNC 80 | North Carolina State 68
+  date: February 24, 2016
+  time: 20160224
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-80-state-68
+
+- game: UNC 96 | Miami 71 
+  date: February 20, 2016
+  time: 20160220
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-96-miami-71
+
+- game: Duke 74 | UNC 73
+  date: February 17, 2016
+  time: 20160217
+  season: 15-16
+  result: loss
+  style: ffbfb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/duke-74-unc-73
+
+- game: UNC 85 | Pittsburgh 64
+  date: February 14, 2016
+  time: 20160214
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-85-pitt-64
+
+- game: UNC 68 | Boston College 65
+  date: February 9, 2016
+  time: 20160209
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-68-bc-65
+
+- game: Notre Dame 80 | UNC 76
+  date: February 6, 2016
+  time: 20160206
+  season: 15-16
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/nd-80-unc-76
+
+- game: Louisville 71 | UNC 65
+  date: February 1, 2016
+  time: 20160201
+  season: 15-16
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/lville-71-unc-65
+
+- game: UNC 89 | Boston College 62
+  date: January 30, 2016
+  time: 20160130
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-89-bc-62
+
+- game: UNC 75 | Virginia Tech 70
+  date: January 24, 2016
+  time: 20160124
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-75-vt-70
+
+- game: UNC 83 | Wake Forest 68
+  date: January 20, 2016
+  time: 20160120
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-83-wake-68
+
+- game: UNC 67 | North Carolina State 55
+  date: January 16, 2016
+  time: 20160116
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-67-state-55
+
+- game: UNC 84 | Syracuse 73
+  date: January 9, 2016
+  time: 20160109
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-84-cuse-73
+
+- game: UNC 106 | Florida State 90
+  date: January 4, 2016
+  time: 20160104
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-106-fsu-90
+
+- game: UNC 86 | Georgia Tech 68
+  date: January 2, 2016
+  time: 20160102
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-86-gt-78
+
+- game: UNC 80 | Clemson 69
+  date: December 30, 2015
+  time: 20151230
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: boxes/2016/unc-80-clem-69
+
+- game: UNC 96 | UNCG 63
+  date: December 28, 2015
+  time: 20151228
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2016/unc-96-uncg-63
+
+- game: UNC 94 | Appalachian State 70
+  date: December 21, 2015
+  time: 20151221
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2016/unc-94-app-70
+
+- game: UNC 89 | UCLA 76
+  date: December 19, 2015
+  time: 20151219
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2016/unc-89-ucla-76
+
+- game: UNC 96 | Tulane 72
+  date: December 16, 2015
+  time: 20151216
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2016/unc-96-tulane-72
+
+- game: Texas 84 | UNC 82
+  date: December 12, 2015
+  time: 20151212
+  season: 15-16
+  result: loss
+  style: 99ffb2
+  style: ffbfb2
+  location: road
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2016/texas-84-unc-82
+
+- game: UNC 98 | Davidson 65
+  date: December 6, 2015
+  time: 20151206
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2016/unc-98-davidson-65
+
+- game: UNC 89 | Maryland 81
+  date: December 1, 2015
+  time: 20151201
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference (Big Ten Challenge)
+  type-sort: 1
+  box: boxes/2016/unc-89-maryland-81
+
+- game: UNC 80 | Kansas State 70
+  date: November 24, 2015
+  time: 20151124
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (CBE Hall of Fame)
+  type-sort: 1
+  box: boxes/2016/unc-80-kstate-70
+
+- game: UNC 80 | Northwestern 69
+  date: November 23, 2015
+  time: 20151123
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (CBE Hall of Fame)
+  type-sort: 1
+  box: boxes/2016/unc-80-nw-69
+
+- game: Northern Iowa 71 | UNC 67
+  date: November 21, 2015
+  time: 20151121
+  season: 15-16
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: Non-conference 
+  type-sort: 1
+  box: boxes/2016/uni-71-unc-67
+
+- game: UNC 78 | Wofford 58
+  date: November 18, 2015
+  time: 20151118
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: boxes/2016/unc-78-woff-58
+
+- game: UNC 92 | Fairfield 65
+  date: November 15, 2015
+  time: 20151115
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: boxes/2016/unc-92-fairfield-65
+
+- game: UNC 91 | Temple 67
+  date: November 13, 2015
+  time: 20151113
+  season: 15-16
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Veterans Classic)
+  type-sort: 1
+  box: boxes/2016/unc-91-temple-67
+
 - game: Texas 78 | UNC 75
   date: March 20, 2004
   time: 20040320
@@ -4597,7 +5038,7 @@
   box: boxes/2015/unc-81-state-79
 
 - game: UNC 72 | Louisville 71
-  date: January 10, 2016
+  date: January 10, 2015
   time: 20150110
   season: 14-15
   result: win
@@ -4771,445 +5212,4 @@
   type: Non-conference 
   type-sort: 1
   box: boxes/2015/unc-76-nccu-60
-
-- game: Villanova 77 | UNC 74
-  date: April 4, 2016
-  time: 20160404
-  season: 15-16
-  result: loss
-  style: ffbfb2
-  location: neutral
-  type: NCAA Tournament Championship
-  type-sort: 4
-  box: boxes/2016/nova-77-unc-74
-
-- game: UNC 83 | Syracuse 66
-  date: April 2, 2016
-  time: 20160402
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: NCAA Tournament Final 4
-  type-sort: 4
-  box: boxes/2016/unc-83-cuse-66
-
-- game: UNC 88 | Notre Dame 74
-  date: March 27, 2016
-  time: 20160327
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: NCAA Elite 8
-  type-sort: 4
-  box: boxes/2016/unc-88-nd-74
-
-- game: UNC 101 | Indiana 86
-  date: March 25, 2016
-  time: 20160325
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: NCAA Sweet 16
-  type-sort: 4
-  box: boxes/2016/unc-101-iu-86
-
-- game: UNC 85 | Providence 66
-  date: March 19, 2016
-  time: 20160319
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: NCAA Tournament 2nd Round
-  type-sort: 4
-  box: boxes/2016/unc-85-providence-66
-
-- game: UNC 83 | Florida Gulf-Coast 67
-  date: March 17, 2016
-  time: 20160317
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: NCAA Tournament 1st Round
-  type-sort: 4
-  box: boxes/2016/unc-83-fgcu-67
-
-- game: UNC 61 | Virginia 57
-  date: March 12, 2016
-  time: 20160312
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: ACC Tournament Championship
-  type-sort: 3
-  box: boxes/2016/unc-61-uva-57
-
-- game: UNC 78 | Notre Dame 47
-  date: March 11, 2016
-  time: 20160311
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: ACC Tournament Semifinal
-  type-sort: 3
-  box: boxes/2016/unc-78-nd-47
-
-- game: UNC 88 | Pittsburgh 71
-  date: March 10, 2016
-  time: 20160310
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: ACC Tournament Quarterfinal
-  type-sort: 3
-  box: boxes/2016/unc-88-pitt-71
-
-- game: UNC 76 | Duke 72
-  date: March 5, 2016
-  time: 20160305
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-76-duke-72
-
-- game: UNC 75 | Syracuse 70
-  date: February 29, 2016
-  time: 20160229
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-75-cuse-70
-
-- game: Virginia 79 | UNC 74
-  date: February 27, 2016
-  time: 20160227
-  season: 15-16
-  result: loss
-  style: ffbfb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/uva-79-unc-74
-
-- game: UNC 80 | North Carolina State 68
-  date: February 24, 2016
-  time: 20160224
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-80-state-68
-
-- game: UNC 96 | Miami 71 
-  date: February 20, 2016
-  time: 20160220
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-96-miami-71
-
-- game: Duke 74 | UNC 73
-  date: February 17, 2016
-  time: 20160217
-  season: 15-16
-  result: loss
-  style: ffbfb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/duke-74-unc-73
-
-- game: UNC 85 | Pittsburgh 64
-  date: February 14, 2016
-  time: 20160214
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-85-pitt-64
-
-- game: UNC 68 | Boston College 65
-  date: February 9, 2016
-  time: 20160209
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-68-bc-65
-
-- game: Notre Dame 80 | UNC 76
-  date: February 6, 2016
-  time: 20160206
-  season: 15-16
-  result: loss
-  style: ffbfb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/nd-80-unc-76
-
-- game: Louisville 71 | UNC 65
-  date: February 1, 2016
-  time: 20160201
-  season: 15-16
-  result: loss
-  style: ffbfb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/lville-71-unc-65
-
-- game: UNC 89 | Boston College 62
-  date: January 30, 2016
-  time: 20160130
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-89-bc-62
-
-- game: UNC 75 | Virginia Tech 70
-  date: January 24, 2016
-  time: 20160124
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-75-vt-70
-
-- game: UNC 83 | Wake Forest 68
-  date: January 20, 2016
-  time: 20160120
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-83-wake-68
-
-- game: UNC 67 | North Carolina State 55
-  date: January 16, 2016
-  time: 20160116
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-67-state-55
-
-- game: UNC 84 | Syracuse 73
-  date: January 9, 2016
-  time: 20160109
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-84-cuse-73
-
-- game: UNC 106 | Florida State 90
-  date: January 4, 2016
-  time: 20160104
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: road
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-106-fsu-90
-
-- game: UNC 86 | Georgia Tech 68
-  date: January 2, 2016
-  time: 20160102
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-86-gt-78
-
-- game: UNC 80 | Clemson 69
-  date: December 30, 2015
-  time: 20151230
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Conference
-  type-sort: 2
-  box: boxes/2016/unc-80-clem-69
-
-- game: UNC 96 | UNCG 63
-  date: December 28, 2015
-  time: 20151228
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference
-  type-sort: 1
-  box: boxes/2016/unc-96-uncg-63
-
-- game: UNC 94 | Appalachian State 70
-  date: December 21, 2015
-  time: 20151221
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference
-  type-sort: 1
-  box: boxes/2016/unc-94-app-70
-
-- game: UNC 89 | UCLA 76
-  date: December 19, 2015
-  time: 20151219
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: Non-conference
-  type-sort: 1
-  box: boxes/2016/unc-89-ucla-76
-
-- game: UNC 96 | Tulane 72
-  date: December 16, 2015
-  time: 20151216
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference
-  type-sort: 1
-  box: boxes/2016/unc-96-tulane-72
-
-- game: Texas 84 | UNC 82
-  date: December 12, 2015
-  time: 20151212
-  season: 15-16
-  result: loss
-  style: 99ffb2
-  style: ffbfb2
-  location: road
-  type: Non-conference
-  type-sort: 1
-  box: boxes/2016/texas-84-unc-82
-
-- game: UNC 98 | Davidson 65
-  date: December 6, 2015
-  time: 20151206
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference
-  type-sort: 1
-  box: boxes/2016/unc-98-davidson-65
-
-- game: UNC 89 | Maryland 81
-  date: December 1, 2015
-  time: 20151201
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference (Big Ten Challenge)
-  type-sort: 1
-  box: boxes/2016/unc-89-maryland-81
-
-- game: UNC 80 | Kansas State 70
-  date: November 24, 2015
-  time: 20151124
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: Non-conference (CBE Hall of Fame)
-  type-sort: 1
-  box: boxes/2016/unc-80-kstate-70
-
-- game: UNC 80 | Northwestern 69
-  date: November 23, 2015
-  time: 20151123
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: Non-conference (CBE Hall of Fame)
-  type-sort: 1
-  box: boxes/2016/unc-80-nw-69
-
-- game: Northern Iowa 71 | UNC 67
-  date: November 21, 2015
-  time: 20151121
-  season: 15-16
-  result: loss
-  style: ffbfb2
-  location: neutral
-  type: Non-conference 
-  type-sort: 1
-  box: boxes/2016/uni-71-unc-67
-
-- game: UNC 78 | Wofford 58
-  date: November 18, 2015
-  time: 20151118
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference 
-  type-sort: 1
-  box: boxes/2016/unc-78-woff-58
-
-- game: UNC 92 | Fairfield 65
-  date: November 15, 2015
-  time: 20151115
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: home
-  type: Non-conference 
-  type-sort: 1
-  box: boxes/2016/unc-92-fairfield-65
-
-- game: UNC 91 | Temple 67
-  date: November 13, 2015
-  time: 20151113
-  season: 15-16
-  result: win
-  style: 99ffb2
-  location: neutral
-  type: Non-conference (Veterans Classic)
-  type-sort: 1
-  box: boxes/2016/unc-91-temple-67
 

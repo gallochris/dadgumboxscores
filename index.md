@@ -9,7 +9,6 @@ layout: default
 
 #### Filter by season, wins, losses, opponent or type of game
 
-
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
          <tr> 
