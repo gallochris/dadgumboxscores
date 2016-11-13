@@ -1,3 +1,14 @@
+- game: UNC 97 | Chattanooga 57
+  date: November 13, 2016
+  time: 20161113
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: boxes/2017/unc-97-chat-57
+
 - game: UNC 95 | Tulane 75
   date: November 11, 2016
   time: 20161111
