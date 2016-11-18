@@ -28,7 +28,7 @@ But this site doesn't include schedules, player interviews or news, or any other
 - [insidecarolina.com](http://insidecarolina.com) - this site covers it all, has in-depth analysis and scoops 
 - Sherrell D. McMillan - covers recuriting for Inside Carolina, follow him [@RellDMC](https://twitter.com/RellDMC)
 - Adrian Atkinson - [@FreeportKid](https://twitter.com/FreeportKid) shares dynamite insights on his blog ([thesecondarybreak.us](http://www.thesecondarybreak.us/))
-- R.L. Bynum - contributes to [raleighco.com](http://raleighco.com/r-l/), shares lots of useful info [@RL_Bynum](https://twitter.com/RL_Bynum) 
+- R.L. Bynum - contributes to [raleighco.com](http://raleighco.com/r-l/), lots of useful info [@RL_Bynum](https://twitter.com/RL_Bynum) too
 - [kenpom.com](http://kenpom.com) - holy grail for advanced stats, totally worth a yearly $19.95 subscription
 - [cbbstatshelp.com](https://cbbstatshelp.com) - explains what advanced stats mean, like a KenPom for Dummies 
 
