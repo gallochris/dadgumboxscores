@@ -17,7 +17,7 @@ Or how many times [UNC has beaten Michigan State](/?filter=michigan%20state) in 
 
 Stop scouring different sites and wasting your time. Find any box score by season or opponent. Sort by wins or losses, location, conference or non-conference. And get exactly what you need without any headaches.
 
-This site only has box scores. Every so often, I do share some observations and opinions here: [fyi.dadgumboxscores.com](https://fyi.dadgumboxscores.com)
+This site only has box scores. Every so often, I do share some observations and opinions here: [fyi.dadgumboxscores.com](https://fyi.dadgumboxscores.com). 
 
 But this site doesn't include schedules, player interviews or news, or any other stats. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
 
