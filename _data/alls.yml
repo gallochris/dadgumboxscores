@@ -1,3 +1,14 @@
+- game: Indiana 76 | UNC 67
+  date: November 30, 2016
+  time: 20161130
+  season: 16-17
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Non-conference (Big Ten Challenge)
+  type-sort: 1
+  box: boxes/2017/ind-76-unc-67
+
 - game: UNC 71 | Wisconsin 56
   date: November 23, 2016
   time: 20161123
