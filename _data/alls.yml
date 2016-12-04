@@ -1,3 +1,14 @@
+- game: UNC 95 | Radford 50
+  date: December 4, 2016
+  time: 20161204
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: boxes/2017/unc-95-radford-50
+
 - game: Indiana 76 | UNC 67
   date: November 30, 2016
   time: 20161130
