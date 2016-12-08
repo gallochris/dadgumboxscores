@@ -1,0 +1,168 @@
+- game: UNC 83 | Davidson 74
+  efg: .459
+  to: .192
+  or: .359
+  ft: .557
+  oefg: .475
+  oto: .218
+  oor: .216
+  oft: .356
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-83-davidson-74.pdf
+
+- game: UNC 95 | Radford 50
+  date: December 4, 2016
+  efg: .592
+  to: .169
+  or: .417
+  ft: .277
+  oefg: .355
+  oto: .247
+  oor: .178
+  oft: .097
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-95-radford-50/
+
+- game: Indiana 76 | UNC 67
+  date: November 30, 2016
+  efg: .443
+  to: .167
+  or:  .309
+  ft: .361
+  oefg: .558
+  oto: .222
+  oor: "0.250"
+  oft: .519
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Non-conference (Big Ten Challenge)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/ind-76-unc-67/
+
+- game: UNC 71 | Wisconsin 56
+  date: November 23, 2016
+  efg: .518
+  to: .179
+  or: .241
+  ft: .211
+  oefg: .455
+  oto: .164
+  oor: .114
+  oft: .109
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Maui Invitational)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-71-wisco-56/
+
+- game: UNC 107 | Oklahoma State 75
+  date: November 22, 2016
+  efg: .641
+  to: .205
+  or: .552
+  ft: .391
+  oefg: .403
+  oto: .179
+  oor: .404
+  oft: .236
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Maui Invitational)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-107-okstate-75.pdf
+
+- game: UNC 104 | Chaminade 61
+  date: November 21, 2016
+  efg: .633
+  to: .171
+  or: "0.500"
+  ft: .359
+  oefg: .448
+  oto: .224
+  oor:  .146
+  oft: .155
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Maui Invitational)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-104-cham-61/
+
+- game: UNC 83 | Hawai'i 68
+  date: November 19, 2016
+  efg: .537
+  to: .222
+  or: .543
+  ft: .164
+  oefg: .492
+  oto: .194
+  oor: .206
+  oft: "0.150"
+  result: win
+  style: 99ffb2
+  location: road
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-83-haw-68/
+
+- game: UNC 93 | LBSU 67
+  date: November 15, 2016
+  efg: .575
+  to: .171
+  or:  "0.400"
+  ft: "0.400"
+  oefg: .409
+  oto: .184
+  oor: .279
+  oft: .197
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-93-lbsu-67/
+
+- game: UNC 97 | Chattanooga 57
+  date: November 13, 2016
+  efg: .536
+  to: .192
+  or: .564
+  ft: .314
+  oefg: .405
+  oto: .333
+  oor: .341
+  oft: .095
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-97-chatt-57/
+
+- game: UNC 95 | Tulane 75
+  date: November 11, 2016
+  efg: .588
+  to: .171
+  or: .462
+  ft: .261
+  oefg: .431
+  oto: .158
+  oor: .333
+  oft: .181
+  result: win
+  style: 99ffb2
+  location: road
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-95-tulane-75/
