@@ -3,10 +3,12 @@
   to: .192
   or: .359
   ft: .557
+  ppp: 1.06
   oefg: .475
   oto: .218
   oor: .216
   oft: .356
+  oppp: "0.95"
   result: win
   style: 99ffb2
   location: home
@@ -20,10 +22,12 @@
   to: .169
   or: .417
   ft: .277
+  ppp: 1.23
   oefg: .355
   oto: .247
   oor: .178
   oft: .097
+  oppp: "0.65"
   result: win
   style: 99ffb2
   location: home
@@ -37,10 +41,12 @@
   to: .167
   or:  .309
   ft: .361
+  ppp: "0.93"
   oefg: .558
   oto: .222
   oor: "0.250"
   oft: .519
+  oppp: 1.06
   result: loss
   style: ffbfb2
   location: road
@@ -54,10 +60,12 @@
   to: .179
   or: .241
   ft: .211
+  ppp: 1.06
   oefg: .455
   oto: .164
   oor: .114
   oft: .109
+  oppp: "0.84"
   result: win
   style: 99ffb2
   location: neutral
@@ -72,9 +80,11 @@
   or: .552
   ft: .391
   oefg: .403
+  ppp: 1.37
   oto: .179
   oor: .404
   oft: .236
+  oppp: "0.96"
   result: win
   style: 99ffb2
   location: neutral
@@ -88,10 +98,12 @@
   to: .171
   or: "0.500"
   ft: .359
+  ppp: 1.37
   oefg: .448
   oto: .224
   oor:  .146
   oft: .155
+  oppp: "0.80"
   result: win
   style: 99ffb2
   location: neutral
@@ -105,10 +117,12 @@
   to: .222
   or: .543
   ft: .164
+  ppp: 1.15
   oefg: .492
   oto: .194
   oor: .206
   oft: "0.150"
+  oppp: "0.94"
   result: win
   style: 99ffb2
   location: road
@@ -122,10 +136,12 @@
   to: .171
   or:  "0.400"
   ft: "0.400"
+  ppp: 1.22
   oefg: .409
   oto: .184
   oor: .279
   oft: .197
+  oppp: "0.88"
   result: win
   style: 99ffb2
   location: home
@@ -139,10 +155,12 @@
   to: .192
   or: .564
   ft: .314
+  ppp: 1.24
   oefg: .405
   oto: .333
   oor: .341
   oft: .095
+  oppp: "0.73"
   result: win
   style: 99ffb2
   location: home
@@ -156,10 +174,12 @@
   to: .171
   or: .462
   ft: .261
+  ppp: 1.25
   oefg: .431
   oto: .158
   oor: .333
   oft: .181
+  oppp: "0.99"
   result: win
   style: 99ffb2
   location: road

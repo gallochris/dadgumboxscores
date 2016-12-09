@@ -7,6 +7,8 @@ layout: default
 
 ## Every UNC Box Score Since 03-04
 
+#### [16-17 game-by-game four factors breakdown](/four-factors/)
+
 #### Filter by season, wins, losses, opponent or type of game
 
 <table id="example" class="display center" cellspacing="0" width="100%">

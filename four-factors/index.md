@@ -14,8 +14,8 @@ layout: factors
 	<thead>
      <tr style="background-color:#fff">
      <th scope="col" colspan="1"></th>
-     <th scope="col" colspan="4">Offense</th>
-     <th scope="col" colspan="4">Defense</th>
+     <th scope="col" colspan="5">Offense</th>
+     <th scope="col" colspan="5">Defense</th>
     </tr>
          <tr> 
           <th data-sortable="false">Box Score</th>
@@ -23,10 +23,12 @@ layout: factors
            <th class="larrydrew">TO% ↑↓</th>
            <th class="larrydrew">OR% ↑↓</th>
            <th class="larrydrew">FTRate ↑↓</th>
+           <th class="larrydrew">PPP ↑↓</th>
            <th class="larrydrew">eFG% ↑↓</th>
            <th class="larrydrew">TO% ↑↓</th>
            <th class="larrydrew">OR% ↑↓</th>
            <th class="larrydrew">FTRate ↑↓</th>
+           <th class="larrydrew">PPP ↑↓</th>
          </tr>
      </thead>
 
@@ -38,10 +40,12 @@ layout: factors
   			<td class="larrydrew">{{ factor.to }}</td>
   			<td class="larrydrew">{{ factor.or }}</td>
   			<td class="larrydrew">{{ factor.ft }}</td>
+        <td class="larrydrew">{{ factor.ppp }}</td>
         <td class="larrydrew">{{ factor.oefg }}</td> 
         <td class="larrydrew">{{ factor.oto }}</td>
         <td class="larrydrew">{{ factor.oor }}</td>
         <td class="larrydrew">{{ factor.oft }}</td>
+        <td class="larrydrew">{{ factor.oppp }}</td>
   			</tr>
   			{% endfor %}
     </tbody>
