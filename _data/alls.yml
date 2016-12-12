@@ -1,3 +1,14 @@
+- game: UNC 73 | Tennessee 71
+  date: December 11, 2016
+  time: 20161211
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: /boxes/2017/unc-73-tenn-71
+
 - game: UNC 83 | Davidson 74
   date: December 7, 2016
   time: 20161207
