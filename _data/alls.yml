@@ -1,3 +1,14 @@
+- game: Kentucky 103 | UNC 100
+  date: December 17, 2016
+  time: 20161217
+  season: 16-17
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: Non-conference 
+  type-sort: 1
+  box: boxes/2017/kentucky-103-unc-100
+
 - game: UNC 73 | Tennessee 71
   date: December 11, 2016
   time: 20161211

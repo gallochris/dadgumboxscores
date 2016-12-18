@@ -1,3 +1,21 @@
+- game: Kentucky 103 | UNC 100
+  efg: .599
+  to: .114
+  or: .294
+  ft: .424
+  ppp: 1.27
+  oefg: .608
+  oto: .127
+  oor: .375
+  oft: .284
+  oppp: 1.30
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-73-tenn-71/
+
 - game: UNC 73 | Tennessee 71
   efg: .411
   to: .141
