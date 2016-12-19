@@ -13,9 +13,9 @@ layout: factors
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
      <tr style="background-color:#fff">
-     <th scope="col" colspan="1"></th>
-     <th scope="col" colspan="5">Offense</th>
-     <th scope="col" colspan="5">Defense</th>
+     <th scope="col" colspan="1" class="larrydrew"></th>
+     <th scope="col" colspan="5" class="larrydrew">Offense</th>
+     <th scope="col" colspan="5" class="larrydrew">Defense</th>
     </tr>
          <tr> 
           <th data-sortable="false">Box Score</th>
@@ -23,12 +23,12 @@ layout: factors
            <th class="larrydrew">TO% ↑↓</th>
            <th class="larrydrew">OR% ↑↓</th>
            <th class="larrydrew">FTRate ↑↓</th>
-           <th class="larrydrew">PPP ↑↓</th>
+           <th>PPP ↑↓</th>
            <th class="larrydrew">eFG% ↑↓</th>
            <th class="larrydrew">TO% ↑↓</th>
            <th class="larrydrew">OR% ↑↓</th>
            <th class="larrydrew">FTRate ↑↓</th>
-           <th class="larrydrew">PPP ↑↓</th>
+           <th>PPP ↑↓</th>
          </tr>
      </thead>
 
@@ -40,12 +40,12 @@ layout: factors
   			<td class="larrydrew">{{ factor.to }}</td>
   			<td class="larrydrew">{{ factor.or }}</td>
   			<td class="larrydrew">{{ factor.ft }}</td>
-        <td class="larrydrew">{{ factor.ppp }}</td>
+        <td>{{ factor.ppp }}</td>
         <td class="larrydrew">{{ factor.oefg }}</td> 
         <td class="larrydrew">{{ factor.oto }}</td>
         <td class="larrydrew">{{ factor.oor }}</td>
         <td class="larrydrew">{{ factor.oft }}</td>
-        <td class="larrydrew">{{ factor.oppp }}</td>
+        <td>{{ factor.oppp }}</td>
   			</tr>
   			{% endfor %}
     </tbody>
