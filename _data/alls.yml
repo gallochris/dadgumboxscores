@@ -1,3 +1,14 @@
+- game: UNC 85 | Northern Iowa 42
+  date: December 21, 2016
+  time: 20161221
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: /boxes/2017/unc-85-uni-42
+
 - game: Kentucky 103 | UNC 100
   date: December 17, 2016
   time: 20161217
