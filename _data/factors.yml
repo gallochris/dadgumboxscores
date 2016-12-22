@@ -1,3 +1,21 @@
+- game: UNC 85 | Northern Iowa 42
+  efg: .577
+  to: .076
+  or: .344
+  ft: .246
+  ppp: 1.29
+  oefg: .438
+  oto: .258
+  oor: .088
+  oft: .167
+  oppp: "0.64"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-85-uni-42/
+
 - game: Kentucky 103 | UNC 100
   efg: .599
   to: .114
