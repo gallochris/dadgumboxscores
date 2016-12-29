@@ -1,3 +1,21 @@
+- game: UNC 102 | Monmouth 74
+  efg: .479
+  to: .193
+  or: .467
+  ft: .639
+  ppp: 1.16
+  oefg: .393
+  oto: .170
+  oor: .250
+  oft: .371
+  oppp: "0.84"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: /boxes/2017/unc-102-mon-74
+
 - game: UNC 85 | Northern Iowa 42
   efg: .577
   to: .076

@@ -1,3 +1,14 @@
+- game: UNC 102 | Monmouth 74
+  date: December 28, 2016
+  time: 20161228
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: /boxes/2017/unc-102-mon-74
+
 - game: UNC 85 | Northern Iowa 42
   date: December 21, 2016
   time: 20161221
