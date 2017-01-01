@@ -1,3 +1,14 @@
+- game: Georgia Tech 75 | UNC 63
+  date: December 31, 2016
+  time: 20161231
+  season: 16-17
+  result: loss
+  style: ffbfb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/gt-75-unc-63
+
 - game: UNC 102 | Monmouth 74
   date: December 28, 2016
   time: 20161228

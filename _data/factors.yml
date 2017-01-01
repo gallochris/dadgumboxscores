@@ -1,3 +1,21 @@
+- game: Georgia Tech 75 | UNC 63
+  efg: .368
+  to: .256
+  or: .396
+  ft: .194
+  ppp: "0.81"
+  oefg: .443
+  oto: .205
+  oor: .242
+  oft: .623
+  oppp: "0.96"
+  result: loss
+  style: ffbfb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-102-mon-74
+
 - game: UNC 102 | Monmouth 74
   efg: .479
   to: .193
