@@ -1,3 +1,21 @@
+- game: UNC 89 | Clemson 86 (OT)
+  efg: .513
+  to: .228
+  or: .511
+  ft: .154
+  ppp: 1.13
+  oefg: .537
+  oto: .152
+  oor: .263
+  oft: .279
+  oppp: 1.09
+  result: win
+  style: 99ffb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-89-clem-86
+
 - game: Georgia Tech 75 | UNC 63
   efg: .368
   to: .256

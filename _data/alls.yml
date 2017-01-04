@@ -1,3 +1,14 @@
+- game: UNC 89 | Clemson 86 (OT)
+  date: January 3, 2017
+  time: 20170103
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-89-clem-86
+
 - game: Georgia Tech 75 | UNC 63
   date: December 31, 2016
   time: 20161231
