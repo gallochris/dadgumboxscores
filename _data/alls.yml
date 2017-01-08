@@ -1,3 +1,14 @@
+- game: UNC 107 | North Carolina State 56
+  date: January 8, 2017
+  time: 20170108
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-107-ncsu-56
+
 - game: UNC 89 | Clemson 86 (OT)
   date: January 3, 2017
   time: 20170103

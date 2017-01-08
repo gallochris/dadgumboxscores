@@ -1,3 +1,21 @@
+- game: UNC 107 | North Carolina State 56
+  efg: .570
+  to: .141
+  or: .395
+  ft: .317
+  ppp: 1.26
+  oefg: .421
+  oto: .306
+  oor: .233
+  oft: .175
+  oppp: "0.66"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-107-ncsu-56
+
 - game: UNC 89 | Clemson 86 (OT)
   efg: .513
   to: .228
