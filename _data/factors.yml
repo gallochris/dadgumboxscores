@@ -1,3 +1,21 @@
+- game: UNC 93 | Wake Forest 87
+  efg: .578
+  to: .147
+  or: .382
+  ft: .375
+  ppp: 1.24
+  oefg: "0.520"
+  oto: .147
+  oor: .317
+  oft: .431
+  oppp: 1.16
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-93-wfu-87
+
 - game: UNC 107 | North Carolina State 56
   efg: "0.570"
   to: .141
