@@ -47,7 +47,7 @@
   oppp: 1.09
   result: win
   style: 99ffb2
-  location: away
+  location: road
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-89-clem-86
@@ -65,7 +65,7 @@
   oppp: "0.96"
   result: loss
   style: ffbfb2
-  location: home
+  location: road
   type: Conference
   type-sort: 2
   box: /boxes/2017/gt-75-unc-63
