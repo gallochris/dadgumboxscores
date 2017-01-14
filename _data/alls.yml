@@ -1,3 +1,14 @@
+- game: UNC 96 | Florida State 83
+  date: January 14, 2017
+  time: 20170114
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-96-fsu-83
+
 - game: UNC 93 | Wake Forest 87
   date: January 11, 2017
   time: 20170111
