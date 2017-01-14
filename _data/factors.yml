@@ -1,3 +1,21 @@
+- game: UNC 96 | Florida State 83
+  efg: "0.480"
+  to: .147
+  or: .382
+  ft: "0.507"
+  ppp: 1.16
+  oefg: "0.530"
+  oto: .176
+  oor: .205
+  oft: .388
+  oppp: "0.98"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-96-fsu-83
+
 - game: UNC 93 | Wake Forest 87
   efg: .578
   to: .147
