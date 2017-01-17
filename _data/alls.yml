@@ -1,3 +1,14 @@
+- game: UNC 85 | Syracuse 68
+  date: January 16, 2017
+  time: 20170116
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-85-cuse-68
+
 - game: UNC 96 | Florida State 83
   date: January 14, 2017
   time: 20170114

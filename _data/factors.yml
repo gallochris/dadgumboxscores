@@ -1,3 +1,21 @@
+- game: UNC 85 | Syracuse 68
+  efg: .566
+  to: .132
+  or: .500
+  ft: .221
+  ppp: 1.25
+  oefg: .525
+  oto: .191
+  oor: .188
+  oft: .119
+  oppp: "1.00"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-85-cuse-68
+
 - game: UNC 96 | Florida State 83
   efg: "0.480"
   to: .147
