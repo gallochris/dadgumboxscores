@@ -113,8 +113,8 @@
   ft: .639
   ppp: 1.16
   oefg: .393
-  oto: .170
-  oor: .250
+  oto: "0.170"
+  oor: "0.250"
   oft: .371
   oppp: "0.84"
   result: win
