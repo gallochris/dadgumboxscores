@@ -1,3 +1,14 @@
+- game: UNC 90 | Boston College 82
+  date: January 21, 2017
+  time: 20170121
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-90-bc-82
+
 - game: UNC 85 | Syracuse 68
   date: January 16, 2017
   time: 20170116
