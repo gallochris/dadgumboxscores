@@ -1,0 +1,219 @@
+- game: UNC 85 | Syracuse 68
+  off1: Ron Groover 
+  off2: John Gaffney
+  off3: Doug Shows
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-85-cuse-68
+
+- game: UNC 96 | Florida State 83
+  off1: Roger Ayers  
+  off2: Lee Cassell
+  off3: Tony Chiazza
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-96-fsu-83
+
+- game: UNC 93 | Wake Forest 87
+  off1: Mike Eades 
+  off2: Tim Comer
+  off3: Brian O'Connell
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-93-wfu-87
+
+- game: UNC 107 | North Carolina State 56
+  off1: Ron Groover  
+  off2: Keith Kimble
+  off3: Matt Potter
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-107-ncsu-56
+
+- game: UNC 89 | Clemson 86 (OT)
+  off1: Tim Nestor 
+  off2: Lee Cassell
+  off3: Jeff Clark
+  result: win
+  style: 99ffb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-89-clem-86
+
+- game: Georgia Tech 75 | UNC 63
+  off1: Brian Dorsey 
+  off2: Bill Covington Jr.
+  off3: Tim Clougherty
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/gt-75-unc-63
+
+- game: UNC 102 | Monmouth 74
+  off1: Les Jones
+  off2: Doug Sirmons
+  off3: Jeb Hartness
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: /boxes/2017/unc-102-mon-74
+
+- game: UNC 85 | Northern Iowa 42
+  off1: Bert Smith  
+  off2: Lee Cassell
+  off3: Brent Hampton
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-85-uni-42/
+
+- game: Kentucky 103 | UNC 100
+  off1: Roger Ayers  
+  off2: David Hall
+  off3: Verne Harri
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/kentucky-103-unc-100/
+
+- game: UNC 73 | Tennessee 71
+  off1: Mike Eades  
+  off2: Jeff Clark
+  off3: Doug Shows
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-73-tenn-71/
+
+- game: UNC 83 | Davidson 74
+  off1: Ted Valentine 
+  off2: Ron Groover
+  off3: Keith Kimble
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-83-dav-74/
+
+- game: UNC 95 | Radford 50
+  off1: Michael Stephens  
+  off2: Tim Nestor
+  off3: Tim Clougherty
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-95-radford-50/
+
+- game: Indiana 76 | UNC 67
+  off1: Terry Wymer 
+  off2: Bo Boroski
+  off3: Gene Steratore
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Non-conference (Big Ten Challenge)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/ind-76-unc-67/
+
+- game: UNC 71 | Wisconsin 56
+  off1: Ted Valentine
+  off2: Chris Rastatter
+  off3: Earl Walton
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Maui Invitational)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-71-wisco-56/
+
+- game: UNC 107 | Okla. State 75
+  off1: Ted Valentine
+  off2: Tom Eads 
+  off3: Donnee Eppley
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Maui Invitational)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-107-okstate-75.pdf
+
+- game: UNC 104 | Chaminade 61
+  off1: Chris Rastatter 
+  off2: Bob Staffan
+  off3: Donnee Eppley 
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Non-conference (Maui Invitational)
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-104-cham-61/
+
+- game: UNC 83 | Hawai'i 68
+  off1: Gregory Nixon 
+  off2: Tommy Nunez
+  off3: Daryl Gelinas
+  result: win
+  style: 99ffb2
+  location: road
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-83-haw-68/
+
+- game: UNC 93 | LBSU 67
+  off1: Roger Ayers 
+  off2: John Higgins 
+  off3: Les Jones
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-93-lbsu-67/
+
+- game: UNC 97 | Chattanooga 57
+  off1: Ted Valentine
+  off2: Raymond Styons Jr.
+  off3: Tim Comer
+  result: win
+  style: 99ffb2
+  location: home
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-97-chatt-57/
+
+- game: UNC 95 | Tulane 75
+  off1: John Hampton  
+  off2: Doug Sirmons
+  off3: Jeb Hartness
+  result: win
+  style: 99ffb2
+  location: road
+  type: Non-conference 
+  type-sort: 1
+  box: https://dadgumboxscores.com/boxes/2017/unc-95-tulane-75/
