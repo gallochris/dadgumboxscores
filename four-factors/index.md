@@ -8,6 +8,20 @@ layout: factors
 
 ## Four Factors game-by-game 2016-17
 
+<pre style="text-align: center">
+| When UNC has a . .  | it's record is . . . |
+|:-------------------:|:--------------------:|
+|     Higher eFG%     |         13-0         |
+|      Lower eFG%     |          5-3         |
+|      Higher TO%     |         11-2         |
+|      Lower TO%      |          6-1         |
+|      Higher OR%     |         18-2         |
+|      Lower OR%      |          0-1         |
+|    Higher FTRate    |         16-1         |
+|     Lower FTRate    |          2-2         |
+</pre>
+
+
 #### Not sure what the Four Factors are? Get [help here](https://cbbstatshelp.com/four-factors/intro/).
 
 <table id="example" class="display center" cellspacing="0" width="100%">
