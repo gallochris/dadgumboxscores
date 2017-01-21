@@ -1,12 +1,12 @@
 - game: UNC 90 | Boston College 82
   efg: .516
-  to: ".160"
+  to: "0.160"
   or: .432
   ft: .453
   ppp: "1.20"
   oefg: .559
-  oto: ".200"
-  oor: ".270"
+  oto: "0.200"
+  oor: "0.270"
   oft: .103
   oppp: "1.09"
   result: win
