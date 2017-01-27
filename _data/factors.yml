@@ -1,3 +1,21 @@
+- game: UNC 91 | Virginia Tech 72
+  efg: .589
+  to: "0.108"
+  or: .514
+  ft: .123
+  ppp: "1.40"
+  oefg: .598
+  oto: "0.154"
+  oor: "0.143"
+  oft: .358
+  oppp: "1.11"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-91-vt-72
+
 - game: UNC 90 | Boston College 82
   efg: .516
   to: "0.160"
@@ -11,7 +29,7 @@
   oppp: "1.09"
   result: win
   style: 99ffb2
-  location: home
+  location: road
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-90-bc-82

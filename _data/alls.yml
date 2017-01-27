@@ -1,3 +1,14 @@
+- game: UNC 91 | Virginia Tech 72
+  date: January 26, 2017
+  time: 20170126
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-91-vt-72
+
 - game: UNC 90 | Boston College 82
   date: January 21, 2017
   time: 20170121
