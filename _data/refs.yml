@@ -1,3 +1,15 @@
+- game: Miami 77 | UNC 62 
+  off1: Ron Groover
+  off2: Sean Hull
+  off3: John Gaffney
+  result: loss
+  style: ffbfb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-62-um-77
+
+
 - game: UNC 91 | Virginia Tech 72
   off1: Mike Eades
   off2: Roger Ayers

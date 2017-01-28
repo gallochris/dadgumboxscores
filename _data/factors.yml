@@ -1,3 +1,22 @@
+- game: Miami 77 | UNC 62
+  efg: .408
+  to: "0.200"
+  or: .286
+  ft: .317
+  ppp: "0.89"
+  oefg: .473
+  oto: "0.143"
+  oor: "0.314"
+  oft: .536
+  oppp: "1.10"
+  result: loss
+  style: ffbfb2
+  location: road
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-62-um-77
+
+
 - game: UNC 91 | Virginia Tech 72
   efg: .589
   to: "0.108"
