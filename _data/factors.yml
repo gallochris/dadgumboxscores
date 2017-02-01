@@ -1,3 +1,21 @@
+- game: UNC 80 | Pittsburgh 78
+  efg: .578
+  to: "0.133"
+  or: .469
+  ft: .328
+  ppp: "1.33"
+  oefg: .676
+  oto: "0.167"
+  oor: "0.273"
+  oft: ".093"
+  oppp: "1.30"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-80-pitt-78
+
 - game: Miami 77 | UNC 62
   efg: .408
   to: "0.200"

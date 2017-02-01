@@ -1,13 +1,13 @@
-- game: Pitt at UNC
+- game: UNC 80 | Pitt 78
   off1: Ted Valentine 
   off2: Lee Cassell
   off3: Lamar Simpson
-  result:
-  style: 
+  result: win
+  style: 99ffb2
   location: home
   type: Conference
   type-sort: 2
-  box: 
+  box: /boxes/2017/unc-80-pitt-78
 
 - game: Miami 77 | UNC 62 
   off1: Ron Groover

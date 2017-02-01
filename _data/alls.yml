@@ -1,3 +1,14 @@
+- game: UNC 80 | Pittsburgh 78
+  date: January 31, 2017
+  time: 20170131
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-80-pitt-78
+
 - game: Miami 77 | UNC 62
   date: January 28, 2017
   time: 20170126
