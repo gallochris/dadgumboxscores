@@ -1,3 +1,21 @@
+- game: UNC 83 | Notre Dame 76
+  efg: .541
+  to: "0.162"
+  or: .486
+  ft: .459
+  ppp: "1.22"
+  oefg: .527
+  oto: "0.132"
+  oor: "0.206"
+  oft: ".357"
+  oppp: "1.12"
+  result: win 
+  style: 99ffb2
+  location: neutral
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-83-nd-76
+  
 - game: UNC 80 | Pittsburgh 78
   efg: .578
   to: "0.133"

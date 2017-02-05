@@ -1,13 +1,13 @@
-- game: UNC vs. Notre Dame
+- game: UNC 83 | Notre Dame 76
   off1: Jamie Luckie
   off2: Bill Covington
   off3: Clarence Armstrong
-  result:
-  style: 
+  result: win
+  style: 99ffb2
   location: neutral
   type: Conference
   type-sort: 2
-  box: 
+  box: /boxes/2017/unc-83-nd-76
 
 - game: UNC 80 | Pitt 78
   off1: Ted Valentine 

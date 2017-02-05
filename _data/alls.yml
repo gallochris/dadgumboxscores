@@ -1,3 +1,14 @@
+- game: UNC 83 | Notre Dame 76
+  date: February 6, 2017
+  time: 20170206
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-83-nd-76
+
 - game: UNC 80 | Pittsburgh 78
   date: January 31, 2017
   time: 20170131
