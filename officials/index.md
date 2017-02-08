@@ -9,6 +9,15 @@ layout: refs
 
 #### Filter by a referee's first or last name
 
+<pre style="text-align: center">
+|      Name     |  # of Games |
+|:-------------:|:-----------:|
+| Ted Valentine |      5      |
+|  Roger Ayers  |      4      |
+|  Lee Cassell  |      4      |
+|  Ron Groover  |      4      |
+</pre>
+
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
          <tr> 
