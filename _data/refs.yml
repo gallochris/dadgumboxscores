@@ -1,6 +1,6 @@
 - game: UNC 83 | Notre Dame 76
   off1: Jamie Luckie
-  off2: Bill Covington
+  off2: Bill Covington Jr. 
   off3: Clarence Armstrong
   result: win
   style: 99ffb2
@@ -49,7 +49,7 @@
   off3: Brian O'Connell
   result: win 
   style: 99ffb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-90-bc-82
@@ -82,7 +82,7 @@
   off3: Brian O'Connell
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-93-wfu-87
@@ -104,7 +104,7 @@
   off3: Jeff Clark
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-89-clem-86
@@ -115,7 +115,7 @@
   off3: Tim Clougherty
   result: loss
   style: ffbfb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/gt-75-unc-63
@@ -140,7 +140,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-85-uni-42/
+  box: /boxes/2017/unc-85-uni-42/
 
 - game: Kentucky 103 | UNC 100
   off1: Roger Ayers  
@@ -151,7 +151,7 @@
   location: neutral
   type: Non-conference
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/kentucky-103-unc-100/
+  box: /boxes/2017/kentucky-103-unc-100/
 
 - game: UNC 73 | Tennessee 71
   off1: Mike Eades  
@@ -162,7 +162,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-73-tenn-71/
+  box: /boxes/2017/unc-73-tenn-71/
 
 - game: UNC 83 | Davidson 74
   off1: Ted Valentine 
@@ -173,7 +173,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-83-dav-74/
+  box: /boxes/2017/unc-83-dav-74/
 
 - game: UNC 95 | Radford 50
   off1: Michael Stephens  
@@ -184,7 +184,7 @@
   location: home
   type: Non-conference
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-95-radford-50/
+  box: /boxes/2017/unc-95-radford-50/
 
 - game: Indiana 76 | UNC 67
   off1: Terry Wymer 
@@ -192,10 +192,10 @@
   off3: Gene Steratore
   result: loss
   style: ffbfb2
-  location: road
+  location: away
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/ind-76-unc-67/
+  box: /boxes/2017/ind-76-unc-67/
 
 - game: UNC 71 | Wisconsin 56
   off1: Ted Valentine
@@ -206,7 +206,7 @@
   location: neutral
   type: Non-conference (Maui Invitational)
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-71-wisco-56/
+  box: /boxes/2017/unc-71-wisco-56/
 
 - game: UNC 107 | Okla. State 75
   off1: Ted Valentine
@@ -217,7 +217,7 @@
   location: neutral
   type: Non-conference (Maui Invitational)
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-107-okstate-75.pdf
+  box: /boxes/2017/unc-107-okstate-75.pdf
 
 - game: UNC 104 | Chaminade 61
   off1: Chris Rastatter 
@@ -228,7 +228,7 @@
   location: neutral
   type: Non-conference (Maui Invitational)
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-104-cham-61/
+  box: /boxes/2017/unc-104-cham-61/
 
 - game: UNC 83 | Hawai'i 68
   off1: Gregory Nixon 
@@ -236,10 +236,10 @@
   off3: Daryl Gelinas
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Non-conference 
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-83-haw-68/
+  box: /boxes/2017/unc-83-haw-68/
 
 - game: UNC 93 | LBSU 67
   off1: Roger Ayers 
@@ -250,7 +250,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-93-lbsu-67/
+  box: /boxes/2017/unc-93-lbsu-67/
 
 - game: UNC 97 | Chattanooga 57
   off1: Ted Valentine
@@ -261,7 +261,7 @@
   location: home
   type: Non-conference 
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-97-chatt-57/
+  box: /boxes/2017/unc-97-chatt-57/
 
 - game: UNC 95 | Tulane 75
   off1: John Hampton  
@@ -269,7 +269,7 @@
   off3: Jeb Hartness
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Non-conference 
   type-sort: 1
-  box: https://dadgumboxscores.com/boxes/2017/unc-95-tulane-75/
+  box: /boxes/2017/unc-95-tulane-75/

@@ -5,7 +5,7 @@ layout: refs
 
 # Dadgum Box Scores 
 
-## Officials game-by-game 2016-17
+## Duke-UNC Officials game-by-game since 03-04
 
 #### Filter by a referee's first or last name
 
@@ -21,13 +21,13 @@ layout: refs
      </thead>
 
     <tbody>
-	{% for ref in site.data.refs %}
-		<tr style="background-color: #{{ ref.style }};">
-  			<td><a href="{{ ref.box }}" target="_blank">{{ ref.game }}</a></td>
-  			<td>{{ ref.location }}</td> 
-        <td>{{ ref.off1 }}</td> 
-  			<td>{{ ref.off2 }}</td>
-  			<td>{{ ref.off3 }}</td>
+	{% for duke in site.data.dukes %}
+		<tr style="background-color: #{{ duke.style }};">
+  			<td><a href="{{ duke.box }}" target="_blank">{{ duke.game }}</a></td>
+  			<td>{{ duke.location }}</td> 
+        <td>{{ duke.off1 }}</td> 
+  			<td>{{ duke.off2 }}</td>
+  			<td>{{ duke.off3 }}</td>
         </tr>
   			{% endfor %}
     </tbody>

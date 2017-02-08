@@ -47,7 +47,7 @@
   oppp: "1.10"
   result: loss
   style: ffbfb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-62-um-77
@@ -84,7 +84,7 @@
   oppp: "1.09"
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-90-bc-82
@@ -138,7 +138,7 @@
   oppp: 1.16
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-93-wfu-87
@@ -174,7 +174,7 @@
   oppp: 1.09
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/unc-89-clem-86
@@ -192,7 +192,7 @@
   oppp: "0.96"
   result: loss
   style: ffbfb2
-  location: road
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/gt-75-unc-63
@@ -320,7 +320,7 @@
   oppp: 1.06
   result: loss
   style: ffbfb2
-  location: road
+  location: away
   type: Non-conference (Big Ten Challenge)
   type-sort: 1
   box: https://dadgumboxscores.com/boxes/2017/ind-76-unc-67/
@@ -396,7 +396,7 @@
   oppp: "0.94"
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Non-conference 
   type-sort: 1
   box: https://dadgumboxscores.com/boxes/2017/unc-83-haw-68/
@@ -453,7 +453,7 @@
   oppp: "0.99"
   result: win
   style: 99ffb2
-  location: road
+  location: away
   type: Non-conference 
   type-sort: 1
   box: https://dadgumboxscores.com/boxes/2017/unc-95-tulane-75/
