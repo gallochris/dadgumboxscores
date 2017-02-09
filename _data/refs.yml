@@ -1,7 +1,20 @@
+- game: UNC at Duke
+  off1: Roger Ayers
+  off2: Mike Eades 
+  off3: Michael Roberts
+  rtg: 148.59
+  result: 
+  style: 
+  location: away
+  type: Conference
+  type-sort: 2
+  box: 
+
 - game: UNC 83 | Notre Dame 76
   off1: Jamie Luckie
   off2: Bill Covington Jr. 
   off3: Clarence Armstrong
+  rtg: 119.24
   result: win
   style: 99ffb2
   location: neutral
@@ -13,6 +26,7 @@
   off1: Ted Valentine 
   off2: Lee Cassell
   off3: Lamar Simpson
+  rtg: 124.48
   result: win
   style: 99ffb2
   location: home
@@ -24,6 +38,7 @@
   off1: Ron Groover
   off2: Sean Hull
   off3: John Gaffney
+  rtg: 114.52
   result: loss
   style: ffbfb2
   location: home
@@ -36,6 +51,7 @@
   off1: Mike Eades
   off2: Roger Ayers
   off3: Michael Roberts
+  rtg: 148.59
   result: win
   style: 99ffb2
   location: home
@@ -47,6 +63,7 @@
   off1: Ed Corbett
   off2: Tony Greene 
   off3: Brian O'Connell
+  rtg: 119.72
   result: win 
   style: 99ffb2
   location: away
@@ -58,6 +75,7 @@
   off1: Ron Groover 
   off2: John Gaffney
   off3: Doug Shows
+  rtg: "130.10"
   result: win
   style: 99ffb2
   location: home
@@ -69,6 +87,7 @@
   off1: Roger Ayers  
   off2: Lee Cassell
   off3: Tony Chiazza
+  rtg: 131.86
   result: win
   style: 99ffb2
   location: home
@@ -80,6 +99,7 @@
   off1: Mike Eades 
   off2: Tim Comer
   off3: Brian O'Connell
+  rtg: 127.41
   result: win
   style: 99ffb2
   location: away
@@ -91,6 +111,7 @@
   off1: Ron Groover  
   off2: Keith Kimble
   off3: Matt Potter
+  rtg: 123.62
   result: win
   style: 99ffb2
   location: home
@@ -102,6 +123,7 @@
   off1: Tim Nestor 
   off2: Lee Cassell
   off3: Jeff Clark
+  rtg: 114.62
   result: win
   style: 99ffb2
   location: away
@@ -113,6 +135,7 @@
   off1: Brian Dorsey 
   off2: Bill Covington Jr.
   off3: Tim Clougherty
+  rtg: 109.11
   result: loss
   style: ffbfb2
   location: away
@@ -124,6 +147,7 @@
   off1: Les Jones
   off2: Doug Sirmons
   off3: Jeb Hartness
+  rtg: 118.92
   result: win
   style: 99ffb2
   location: home
@@ -135,6 +159,7 @@
   off1: Bert Smith  
   off2: Lee Cassell
   off3: Brent Hampton
+  rtg: 127.24
   result: win
   style: 99ffb2
   location: home
@@ -146,6 +171,7 @@
   off1: Roger Ayers  
   off2: David Hall
   off3: Verne Harris
+  rtg: "140.10"
   result: loss
   style: ffbfb2
   location: neutral
@@ -157,6 +183,7 @@
   off1: Mike Eades  
   off2: Jeff Clark
   off3: Doug Shows
+  rtg: 135.37
   result: win
   style: 99ffb2
   location: home
@@ -168,6 +195,7 @@
   off1: Ted Valentine 
   off2: Ron Groover
   off3: Keith Kimble
+  rtg: 141.26
   result: win
   style: 99ffb2
   location: home
@@ -179,6 +207,7 @@
   off1: Michael Stephens  
   off2: Tim Nestor
   off3: Tim Clougherty
+  rtg: 109.25
   result: win
   style: 99ffb2
   location: home
@@ -190,6 +219,7 @@
   off1: Terry Wymer 
   off2: Bo Boroski
   off3: Gene Steratore
+  rtg: 131.66
   result: loss
   style: ffbfb2
   location: away
@@ -201,6 +231,7 @@
   off1: Ted Valentine
   off2: Chris Rastatter
   off3: Earl Walton
+  rtg: 128.87
   result: win
   style: 99ffb2
   location: neutral
@@ -210,8 +241,9 @@
 
 - game: UNC 107 | Okla. State 75
   off1: Ted Valentine
-  off2: Tom Eads 
+  off2: Tom Eades 
   off3: Donnee Eppley
+  rtg: "130.40"
   result: win
   style: 99ffb2
   location: neutral
@@ -223,6 +255,7 @@
   off1: Chris Rastatter 
   off2: Bob Staffan
   off3: Donnee Eppley 
+  rtg: 105.04
   result: win
   style: 99ffb2
   location: neutral
@@ -234,6 +267,7 @@
   off1: Gregory Nixon 
   off2: Tommy Nunez
   off3: Daryl Gelinas
+  rtg: 67.65
   result: win
   style: 99ffb2
   location: away
@@ -245,6 +279,7 @@
   off1: Roger Ayers 
   off2: John Higgins 
   off3: Les Jones
+  rtg: 145.66
   result: win
   style: 99ffb2
   location: home
@@ -256,6 +291,7 @@
   off1: Ted Valentine
   off2: Raymond Styons Jr.
   off3: Tim Comer
+  rtg: 112.48
   result: win
   style: 99ffb2
   location: home
@@ -267,6 +303,7 @@
   off1: John Hampton  
   off2: Doug Sirmons
   off3: Jeb Hartness
+  rtg: 106.49
   result: win
   style: 99ffb2
   location: away
