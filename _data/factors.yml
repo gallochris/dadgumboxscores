@@ -1,3 +1,21 @@
+- game: Duke 86 | UNC 78 
+  efg: .557
+  to: "0.074"
+  or: .226
+  ft: .295
+  ppp: "1.15"
+  oefg: ".640"
+  oto: ".147"
+  oor: ".233"
+  oft: ".281"
+  oppp: "1.26"
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/duke-86-unc-78
+
 - game: UNC 83 | Notre Dame 76
   efg: .541
   to: "0.162"
