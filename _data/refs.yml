@@ -1,14 +1,14 @@
-- game: UNC at Duke
+- game: Duke 86 | UNC 78 
   off1: Roger Ayers
   off2: Mike Eades 
   off3: Michael Roberts
   rtg: 148.59
-  result: 
-  style: 
+  result: loss
+  style: ffbfb2
   location: away
   type: Conference
   type-sort: 2
-  box: 
+  box: /boxes/2017/duke-86-unc-78/
 
 - game: UNC 83 | Notre Dame 76
   off1: Jamie Luckie

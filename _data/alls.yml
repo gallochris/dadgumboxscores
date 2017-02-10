@@ -1,3 +1,14 @@
+- game: Duke 86 | UNC 78
+  date: February 9, 2017
+  time: 20170209
+  season: 16-17
+  result: loss
+  style: ffbfb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/duke-86-unc-78
+
 - game: UNC 83 | Notre Dame 76
   date: February 6, 2017
   time: 20170206
