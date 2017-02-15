@@ -7,7 +7,7 @@ layout: refs
 
 ## Officials game-by-game 2016-17
 
-#### Last updated: 2-10-2017
+#### Last updated: 2-15-2017
 
 #### Filter by a referee's first or last name
 
@@ -27,9 +27,9 @@ Most Frequent Officials
 Best Crew Rating
 |      Game     | KenPom Rtg |
 |:-------------:|:----------:|
-| Virginia Tech |   152.48   |
-|      Duke     |   152.48   |
-|      LBSU     |   147.45   |
+| Virginia Tech |   160.51   |
+|      Duke     |   160.51   |
+|      LBSU     |   150.62   |
 </pre>
 
 
