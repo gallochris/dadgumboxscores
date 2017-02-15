@@ -1,3 +1,15 @@
+- game: UNC at NC State
+  off1: Les Jones
+  off2: James Breeding
+  off3: Bert Smith
+  rtg: 131.94
+  result: 
+  style: 
+  location: away
+  type: Conference
+  type-sort: 2
+  box: 
+
 - game: Duke 86 | UNC 78 
   off1: Roger Ayers
   off2: Mike Eades 
@@ -242,7 +254,7 @@
 - game: UNC 107 | Okla. State 75
   off1: Ted Valentine
   off2: Tom Eades 
-  off3: Donnee Eppley
+  off3: Donnie Eppley
   rtg: "134.14"
   result: win
   style: 99ffb2
@@ -253,8 +265,8 @@
 
 - game: UNC 104 | Chaminade 61
   off1: Chris Rastatter 
-  off2: Bob Staffan
-  off3: Donnee Eppley 
+  off2: Bob Staffen
+  off3: Donnie Eppley 
   rtg: "111.40"
   result: win
   style: 99ffb2
