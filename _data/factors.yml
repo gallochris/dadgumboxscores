@@ -1,3 +1,21 @@
+- game: UNC 97 | North Carolina State 73
+  efg: .610
+  to: .153
+  or: .529
+  ft: .107
+  ppp: 1.35
+  oefg: .519
+  oto: .236
+  oor: .281
+  oft: .462
+  oppp: 1.01
+  result: win
+  style: 99ffb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-97-ncsu-73/
+
 - game: Duke 86 | UNC 78 
   efg: .557
   to: "0.074"
@@ -11,7 +29,7 @@
   oppp: "1.26"
   result: loss
   style: ffbfb2
-  location: neutral
+  location: away
   type: Conference
   type-sort: 2
   box: /boxes/2017/duke-86-unc-78

@@ -1,3 +1,14 @@
+- game: UNC 97 | North Carolina State 73
+  date: February 15, 2017
+  time: 20170215
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-97-ncsu-73
+
 - game: Duke 86 | UNC 78
   date: February 9, 2017
   time: 20170209

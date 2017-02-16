@@ -1,14 +1,14 @@
-- game: UNC at NC State
+- game: UNC 97 | North Carolina State 73
   off1: Les Jones
   off2: James Breeding
   off3: Bert Smith
   rtg: 131.94
-  result: 
-  style: 
+  result: win
+  style: 99ffb2
   location: away
   type: Conference
   type-sort: 2
-  box: 
+  box: /boxes/2017/unc-97-ncsu-73/
 
 - game: Duke 86 | UNC 78 
   off1: Roger Ayers
