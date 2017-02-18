@@ -2,7 +2,7 @@
   off1: Les Jones
   off2: James Breeding
   off3: Bert Smith
-  rtg: 131.94
+  rtg: 83
   result: win
   style: 99ffb2
   location: away
@@ -14,7 +14,7 @@
   off1: Roger Ayers
   off2: Mike Eades 
   off3: Michael Roberts
-  rtg: 160.51
+  rtg: 23
   result: loss
   style: ffbfb2
   location: away
@@ -26,7 +26,7 @@
   off1: Jamie Luckie
   off2: Bill Covington Jr. 
   off3: Clarence Armstrong
-  rtg: 121.89
+  rtg: 141
   result: win
   style: 99ffb2
   location: neutral
@@ -38,7 +38,7 @@
   off1: Ted Valentine 
   off2: Lee Cassell
   off3: Lamar Simpson
-  rtg: 131.96
+  rtg: 106
   result: win
   style: 99ffb2
   location: home
@@ -50,7 +50,7 @@
   off1: Ron Groover
   off2: Sean Hull
   off3: John Gaffney
-  rtg: 122.95
+  rtg: 133
   result: loss
   style: ffbfb2
   location: home
@@ -63,7 +63,7 @@
   off1: Mike Eades
   off2: Roger Ayers
   off3: Michael Roberts
-  rtg: 160.51
+  rtg: 23
   result: win
   style: 99ffb2
   location: home
@@ -75,7 +75,7 @@
   off1: Ed Corbett
   off2: Tony Greene 
   off3: Brian O'Connell
-  rtg: 123.91
+  rtg: 122
   result: win 
   style: 99ffb2
   location: away
@@ -87,7 +87,7 @@
   off1: Ron Groover 
   off2: John Gaffney
   off3: Doug Shows
-  rtg: 140.46
+  rtg: 50
   result: win
   style: 99ffb2
   location: home
@@ -99,7 +99,7 @@
   off1: Roger Ayers  
   off2: Lee Cassell
   off3: Tony Chiazza
-  rtg: 139.54
+  rtg: 82
   result: win
   style: 99ffb2
   location: home
@@ -111,7 +111,7 @@
   off1: Mike Eades 
   off2: Tim Comer
   off3: Brian O'Connell
-  rtg: 133.39
+  rtg: 109
   result: win
   style: 99ffb2
   location: away
@@ -123,7 +123,7 @@
   off1: Ron Groover  
   off2: Keith Kimble
   off3: Matt Potter
-  rtg: "129.62"
+  rtg: 105
   result: win
   style: 99ffb2
   location: home
@@ -135,7 +135,7 @@
   off1: Tim Nestor 
   off2: Lee Cassell
   off3: Jeff Clark
-  rtg: 123.27
+  rtg: 131
   result: win
   style: 99ffb2
   location: away
@@ -147,7 +147,7 @@
   off1: Brian Dorsey 
   off2: Bill Covington Jr.
   off3: Tim Clougherty
-  rtg: "111.80"
+  rtg: 198
   result: loss
   style: ffbfb2
   location: away
@@ -159,7 +159,7 @@
   off1: Les Jones
   off2: Doug Sirmons
   off3: Jeb Hartness
-  rtg: 124.33
+  rtg: 118
   result: win
   style: 99ffb2
   location: home
@@ -171,7 +171,7 @@
   off1: Bert Smith  
   off2: Lee Cassell
   off3: Brent Hampton
-  rtg: 132.31
+  rtg: 87
   result: win
   style: 99ffb2
   location: home
@@ -183,7 +183,7 @@
   off1: Roger Ayers  
   off2: David Hall
   off3: Verne Harris
-  rtg: 145.78
+  rtg: 54
   result: loss
   style: ffbfb2
   location: neutral
@@ -195,7 +195,7 @@
   off1: Mike Eades  
   off2: Jeff Clark
   off3: Doug Shows
-  rtg: "144.60"
+  rtg: 56
   result: win
   style: 99ffb2
   location: home
@@ -207,7 +207,7 @@
   off1: Ted Valentine 
   off2: Ron Groover
   off3: Keith Kimble
-  rtg: "147.20"
+  rtg: 40
   result: win
   style: 99ffb2
   location: home
@@ -219,7 +219,7 @@
   off1: Michael Stephens  
   off2: Tim Nestor
   off3: Tim Clougherty
-  rtg: 116.18
+  rtg: 169
   result: win
   style: 99ffb2
   location: home
@@ -231,7 +231,7 @@
   off1: Terry Wymer 
   off2: Bo Boroski
   off3: Gene Steratore
-  rtg: 136.48
+  rtg: 80
   result: loss
   style: ffbfb2
   location: away
@@ -243,7 +243,7 @@
   off1: Ted Valentine
   off2: Chris Rastatter
   off3: Earl Walton
-  rtg: 135.36
+  rtg: 89
   result: win
   style: 99ffb2
   location: neutral
@@ -255,7 +255,7 @@
   off1: Ted Valentine
   off2: Tom Eades 
   off3: Donnie Eppley
-  rtg: "134.14"
+  rtg: 96
   result: win
   style: 99ffb2
   location: neutral
@@ -267,7 +267,7 @@
   off1: Chris Rastatter 
   off2: Bob Staffen
   off3: Donnie Eppley 
-  rtg: "111.40"
+  rtg: 183
   result: win
   style: 99ffb2
   location: neutral
@@ -279,7 +279,7 @@
   off1: Gregory Nixon 
   off2: Tommy Nunez
   off3: Daryl Gelinas
-  rtg: 72.98
+  rtg: 346
   result: win
   style: 99ffb2
   location: away
@@ -291,7 +291,7 @@
   off1: Roger Ayers 
   off2: John Higgins 
   off3: Les Jones
-  rtg: 150.62
+  rtg: 42
   result: win
   style: 99ffb2
   location: home
@@ -303,7 +303,7 @@
   off1: Ted Valentine
   off2: Raymond Styons Jr.
   off3: Tim Comer
-  rtg: 120.61
+  rtg: 148
   result: win
   style: 99ffb2
   location: home
@@ -315,7 +315,7 @@
   off1: John Hampton  
   off2: Doug Sirmons
   off3: Jeb Hartness
-  rtg: 113.35
+  rtg: 166
   result: win
   style: 99ffb2
   location: away
