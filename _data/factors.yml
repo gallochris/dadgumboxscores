@@ -1,3 +1,21 @@
+- game: UNC 65 | UVA 41
+  efg: .526
+  to: .148
+  or: .323
+  ft: .121
+  ppp: 1.07
+  oefg: .296
+  oto: .098
+  oor: .128
+  oft: .222
+  oppp: "0.67"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-65-uva-41.pdf
+
 - game: UNC 97 | North Carolina State 73
   efg: ".610"
   to: .153

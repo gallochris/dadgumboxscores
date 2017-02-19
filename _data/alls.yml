@@ -1,3 +1,14 @@
+- game: UNC 65 | Virginia 41
+  date: February 18, 2017
+  time: 20170218
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-65-uva-41.pdf
+
 - game: UNC 97 | North Carolina State 73
   date: February 15, 2017
   time: 20170215

@@ -1,14 +1,14 @@
-- game: UVA at UNC
+- game: UNC 65 | UVA 41
   off1: Brian O'Connell
   off2: Tim Clougherty
   off3: Doug Sirmons
   rtg: 131
-  result: 
-  style: 
+  result: win
+  style: 99ffb2
   location: home
   type: Conference
   type-sort: 2
-  box: 
+  box: /boxes/2017/unc-65-uva-41.pdf
 
 - game: UNC 97 | North Carolina State 73
   off1: Les Jones
