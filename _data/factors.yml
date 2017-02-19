@@ -17,7 +17,7 @@
   box: /boxes/2017/unc-65-uva-41.pdf
 
 - game: UNC 97 | North Carolina State 73
-  efg: ".610"
+  efg: "0.610"
   to: .153
   or: .529
   ft: .107
@@ -40,7 +40,7 @@
   or: .226
   ft: .295
   ppp: "1.15"
-  oefg: ".640"
+  oefg: "0.640"
   oto: ".147"
   oor: ".233"
   oft: ".281"
