@@ -1,8 +1,20 @@
+- game: Louisville at UNC
+  off1: Ron Groover (20)
+  off2: Pat Driscoll (3)
+  off3: John Gaffney (12)
+  rtg: 35
+  result: 
+  style: 
+  location: home
+  type: Conference
+  type-sort: 2
+  box: 
+
 - game: UNC 65 | UVA 41
-  off1: Brian O'Connell
-  off2: Tim Clougherty
-  off3: Doug Sirmons
-  rtg: 131
+  off1: Brian O'Connell (30)
+  off2: Tim Clougherty (79)
+  off3: Doug Sirmons (9)
+  rtg: 118
   result: win
   style: 99ffb2
   location: home
@@ -11,10 +23,10 @@
   box: /boxes/2017/unc-65-uva-41
 
 - game: UNC 97 | North Carolina State 73
-  off1: Les Jones
-  off2: James Breeding
-  off3: Bert Smith
-  rtg: 83
+  off1: Les Jones (35)
+  off2: James Breeding (18)
+  off3: Bert Smith (24)
+  rtg: 77
   result: win
   style: 99ffb2
   location: away
@@ -23,10 +35,10 @@
   box: /boxes/2017/unc-97-ncsu-73/
 
 - game: Duke 86 | UNC 78 
-  off1: Roger Ayers
-  off2: Mike Eades 
-  off3: Michael Roberts
-  rtg: 23
+  off1: Roger Ayers (2)
+  off2: Mike Eades (1) 
+  off3: Michael Roberts (19)
+  rtg: 22
   result: loss
   style: ffbfb2
   location: away
@@ -35,10 +47,10 @@
   box: /boxes/2017/duke-86-unc-78/
 
 - game: UNC 83 | Notre Dame 76
-  off1: Jamie Luckie
-  off2: Bill Covington Jr. 
-  off3: Clarence Armstrong
-  rtg: 141
+  off1: Jamie Luckie (5)
+  off2: Bill Covington Jr. (76)
+  off3: Clarence Armstrong (61)
+  rtg: 142
   result: win
   style: 99ffb2
   location: neutral
@@ -47,9 +59,9 @@
   box: /boxes/2017/unc-83-nd-76
 
 - game: UNC 80 | Pitt 78
-  off1: Ted Valentine 
-  off2: Lee Cassell
-  off3: Lamar Simpson
+  off1: Ted Valentine (6)
+  off2: Lee Cassell (25)
+  off3: Lamar Simpson (75)
   rtg: 106
   result: win
   style: 99ffb2
@@ -59,10 +71,10 @@
   box: /boxes/2017/unc-80-pitt-78
 
 - game: Miami 77 | UNC 62 
-  off1: Ron Groover
-  off2: Sean Hull
-  off3: John Gaffney
-  rtg: 133
+  off1: Ron Groover (20)
+  off2: Sean Hull (96)
+  off3: John Gaffney (12)
+  rtg: 128
   result: loss
   style: ffbfb2
   location: home
@@ -72,10 +84,10 @@
 
 
 - game: UNC 91 | Virginia Tech 72
-  off1: Mike Eades
-  off2: Roger Ayers
-  off3: Michael Roberts
-  rtg: 23
+  off1: Mike Eades (1)
+  off2: Roger Ayers (2)
+  off3: Michael Roberts (19)
+  rtg: 22
   result: win
   style: 99ffb2
   location: home
@@ -84,10 +96,10 @@
   box: /boxes/2017/unc-91-vt-72
 
 - game: UNC 90 | Boston College 82
-  off1: Ed Corbett
-  off2: Tony Greene 
-  off3: Brian O'Connell
-  rtg: 122
+  off1: Ed Corbett (50)
+  off2: Tony Greene (39)
+  off3: Brian O'Connell (30)
+  rtg: 119
   result: win 
   style: 99ffb2
   location: away
@@ -96,10 +108,10 @@
   box: /boxes/2017/unc-90-bc-82
 
 - game: UNC 85 | Syracuse 68
-  off1: Ron Groover 
-  off2: John Gaffney
-  off3: Doug Shows
-  rtg: 50
+  off1: Ron Groover (20)
+  off2: John Gaffney (12)
+  off3: Doug Shows (16)
+  rtg: 48
   result: win
   style: 99ffb2
   location: home
@@ -108,10 +120,10 @@
   box: /boxes/2017/unc-85-cuse-68
 
 - game: UNC 96 | Florida State 83
-  off1: Roger Ayers  
-  off2: Lee Cassell
-  off3: Tony Chiazza
-  rtg: 82
+  off1: Roger Ayers (2) 
+  off2: Lee Cassell (25)
+  off3: Tony Chiazza (53)
+  rtg: 80
   result: win
   style: 99ffb2
   location: home
@@ -120,10 +132,10 @@
   box: /boxes/2017/unc-96-fsu-83
 
 - game: UNC 93 | Wake Forest 87
-  off1: Mike Eades 
-  off2: Tim Comer
-  off3: Brian O'Connell
-  rtg: 109
+  off1: Mike Eades (1)
+  off2: Tim Comer (73)
+  off3: Brian O'Connell (30)
+  rtg: 104
   result: win
   style: 99ffb2
   location: away
@@ -132,10 +144,10 @@
   box: /boxes/2017/unc-93-wfu-87
 
 - game: UNC 107 | North Carolina State 56
-  off1: Ron Groover  
-  off2: Keith Kimble
-  off3: Matt Potter
-  rtg: 105
+  off1: Ron Groover (20)
+  off2: Keith Kimble (15)
+  off3: Matt Potter (71)
+  rtg: 106
   result: win
   style: 99ffb2
   location: home
@@ -144,10 +156,10 @@
   box: /boxes/2017/unc-107-ncsu-56
 
 - game: UNC 89 | Clemson 86 (OT)
-  off1: Tim Nestor 
-  off2: Lee Cassell
-  off3: Jeff Clark
-  rtg: 131
+  off1: Tim Nestor (67)
+  off2: Lee Cassell (25)
+  off3: Jeff Clark (36)
+  rtg: 128
   result: win
   style: 99ffb2
   location: away
@@ -156,10 +168,10 @@
   box: /boxes/2017/unc-89-clem-86
 
 - game: Georgia Tech 75 | UNC 63
-  off1: Brian Dorsey 
-  off2: Bill Covington Jr.
-  off3: Tim Clougherty
-  rtg: 198
+  off1: Brian Dorsey (8)
+  off2: Bill Covington Jr. (76)
+  off3: Tim Clougherty (79)
+  rtg: 185
   result: loss
   style: ffbfb2
   location: away
@@ -168,10 +180,10 @@
   box: /boxes/2017/gt-75-unc-63
 
 - game: UNC 102 | Monmouth 74
-  off1: Les Jones
-  off2: Doug Sirmons
-  off3: Jeb Hartness
-  rtg: 118
+  off1: Les Jones (35)
+  off2: Doug Sirmons (9)
+  off3: Jeb Hartness (77)
+  rtg: 121
   result: win
   style: 99ffb2
   location: home
@@ -180,10 +192,10 @@
   box: /boxes/2017/unc-102-mon-74
 
 - game: UNC 85 | Northern Iowa 42
-  off1: Bert Smith  
-  off2: Lee Cassell
-  off3: Brent Hampton
-  rtg: 87
+  off1: Bert Smith  (24) 
+  off2: Lee Cassell (25)
+  off3: Brent Hampton (34)
+  rtg: 83
   result: win
   style: 99ffb2
   location: home
@@ -192,10 +204,10 @@
   box: /boxes/2017/unc-85-uni-42/
 
 - game: Kentucky 103 | UNC 100
-  off1: Roger Ayers  
-  off2: David Hall
-  off3: Verne Harris
-  rtg: 54
+  off1: Roger Ayers (2)
+  off2: David Hall (32)
+  off3: Verne Harris (26)
+  rtg: 60
   result: loss
   style: ffbfb2
   location: neutral
@@ -204,10 +216,10 @@
   box: /boxes/2017/kentucky-103-unc-100/
 
 - game: UNC 73 | Tennessee 71
-  off1: Mike Eades  
-  off2: Jeff Clark
-  off3: Doug Shows
-  rtg: 56
+  off1: Mike Eades (1)
+  off2: Jeff Clark (36)
+  off3: Doug Shows (16)
+  rtg: 53
   result: win
   style: 99ffb2
   location: home
@@ -216,10 +228,10 @@
   box: /boxes/2017/unc-73-tenn-71/
 
 - game: UNC 83 | Davidson 74
-  off1: Ted Valentine 
-  off2: Ron Groover
-  off3: Keith Kimble
-  rtg: 40
+  off1: Ted Valentine (6)
+  off2: Ron Groover (20)
+  off3: Keith Kimble (15)
+  rtg: 41
   result: win
   style: 99ffb2
   location: home
@@ -228,10 +240,10 @@
   box: /boxes/2017/unc-83-dav-74/
 
 - game: UNC 95 | Radford 50
-  off1: Michael Stephens  
-  off2: Tim Nestor
-  off3: Tim Clougherty
-  rtg: 169
+  off1: Michael Stephens (11) 
+  off2: Tim Nestor (67)
+  off3: Tim Clougherty (79)
+  rtg: 157
   result: win
   style: 99ffb2
   location: home
@@ -240,10 +252,10 @@
   box: /boxes/2017/unc-95-radford-50/
 
 - game: Indiana 76 | UNC 67
-  off1: Terry Wymer 
-  off2: Bo Boroski
-  off3: Gene Steratore
-  rtg: 80
+  off1: Terry Wymer (4) 
+  off2: Bo Boroski (14)
+  off3: Gene Steratore (58)
+  rtg: 76
   result: loss
   style: ffbfb2
   location: away
@@ -252,10 +264,10 @@
   box: /boxes/2017/ind-76-unc-67/
 
 - game: UNC 71 | Wisconsin 56
-  off1: Ted Valentine
-  off2: Chris Rastatter
-  off3: Earl Walton
-  rtg: 89
+  off1: Ted Valentine (6)
+  off2: Chris Rastatter (47)
+  off3: Earl Walton (40)
+  rtg: 93
   result: win
   style: 99ffb2
   location: neutral
@@ -264,10 +276,10 @@
   box: /boxes/2017/unc-71-wisco-56/
 
 - game: UNC 107 | Okla. State 75
-  off1: Ted Valentine
-  off2: Tom Eades 
-  off3: Donnie Eppley
-  rtg: 96
+  off1: Ted Valentine (6)
+  off2: Tom Eades (60)
+  off3: Donnie Eppley (38)
+  rtg: 104
   result: win
   style: 99ffb2
   location: neutral
@@ -276,10 +288,10 @@
   box: /boxes/2017/unc-107-okstate-75.pdf
 
 - game: UNC 104 | Chaminade 61
-  off1: Chris Rastatter 
-  off2: Bob Staffen
-  off3: Donnie Eppley 
-  rtg: 183
+  off1: Chris Rastatter (47)
+  off2: Bob Staffen (104)
+  off3: Donnie Eppley (38)
+  rtg: 189
   result: win
   style: 99ffb2
   location: neutral
@@ -288,10 +300,10 @@
   box: /boxes/2017/unc-104-cham-61/
 
 - game: UNC 83 | Hawai'i 68
-  off1: Gregory Nixon 
-  off2: Tommy Nunez
-  off3: Daryl Gelinas
-  rtg: 346
+  off1: Gregory Nixon (98)
+  off2: Tommy Nunez (115)
+  off3: Daryl Gelinas (137)
+  rtg: 350
   result: win
   style: 99ffb2
   location: away
@@ -300,10 +312,10 @@
   box: /boxes/2017/unc-83-haw-68/
 
 - game: UNC 93 | LBSU 67
-  off1: Roger Ayers 
-  off2: John Higgins 
-  off3: Les Jones
-  rtg: 42
+  off1: Roger Ayers (2) 
+  off2: John Higgins (7)
+  off3: Les Jones (35)
+  rtg: 44
   result: win
   style: 99ffb2
   location: home
@@ -312,10 +324,10 @@
   box: /boxes/2017/unc-93-lbsu-67/
 
 - game: UNC 97 | Chattanooga 57
-  off1: Ted Valentine
-  off2: Raymond Styons Jr.
-  off3: Tim Comer
-  rtg: 148
+  off1: Ted Valentine (6)
+  off2: Raymond Styons Jr. (65)
+  off3: Tim Comer (73)
+  rtg: 144
   result: win
   style: 99ffb2
   location: home
@@ -324,10 +336,10 @@
   box: /boxes/2017/unc-97-chatt-57/
 
 - game: UNC 95 | Tulane 75
-  off1: John Hampton  
-  off2: Doug Sirmons
-  off3: Jeb Hartness
-  rtg: 166
+  off1: John Hampton (78)
+  off2: Doug Sirmons (9)
+  off3: Jeb Hartness (77)
+  rtg: 164
   result: win
   style: 99ffb2
   location: away
