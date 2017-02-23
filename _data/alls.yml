@@ -358,7 +358,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Sweet 16
+  type: NCAA Tournament Sweet 16
   type-sort: 4
   box: boxes/2016/unc-101-iu-86
 
@@ -2284,7 +2284,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Sweet 16
+  type: NCAA Tournament Sweet 16
   type-sort: 4
   box: boxes/2008/unc-68-wsu-47
 
@@ -2724,7 +2724,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Sweet 16
+  type: NCAA Tournament Sweet 16
   type-sort: 4
   box: boxes/2009/unc-98-zaga-77
 
@@ -3527,7 +3527,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Sweet 16
+  type: NCAA Tournament Sweet 16
   type-sort: 4
   box: boxes/2011/unc-81-marq-63
 
@@ -3934,7 +3934,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Sweet 16
+  type: NCAA Tournament Sweet 16
   type-sort: 4
   box: boxes/2012/unc-73-ohio-65
 
@@ -5111,7 +5111,7 @@
   result: loss
   style: ffbfb2
   location: neutral
-  type: NCAA Sweet 16
+  type: NCAA Tournament Sweet 16
   type-sort: 4
   box: boxes/2015/wisco-79-unc-72
 
