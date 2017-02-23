@@ -7,7 +7,7 @@ layout: refs
 
 ## Officials game-by-game 2016-17
 
-#### Last updated: 2-22-2017
+#### Ratings last updated: 2-22-2017
 
 #### Filter by a referee's first or last name
 

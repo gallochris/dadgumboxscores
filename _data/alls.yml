@@ -1,3 +1,14 @@
+- game: UNC 74 | Louisville 63
+  date: February 22, 2017
+  time: 20170222
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-74-ville-63
+
 - game: UNC 65 | Virginia 41
   date: February 18, 2017
   time: 20170218
