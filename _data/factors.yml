@@ -1,3 +1,22 @@
+
+- game: UNC 74 | Louisville 63
+  efg: .427
+  to: .164
+  or: "0.390"
+  ft: .468
+  ppp: 1.01
+  oefg: "0.480"
+  oto: .219
+  oor: .211
+  oft: .213
+  oppp: "0.86"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-74-ville-63
+
 - game: UNC 65 | UVA 41
   efg: .526
   to: .148

@@ -9,7 +9,7 @@
   type-sort: 2
   box: /boxes/2017/unc-74-ville-63
 
-- game: UNC 65 | Virginia 41
+- game: UNC 65 | UVA41
   date: February 18, 2017
   time: 20170218
   season: 16-17
@@ -384,7 +384,7 @@
   type-sort: 4
   box: boxes/2016/unc-83-fgcu-67
 
-- game: UNC 61 | Virginia 57
+- game: UNC 61 | UVA57
   date: March 12, 2016
   time: 20160312
   season: 15-16
@@ -439,7 +439,7 @@
   type-sort: 2
   box: boxes/2016/unc-75-cuse-70
 
-- game: Virginia 79 | UNC 74
+- game: UVA79 | UNC 74
   date: February 27, 2016
   time: 20160227
   season: 15-16
@@ -825,7 +825,7 @@
   type-sort: 2
   box: boxes/2004/unc-71-state-64
 
-- game: Virginia 74 | UNC 72
+- game: UVA74 | UNC 72
   date: February 24, 2004
   time: 20040224
   season: 03-04
@@ -913,7 +913,7 @@
   type-sort: 2
   box: boxes/2004/unc-68-state-66
 
-- game: UNC 96 | Virginia 77
+- game: UNC 96 | UVA77
   date: January 24, 2004
   time: 20040124
   season: 03-04
@@ -1232,7 +1232,7 @@
   type-sort: 2
   box: boxes/2005/unc-88-clem-56
 
-- game: UNC 85 | Virginia 61
+- game: UNC 85 | UVA61
   date: February 16, 2005
   time: 20050216
   season: 04-05
@@ -1287,7 +1287,7 @@
   type-sort: 2
   box: boxes/2005/unc-95-state-71
 
-- game: UNC 110 | Virginia 76
+- game: UNC 110 | UVA76
   date: January 29, 2005
   time: 20050129
   season: 04-05
@@ -1529,7 +1529,7 @@
   type-sort: 3
   box: boxes/2006/bc-85-unc-82
 
-- game: UNC 79 | Virginia 67
+- game: UNC 79 | UVA67
   date: March 10, 2006
   time: 20060310
   season: 05-06
@@ -1551,7 +1551,7 @@
   type-sort: 2
   box: boxes/2006/unc-83-duke-76
 
-- game: UNC 99 | Virginia 54
+- game: UNC 99 | UVA54
   date: March 1, 2006
   time: 20060301
   season: 05-06
@@ -1683,7 +1683,7 @@
   type-sort: 2
   box: boxes/2006/unc-81-fsu-80
 
-- game: Virginia 72 | UNC 68
+- game: UVA72 | UNC 68
   date: January 19, 2006
   time: 20060119
   season: 05-06
@@ -2079,7 +2079,7 @@
   type-sort: 2
   box: boxes/2007/vt-94-unc-88
 
-- game: UNC 79 | Virginia 69
+- game: UNC 79 | UVA69
   date: January 10, 2007
   time: 20070110
   season: 06-07
@@ -2409,7 +2409,7 @@
   type-sort: 2
   box: boxes/2008/unc-92-vt-53
 
-- game: UNC 75 | Virginia 74
+- game: UNC 75 | UVA74
   date: February 12, 2008
   time: 20080212
   season: 07-08
@@ -2849,7 +2849,7 @@
   type-sort: 2
   box: boxes/2009/unc-101-duke-87
 
-- game: UNC 76 | Virginia 61
+- game: UNC 76 | UVA61
   date: February 7, 2009
   time: 20090207
   season: 08-09
@@ -2915,7 +2915,7 @@
   type-sort: 2
   box: boxes/2009/unc-82-miami-65
 
-- game: UNC 83 | Virginia 61
+- game: UNC 83 | UVA61
   date: January 15, 2009
   time: 20090115
   season: 08-09
@@ -3278,7 +3278,7 @@
   type-sort: 2
   box: boxes/2010/vt-74-unc-70
 
-- game: Virginia 75 | UNC 60
+- game: UVA75 | UNC 60
   date: January 31, 2010
   time: 20100131
   season: 09-10
@@ -3751,7 +3751,7 @@
   type-sort: 2
   box: boxes/2011/unc-64-vt-61
 
-- game: UNC 62 | Virginia 56
+- game: UNC 62 | UVA56
   date: January 8, 2011
   time: 20110108
   season: 10-11
@@ -4015,7 +4015,7 @@
   type-sort: 2
   box: boxes/2012/unc-88-maryland-64
 
-- game: UNC 54 | Virginia 51
+- game: UNC 54 | UVA51
   date: February 25, 2012
   time: 20120225
   season: 11-12
@@ -4059,7 +4059,7 @@
   type-sort: 2
   box: boxes/2012/unc-73-miami-64
 
-- game: UNC 70 | Virginia 52
+- game: UNC 70 | UVA52
   date: February 11, 2012
   time: 20120211
   season: 11-12
@@ -4455,7 +4455,7 @@
   type-sort: 2
   box: boxes/2013/unc-70-gt-58
 
-- game: UNC 93 | Virginia 81
+- game: UNC 93 | UVA81
   date: February 16, 2013
   time: 20130216
   season: 12-13
@@ -4576,7 +4576,7 @@
   type-sort: 2
   box: boxes/2013/miami-68-unc-59
 
-- game: Virginia 61 | UNC 52
+- game: UVA61 | UNC 52
   date: January 6, 2013
   time: 20130106
   season: 12-13
@@ -4906,7 +4906,7 @@
   type-sort: 2
   box: boxes/2014/unc-80-clem-61
 
-- game: Virginia 76 | UNC 61
+- game: UVA76 | UNC 61
   date: January 20, 2014
   time: 20140120
   season: 13-14
@@ -5148,7 +5148,7 @@
   type-sort: 3
   box: boxes/2015/nd-90-unc-82
 
-- game: UNC 71 | Virginia 67
+- game: UNC 71 | UVA67
   date: March 13, 2015
   time: 20150313
   season: 14-15
@@ -5269,7 +5269,7 @@
   type-sort: 2
   box: boxes/2015/unc-79-bc-68
 
-- game: Virginia 75 | UNC 64
+- game: UVA75 | UNC 64
   date: February 2, 2015
   time: 20150202
   season: 14-15
