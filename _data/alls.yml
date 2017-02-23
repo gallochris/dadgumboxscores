@@ -347,7 +347,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Elite 8
+  type: NCAA Tournament Elite 8
   type-sort: 4
   box: boxes/2016/unc-88-nd-74
 
@@ -2273,7 +2273,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Elite 8
+  type: NCAA Tournament Elite 8
   type-sort: 4
   box: boxes/2008/unc-83-lville-73
 
@@ -2713,7 +2713,7 @@
   result: win
   style: 99ffb2
   location: neutral
-  type: NCAA Elite 8
+  type: NCAA Tournament Elite 8
   type-sort: 4
   box: boxes/2009/unc-72-ok-60
 
@@ -3516,7 +3516,7 @@
   result: loss
   style: ffbfb2
   location: neutral
-  type: NCAA Elite 8
+  type: NCAA Tournament Elite 8
   type-sort: 4
   box: boxes/2011/kentucky-76-unc-69
 
@@ -3923,7 +3923,7 @@
   result: loss
   style: ffbfb2
   location: neutral
-  type: NCAA Elite 8
+  type: NCAA Tournament Elite 8
   type-sort: 4
   box: boxes/2012/kansas-80-unc-67
 
