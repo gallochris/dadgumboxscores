@@ -1,3 +1,15 @@
+- game: UNC 85 | Pitt 67
+  off1: Mike Eades (1)
+  off2: James Breeding (18)
+  off3: Jeff Clark (36)
+  rtg: 55
+  result: win
+  style: 99ffb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-85-pitt-67
+
 - game: UNC 74 | Louisville 63
   off1: Ron Groover (20)
   off2: Pat Driscoll (3)
