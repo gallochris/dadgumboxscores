@@ -78,9 +78,9 @@
   ft: .295
   ppp: "1.15"
   oefg: "0.640"
-  oto: ".147"
+  oto: "0.147"
   oor: ".233"
-  oft: ".281"
+  oft: "0.281"
   oppp: "1.26"
   result: loss
   style: ffbfb2
@@ -98,7 +98,7 @@
   oefg: .527
   oto: "0.132"
   oor: "0.206"
-  oft: ".357"
+  oft: "0.357"
   oppp: "1.12"
   result: win 
   style: 99ffb2
