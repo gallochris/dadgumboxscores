@@ -28,9 +28,9 @@ Most Frequent Officials
 Best Crew Rating
 |      Game     | Rtg Total|
 |:-------------:|:--------:|
-| Virginia Tech |     23   |
-|      Duke     |     23   |
-|   Lousiville  |     35   |
+| Virginia Tech |     21   |
+|      Duke     |     21   |
+|   Lousiville  |     30   |
 </pre>
 
 
