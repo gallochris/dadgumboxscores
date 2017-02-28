@@ -1,11 +1,11 @@
 - game: UVA 53 | UNC 43
   efg: "0.396"
-  to: .252
-  or: .313
+  to: .255
+  or: .312
   ft: .146
   ppp: "0.78"
   oefg: .407
-  oto: "0.075"
+  oto: "0.073"
   oor: .317
   oft: .136
   oppp: "0.96"
