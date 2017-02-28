@@ -1,3 +1,14 @@
+- game: UVA 53 | UNC 43
+  date: February 27, 2017
+  time: 20170227
+  season: 16-17
+  result: loss
+  style: ffbfb2
+  location: away
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/uva-53-unc-43
+
 - game: UNC 85 | Pitt 67
   date: February 25, 2017
   time: 20170225
