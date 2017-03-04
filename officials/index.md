@@ -18,7 +18,7 @@ layout: refs
 Most Frequent Officials
 |      Name     |  # of Games |
 |:-------------:|:-----------:|
-|  Ron Groover  |      6      | 
+ |   Ron Groover |      6      | 
 | Ted Valentine |      5      |
 |  Roger Ayers  |      5      |
 |  Mike Eades   |      5      |
