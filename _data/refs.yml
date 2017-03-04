@@ -1,8 +1,20 @@
+- game: Duke at UNC
+  off1: Ron Groover
+  off2: Tim Nestor
+  off3: Les Jones  
+  rtg: 90
+  result: 
+  style: 
+  location: home
+  type: Conference
+  type-sort: 2
+  box: 
+
 - game: UVA 53 | UNC 43
   off1: Michael Roberts
   off2: Doug Shows
   off3: Tony Chiazza 
-  rtg: 89
+  rtg: 62
   result: loss
   style: ffbfb2
   location: away
@@ -14,7 +26,7 @@
   off1: Mike Eades 
   off2: James Breeding 
   off3: Jeff Clark 
-  rtg: 58
+  rtg: 59
   result: win
   style: 99ffb2
   location: away
@@ -38,7 +50,7 @@
   off1: Brian O'Connell 
   off2: Tim Clougherty 
   off3: Doug Sirmons 
-  rtg: 114
+  rtg: 118
   result: win
   style: 99ffb2
   location: home
@@ -50,7 +62,7 @@
   off1: Les Jones 
   off2: James Breeding 
   off3: Bert Smith 
-  rtg: 83
+  rtg: 80
   result: win
   style: 99ffb2
   location: away
@@ -62,7 +74,7 @@
   off1: Roger Ayers 
   off2: Mike Eades 
   off3: Michael Roberts 
-  rtg: 21
+  rtg: 11
   result: loss
   style: ffbfb2
   location: away
@@ -74,7 +86,7 @@
   off1: Jamie Luckie 
   off2: Bill Covington Jr. 
   off3: Clarence Armstrong 
-  rtg: 138
+  rtg: 127
   result: win
   style: 99ffb2
   location: neutral
@@ -86,7 +98,7 @@
   off1: Ted Valentine 
   off2: Lee Cassell 
   off3: Lamar Simpson 
-  rtg: 100
+  rtg: 99
   result: win
   style: 99ffb2
   location: home
@@ -98,7 +110,7 @@
   off1: Ron Groover 
   off2: Sean Hull 
   off3: John Gaffney 
-  rtg: 125
+  rtg: 127
   result: loss
   style: ffbfb2
   location: away
@@ -111,7 +123,7 @@
   off1: Mike Eades 
   off2: Roger Ayers 
   off3: Michael Roberts 
-  rtg: 21
+  rtg: 11
   result: win
   style: 99ffb2
   location: home
@@ -123,7 +135,7 @@
   off1: Ed Corbett 
   off2: Tony Greene 
   off3: Brian O'Connell 
-  rtg: 114
+  rtg: 121
   result: win 
   style: 99ffb2
   location: away
@@ -135,7 +147,7 @@
   off1: Ron Groover 
   off2: John Gaffney 
   off3: Doug Shows 
-  rtg: 42
+  rtg: 36
   result: win
   style: 99ffb2
   location: home
@@ -147,7 +159,7 @@
   off1: Roger Ayers 
   off2: Lee Cassell 
   off3: Tony Chiazza 
-  rtg: 82
+  rtg: 73
   result: win
   style: 99ffb2
   location: home
@@ -159,7 +171,7 @@
   off1: Mike Eades 
   off2: Tim Comer 
   off3: Brian O'Connell 
-  rtg: 100
+  rtg: 104
   result: win
   style: 99ffb2
   location: away
@@ -171,7 +183,7 @@
   off1: Ron Groover 
   off2: Keith Kimble 
   off3: Matt Potter 
-  rtg: 106
+  rtg: 108
   result: win
   style: 99ffb2
   location: home
@@ -183,7 +195,7 @@
   off1: Tim Nestor 
   off2: Lee Cassell 
   off3: Jeff Clark 
-  rtg: 123
+  rtg: 132
   result: win
   style: 99ffb2
   location: away
@@ -195,7 +207,7 @@
   off1: Brian Dorsey 
   off2: Bill Covington Jr. 
   off3: Tim Clougherty 
-  rtg: 179
+  rtg: 173
   result: loss
   style: ffbfb2
   location: away
@@ -207,7 +219,7 @@
   off1: Les Jones 
   off2: Doug Sirmons 
   off3: Jeb Hartness 
-  rtg: 121
+  rtg: 113
   result: win
   style: 99ffb2
   location: home
@@ -243,7 +255,7 @@
   off1: Mike Eades
   off2: Jeff Clark 
   off3: Doug Shows 
-  rtg: 53
+  rtg: 46
   result: win
   style: 99ffb2
   location: home
@@ -255,7 +267,7 @@
   off1: Ted Valentine 
   off2: Ron Groover 
   off3: Keith Kimble 
-  rtg: 42
+  rtg: 41
   result: win
   style: 99ffb2
   location: home
@@ -267,7 +279,7 @@
   off1: Michael Stephens 
   off2: Tim Nestor 
   off3: Tim Clougherty 
-  rtg: 149
+  rtg: 159
   result: win
   style: 99ffb2
   location: home
@@ -279,7 +291,7 @@
   off1: Terry Wymer 
   off2: Bo Boroski 
   off3: Gene Steratore 
-  rtg: 70
+  rtg: 64
   result: loss
   style: ffbfb2
   location: away
@@ -291,7 +303,7 @@
   off1: Ted Valentine 
   off2: Chris Rastatter 
   off3: Earl Walton 
-  rtg: 91
+  rtg: 93
   result: win
   style: 99ffb2
   location: neutral
@@ -303,7 +315,7 @@
   off1: Ted Valentine 
   off2: Tom Eades 
   off3: Donnie Eppley 
-  rtg: 115
+  rtg: 110
   result: win
   style: 99ffb2
   location: neutral
@@ -315,7 +327,7 @@
   off1: Chris Rastatter 
   off2: Bob Staffen 
   off3: Donnie Eppley 
-  rtg: 190
+  rtg: 188
   result: win
   style: 99ffb2
   location: neutral
@@ -327,7 +339,7 @@
   off1: Gregory Nixon 
   off2: Tommy Nunez 
   off3: Daryl Gelinas 
-  rtg: 350
+  rtg: 352
   result: win
   style: 99ffb2
   location: away
@@ -339,7 +351,7 @@
   off1: Roger Ayers 
   off2: John Higgins 
   off3: Les Jones 
-  rtg: 42
+  rtg: 41
   result: win
   style: 99ffb2
   location: home
@@ -351,7 +363,7 @@
   off1: Ted Valentine 
   off2: Raymond Styons Jr. 
   off3: Tim Comer 
-  rtg: 144
+  rtg: 147
   result: win
   style: 99ffb2
   location: home
@@ -363,7 +375,7 @@
   off1: John Hampton 
   off2: Doug Sirmons 
   off3: Jeb Hartness 
-  rtg: 169
+  rtg: 164
   result: win
   style: 99ffb2
   location: away
