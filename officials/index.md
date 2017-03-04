@@ -7,7 +7,7 @@ layout: refs
 
 ## Officials game-by-game 2016-17
 
-#### Ratings last updated: 2-27-2017
+#### Ratings last updated: 3-04-2017
 
 #### Filter by a referee's first or last name
 
@@ -18,9 +18,9 @@ layout: refs
 Most Frequent Officials
 |      Name     |  # of Games |
 |:-------------:|:-----------:|
+|  Ron Groover  |      6      | 
 | Ted Valentine |      5      |
 |  Roger Ayers  |      5      |
-|  Ron Groover  |      5      |
 |  Mike Eades   |      5      |
 </pre>
 
@@ -28,8 +28,8 @@ Most Frequent Officials
 Best Crew Rating
 |      Game     | Rtg Total|
 |:-------------:|:--------:|
-| Virginia Tech |     21   |
-|      Duke     |     21   |
+| Virginia Tech |     11   |
+|      Duke     |     11   |
 |   Lousiville  |     30   |
 </pre>
 
