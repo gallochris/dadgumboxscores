@@ -1,4 +1,15 @@
-- game: UNC at Duke
+- game: Duke at UNC
+  off1: Ron Groover
+  off2: Tim Nestor
+  off3: Les Jones
+  result: 
+  style: 
+  location: home
+  type: Conference
+  type-sort: 2
+  box: 
+
+- game: Duke 86 | UNC 78
   off1: Roger Ayers
   off2: Mike Eades 
   off3: Michael Roberts
