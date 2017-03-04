@@ -5,6 +5,7 @@
   result: 
   style: 
   location: home
+  season: 16-17
   type: Conference
   type-sort: 2
   box: 
@@ -16,6 +17,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 16-17
   type: Conference
   type-sort: 2
   box: /boxes/2017/duke-86-unc-78/
@@ -38,6 +40,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 15-16
   type: Conference
   type-sort: 2
   box: /boxes/2016/duke-74-unc-73/
@@ -49,6 +52,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 15-16
   type: Conference
   type-sort: 2
   box: /boxes/2015/duke-84-unc-77/
@@ -60,6 +64,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 14-15
   type: Conference
   type-sort: 2
   box: /boxes/2015/duke-92-unc-90/
@@ -71,6 +76,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 14-15
   type: Conference
   type-sort: 2
   box: /boxes/2014/duke-93-unc-81/
@@ -82,6 +88,7 @@
   result: win
   style: 99ffb2
   location: home
+  season: 13-14
   type: Conference
   type-sort: 2
   box: /boxes/2014/unc-74-duke-66/
@@ -93,6 +100,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 12-13
   type: Conference
   type-sort: 2
   box: /boxes/2013/duke-69-unc-53/
@@ -104,6 +112,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 12-13
   type: Conference
   type-sort: 2
   box: /boxes/2013/duke-73-unc-68/
@@ -115,6 +124,7 @@
   result: win
   style: 99ffb2
   location: away
+  season: 11-12
   type: Conference
   type-sort: 2
   box: /boxes/2012/unc-88-duke-70/
@@ -126,6 +136,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 11-12
   type: Conference
   type-sort: 2
   box: /boxes/2012/duke-85-unc-84/
@@ -137,6 +148,7 @@
   result: loss
   style: ffbfb2
   location: neutral
+  season: 10-11
   type: ACC Tournament
   type-sort: 2
   box: /boxes/2011/duke-75-unc-58/
@@ -148,6 +160,7 @@
   result: win
   style: 99ffb2
   location: home
+  season: 10-11
   type: Conference
   type-sort: 2
   box: /boxes/2011/unc-81-duke-67/
@@ -159,6 +172,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 10-11
   type: Conference
   type-sort: 2
   box: /boxes/2011/duke-79-unc-73/
@@ -170,6 +184,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 09-10
   type: Conference
   type-sort: 2
   box: /boxes/2010/duke-82-unc-50/
@@ -181,6 +196,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 09-10
   type: Conference
   type-sort: 2
   box: /boxes/2010/duke-64-unc-54/
@@ -192,6 +208,7 @@
   result: win
   style: 99ffb2
   location: home
+  season: 08-09
   type: Conference
   type-sort: 2
   box: /boxes/2009/unc-79-duke-71/
@@ -203,6 +220,7 @@
   result: win
   style: 99ffb2
   location: away
+  season: 08-09
   type: Conference
   type-sort: 2
   box: /boxes/2009/unc-101-duke-87/
@@ -214,6 +232,7 @@
   result: win
   style: 99ffb2
   location: away
+  season: 07-08
   type: Conference
   type-sort: 2
   box: /boxes/2008/unc-76-duke-68/
@@ -225,6 +244,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 07-08
   type: Conference
   type-sort: 2
   box: boxes/2008/duke-89-unc-78/
@@ -236,6 +256,7 @@
   result: win
   style: 99ffb2
   location: home
+  season: 06-07
   type: Conference
   type-sort: 2
   box: /boxes/2007/unc-86-duke-72/
@@ -247,6 +268,7 @@
   result: win
   style: 99ffb2
   location: away
+  season: 06-07
   type: Conference
   type-sort: 2
   box: /boxes/2007/unc-79-duke-73/
@@ -258,6 +280,7 @@
   result: win
   style: 99ffb2
   location: away
+  season: 05-06
   type: Conference
   type-sort: 2
   box: /boxes/2006/unc-83-duke-76/
@@ -268,6 +291,7 @@
   off3: Tim Higgins
   result: loss
   style: ffbfb2
+  season: 05-06
   location: away
   type: Conference
   type-sort: 2
@@ -280,6 +304,7 @@
   result: win
   style: 99ffb2
   location: home
+  season: 04-05
   type: Conference
   type-sort: 2
   box: /boxes/2005/unc-75-duke-73/
@@ -291,6 +316,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 04-05
   type: Conference
   type-sort: 2
   box: /boxes/2005/duke-71-unc-70/
@@ -302,6 +328,7 @@
   result: loss
   style: ffbfb2
   location: away
+  season: 03-04
   type: Conference
   type-sort: 2
   box: /boxes/2004/duke-70-unc-65/
@@ -313,6 +340,7 @@
   result: loss
   style: ffbfb2
   location: home
+  season: 03-04
   type: Conference
   type-sort: 2
   box: /boxes/2004/duke-83-unc-81/
