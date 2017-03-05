@@ -1,14 +1,14 @@
-- game: Duke at UNC
+- game: UNC 90 | Duke 83
   off1: Ron Groover
   off2: Tim Nestor
   off3: Les Jones
-  result: 
-  style: 
+  result: win 
+  style: 99ffb2
   location: home
   season: 16-17
   type: Conference
   type-sort: 2
-  box: 
+  box: /boxes/2017/unc-90-duke-83/
 
 - game: Duke 86 | UNC 78
   off1: Roger Ayers

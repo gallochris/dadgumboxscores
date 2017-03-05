@@ -1,3 +1,21 @@
+- game: UNC 90 | Duke 83
+  efg: "0.552"
+  to: .125
+  or: .343
+  ft: .313
+  ppp: "1.25"
+  oefg: .509
+  oto: "0.111"
+  oor: .258
+  oft: .648
+  oppp: "1.15"
+  result: win
+  style: 99ffb2
+  location: home
+  type: Conference
+  type-sort: 2
+  box: /boxes/2017/unc-90-duke-83
+
 - game: UVA 53 | UNC 43
   efg: "0.396"
   to: .255
