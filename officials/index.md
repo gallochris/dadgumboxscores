@@ -7,11 +7,7 @@ layout: refs
 
 ## Officials game-by-game 2016-17
 
-#### Ratings last updated: 3-04-2017
-
 #### Filter by a referee's first or last name
-
-#### Crew composite rating is pulled using [Ken Pomeroy's data](http://kenpom.com/officials.php). 
 
 
 <pre style="text-align: center">
@@ -24,22 +20,13 @@ Most Frequent Officials
 |  Mike Eades   |      5      |
 </pre>
 
-<pre style="text-align: center">
-Best Crew Rating
-|      Game     | Rtg Total|
-|:-------------:|:--------:|
-| Virginia Tech |     11   |
-|      Duke     |     11   |
-|   Lousiville  |     30   |
-</pre>
-
 
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
          <tr> 
            <th data-sortable="false">Box Score</th>
            <th class="larrydrew">Location ↑↓</th>
-           <th class="larrydrew">Rating ↑↓</th>
+           <th style="display: none;">Rating ↑↓</th>
            <th data-sortable="false">Ref 1</th>
            <th data-sortable="false">Ref 2</th>
            <th data-sortable="false">Ref 3</th>
@@ -51,7 +38,7 @@ Best Crew Rating
 		<tr style="background-color: #{{ ref.style }};">
   			<td><a href="{{ ref.box }}" target="_blank">{{ ref.game }}</a></td>
   			<td class="larrydrew">{{ ref.location }}</td> 
-        <td class="larrydrew">{{ ref.rtg }}</td> 
+        <td style="display: none;">{{ ref.rtg }}</td> 
         <td>{{ ref.off1 }}</td> 
   			<td>{{ ref.off2 }}</td>
   			<td>{{ ref.off3 }}</td>
