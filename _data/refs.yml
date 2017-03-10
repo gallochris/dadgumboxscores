@@ -1,3 +1,14 @@
+- game: UNC 78 | Miami 53
+  off1: Roger Ayers
+  off2: Tim Nestor
+  off3: Jerry Heater
+  result: win
+  style: 99ffb2
+  location: home
+  type: ACC Tournament 
+  type-sort: 3
+  box: /boxes/2017/unc-78-miami-53.pdf
+
 - game: UNC 90 | Duke 83
   off1: Ron Groover
   off2: Tim Nestor

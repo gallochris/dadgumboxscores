@@ -1,3 +1,14 @@
+- game: UNC 78 | Miami 53
+  date: March 9, 2017
+  time: 20170309
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: home
+  type: ACC Tournament 
+  type-sort: 3
+  box: /boxes/2017/unc-78-miami-53.pdf
+
 - game: UNC 90 | Duke 83
   date: March 4, 2017
   time: 20170304
