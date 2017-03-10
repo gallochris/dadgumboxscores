@@ -4,10 +4,10 @@
   season: 16-17
   result: win
   style: 99ffb2
-  location: home
+  location: neutral
   type: ACC Tournament 
   type-sort: 3
-  box: /boxes/2017/unc-78-miami-53.pdf
+  box: /boxes/2017/unc-78-um-53.pdf
 
 - game: UNC 90 | Duke 83
   date: March 4, 2017
