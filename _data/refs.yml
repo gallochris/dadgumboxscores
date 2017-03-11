@@ -1,3 +1,14 @@
+- game: Duke 93 | UNC 83
+  off1: Brian Dorsey
+  off2: Bill Covington Jr.
+  off3: Ron Groover
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: ACC Tournament 
+  type-sort: 3
+  box: /boxes/2017/duke-93-unc-83/
+
 - game: UNC 78 | Miami 53
   off1: Roger Ayers
   off2: Tim Nestor

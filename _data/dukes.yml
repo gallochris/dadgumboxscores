@@ -1,3 +1,15 @@
+- game: Duke 93 | UNC 83
+  off1: Brian Dorsey
+  off2: Bill Covington Jr.
+  off3: Ron Groover
+  result: loss
+  style: ffbfb2
+  season: 16-17
+  location: neutral
+  type: ACC Tournament 
+  type-sort: 3
+  box: /boxes/2017/duke-93-unc-83/
+
 - game: UNC 90 | Duke 83
   off1: Ron Groover
   off2: Tim Nestor

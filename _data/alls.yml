@@ -1,3 +1,14 @@
+- game: Duke 93 | UNC 83
+  date: March 10, 2017
+  time: 20170310
+  season: 16-17
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: ACC Tournament 
+  type-sort: 3
+  box: /boxes/2017/duke-93-unc-83/
+
 - game: UNC 78 | Miami 53
   date: March 9, 2017
   time: 20170309

@@ -12,14 +12,14 @@ layout: factors
 | When UNC has a . .  | it's record is . . |
 |:-------------------:|:------------------:|
 |     Higher eFG%     |         18-0       |
-|      Lower eFG%     |          9-6       |
+|      Lower eFG%     |          9-7       |
 |      Higher TO%     |          9-3       |
-|      Lower TO%      |         17-3       |
+|      Lower TO%      |         17-4       |
 |       Same TO%      |          1-0       |
-|      Higher OR%     |         27-2       |
+|      Higher OR%     |         27-3       |
 |      Lower OR%      |          0-4       |
 |    Higher FTRate    |         20-2       |
-|     Lower FTRate    |          7-4       |
+|     Lower FTRate    |          7-5       |
 </pre>
 
 

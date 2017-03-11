@@ -1,3 +1,21 @@
+- game: Duke 93 | UNC 83
+  efg: "0.442"
+  to: .135
+  or: .449
+  ft: "0.230"
+  ppp: "1.12"
+  oefg: "0.600"
+  oto: "0.149"
+  oor: .192
+  oft: "0.740"
+  oppp: "1.26"
+  result: loss
+  style: ffbfb2
+  location: neutral
+  type: ACC Tournament 
+  type-sort: 3
+  box: /boxes/2017/duke-93-unc-83
+
 - game: UNC 78 | Miami 53
   efg: "0.594"
   to: .172
@@ -11,7 +29,7 @@
   oppp: "0.83"
   result: win
   style: 99ffb2
-  location: home
+  location: neutral
   type: ACC Tournament 
   type-sort: 3
   box: /boxes/2017/unc-78-um-53.pdf
