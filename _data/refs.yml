@@ -1,3 +1,14 @@
+- game: UNC 103 | Texas Southern 64
+  off1: Mike Reed
+  off2: Paul Faia
+  off3: Les Jones
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament 
+  type-sort: 4
+  box: /boxes/2017/unc-103-ts-64
+
 - game: Duke 93 | UNC 83
   off1: Brian Dorsey
   off2: Bill Covington Jr.

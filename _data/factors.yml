@@ -1,3 +1,21 @@
+- game: UNC 103 | Texas Southern 64
+  efg: "0.560"
+  to: .132
+  or: .488
+  ft: "0.347"
+  ppp: "1.36"
+  oefg: "0.430"
+  oto: "0.171"
+  oor: "0.150"
+  oft: "0.270"
+  oppp: "0.84"
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament 
+  type-sort: 4
+  box: /boxes/2017/unc-103-ts-64
+
 - game: Duke 93 | UNC 83
   efg: "0.442"
   to: .135
