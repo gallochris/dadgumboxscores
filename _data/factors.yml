@@ -1,3 +1,21 @@
+- game: UNC 72 | Arkansas 65
+  efg: "0.421"
+  to: "0.230"
+  or: .429
+  ft: "0.397"
+  ppp: "0.97"
+  oefg: "0.500"
+  oto: "0.257"
+  oor: "0.229"
+  oft: "0.133"
+  oppp: "0.88"
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament 2nd Round
+  type-sort: 4
+  box: /boxes/2017/unc-72-ark-65
+
 - game: UNC 103 | Texas Southern 64
   efg: "0.560"
   to: .132

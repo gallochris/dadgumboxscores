@@ -1,3 +1,14 @@
+- game: UNC 72 | Arkansas 65
+  off1: Mike Reed  
+  off2: Lamont Simpson
+  off3: Darron George
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament 2nd Round
+  type-sort: 4
+  box: /boxes/2017/unc-72-ark-65
+
 - game: UNC 103 | Texas Southern 64
   off1: Mike Reed
   off2: Paul Faia
