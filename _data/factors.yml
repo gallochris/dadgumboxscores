@@ -1,3 +1,21 @@
+- game: UNC 92 | Butler 80
+  efg: "0.623"
+  to: "0.137"
+  or: .357
+  ft: "0.579"
+  ppp: "0.97"
+  oefg: "0.500"
+  oto: "0.123"
+  oor: "0.222"
+  oft: "0.339"
+  oppp: "0.88"
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Sweet 16
+  type-sort: 4
+  box: /boxes/2017/unc-92-butler-80
+
 - game: UNC 72 | Arkansas 65
   efg: "0.421"
   to: "0.230"

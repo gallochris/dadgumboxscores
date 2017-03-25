@@ -1,13 +1,13 @@
-- game: UNC vs. Butler
+- game: UNC 92 | Butler 80
   off1: Doug Shows
   off2: Lamar Simpson
   off3: Joe Lindsay
-  result: 
-  style: 
+  result: win
+  style: 99ffb2
   location: neutral
   type: NCAA Tournament Sweet 16
   type-sort: 4
-  box: 
+  box: /boxes/2017/unc-92-butler-80
 
 - game: UNC 72 | Arkansas 65
   off1: Bo Boroski
