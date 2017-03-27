@@ -1,3 +1,21 @@
+- game: UNC 75 | Kentucky 73
+  efg: "0.491"
+  to: "0.219"
+  or: .361
+  ft: "0.448"
+  ppp: "0.97"
+  oefg: "0.469"
+  oto: "0.123"
+  oor: "0.262"
+  oft: "0.292"
+  oppp: "0.88"
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Elite 8
+  type-sort: 4
+  box: /boxes/2017/unc-75-kentucky-73
+
 - game: UNC 92 | Butler 80
   efg: "0.623"
   to: "0.137"

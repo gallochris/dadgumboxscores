@@ -1,3 +1,14 @@
+- game: UNC 75 | Kentucky 73
+  date: March 26, 2017
+  time: 20170326
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Elite 8
+  type-sort: 4
+  box: /boxes/2017/unc-75-kentucky-73
+
 - game: UNC 92 | Butler 80
   date: March 24, 2017
   time: 20170324

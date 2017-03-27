@@ -2,12 +2,12 @@
   off1: John Higgins
   off2: Keith Kimble
   off3: Mike Reed
-  result: 
-  style:
+  result: win
+  style: 99ffb2
   location: neutral
   type: NCAA Tournament Elite 8
   type-sort: 4
-  box: 
+  box: /boxes/2017/unc-75-kentucky-73
 
 - game: UNC 92 | Butler 80
   off1: Doug Shows
