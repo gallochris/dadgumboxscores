@@ -1,4 +1,26 @@
-- game: UNC vs. Kentucky
+- game: UNC vs. Gonzaga
+  off1: Mike Eades
+  off2: Verne Harris
+  off3: Michael Stephens
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Title 
+  type-sort: 4
+  box: 
+
+- game: UNC 77 | Oregon 76
+  off1: Tony Padilla
+  off2: Ted Valentine
+  off3: Ron Groover
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Final 4 
+  type-sort: 4
+  box: /boxes/2017/unc-77-oregon-76
+
+- game: UNC 75 | Kentucky 73
   off1: John Higgins
   off2: Keith Kimble
   off3: Mike Reed

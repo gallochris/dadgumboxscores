@@ -1,3 +1,14 @@
+- game: UNC 77 | Oregon 76
+  date: April 1, 2017
+  time: 20170401
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Final 4 
+  type-sort: 4
+  box: /boxes/2017/unc-77-oregon-76
+
 - game: UNC 75 | Kentucky 73
   date: March 26, 2017
   time: 20170326

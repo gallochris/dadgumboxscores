@@ -1,14 +1,32 @@
+- game: UNC 77 | Oregon 76
+  efg: "0.427"
+  to: "0.147"
+  or: .354
+  ft: "0.397"
+  ppp: "1.03"
+  oefg: "0.440"
+  oto: "0.213"
+  oor: "0.316"
+  oft: "0.483"
+  oppp: "1.01"
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Final 4
+  type-sort: 4
+  box: /boxes/2017/unc-77-oregon-76
+
 - game: UNC 75 | Kentucky 73
   efg: "0.491"
   to: "0.219"
   or: .361
   ft: "0.448"
-  ppp: "0.97"
+  ppp: "1.03"
   oefg: "0.469"
   oto: "0.123"
   oor: "0.262"
   oft: "0.292"
-  oppp: "0.88"
+  oppp: "1.00"
   result: win
   style: 99ffb2
   location: neutral
