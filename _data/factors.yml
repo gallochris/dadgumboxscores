@@ -1,3 +1,22 @@
+- game: UNC 71 | Gonzaga 65
+  efg: "0.384"
+  to: "0.054"
+  or: .288
+  ft: "0.356"
+  ppp: "0.96"
+  oefg: "0.407"
+  oto: "0.189"
+  oor: "0.279"
+  oft: "0.441"
+  oppp: "0.88"
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Final 4
+  type-sort: 4
+  box: /boxes/2017/unc-71-zags-65
+
+
 - game: UNC 77 | Oregon 76
   efg: "0.427"
   to: "0.147"

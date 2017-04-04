@@ -1,13 +1,13 @@
-- game: UNC vs. Gonzaga
+- game: UNC 71 | Gonzaga 65
   off1: Mike Eades
   off2: Verne Harris
   off3: Michael Stephens
-  result: 
-  style: 
+  result: win
+  style: 99ffb2
   location: neutral
   type: NCAA Tournament Title 
   type-sort: 4
-  box: 
+  box: /boxes/2017/unc-71-zags-65
 
 - game: UNC 77 | Oregon 76
   off1: Tony Padilla

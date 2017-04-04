@@ -1,3 +1,14 @@
+- game: UNC 71 | Gonzaga 65
+  date: April 3, 2017
+  time: 20170403
+  season: 16-17
+  result: win
+  style: 99ffb2
+  location: neutral
+  type: NCAA Tournament Championship
+  type-sort: 4
+  box: /boxes/2017/unc-71-zags-65
+
 - game: UNC 77 | Oregon 76
   date: April 1, 2017
   time: 20170401
