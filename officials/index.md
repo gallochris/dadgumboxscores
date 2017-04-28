@@ -33,14 +33,14 @@ Most Frequent Officials
      </thead>
 
     <tbody>
-	{% for ref in site.data.refs %}
-		<tr style="background-color: #{{ ref.style }};">
-  			<td><a href="{{ ref.box }}" target="_blank">{{ ref.game }}</a></td>
-  			<td class="larrydrew">{{ ref.location }}</td> 
-        <td style="display: none;">{{ ref.rtg }}</td> 
-        <td>{{ ref.off1 }}</td> 
-  			<td>{{ ref.off2 }}</td>
-  			<td>{{ ref.off3 }}</td>
+	{% for off in site.data.offs %}
+		<tr style="background-color: #{{ off.style }};">
+  			<td><a href="{{ off.box }}" target="_blank">{{ off.game }}</a></td>
+  			<td class="larrydrew">{{ off.location }}</td> 
+        <td style="display: none;">{{ off.rtg }}</td> 
+        <td>{{ off.off1 }}</td> 
+  			<td>{{ off.off2 }}</td>
+  			<td>{{ off.off3 }}</td>
         </tr>
   			{% endfor %}
     </tbody>
