@@ -10,7 +10,7 @@ layout: refs
 #### Filter by a referee's first or last name
 
 
-<pre style="text-align: center">
+<pre class="huffman stilwata">
 Most Frequent Officials
 |      Name     |  # of Games |
 |:-------------:|:-----------:|
@@ -23,24 +23,24 @@ Most Frequent Officials
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
          <tr> 
-           <th data-sortable="false">Box Score</th>
-           <th class="larrydrew">Location ↑↓</th>
-           <th style="display: none;">Rating ↑↓</th>
-           <th data-sortable="false">Ref 1</th>
-           <th data-sortable="false">Ref 2</th>
-           <th data-sortable="false">Ref 3</th>
+           <th class="nate">Location</th>
+           <th class="britt">Rating</th>
+           <th class="larrydrew nate" data-sortable="false">Ref 1</th>
+           <th class="larrydrew nate" data-sortable="false">Ref 2</th>
+           <th class="larrydrew nate" data-sortable="false">Ref 3</th>
+           <th class="janet" data-sortable="false">Box Score</th>
          </tr>
      </thead>
 
     <tbody>
 	{% for off in site.data.offs %}
-		<tr style="background-color: #{{ off.style }};">
-  			<td><a href="{{ off.box }}" target="_blank">{{ off.game }}</a></td>
-  			<td class="larrydrew">{{ off.location }}</td> 
-        <td style="display: none;">{{ off.rtg }}</td> 
-        <td>{{ off.off1 }}</td> 
-  			<td>{{ off.off2 }}</td>
-  			<td>{{ off.off3 }}</td>
+		<tr>
+  			<td class="nate">{{ off.location }}</td> 
+        <td class="britt">{{ off.rtg }}</td> 
+        <td class="larrydrew nate">{{ off.off1 }}</td> 
+  			<td class="larrydrew nate">{{ off.off2 }}</td>
+  			<td class="larrydrew nate">{{ off.off3 }}</td>
+        <td class="janet"><span style="background-color:#{{ off.style }}; padding: 2px 2px;"><a href="{{ off.box }}" target="_blank">{{ off.game }}</a></span></td>
         </tr>
   			{% endfor %}
     </tbody>

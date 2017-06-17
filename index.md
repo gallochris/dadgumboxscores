@@ -13,27 +13,28 @@ layout: default
 
 #### Filter by season, wins, losses, opponent or type of game
 
-<table id="example" class="display center" cellspacing="0" width="100%">
+<table id="example" class="display center" cellspacing="0" width="100%" table-layout="fixed">
 	<thead>
          <tr> 
-           <th>Season ↑↓</th>
-           <th class="larrydrew">Date ↑↓</th>
-           <th style="display: none;">Result ↑↓</th>
-           <th class="larrydrew">Location ↑↓</th>
-           <th class="larrydrew">Type ↑↓</th>
-           <th data-sortable="false">Box Score</th>
+          <th class="larrydrew nate">Type</th>
+          <th class="larrydrew nate">Location</th>
+          <th class="janet britt">Year</th>
+          <th class="janet">Date</th>
+          <th class="janet" data-sortable="false">Box Score</th>
+          <th class="janet britt">Result</th>
          </tr>
      </thead>
 
     <tbody>
 	{% for all in site.data.alls %}
-		<tr style="background-color: #{{ all.style }};">
-  			<td>{{ all.season }}</td> 
-  			<td class="larrydrew">{{ all.date }}</td> 
-  			<td style="display: none;">{{ all.result }}</td>
-  			<td class="larrydrew">{{ all.location }}</td>
-  			<td class="larrydrew">{{ all.type }}</td>
-  			<td><a href="{{ all.box }}" target="_blank">{{ all.game }}</a></td></tr>
+		<tr>
+        <td class="larrydrew nate">{{ all.type }}</td>
+        <td class="larrydrew nate">{{ all.location }}</td>
+        <td class="janet britt">{{ all.season }}</td> 
+        <td class="janet">{{ all.date }}</td> 
+        <td class="janet"><span style="background-color:#{{ all.style }}; padding: 2px 2px;"><a href="{{ all.box }}" target="_blank">{{ all.game }}</a></span></td>
+        <td class="britt">{{ all.result }}</td>
+                </tr>
   			{% endfor %}
     </tbody>
 </table>
