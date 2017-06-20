@@ -23,7 +23,7 @@ layout: factors
            <th class="janet">Year</th>
            <th class="janet">Pick #</th>
            <th class="larrydrew janet" >Games Played</th>
-           <th class="larrydrew janet" >~On court Earnings</th>
+           <th class="larrydrew janet" >~On court Earnings (millions)</th>
          </tr>
      </thead>
 
