@@ -9,7 +9,7 @@ layout: refs
 
 #### Filter by a referee's first or last name
 
-<pre style="text-align: center">
+<pre class="huffman stilwata">
 |     Name     | # of Games |
 |:------------:|:----------:|
 |   Karl Hess  |     10     |
