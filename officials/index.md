@@ -5,29 +5,21 @@ layout: refs
 
 # Dadgum Box Scores 
 
-## Officials game-by-game 2016-17
+## Officials game-by-game since 03-04 
 
-#### Filter by a referee's first or last name
-
-
-<pre class="huffman stilwata">
-Most Frequent Officials
-|      Name     |  # of Games |
-|:-------------:|:-----------:|
- |   Ron Groover |      8      | 
-|  Mike Eades   |      7      |
-| Ted Valentine |      6      |
-</pre>
+#### Filter by a referee's name, result, location, season, or type of game
 
 
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
          <tr> 
-           <th class="nate">Location</th>
-           <th class="britt">Rating</th>
+           <th class="britt">Location</th>
+           <th class="britt">Type</th>
            <th class="larrydrew nate" data-sortable="false">Ref 1</th>
            <th class="larrydrew nate" data-sortable="false">Ref 2</th>
            <th class="larrydrew nate" data-sortable="false">Ref 3</th>
+           <th class="britt">Result</th>
+           <th class="janet">Season</th>
            <th class="janet" data-sortable="false">Box Score</th>
          </tr>
      </thead>
@@ -35,11 +27,13 @@ Most Frequent Officials
     <tbody>
 	{% for off in site.data.offs %}
 		<tr>
-  			<td class="nate">{{ off.location }}</td> 
-        <td class="britt">{{ off.rtg }}</td> 
+  			<td class="britt">{{ off.location }}</td> 
+        <td class="britt">{{ off.type }}</td> 
         <td class="larrydrew nate">{{ off.off1 }}</td> 
   			<td class="larrydrew nate">{{ off.off2 }}</td>
   			<td class="larrydrew nate">{{ off.off3 }}</td>
+        <th class="britt">{{ off.result }}</th>
+        <td class="janet">{{ off.season }}</td>
         <td class="janet"><span style="background-color:#{{ off.style }}; padding: 2px 2px;"><a href="{{ off.box }}" target="_blank">{{ off.game }}</a></span></td>
         </tr>
   			{% endfor %}
