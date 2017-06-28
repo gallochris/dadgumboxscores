@@ -186,7 +186,7 @@ display: none;
   }
 
  .ford { 
- font-size: 10px;
+ font-size: 12px;
   }
 
 
@@ -645,6 +645,9 @@ font-size: 7px;	       /* only if needed */
     display:none;
 }
 
+.boone { 
+ font-size: 6px;
+ }
 .code {
 	font-size: 10px;
 }

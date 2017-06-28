@@ -15,12 +15,12 @@ layout: refs
          <tr> 
            <th class="britt">Location</th>
            <th class="britt">Type</th>
-           <th class="larrydrew nate" data-sortable="false">Ref 1</th>
-           <th class="larrydrew nate" data-sortable="false">Ref 2</th>
-           <th class="larrydrew nate" data-sortable="false">Ref 3</th>
+           <th class="boone nate" data-sortable="false">Ref 1</th>
+           <th class="boone nate" data-sortable="false">Ref 2</th>
+           <th class="boone nate" data-sortable="false">Ref 3</th>
            <th class="britt">Result</th>
-           <th class="janet">Season</th>
-           <th class="janet" data-sortable="false">Box Score</th>
+           <th class="larrydrew janet">Season</th>
+           <th class="boone janet" data-sortable="false">Box Score</th>
          </tr>
      </thead>
 
@@ -29,12 +29,12 @@ layout: refs
 		<tr>
   			<td class="britt">{{ off.location }}</td> 
         <td class="britt">{{ off.type }}</td> 
-        <td class="larrydrew nate">{{ off.off1 }}</td> 
-  			<td class="larrydrew nate">{{ off.off2 }}</td>
-  			<td class="larrydrew nate">{{ off.off3 }}</td>
+        <td class="boone nate">{{ off.off1 }}</td> 
+  			<td class="boone nate">{{ off.off2 }}</td>
+  			<td class="boone nate">{{ off.off3 }}</td>
         <th class="britt">{{ off.result }}</th>
-        <td class="janet">{{ off.season }}</td>
-        <td class="janet"><span style="background-color:#{{ off.style }}; padding: 2px 2px;"><a href="{{ off.box }}" target="_blank">{{ off.game }}</a></span></td>
+        <td class="larrydrew janet">{{ off.season }}</td>
+        <td class="boone janet"><span style="background-color:#{{ off.style }}; padding: 2px 2px;"><a href="{{ off.box }}" target="_blank">{{ off.game }}</a></span></td>
         </tr>
   			{% endfor %}
     </tbody>

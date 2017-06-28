@@ -17,7 +17,7 @@ layout: factors
 <table id="example" class="display center" cellspacing="0" width="100%">
 	<thead>
          <tr> 
-           <th class="larrydrew nate" >Player</th>
+           <th class="nate" >Player</th>
            <th class="larrydrew nate" >Class</th>
            <th class="larrydrew nate" >Drafted Team</th>
            <th class="janet">Year</th>
@@ -30,7 +30,7 @@ layout: factors
     <tbody>
 	{% for thenba in site.data.thenbas %}
 		<tr>
-        <td class="larrydrew nate">{{ thenba.player }}</td> 
+        <td class="nate">{{ thenba.player }}</td> 
         <td class="larrydrew nate">{{ thenba.classyear }}</td>
         <td class="larrydrew nate">{{ thenba.draftedteam }}</td>
   			<td class="janet">{{ thenba.theyear }}</td> 
