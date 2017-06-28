@@ -23,7 +23,7 @@ But this site doesn't include schedules, player interviews or news, or any other
 
 
 - [goheels.com](http://goheels.com) - official site of UNC athletics 
-- Turner Walston - writes for goheels.com, covers all UNC sports, find him [@TurnerWalston](https://twitter.com/TurnerWalston)
+- Turner Walston - one of the best to cover all UNC sports, find him [@TurnerWalston](https://twitter.com/TurnerWalston)
 - Jones Angell - play-by-play voice for UNC, great insight [@JonesAngell](https://twitter.com/JonesAngell) 
 - [insidecarolina.com](http://insidecarolina.com) - this site covers it all, has in-depth analysis and scoops 
 - Sherrell D. McMillan - covers recuriting for Inside Carolina, follow him [@RellDMC](https://twitter.com/RellDMC)
