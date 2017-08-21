@@ -171,6 +171,7 @@ body {
 
 .nate { 
 text-align: left;
+width: 15em;
  }
 
 .janet { 
@@ -189,6 +190,19 @@ display: none;
  font-size: 12px;
   }
 
+.dataTables_info { 
+  text-align: center;
+  padding: 6px;
+  font-weight: bold;
+ }
+
+ .wide { 
+ width: 61px;
+  }
+
+ .wow { 
+ padding-left: 325px;
+  }
 
 body a {
 	font-weight: bolder;
