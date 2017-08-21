@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}     
+<div class="row ten columns offset by-one">
+    
+		
+		{{ .Content }}
+
+<table id="example" class="display center" cellspacing="0" width="100%">
+  <thead>
+         <tr> 
+           <th class="nate" >Player</th>
+           <th class="larrydrew nate" >Class</th>
+           <th class="larrydrew nate" >Drafted Team</th>
+           <th class="janet">Year</th>
+           <th class="janet">Pick #</th>
+           <th class="larrydrew janet" >Games Played</th>
+           <th class="larrydrew janet" >~On court Earnings (millions)</th>
+         </tr>
+     </thead>
+
+    <tbody>
+   {{ range $.Site.Data.pros }}
+    <tr>
+        <td class="nate">{{ .player }}</td> 
+        <td class="larrydrew nate">{{ .classyear }}</td>
+        <td class="larrydrew nate">{{ .draftedteam }}</td>
+        <td class="janet">{{ .theyear }}</td> 
+        <td class="janet">{{ .thepicknumber }}</td> 
+        <td class="larrydrew janet">{{ .gamesplayed }}</td>
+        <td class="larrydrew janet">{{ .careersalary }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+{{ partial "footer.html" . }}
+</div>

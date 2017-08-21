@@ -1,0 +1,40 @@
+{{ partial "ref-head.html" . }}
+{{ partial "nav.html" . }}
+  
+<div class="row ten columns offset by-one">
+    
+		
+		{{ .Content }}
+
+		<table id="example" class="display center" cellspacing="0" width="100%">
+  <thead>
+         <tr> 
+           <th class="britt">Location</th>
+           <th class="britt">Type</th>
+           <th class="boone nate" data-sortable="false">Ref 1</th>
+           <th class="boone nate" data-sortable="false">Ref 2</th>
+           <th class="boone nate" data-sortable="false">Ref 3</th>
+           <th class="britt">Result</th>
+           <th class="larrydrew janet">Season</th>
+           <th class="boone janet" data-sortable="false">Box Score</th>
+         </tr>
+     </thead>
+
+    <tbody>
+    {{ range $.Site.Data.refs }}
+    <tr>
+        <td class="britt">{{ .location }}</td> 
+        <td class="britt">{{ .type }}</td> 
+        <td class="boone nate">{{ .off1 }}</td> 
+        <td class="boone nate">{{ .off2 }}</td>
+        <td class="boone nate">{{ .off3 }}</td>
+        <th class="britt">{{ .result }}</th>
+        <td class="larrydrew janet">{{ .season }}</td>
+        <td class="boone janet"><span style="background-color:#{{.style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+{{ partial "footer.html" . }}
+</div>

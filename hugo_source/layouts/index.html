@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}   
+<div class="row ten columns offset by-one">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+	<table id="example" class="display center" cellspacing="0" width="100%" table-layout="fixed">
+	<thead>
+         <tr> 
+          <th class="larrydrew nate">Type</th>
+          <th class="larrydrew nate">Location</th>
+          <th class="janet britt">Year</th>
+          <th class="janet">Date</th>
+          <th class="janet" data-sortable="false">Box Score</th>
+          <th class="janet britt">Result</th>
+         </tr>
+     </thead>
+
+    <tbody>
+	{{ range $.Site.Data.games }}
+		<tr>
+        <td class="larrydrew nate">{{ .type }}</td>
+        <td class="larrydrew nate">{{ .location }}</td>
+        <td class="janet britt">{{ .season }}</td> 
+        <td class="janet">{{ .date }}</td> 
+        <td class="janet"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td class="britt">{{ .result }}</td>
+                </tr>
+  			{{ end }}
+    </tbody>
+</table>
+
+{{ partial "footer.html" . }}
+      </div>
+
+
+

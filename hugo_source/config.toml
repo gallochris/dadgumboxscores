@@ -1,0 +1,8 @@
+baseURL = "https://dadgumboxscores.com/"
+languageCode = "en-us"
+title = "Dadgumb Box Scores"
+
+[params]
+    author = "Chris Gallo"
+    description = "Every UNC basketball box score since 03-04."
+
