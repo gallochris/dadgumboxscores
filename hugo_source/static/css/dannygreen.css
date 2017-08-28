@@ -214,6 +214,7 @@ body h1, h2, h4 {
 
 body p {
 	font-size: 14px;
+	line-height: 1.5em;
 }
 
 body h3{ 
@@ -222,6 +223,7 @@ body h3{
 
 body li {
 	font-size: 14px;
+	line-height: 1.5em;
 }
 body.dt-example-bootstrap {
 	font-size: 14px;

@@ -10,7 +10,7 @@ Dadgum box scores is a collection of every UNC men's basketball box score since 
 
 I put this together because I was tried of navigating crappy sites and not finding what I wanted. It shouldn't be _that hard_ to find a box score. It should be fast, easy, and organized. 
 
-Curious how many minutes Raymond Felton played in [triple-overtime against Wake Forest](/boxes/2004/wake-119-unc-114.txt) in 2003?
+Curious how many minutes Jawad Williams played in [triple-overtime against Wake Forest](/boxes/2004/wake-119-unc-114/) in 2003?
 
 Or UNC's record in the [ACC Tournament Championship](/?filter=acc%20tournament%20championship) under Roy Williams? 
 
