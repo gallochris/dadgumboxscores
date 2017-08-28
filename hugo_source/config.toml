@@ -1,6 +1,6 @@
 baseURL = "https://dadgumboxscores.com/"
 languageCode = "en-us"
-title = "Dadgumb Box Scores"
+title = "Dadgum Box Scores"
 
 [params]
     author = "Chris Gallo"
