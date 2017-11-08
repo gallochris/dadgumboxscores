@@ -7,7 +7,7 @@
    "result": "win",
    "style": "99ffb2",
    "location": "neutral",
-   "type": "NCAA Tournament Title",
+   "type": "NCAA Tournament Championship",
    "type-sort": 4,
    "box": "/boxes/2017/unc-71-zags-65",
    "season": "16-17"
@@ -85,7 +85,7 @@
    "result": "loss",
    "style": "ffbfb2",
    "location": "neutral",
-   "type": "ACC Tournament",
+   "type": "ACC Tournament Semifinal",
    "type-sort": 3,
    "box": "/boxes/2017/duke-93-unc-83/",
    "season": "16-17"
@@ -98,7 +98,7 @@
    "result": "win",
    "style": "99ffb2",
    "location": "neutral",
-   "type": "ACC Tournament",
+   "type": "ACC Tournament Quarterfinal",
    "type-sort": 3,
    "box": "/boxes/2017/unc-78-um-53.pdf",
    "season": "16-17"

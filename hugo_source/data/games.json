@@ -79,7 +79,7 @@
       "result": "loss",
       "style": "ffbfb2",
       "location": "neutral",
-      "type": "ACC Tournament",
+      "type": "ACC Tournament Semifinal",
       "type-sort": 3,
       "box": "boxes/2017/duke-93-unc-83/"
    },
@@ -91,7 +91,7 @@
       "result": "win",
       "style": "99ffb2",
       "location": "neutral",
-      "type": "ACC Tournament",
+      "type": "ACC Tournament Quarterfinal",
       "type-sort": 3,
       "box": "boxes/2017/unc-78-um-53.pdf"
    },
