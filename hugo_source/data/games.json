@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 86 | Northern Iowa 69",
+      "date": "November 10, 2017",
+      "time": 20171110,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-86-uni-69"
+   },
+   {
       "game": "UNC 71 | Gonzaga 65",
       "date": "April 3, 2017",
       "time": 20170403,
