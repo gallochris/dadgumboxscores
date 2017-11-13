@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 86 | Northern Iowa 69",
+      "efg": "0.584",
+      "to": "0.100",
+      "or": "0.290",
+      "ft": "0.340",
+      "ppp": "1.23",
+      "oefg": "0.536",
+      "oto": "0.200",
+      "oor": "0.200",
+      "oft": "0.273",
+      "oppp": "0.99",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-86-uni-69.pdf"
+   },
+   {
       "game": "UNC 71 | Gonzaga 65",
       "efg": "0.384",
       "to": "0.054",
