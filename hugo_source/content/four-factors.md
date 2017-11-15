@@ -4,9 +4,7 @@ type: four-factors
 layout: four-factors
 ---
 
-# Dadgum Box Scores 
-
-## Four Factors game-by-game since 2016-17
+# Four Factors game-by-game since 2016-17
 
 
 <pre class="huffman stilwata">

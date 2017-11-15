@@ -4,9 +4,7 @@ type: duke-refs
 layout: duke-refs
 ---
 
-# Dadgum Box Scores 
-
-## Duke-UNC Officials game-by-game since 03-04
+# Duke-UNC Officials game-by-game since 03-04
 
 #### Filter by a referee's first or last name
 
