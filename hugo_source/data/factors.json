@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 93 | Bucknell 81",
+      "efg": "0.515",
+      "to": "0.167",
+      "or": "0.432",
+      "ft": "0.500",
+      "ppp": "1.19",
+      "oefg": "0.548",
+      "oto": "0.167",
+      "oor": "0.184",
+      "oft": "0.286",
+      "oppp": "1.04",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-93-buck-81.pdf"
+   },
+   {
       "game": "UNC 86 | Northern Iowa 69",
       "efg": "0.584",
       "to": "0.100",
