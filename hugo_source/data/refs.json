@@ -1,15 +1,15 @@
 [
  {
-   "game": "Bucknell at UNC",
+   "game": "UNC 93 | Bucknell 81",
    "off1": "Les Jones",
    "off2": "Jeff Clark",
    "off3": "Raymond Styons",
-   "result": "",
-   "style": "",
+   "result": "win",
+   "style": "99ffb2",
    "location": "home",
    "type": "Non-conference",
    "type-sort": 1,
-   "box": "/officials/",
+   "box": "/boxes/2018/unc-93-buck-81.pdf",
    "season": "17-18"
  },
  {
