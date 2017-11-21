@@ -1,5 +1,18 @@
 [
  {
+   "game": "UNC at Stanford",
+   "off1": "David Hall",
+   "off2": "Keith Kimble",
+   "off3": "Randy McCall",
+   "result": "",
+   "style": "",
+   "location": "away",
+   "type": "Non-conference",
+   "type-sort": 1,
+   "box": "/officials",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 93 | Bucknell 81",
    "off1": "Les Jones",
    "off2": "Jeff Clark",
