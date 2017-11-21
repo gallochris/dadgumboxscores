@@ -1,15 +1,15 @@
 [
  {
-   "game": "UNC at Stanford",
+   "game": "UNC 96 | Stanford 72",
    "off1": "David Hall",
    "off2": "Keith Kimble",
    "off3": "Randy McCall",
-   "result": "",
-   "style": "",
+   "result": "win",
+   "style": "99ffb2",
    "location": "away",
    "type": "Non-conference",
    "type-sort": 1,
-   "box": "/officials",
+   "box": "/boxes/2018/unc-96-stanford-72.pdf",
    "season": "17-18"
  },
  {

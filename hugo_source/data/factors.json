@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 96 | Stanford 72",
+      "efg": "0.582",
+      "to": "0.169",
+      "or": "0.286",
+      "ft": "0.206",
+      "ppp": "1.16",
+      "oefg": "0.491",
+      "oto": "0.179",
+      "oor": "0.229",
+      "oft": "0.500",
+      "oppp": "0.87",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "boxes/2018/unc-96-stanford-72.pdf"
+   },
+   {
       "game": "UNC 93 | Bucknell 81",
       "efg": "0.515",
       "to": "0.167",

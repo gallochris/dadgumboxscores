@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 96 | Stanford 72",
+      "date": "November 20, 2017",
+      "time": 20171120,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-96-stanford-72.pdf"
+   },
+   {
       "game": "UNC 93 | Bucknell 81",
       "date": "November 15, 2017",
       "time": 20171115,
