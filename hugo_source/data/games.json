@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 102 | Portland 78",
+      "date": "November 23, 2017",
+      "time": 20171123,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "neutral",
+      "type": "Non-conference (PK 80)",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-102-port-78.pdf"
+   },
+   {
       "game": "UNC 96 | Stanford 72",
       "date": "November 20, 2017",
       "time": 20171120,
