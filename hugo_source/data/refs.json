@@ -1,5 +1,18 @@
 [
  {
+   "game": "Michigan State 63 | UNC 45",
+   "off1": "Michael Stephens",
+   "off2": "Keith Kimble",
+   "off3": "Chris Rastatter",
+   "result": "loss",
+   "style": "ffbfb2",
+   "location": "neutral",
+   "type": "Non-conference",
+   "type-sort": 1,
+   "box": "/boxes/2018/msu-63-unc-45.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 87 | Arkansas 68 ",
    "off1": "Roger Ayers",
    "off2": "Randy McCall",

@@ -1,5 +1,17 @@
 [
    {
+      "game": "Michigan State 63 | UNC 45",
+      "date": "November 24, 2017",
+      "time": 20171126,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "neutral",
+      "type": "Non-conference (PK 80)",
+      "type-sort": 1,
+      "box": "boxes/2018/msu-63-unc-45.pdf"
+   },
+   {
       "game": "UNC 87 | Arkansas 68",
       "date": "November 24, 2017",
       "time": 20171124,
