@@ -16,6 +16,22 @@
       "box": "/boxes/2018/msu-63-unc-45.pdf"
    },
    {
+      "game": "UNC 87 | Arkansas 68",
+      "efg": "0.556",
+      "to": "0.184",
+      "or": "0.344",
+      "ft": "0.333",
+      "ppp": "1.14",
+      "oefg": "0.438",
+      "oto": "0.118",
+      "oor": "0.205",
+      "oft": "0.111",
+      "oppp": "0.89",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/msu-63-unc-45.pdf"
+   },
+   {
       "game": "UNC 102 | Portland 78",
       "efg": "0.564",
       "to": "0.157",
@@ -312,7 +328,7 @@
       "ppp": "1.15",
       "oefg": "0.640",
       "oto": "0.147",
-      "oor": ".233",
+      "oor": "0.233",
       "oft": "0.281",
       "oppp": "1.26",
       "result": "loss",
