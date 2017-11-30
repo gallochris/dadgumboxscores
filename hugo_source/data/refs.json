@@ -1,15 +1,15 @@
 [
  {
-   "game": "Michigan at UNC",
+   "game": "UNC 86 | Michigan 71",
    "off1": "Roger Ayers",
    "off2": "Mike Eades",
    "off3": "Pat Driscoll",
-   "result": "",
-   "style": "",
+   "result": "win",
+   "style": "99ffb2",
    "location": "home",
-   "type": "Non-conference (Big 10 Challenge",
+   "type": "Non-conference",
    "type-sort": 1,
-   "box": "/officials/",
+   "box": "/boxes/2018/unc-86-mich-71.pdf",
    "season": "17-18"
  },
  {

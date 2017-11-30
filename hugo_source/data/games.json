@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 86 | Michigan 71",
+      "date": "November 29, 2017",
+      "time": 20171129,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference (Big 10 Challenge)",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-86-mich-71.pdf"
+   },
+   {
       "game": "Michigan State 63 | UNC 45",
       "date": "November 24, 2017",
       "time": 20171126,

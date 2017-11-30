@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 86 | Michigan 71",
+      "efg": "0.605",
+      "to": "0.171",
+      "or": "0.357",
+      "ft": "0.258",
+      "ppp": "1.23",
+      "oefg": "0.500",
+      "oto": "0.143",
+      "oor": "0.325",
+      "oft": "0.168",
+      "oppp": "1.01",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-86-mich-71.pdf"
+   },
+   {
       "game": "Michigan State 63 | UNC 45",
       "efg": "0.254",
       "to": "0.222",
