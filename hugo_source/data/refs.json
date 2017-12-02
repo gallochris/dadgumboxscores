@@ -1,5 +1,18 @@
 [
  {
+   "game": "UNC 85 | Davidson 75",
+   "off1": "Teddy Valentine",
+   "off2": "Ron Groover",
+   "off3": "Lee Cassell",
+   "result": "win",
+   "style": "99ffb2",
+   "location": "neutral",
+   "type": "Non-conference",
+   "type-sort": 1,
+   "box": "/boxes/2018/unc-85-dav-75.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 86 | Michigan 71",
    "off1": "Roger Ayers",
    "off2": "Mike Eades",
