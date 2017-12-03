@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 97 | Tulane 73",
+      "date": "December 3, 2017",
+      "time": 20171203,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-97-tulane-73.pdf"
+   },
+   {
       "game": "UNC 85 | Davidson 75",
       "date": "December 1, 2017",
       "time": 20171201,

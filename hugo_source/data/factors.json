@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 97 | Tulane 73",
+      "efg": "0.698",
+      "to": "0.171",
+      "or": "0.346",
+      "ft": "0.500",
+      "ppp": "1.28",
+      "oefg": "0.449",
+      "oto": "0.105",
+      "oor": "0.200",
+      "oft": "0.232",
+      "oppp": "0.96",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-97-tulane-73.pdf"
+   },
+   {
       "game": "UNC 85 | Davidson 75",
       "efg": "0.507",
       "to": "0.155",
