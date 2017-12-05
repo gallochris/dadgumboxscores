@@ -8,7 +8,9 @@ layout: thepurpose
 
 Dadgum box scores is a collection of every UNC men's basketball box score since the 2003-04 season. Nothing else. Just box scores. Dadgum box scores.
 
-I put this together because I was tried of navigating crappy sites and not finding what I wanted. It shouldn't be _that hard_ to find a box score. It should be fast, easy, and organized. 
+Who am I? 
+
+I'm Chris. I put together this site because I wanted it to be easier to find old UNC box scores. I was tried of navigating crappy sites and not finding what I wanted. It shouldn't be _that hard_ to find a box score. It should be fast, easy, and organized. 
 
 Curious how many minutes Jawad Williams played in [triple-overtime against Wake Forest](/boxes/2004/wake-119-unc-114/) in 2003?
 
@@ -18,21 +20,26 @@ Or how many times [UNC has beaten Michigan State](/?filter=michigan%20state) in 
 
 Stop scouring different sites and wasting your time. Find any box score by season or opponent. Sort by wins or losses, location, conference or non-conference. And get exactly what you need without any headaches.
 
-This site only has box scores. Every so often, I do share some observations and opinions here: [fyi.dadgumboxscores.com](https://fyi.dadgumboxscores.com). 
+The focus of this site is box scores. There are a few other pieces of information you can find too:
 
-But this site doesn't include schedules, player interviews or news, or any other stats. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
+- [officials](/officials): list of refs for every game since '03-04 
+- [four factors:](/four-factors/) game-by-game stats of the [four factors](https://cbbstatshelp.com/four-factors/) during the current season
+- [blog](https://fyi.dadgumboxscores.com): every so often I share some written observations and opinions
+
+You should also follow along on Twitter. I share gif highlights and other random notes there, follow me [@dadgumboxscores](https://twitter.com/dadgumboxscores). 
+
+But this site doesn't include schedules, player interviews, or any other stats. I'm not a reporter, and I'm not going to break any news. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
 
 
-- [goheels.com](http://goheels.com) - official site of UNC athletics 
-- Turner Walston - one of the best to cover all 28 UNC sports, find him [@TurnerWalston](https://twitter.com/TurnerWalston) and support [Argyle Report](https://www.argylereport.com/)
-- Jones Angell - play-by-play voice for UNC, great insight [@JonesAngell](https://twitter.com/JonesAngell) 
+- Adrian Atkinson - [@FreeportKid](https://twitter.com/FreeportKid) shares dynamite stats/analysis
+- R.L. Bynum - lots of useful info, covered UNC athletics for many years, [follow him](https://twitter.com/RL_Bynum)
+- Turner Walston - covers all 28 UNC sports, find him [@TurnerWalston](https://twitter.com/TurnerWalston) and support [Argyle Report](https://www.argylereport.com/)
+- Jones Angell - play-by-play voice for UNC, [@JonesAngell](https://twitter.com/JonesAngell) 
 - [insidecarolina.com](http://insidecarolina.com) - this site covers it all, has in-depth analysis and scoops 
 - Sherrell D. McMillan - covers recuriting for Inside Carolina, follow him [@RellDMC](https://twitter.com/RellDMC)
-- Adrian Atkinson - [@FreeportKid](https://twitter.com/FreeportKid) shares dynamite insights on his blog ([thesecondarybreak.us](http://www.thesecondarybreak.us/))
+- [goheels.com](http://goheels.com) - official site of UNC athletics 
 - [kenpom.com](http://kenpom.com) - holy grail for advanced stats, totally worth a yearly $19.95 subscription
 - [cbbstatshelp.com](https://cbbstatshelp.com) - explains what advanced stats mean, like a KenPom for Dummies 
-
-
 
 * * *
 
@@ -70,12 +77,12 @@ If you can't find something you're looking for or spot an typo, please let me kn
 
 I want this site to be as accurate as possible and would love your help.
 
-### Who am I?
+<a name="faq"></a>
 
-I'm [Chris Gallo](https://hotdogsandeggs.com). I put together this site because I wanted it to be easier to find old UNC box scores. 
+### [Contact me](/purpose/#contact)
+
+If you have any questions or want to collaborate on something, please send me an [email here](mailto:cbbstatshelp@gmail.com). 
 
 I used to work in sports information, and find all kind of stats fascinating. If you're curious, I built another site to help folks learn and understand advanced stats for college hoops. Think of it as a KenPom for Dummies. Check it out at [cbbstatshelp.com](https://cbbstatshelp.com).
-
-If you have any questions, please send me an [email here](mailto:cbbstatshelp@gmail.com). 
 
 * * * 

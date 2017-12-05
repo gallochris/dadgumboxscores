@@ -27,7 +27,8 @@
     $(document).ready(function() {
     $('#example').DataTable( {
         "paging":   false,
-        "info":     false,
+        "info":     true,
+        "dom": '<"top"iflp<"clear">>',
         "order": [],
         "oSearch": {"sSearch": $.urlParam('filter')} 
     } );
