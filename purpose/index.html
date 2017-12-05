@@ -33,7 +33,8 @@
     $(document).ready(function() {
     $('#example').DataTable( {
         "paging":   false,
-        "info":     false,
+        "info":     true,
+        "dom": '<"top"iflp<"clear">>',
         "order": [],
         "oSearch": {"sSearch": $.urlParam('filter')} 
     } );
@@ -109,7 +110,9 @@
 
 <p>Dadgum box scores is a collection of every UNC men&rsquo;s basketball box score since the 2003-04 season. Nothing else. Just box scores. Dadgum box scores.</p>
 
-<p>I put this together because I was tried of navigating crappy sites and not finding what I wanted. It shouldn&rsquo;t be <em>that hard</em> to find a box score. It should be fast, easy, and organized.</p>
+<p>Who am I?</p>
+
+<p>I&rsquo;m Chris. I put together this site because I wanted it to be easier to find old UNC box scores. I was tried of navigating crappy sites and not finding what I wanted. It shouldn&rsquo;t be <em>that hard</em> to find a box score. It should be fast, easy, and organized.</p>
 
 <p>Curious how many minutes Jawad Williams played in <a href="/boxes/2004/wake-119-unc-114/">triple-overtime against Wake Forest</a> in 2003?</p>
 
@@ -119,17 +122,26 @@
 
 <p>Stop scouring different sites and wasting your time. Find any box score by season or opponent. Sort by wins or losses, location, conference or non-conference. And get exactly what you need without any headaches.</p>
 
-<p>This site only has box scores. Every so often, I do share some observations and opinions here: <a href="https://fyi.dadgumboxscores.com">fyi.dadgumboxscores.com</a>.</p>
-
-<p>But this site doesn&rsquo;t include schedules, player interviews or news, or any other stats. If you&rsquo;re looking for other places to find information like that, here&rsquo;s a few site recommendations and people to follow.</p>
+<p>The focus of this site is box scores. There are a few other pieces of information you can find too:</p>
 
 <ul>
-<li><a href="http://goheels.com">goheels.com</a> - official site of UNC athletics</li>
-<li>Turner Walston - one of the best to cover all 28 UNC sports, find him <a href="https://twitter.com/TurnerWalston">@TurnerWalston</a> and support <a href="https://www.argylereport.com/">Argyle Report</a></li>
-<li>Jones Angell - play-by-play voice for UNC, great insight <a href="https://twitter.com/JonesAngell">@JonesAngell</a></li>
+<li><a href="/officials">officials</a>: list of refs for every game since &lsquo;03-04</li>
+<li><a href="/four-factors/">four factors:</a> game-by-game stats of the <a href="https://cbbstatshelp.com/four-factors/">four factors</a> during the current season</li>
+<li><a href="https://fyi.dadgumboxscores.com">blog</a>: every so often I share some written observations and opinions</li>
+</ul>
+
+<p>You should also follow along on Twitter. I share gif highlights and other random notes there, follow me <a href="https://twitter.com/dadgumboxscores">@dadgumboxscores</a>.</p>
+
+<p>But this site doesn&rsquo;t include schedules, player interviews, or any other stats. I&rsquo;m not a reporter, and I&rsquo;m not going to break any news. If you&rsquo;re looking for other places to find information like that, here&rsquo;s a few site recommendations and people to follow.</p>
+
+<ul>
+<li>Adrian Atkinson - <a href="https://twitter.com/FreeportKid">@FreeportKid</a> shares dynamite stats/analysis</li>
+<li>R.L. Bynum - lots of useful info, covered UNC athletics for many years, <a href="https://twitter.com/RL_Bynum">follow him</a></li>
+<li>Turner Walston - covers all 28 UNC sports, find him <a href="https://twitter.com/TurnerWalston">@TurnerWalston</a> and support <a href="https://www.argylereport.com/">Argyle Report</a></li>
+<li>Jones Angell - play-by-play voice for UNC, <a href="https://twitter.com/JonesAngell">@JonesAngell</a></li>
 <li><a href="http://insidecarolina.com">insidecarolina.com</a> - this site covers it all, has in-depth analysis and scoops</li>
 <li>Sherrell D. McMillan - covers recuriting for Inside Carolina, follow him <a href="https://twitter.com/RellDMC">@RellDMC</a></li>
-<li>Adrian Atkinson - <a href="https://twitter.com/FreeportKid">@FreeportKid</a> shares dynamite insights on his blog (<a href="http://www.thesecondarybreak.us/">thesecondarybreak.us</a>)</li>
+<li><a href="http://goheels.com">goheels.com</a> - official site of UNC athletics</li>
 <li><a href="http://kenpom.com">kenpom.com</a> - holy grail for advanced stats, totally worth a yearly $19.95 subscription</li>
 <li><a href="https://cbbstatshelp.com">cbbstatshelp.com</a> - explains what advanced stats mean, like a KenPom for Dummies</li>
 </ul>
@@ -170,13 +182,13 @@
 
 <p>I want this site to be as accurate as possible and would love your help.</p>
 
-<h3 id="who-am-i">Who am I?</h3>
+<p><a name="faq"></a></p>
 
-<p>I&rsquo;m <a href="https://hotdogsandeggs.com">Chris Gallo</a>. I put together this site because I wanted it to be easier to find old UNC box scores.</p>
+<h3 id="contact-me-purpose-contact"><a href="/purpose/#contact">Contact me</a></h3>
+
+<p>If you have any questions or want to collaborate on something, please send me an <a href="mailto:cbbstatshelp@gmail.com">email here</a>.</p>
 
 <p>I used to work in sports information, and find all kind of stats fascinating. If you&rsquo;re curious, I built another site to help folks learn and understand advanced stats for college hoops. Think of it as a KenPom for Dummies. Check it out at <a href="https://cbbstatshelp.com">cbbstatshelp.com</a>.</p>
-
-<p>If you have any questions, please send me an <a href="mailto:cbbstatshelp@gmail.com">email here</a>.</p>
 
 <hr />
 
