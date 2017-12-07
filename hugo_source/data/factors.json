@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 104 | Western Carolina 61",
+      "efg": "0.692",
+      "to": "0.215",
+      "or": "0.419",
+      "ft": "0.323",
+      "ppp": "1.32",
+      "oefg": "0.420",
+      "oto": "0.190",
+      "oor": "0.149",
+      "oft": "0.088",
+      "oppp": "0.77",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-104-wcu-61.pdf"
+   },
+   {
       "game": "UNC 97 | Tulane 73",
       "efg": "0.698",
       "to": "0.171",
