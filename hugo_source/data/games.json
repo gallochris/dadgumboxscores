@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 78 | Tennessee 73",
+      "date": "December 17, 2017",
+      "time": 20171217,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-78-tenn-73.pdf"
+   },
+   {
       "game": "UNC 104 | Western Carolina 61",
       "date": "December 6, 2017",
       "time": 20171206,

@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 78 | Tennessee 73",
+      "efg": "0.516",
+      "to": "0.222",
+      "or": "0.475",
+      "ft": "0.284",
+      "ppp": "1.08",
+      "oefg": "0.440",
+      "oto": "0.181",
+      "oor": "0.419",
+      "oft": "0.254",
+      "oppp": "1.01",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-78-tenn-73.pdf"
+   },
+   {
       "game": "UNC 104 | Western Carolina 61",
       "efg": "0.692",
       "to": "0.215",

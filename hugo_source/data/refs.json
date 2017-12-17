@@ -1,15 +1,15 @@
 [
  {
-   "game": "UNC at Tennessee",
+   "game": "UNC 78 | Tennessee 73",
    "off1": "Pat Adams",
    "off2": "Don Daily",
    "off3": "Jamie Luckie",
-   "result": "",
-   "style": "",
+   "result": "win",
+   "style": "99ffb2",
    "location": "away",
    "type": "Non-conference",
    "type-sort": 1,
-   "box": "/officials",
+   "box": "/boxes/2018/unc-78-unc-73.pdf",
    "season": "17-18"
  },
  {
