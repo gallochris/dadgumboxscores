@@ -1,5 +1,21 @@
 [
    {
+      "game": "Wofford 79 | UNC 75",
+      "efg": "0.427",
+      "to": "0.182",
+      "or": "0.250",
+      "ft": "0.691",
+      "ppp": "0.97",
+      "oefg": "0.492",
+      "oto": "0.130",
+      "oor": "0.194",
+      "oft": "0.281",
+      "oppp": "1.03",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/woff-79-unc-75.pdf"
+   },
+   {
       "game": "UNC 78 | Tennessee 73",
       "efg": "0.516",
       "to": "0.222",

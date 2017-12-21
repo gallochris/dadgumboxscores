@@ -1,5 +1,18 @@
 [
  {
+   "game": "Wofford 79 | UNC 75",
+   "off1": "Ted Valentine",
+   "off2": "Mike Eades",
+   "off3": "Bill Covington Jr.",
+   "result": "loss",
+   "style": "ffbfb2",
+   "location": "home",
+   "type": "Non-conference",
+   "type-sort": 1,
+   "box": "/boxes/2018/woff-79-unc-75.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 78 | Tennessee 73",
    "off1": "Pat Adams",
    "off2": "Don Daily",

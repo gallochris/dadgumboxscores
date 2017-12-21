@@ -1,5 +1,17 @@
 [
    {
+      "game": "Wofford 79 | UNC 75",
+      "date": "December 20, 2017",
+      "time": 20171220,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2018/woff-79-unc75.pdf"
+   },
+   {
       "game": "UNC 78 | Tennessee 73",
       "date": "December 17, 2017",
       "time": 20171217,
