@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 86 | Ohio State 72",
+      "efg": "0.570",
+      "to": "0.218",
+      "or": "0.290",
+      "ft": "0.439",
+      "ppp": "1.10",
+      "oefg": "0.483",
+      "oto": "0.179",
+      "oor": "0.091",
+      "oft": "0.322",
+      "oppp": "0.92",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-86-osu-72.pdf"
+   },
+   {
       "game": "Wofford 79 | UNC 75",
       "efg": "0.427",
       "to": "0.182",

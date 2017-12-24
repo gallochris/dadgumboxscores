@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 86 | Ohio State 72",
+      "date": "December 23, 2017",
+      "time": 20171223,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2018/unc-86-osu-72.pdf"
+   },
+   {
       "game": "Wofford 79 | UNC 75",
       "date": "December 20, 2017",
       "time": 20171220,
@@ -9,7 +21,7 @@
       "location": "home",
       "type": "Non-conference",
       "type-sort": 1,
-      "box": "boxes/2018/woff-79-unc75.pdf"
+      "box": "boxes/2018/woff-79-unc-75.pdf"
    },
    {
       "game": "UNC 78 | Tennessee 73",
