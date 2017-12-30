@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 73 | Wake Forest 69",
+      "efg": "0.449",
+      "to": "0.162",
+      "or": "0.318",
+      "ft": "0.265",
+      "ppp": "0.99",
+      "oefg": "0.484",
+      "oto": "0.095",
+      "oor": "0.103",
+      "oft": "0.254",
+      "oppp": "0.93",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-73-wake-69.pdf"
+   },
+   {
       "game": "UNC 86 | Ohio State 72",
       "efg": "0.570",
       "to": "0.218",
