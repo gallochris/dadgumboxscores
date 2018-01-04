@@ -1,5 +1,21 @@
 [
    {
+      "game": "Florida State 81 | UNC 80",
+      "efg": "0.474",
+      "to": "0.096",
+      "or": "0.370",
+      "ft": "0.117",
+      "ppp": "1.10",
+      "oefg": "0.588",
+      "oto": "0.205",
+      "oor": "0.250",
+      "oft": "0.386",
+      "oppp": "1.11",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/fsu-81-unc-80.pdf"
+   },
+   {
       "game": "UNC 73 | Wake Forest 69",
       "efg": "0.449",
       "to": "0.162",
