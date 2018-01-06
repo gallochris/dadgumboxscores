@@ -1,5 +1,21 @@
 [
    {
+      "game": "UVA 61 | UNC 49",
+      "efg": "0.370",
+      "to": "0.322",
+      "or": "0.487",
+      "ft": "0.204",
+      "ppp": "0.83",
+      "oefg": "0.528",
+      "oto": "0.186",
+      "oor": "0.303",
+      "oft": "0.170",
+      "oppp": "1.03",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/uva-61-unc-49"
+   },
+   {
       "game": "Florida State 81 | UNC 80",
       "efg": "0.474",
       "to": "0.096",

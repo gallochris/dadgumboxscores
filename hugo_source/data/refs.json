@@ -1,5 +1,18 @@
 [
  {
+   "game": "UVA 61 | UNC 49",
+   "off1": "Roger Ayers",
+   "off2": "Les Jones",
+   "off3": "Pat Driscoll",
+   "result": "loss",
+   "style": "ffbfb2",
+   "location": "away",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/uva-61-unc-49",
+   "season": "17-18"
+ },
+ {
    "game": "Florida State 81 | UNC 80",
    "off1": "Ted Valentine",
    "off2": "Bill Covington Jr.",

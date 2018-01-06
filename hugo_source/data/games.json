@@ -1,5 +1,17 @@
 [
    {
+      "game": "UVA 61 | UNC 49",
+      "date": "January 6, 2018",
+      "time": 20180106,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/uva-61-unc-49"
+   },
+   {
       "game": "Florida State 81 | UNC 80",
       "date": "January 3, 2018",
       "time": 20180103,
