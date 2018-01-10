@@ -1,5 +1,18 @@
 [
  {
+   "game": "UNC 96 | Boston College 66",
+   "off1": "John Higgins",
+   "off2": "Tim Nestor",
+   "off3": "Jeffrey Anderson",
+   "result": "win",
+   "style": "99ffb2",
+   "location": "home",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/unc-96-bc-66.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UVA 61 | UNC 49",
    "off1": "Roger Ayers",
    "off2": "Les Jones",

@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 96 | Boston College 66",
+      "efg": "0.558",
+      "to": "0.121",
+      "or": "0.605",
+      "ft": "0.115",
+      "ppp": "1.45",
+      "oefg": "0.484",
+      "oto": "0.076",
+      "oor": "0.186",
+      "oft": "0.210",
+      "oppp": "1.00",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-96-bc-66.pdf"
+   },
+   {
       "game": "UVA 61 | UNC 49",
       "efg": "0.370",
       "to": "0.322",

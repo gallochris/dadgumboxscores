@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 96 | Boston College 66",
+      "date": "January 9, 2018",
+      "time": 20180109,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-96-bc-66.pdf"
+   },
+   {
       "game": "UVA 61 | UNC 49",
       "date": "January 6, 2018",
       "time": 20180106,
