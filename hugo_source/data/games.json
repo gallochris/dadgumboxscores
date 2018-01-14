@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 69 | Notre Dame 68",
+      "date": "January 13, 2018",
+      "time": 20180113,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-69-nd-68.pdf"
+   },
+   {
       "game": "UNC 96 | Boston College 66",
       "date": "January 9, 2018",
       "time": 20180109,

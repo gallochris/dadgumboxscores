@@ -1,5 +1,18 @@
 [
  {
+   "game": "UNC 69 | Notre Dame 68",
+   "off1": "Jamie Luckie",
+   "off2": "Ed Corbett",
+   "off3": "John Gaffney",
+   "result": "win",
+   "style": "99ffb2",
+   "location": "away",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/unc-69-nd-68.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 96 | Boston College 66",
    "off1": "John Higgins",
    "off2": "Tim Nestor",

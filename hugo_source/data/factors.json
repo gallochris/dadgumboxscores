@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 69 | Notre Dame 68",
+      "efg": "0.475",
+      "to": "0.109",
+      "or": "0.342",
+      "ft": "0.279",
+      "ppp": "1.08",
+      "oefg": "0.424",
+      "oto": "0.172",
+      "oor": "0.455",
+      "oft": "0.227",
+      "oppp": "1.06",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-69-nd-68.pdf"
+   },
+   {
       "game": "UNC 96 | Boston College 66",
       "efg": "0.558",
       "to": "0.121",
