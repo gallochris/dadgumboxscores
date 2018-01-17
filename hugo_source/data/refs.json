@@ -1,4 +1,17 @@
 [
+   {
+   "game": "UNC 87 | Clemson 79",
+   "off1": "Mike Eades",
+   "off2": "Les Jones",
+   "off3": "Lee Cassell",
+   "result": "win",
+   "style": "99ffb2",
+   "location": "home",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/unc-87-clem-79.pdf",
+   "season": "17-18"
+ },
  {
    "game": "UNC 69 | Notre Dame 68",
    "off1": "Jamie Luckie",
