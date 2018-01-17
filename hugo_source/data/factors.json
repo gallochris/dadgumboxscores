@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 87 | Clemson",
+      "efg": "0.657",
+      "to": "0.194",
+      "or": "0.217",
+      "ft": "0.471",
+      "ppp": "1.21",
+      "oefg": "0.580",
+      "oto": "0.208",
+      "oor": "0.250",
+      "oft": "0.375",
+      "oppp": "1.10",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-87-clem-79.pdf"
+   },
+   {
       "game": "UNC 69 | Notre Dame 68",
       "efg": "0.475",
       "to": "0.109",
