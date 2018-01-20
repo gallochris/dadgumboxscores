@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 80 | Georgia Tech 66",
+      "date": "January 20, 2018",
+      "time": 20180120,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-80-gt-66.pdf"
+   },
+   {
       "game": "UNC 87 | Clemson 79",
       "date": "January 16, 2018",
       "time": 20180116,

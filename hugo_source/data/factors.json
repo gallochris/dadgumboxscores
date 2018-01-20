@@ -1,6 +1,22 @@
 [
    {
-      "game": "UNC 87 | Clemson",
+      "game": "UNC 80 | Georgia Tech 66",
+      "efg": "0.462",
+      "to": "0.194",
+      "or": "0.500",
+      "ft": "0.364",
+      "ppp": "1.11",
+      "oefg": "0.525",
+      "oto": "0.208",
+      "oor": "0.182",
+      "oft": "0.100",
+      "oppp": "0.92",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-80-gt-66.pdf"
+   },
+   {
+      "game": "UNC 87 | Clemson 79",
       "efg": "0.657",
       "to": "0.194",
       "or": "0.217",

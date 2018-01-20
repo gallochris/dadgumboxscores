@@ -1,5 +1,18 @@
 [
    {
+   "game": "UNC 80 | Georgia Tech 66",
+   "off1": "Ted Valentine",
+   "off2": "Bill Covington Jr.",
+   "off3": "Jeb Hartness",
+   "result": "win",
+   "style": "99ffb2",
+   "location": "home",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/unc-80-gt-66.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 87 | Clemson 79",
    "off1": "Mike Eades",
    "off2": "Les Jones",
