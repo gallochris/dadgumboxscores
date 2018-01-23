@@ -1,5 +1,21 @@
 [
    {
+      "game": "Virginia Tech 80 | UNC 69",
+      "efg": "0.508",
+      "to": "0.191",
+      "or": "0.278",
+      "ft": "0.080",
+      "ppp": "1.01",
+      "oefg": "0.571",
+      "oto": "0.132",
+      "oor": "0.286",
+      "oft": "0.191",
+      "oppp": "1.18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/vt-80-unc-69.pdf"
+   },
+   {
       "game": "UNC 80 | Georgia Tech 66",
       "efg": "0.462",
       "to": "0.194",

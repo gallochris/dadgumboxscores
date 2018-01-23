@@ -1,5 +1,17 @@
 [
    {
+      "game": "Virginia Tech 80 | UNC 69",
+      "date": "January 22, 2018",
+      "time": 20180122,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/vt-80-unc-69.pdf"
+   },
+   {
       "game": "UNC 80 | Georgia Tech 66",
       "date": "January 20, 2018",
       "time": 20180120,

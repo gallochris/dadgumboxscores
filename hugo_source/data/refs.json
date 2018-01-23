@@ -1,5 +1,18 @@
 [
    {
+   "game": "Virginia Tech 80 | UNC 69",
+   "off1": "Michael Stephens",
+   "off2": "Michael Roberts",
+   "off3": "Doug Shows",
+   "result": "loss",
+   "style": "ffbfb2",
+   "location": "away",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/vt-80-unc-69.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "UNC 80 | Georgia Tech 66",
    "off1": "Ted Valentine",
    "off2": "Bill Covington Jr.",
