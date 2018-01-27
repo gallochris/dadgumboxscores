@@ -1,5 +1,21 @@
 [
    {
+      "game": "NC State 95 | UNC 91 (OT)",
+      "efg": "0.556",
+      "to": "0.173",
+      "or": "0.417",
+      "ft": "0.278",
+      "ppp": "1.12",
+      "oefg": "0.546",
+      "oto": "0.111",
+      "oor": "0.283",
+      "oft": "0.237",
+      "oppp": "1.17",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/ncsu-95-unc-91.pdf"
+   },
+   {
       "game": "Virginia Tech 80 | UNC 69",
       "efg": "0.508",
       "to": "0.191",

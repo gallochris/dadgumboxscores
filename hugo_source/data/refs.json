@@ -1,15 +1,15 @@
 [
    {
-   "game": "UNC | NC State",
+   "game": "North Carolina State 95 | UNC 91 (OT)",
    "off1": "Mike Eades",
    "off2": "Jamie Luckie",
    "off3": "A.J. Desai",
-   "result": "",
-   "style": "",
+   "result": "loss",
+   "style": "ffbfb2",
    "location": "home",
    "type": "Conference",
    "type-sort": 2,
-   "box": "/",
+   "box": "/boxes/2018/ncsu-95-unc-91.pdf",
    "season": "17-18"
  },
  {
