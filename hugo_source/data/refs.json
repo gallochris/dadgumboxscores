@@ -1,5 +1,18 @@
 [
    {
+   "game": "Clemson 82 | UNC 78",
+   "off1": "Roger Ayers",
+   "off2": "John Higgins",
+   "off3": "Doug Sirmons",
+   "result": "loss",
+   "style": "ffbfb2",
+   "location": "away",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/clem-82-unc-78.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "North Carolina State 95 | UNC 91 (OT)",
    "off1": "Mike Eades",
    "off2": "Jamie Luckie",

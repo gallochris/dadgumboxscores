@@ -1,5 +1,17 @@
 [
    {
+      "game": "Clemson 82 | UNC 78",
+      "date": "January 30, 2018",
+      "time": 20180130,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/clem-82-unc-78.pdf"
+   },
+   {
       "game": "North Carolina State 95 | UNC 91 (OT)",
       "date": "January 27, 2018",
       "time": 20180127,

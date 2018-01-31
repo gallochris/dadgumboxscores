@@ -1,5 +1,21 @@
 [
    {
+      "game": "Clemson 82 | UNC 78",
+      "efg": "0.532",
+      "to": "0.162",
+      "or": "0.382",
+      "ft": "0.226",
+      "ppp": "1.15",
+      "oefg": "0.516",
+      "oto": "0.147",
+      "oor": "0.357",
+      "oft": "0.443",
+      "oppp": "1.21",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/clem-82-unc-78.pdf"
+   },
+   {
       "game": "NC State 95 | UNC 91 (OT)",
       "efg": "0.556",
       "to": "0.173",
