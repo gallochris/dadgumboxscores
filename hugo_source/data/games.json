@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 96 | Pittsburgh 65",
+      "date": "February 3, 2018",
+      "time": 20180203,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-96-pitt-65.pdf"
+   },
+   {
       "game": "Clemson 82 | UNC 78",
       "date": "January 30, 2018",
       "time": 20180130,

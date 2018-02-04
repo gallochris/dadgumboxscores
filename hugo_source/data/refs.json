@@ -1,5 +1,18 @@
 [
    {
+   "game": "UNC 96 | Pittsburgh 65",
+   "off1": "Lee Cassell",
+   "off2": "Bert Smith,",
+   "off3": "Don Daily",
+   "result": "win",
+   "style": "99ffb2",
+   "location": "home",
+   "type": "Conference",
+   "type-sort": 2,
+   "box": "/boxes/2018/unc-96-pitt-65.pdf",
+   "season": "17-18"
+ },
+ {
    "game": "Clemson 82 | UNC 78",
    "off1": "Roger Ayers",
    "off2": "John Higgins",
