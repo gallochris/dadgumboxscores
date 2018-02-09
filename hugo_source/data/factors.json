@@ -1,19 +1,19 @@
 [
    {
-      "game": "UNC 96 | Pittsburgh 65",
-      "efg": "0.593",
-      "to": "0.151",
-      "or": "0.485",
-      "ft": "0.243",
-      "ppp": "1.32",
-      "oefg": "0.467",
-      "oto": "0.219",
-      "oor": "0.262",
-      "oft": "0.250",
-      "oppp": "0.89",
+      "game": "UNC 82 | Duke 78",
+      "efg": "0.461",
+      "to": "0.031",
+      "or": "0.426",
+      "ft": "0.169",
+      "ppp": "1.26",
+      "oefg": "0.557",
+      "oto": "0.123",
+      "oor": "0.314",
+      "oft": "0.195",
+      "oppp": "1.20",
       "result": "win",
       "style": "99ffb2",
-      "box": "/boxes/2018/unc-96-pitt-65.pdf"
+      "box": "/boxes/2018/unc-82-duke-78.pdf"
    },
    {
       "game": "Clemson 82 | UNC 78",
