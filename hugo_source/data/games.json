@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 82 | Duke 78",
+      "date": "February 8, 2018",
+      "time": 20180208,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-82-duke-78.pdf"
+   },
+   {
       "game": "UNC 96 | Pittsburgh 65",
       "date": "February 3, 2018",
       "time": 20180203,

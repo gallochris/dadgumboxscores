@@ -1,16 +1,16 @@
 [
    {
-      "game": "Duke at UNC",
+      "game": "UNC 82 | Duke 78",
       "off1": "Jeff Clark",
       "off2": "Jamie Luckie",
       "off3": "Ron Groover",
-      "result": "",
-      "style": "",
+      "result": "win",
+      "style": "99ffb2",
       "season": "17-18",
       "location": "home",
       "type": "Conference",
       "type-sort": 2,
-      "box": "/"
+      "box": "/boxes/2018/unc-82-duke-78.pdf"
    },
    {
    "game": "UNC 96 | Pittsburgh 65",
