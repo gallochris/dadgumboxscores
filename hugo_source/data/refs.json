@@ -1,5 +1,18 @@
 [
    {
+      "game": "UNC 96 | NC State 89",
+      "off1": "James Breeding",
+      "off2": "Keith Kimble",
+      "off3": "Les Jones",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "17-18",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2018/unc-96-ncsu-89.pdf"
+   },
+   {
       "game": "UNC 82 | Duke 78",
       "off1": "Jeff Clark",
       "off2": "Jamie Luckie",
