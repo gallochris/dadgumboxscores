@@ -1,16 +1,16 @@
 [
    {
-      "game": "Notre Dame at UNC",
+      "game": "UNC 83 | Notre Dame 66",
       "off1": "Roger Ayers",
       "off2": "Michael Stephens",
       "off3": "Doug Shows",
-      "result": "",
-      "style": "",
+      "result": "win",
+      "style": "99ffb2",
       "season": "17-18",
       "location": "home",
       "type": "Conference",
       "type-sort": 2,
-      "box": "/"
+      "box": "/boxes/2018/unc-83-nd-66.pdf"
    },
    {
       "game": "UNC 96 | NC State 89",

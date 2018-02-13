@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 83 | Notre Dame 66",
+      "efg": "0.583",
+      "to": "0.094",
+      "or": "0.387",
+      "ft": "0.333",
+      "ppp": "1.30",
+      "oefg": "0.466",
+      "oto": "0.094",
+      "oor": "0.250",
+      "oft": "0.397",
+      "oppp": "1.03",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-83-nd-66.pdf"
+   },
+   {
       "game": "UNC 96 | NC State 89",
       "efg": "0.606",
       "to": "0.241",

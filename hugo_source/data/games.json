@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 83 | Notre Dame 66",
+      "date": "February 12, 2018",
+      "time": 20180212,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-83-nd-66.pdf"
+   },
+   {
       "game": "UNC 96 | North Carolina State 89",
       "date": "February 10, 2018",
       "time": 20180210,
