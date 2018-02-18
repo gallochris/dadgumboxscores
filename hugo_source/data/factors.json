@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 93 | Louisville 76",
+      "efg": "0.568",
+      "to": "0.151",
+      "or": "0.447",
+      "ft": "0.135",
+      "ppp": "1.27",
+      "oefg": "0.508",
+      "oto": "0.164",
+      "oor": "0.289",
+      "oft": "0.355",
+      "oppp": "1.04",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-93-lville-76.pdf"
+   },
+   {
       "game": "UNC 83 | Notre Dame 66",
       "efg": "0.583",
       "to": "0.094",

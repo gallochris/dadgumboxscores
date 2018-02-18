@@ -1,5 +1,18 @@
 [
    {
+      "game": "UNC 93 | Louisville 76",
+      "off1": "Mike Eades",
+      "off2": "Ted Valentine",
+      "off3": "Jeffrey Anderson",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "17-18",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2018/unc-93-lville-76.pdf"
+   },
+   {
       "game": "UNC 83 | Notre Dame 66",
       "off1": "Roger Ayers",
       "off2": "Michael Stephens",
