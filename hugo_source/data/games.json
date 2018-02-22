@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 78 | Syracuse 74",
+      "date": "February 21, 2018",
+      "time": 20180221,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/unc-78-cuse-74.pdf"
+   },
+   {
       "game": "UNC 93 | Louisville 76",
       "date": "February 17, 2018",
       "time": 20180217,
