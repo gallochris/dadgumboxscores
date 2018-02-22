@@ -1,5 +1,21 @@
 [
    {
+      "game": "UNC 78 | Syracuse 74",
+      "efg": "0.508",
+      "to": "0.123",
+      "or": "0.395",
+      "ft": "0.231",
+      "ppp": "1.20",
+      "oefg": "0.500",
+      "oto": "0.154",
+      "oor": "0.324",
+      "oft": "0.293",
+      "oppp": "1.14",
+      "result": "win",
+      "style": "99ffb2",
+      "box": "/boxes/2018/unc-78-cuse-74.pdf"
+   },
+   {
       "game": "UNC 93 | Louisville 76",
       "efg": "0.568",
       "to": "0.151",
