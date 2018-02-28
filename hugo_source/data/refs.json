@@ -1,16 +1,16 @@
 [
    {
-      "game": "Miami at UNC",
+      "game": "Miami 91 | UNC 88",
       "off1": "Ron Groover",
       "off2": "Michael Stephens",
       "off3": "James Breeding",
-      "result": "",
-      "style": "",
+      "result": "loss",
+      "style": "ffbfb2",
       "season": "17-18",
       "location": "home",
       "type": "Conference",
       "type-sort": 2,
-      "box": "/"
+      "box": "/boxes/2018/um-91-unc-88.pdf"
    },
    {
       "game": "UNC 78 | Syracuse 74",
