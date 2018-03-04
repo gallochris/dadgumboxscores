@@ -1,5 +1,21 @@
 [
    {
+      "game": "Duke 74 | UNC 64",
+      "efg": "0.429",
+      "to": "0.200",
+      "or": "0.333",
+      "ft": "0.071",
+      "ppp": "0.91",
+      "oefg": "0.524",
+      "oto": "0.200",
+      "oor": "0.372",
+      "oft": "0.323",
+      "oppp": "1.06",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/duke-74-unc-64.pdf"
+   },
+   {
       "game": "Miami 91 | UNC 88",
       "efg": "0.658",
       "to": "0.188",

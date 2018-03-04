@@ -1,5 +1,17 @@
 [
    {
+      "game": "Duke 74 | UNC 64",
+      "date": "March 3, 2018",
+      "time": 20180303,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2018/duke-74-unc-64.pdf"
+   },
+   {
       "game": "Miami 91 | UNC 88",
       "date": "February 27, 2018",
       "time": 20180227,

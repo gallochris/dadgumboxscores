@@ -1,5 +1,18 @@
 [
    {
+      "game": "Duke 74 | UNC 64",
+      "off1": "Roger Ayers",
+      "off2": "Mike Eades",
+      "off3": "Raymond Styons",
+      "result": "loss",
+      "style": "ffbfb2",
+      "season": "17-18",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2018/duke-74-unc-64.pdf"
+   },
+   {
       "game": "Miami 91 | UNC 88",
       "off1": "Ron Groover",
       "off2": "Michael Stephens",
