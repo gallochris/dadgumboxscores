@@ -13,6 +13,7 @@ layout: duke-refs
 |:------------:|:----------:|
 |   Karl Hess  |     10     |
 | Bryan Kersey |      9     |
+|  Mike Eades  |      8     |
 |  Roger Ayers |      7     |
 |   Les Jones  |      7     |
 </pre>
