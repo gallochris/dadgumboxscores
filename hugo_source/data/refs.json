@@ -1,5 +1,18 @@
 [
    {
+      "game": "UNC 82 | Miami 65",
+      "off1": "Ron Groover",
+      "off2": "Bill Covington",
+      "off3": "Raymond Styons",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "17-18",
+      "location": "neutral",
+      "type": "ACC Tournament Quarterfinals",
+      "type-sort": 3,
+      "box": "/boxes/2018/unc-82-um-65.pdf"
+   },
+   {
       "game": "UNC 78 | Syracuse 59",
       "off1": "Roger Ayers",
       "off2": "Clarence Armstong",
