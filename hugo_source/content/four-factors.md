@@ -16,8 +16,8 @@ layout: four-factors
 |       Same TO%      |         3-1        |
 |      Higher OR%     |         22-6       |
 |      Lower OR%      |         2-3        |
-|    Higher FTRate    |         16-6       |
-|     Lower FTRate    |         6-5        |
+|    Higher FTRate    |         18-5       |
+|     Lower FTRate    |         8-4        |
 </pre>
 
 #### Not sure what the Four Factors are? Get [help here](https://cbbstatshelp.com/four-factors/intro/).
