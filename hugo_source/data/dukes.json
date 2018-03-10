@@ -1,16 +1,16 @@
 [
    {
-      "game": "Duke | UNC",
+      "game": "UNC 74 | Duke 69",
       "off1": "Mike Eades",
       "off2": "Ted Valentine",
       "off3": "Bert Smith",
-      "result": "",
-      "style": "",
+      "result": "win",
+      "style": "99ffb2",
       "season": "17-18",
       "location": "neutral",
       "type": "ACC Tournament Semifinal",
       "type-sort": 3,
-      "box": "/"
+      "box": "/boxes/2018/unc-74-duke-69.pdf"
    },
    {
       "game": "Duke 74 | UNC 64",

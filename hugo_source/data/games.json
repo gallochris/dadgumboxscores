@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 74 | Duke 69",
+      "date": "March 9, 2018",
+      "time": 20180309,
+      "season": "17-18",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "neutral",
+      "type": "ACC Tournament Semifinal",
+      "type-sort": 3,
+      "box": "boxes/2018/unc-74-duke-69.pdf"
+   },
+   {
       "game": "UNC 82 | Miami 65",
       "date": "March 8, 2018",
       "time": 20180308,
