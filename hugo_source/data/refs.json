@@ -1,16 +1,16 @@
 [
    {
-      "game": "Virginia | UNC",
+      "game": "UVA 71 | UNC 63",
       "off1": "Jamie Luckie",
       "off2": "Ron Groover",
       "off3": "Tim Nestor",
-      "result": "",
-      "style": "",
+      "result": "loss",
+      "style": "ffbfb2",
       "season": "17-18",
       "location": "neutral",
       "type": "ACC Tournament Final",
       "type-sort": 3,
-      "box": "/.pdf"
+      "box": "/boxes/2018/uva-71-unc-63.pdf"
    },
    {
       "game": "UNC 74 | Duke 69",

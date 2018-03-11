@@ -1,5 +1,17 @@
 [
    {
+      "game": "UVA 71 | UNC 63",
+      "date": "March 10, 2018",
+      "time": 20180310,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "neutral",
+      "type": "ACC Tournament Final",
+      "type-sort": 3,
+      "box": "boxes/2018/uva-71-unc-63.pdf"
+   },
+   {
       "game": "UNC 74 | Duke 69",
       "date": "March 9, 2018",
       "time": 20180309,
