@@ -9,15 +9,15 @@ layout: four-factors
 <pre class="huffman stilwata">
 | When UNC has a . .  | its record is . . .|
 |:-------------------:|:------------------:|
-|     Higher eFG%     |         20-3       |
+|     Higher eFG%     |         21-3       |
 |      Lower eFG%     |         5-6        |
 |      Same eFG%      |         0-1        |
-|      Higher TO%     |         8-7        |
+|      Higher TO%     |         9-7        |
 |      Lower TO%      |         14-2       |
 |       Same TO%      |         3-1        |
-|      Higher OR%     |         23-7       |
+|      Higher OR%     |         24-7       |
 |      Lower OR%      |         2-3        |
-|    Higher FTRate    |         18-5       |
+|    Higher FTRate    |         19-5       |
 |     Lower FTRate    |         9-5        |
 </pre>
 
