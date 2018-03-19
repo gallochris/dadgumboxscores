@@ -1,5 +1,21 @@
 [
    {
+      "game": "Texas A&M 85 | UNC 65",
+      "efg": "0.372",
+      "to": "0.179",
+      "or": "0.173",
+      "ft": "0.897",
+      "ppp": "0.83",
+      "oefg": "0.600",
+      "oto": "0.077",
+      "oor": "0.206",
+      "oft": "0.350",
+      "oppp": "1.10",
+      "result": "loss",
+      "style": "ffbfb2",
+      "box": "/boxes/2018/unc-65-tam-85.pdf"
+   },
+   {
       "game": "UNC 84 | Lipscomb 66",
       "efg": "0.592",
       "to": "0.234",

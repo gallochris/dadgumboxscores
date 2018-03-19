@@ -1,14 +1,26 @@
 [
    {
+      "game": "Texas A&M 85 | UNC 65",
+      "date": "March 18, 2018",
+      "time": 20180318,
+      "season": "17-18",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "neutral",
+      "type": "NCAA Tournament 2nd Round",
+      "type-sort": 4,
+      "box": "boxes/2018/unc-65-tam-85.pdf"
+   },
+   {
       "game": "UNC 84 | Lipscomb 66",
-      "date": "March 17, 2018",
+      "date": "March 16, 2018",
       "time": 20180316,
       "season": "17-18",
       "result": "win",
       "style": "99ffb2",
       "location": "neutral",
       "type": "NCAA Tournament 1st Round",
-      "type-sort": 3,
+      "type-sort": 4,
       "box": "boxes/2018/unc-84-ls-66.pdf"
    },
    {
