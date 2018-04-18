@@ -166,7 +166,7 @@ body {
 	padding: 0;
 	color: #14191d;
 	background-color: #F2FAFD;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 .nate { 
@@ -175,7 +175,13 @@ body {
  }
 
 .janet { 
-text-align: right;
+text-align: center;
+padding-right: 0;
+vertical-align: text-bottom;
+ }
+
+ .cj {
+ 	text-align: right;
  }
 
  .britt { 
@@ -197,11 +203,18 @@ display: none;
  }
 
  .wide { 
- width: 61px;
+ width: 50px;
   }
 
+.kanema { 
+	background-color:#d9e1e3;
+
+ }
+.rohlman {
+ padding: 0px 12px;
+}
  .wow { 
- padding-left: 325px;
+ text-align: left;
   }
 
 body a {
