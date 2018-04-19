@@ -595,6 +595,11 @@ header h1 {
   color: #fff;
 }
 
+header h1 a {
+  color: #fff;
+}
+
+
 header nav {
   float: right;
   margin-top: 25px;
