@@ -14,78 +14,6 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href="https://dadgumboxscores.com/images/favicon.ico">
 
-    <script language="JavaScript">
-
-
-function CalculateEFG(Atext, Btext, Ctext, form)
-{
-var A = parseFloat(Atext);
-var B = parseFloat(Btext);
-var C = parseFloat(Ctext);
-form.Answer.value = (A + (.5 * B)) / C;
-}
-
-function CalculateTOV(Atext, Btext, form)
-{
-var A = parseFloat(Atext);
-var B = parseFloat(Btext);
-form.Answer.value =  A / B;
-}
-
-function CalculateORB(Atext, Btext, form)
-{
-var A = parseFloat(Atext);
-var B = parseFloat(Btext);
-form.Answer.value = (A / (A + B);
-}
-
-function CalculateFTRate(Atext, Btext, form)
-{
-var A = parseFloat(Atext);
-var B = parseFloat(Btext);
-form.Answer.value = A / B;
-}
-
-
-function CalculatePOSS(Atext, Btext, Ctext, Dtext, form)
-{
-var A = parseFloat(Atext);
-var B = parseFloat(Btext);
-var C = parseFloat(Ctext);
-var D = parseFloat(Dtext);
-form.Answer.value = A - B + C + (.475 * D);
-}
-
-
-
-
-
-function ClearForm1(form)
-{
-form.input_A.value = "";
-form.input_B.value = "";
-form.input_C.value = "";
-form.Answer.value = "";
-}
-
-function ClearForm2(form)
-{
-form.input_A.value = "";
-form.input_B.value = "";
-form.Answer.value = "";
-}
-
-function ClearForm3(form)
-{
-form.input_A.value = "";
-form.input_B.value = "";
-form.input_C.value = "";
-form.input_D.value = "";
-form.Answer.value = "";
-}
-
-
-</script>
     
     <script>
     $(document).ready( function () {
@@ -174,18 +102,13 @@ form.Answer.value = "";
 
 <h4 id="not-sure-what-the-four-factors-are-get-help-here-https-cbbstatshelp-com-four-factors-intro">Not sure what the Four Factors are? Get <a href="https://cbbstatshelp.com/four-factors/intro/">help here</a>.</h4>
 
-
-
-<div class="m-entry__body" id="article-body">
-    Advanced Statistics are a great way to get more information from a box score.  Websites like <a href="http://www.basketball-reference.com/">Basketball-Reference</a> and <a href="http://hoopdata.com/">Hoop Data</a> do a great job of providing a lot of these statistics over the season. But what about when the statistics aren't handy and all you have is raw data?  I ran into this problem trying to calculate advanced stats during the preseason, because using the formulas to calculate it by hand was a pain.<br>
-
 <br>
 <h3>Effective Field Goal %</h3>
 <form name="Calculator" method="post">
 Enter FGM: <input name="input_A" size="10" type="TEXT"><br>
 Enter 3PM: <input name="input_B" size="10" type="TEXT"><br>
 Enter FGA: <input name="input_C" size="10" type="TEXT"><br>
-<input name="AddButton" value="Calculate" type="button" onclick="CalculateEFG(this.form.input_A.value, this.form.input_B.value, this.form.input_C.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm1(this.form)"><br>
+<input name="AddButton" value="Calculate" type="button" onclick="CalculateEFG(this.form.input_A.value, this.form.input_B.value, this.form.input_C.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm(this.form)"><br>
 eFG% = <input name="Answer" size="12" type="TEXT">
 </form>
 <br>
@@ -194,7 +117,7 @@ eFG% = <input name="Answer" size="12" type="TEXT">
 <form name="Calculator2" method="post">
 Team ORBs: <input name="input_A" size="10" type="TEXT" class="folger"><br>
 Opp. DRBs: <input name="input_B" size="10" type="TEXT"><br>
-<input name="AddButton" value="Calculate" type="button" onclick="CalculateORB(this.form.input_A.value, this.form.input_B.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm2(this.form)"><br>
+<input name="AddButton" value="Calculate" type="button" onclick="CalculateORB(this.form.input_A.value, this.form.input_B.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm1(this.form)"><br>
 ORB% = <input name="Answer" size="12" type="TEXT"><br>
 </form>
 <br>
@@ -203,7 +126,7 @@ ORB% = <input name="Answer" size="12" type="TEXT"><br>
 <form name="Calculator" method="post">
 Turnovers: <input name="input_A" size="10" type="TEXT" style=" font-size: 12px;margin-bottom: 1em;"><br>
 Possessions: <input name="input_B" size="10" type="TEXT"><br>
-<input name="AddButton" value="Calculate" type="button" onclick="CalculateTOV(this.form.input_A.value, this.form.input_B.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm2(this.form)"><br>
+<input name="AddButton" value="Calculate" type="button" onclick="CalculateTOV(this.form.input_A.value, this.form.input_B.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm1(this.form)"><br>
 TOV% = <input name="Answer" size="12" type="TEXT">
 </form>
 <br>
@@ -212,7 +135,7 @@ TOV% = <input name="Answer" size="12" type="TEXT">
 <form name="Calculator" method="post">
 FTA: <input name="input_A" size="10" type="TEXT"><br>
 FGA: <input name="input_B" size="10" type="TEXT"><br>
-<input name="AddButton" value="Calculate" type="button" onclick="CalculateTOV(this.form.input_A.value, this.form.input_B.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm2(this.form)"><br>
+<input name="AddButton" value="Calculate" type="button" onclick="CalculateTOV(this.form.input_A.value, this.form.input_B.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm1(this.form)"><br>
 FTRate = <input name="Answer" size="12" type="TEXT">
 </form>
 <br>
@@ -223,13 +146,83 @@ FGA: <input name="input_A" size="10" type="TEXT"><br>
 ORB: <input name="input_B" size="10" type="TEXT"><br>
 Turnovers: <input name="input_C" size="10" type="TEXT"><br>
 FTA: <input name="input_D" size="10" type="TEXT"><br>
-<input name="AddButton" value="Calculate" type="button" onclick="CalculatePOSS(this.form.input_A.value, this.form.input_B.value, this.form.input_C.value, this.form.input_D.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm3(this.form)"><br>
+<input name="AddButton" value="Calculate" type="button" onclick="CalculatePOSS(this.form.input_A.value, this.form.input_B.value, this.form.input_C.value, this.form.input_D.value, this.form)"><input name="ClearButton" value="Clear Fields" type="button" onclick="ClearForm2(this.form)"><br>
 Possessions = <input name="Answer" size="12" type="TEXT">
 </form>
 <br>
 
+<script type="text/javascript">
+function CalculateEFG(Atext, Btext, Ctext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+var C = parseFloat(Ctext);
+form.Answer.value = (A + (.5 * B)) / C;
+}
 
-</div>
+function CalculateTOV(Atext, Btext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+form.Answer.value =  A / B;
+}
+
+function CalculateORB(Atext, Btext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+form.Answer.value = A / (A + B);
+}
+
+function CalculateFTRate(Atext, Btext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+form.Answer.value = A / B;
+}
+
+
+function CalculatePOSS(Atext, Btext, Ctext, Dtext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+var C = parseFloat(Ctext);
+var D = parseFloat(Dtext);
+form.Answer.value = A - B + C + (.475 * D);
+}
+
+
+
+
+
+function ClearForm(form)
+{
+form.input_A.value = "";
+form.input_B.value = "";
+form.input_C.value = "";
+form.Answer.value = "";
+}
+
+function ClearForm1(form)
+{
+form.input_A.value = "";
+form.input_B.value = "";
+form.Answer.value = "";
+}
+
+function ClearForm2(form)
+{
+form.input_A.value = "";
+form.input_B.value = "";
+form.input_C.value = "";
+form.input_D.value = "";
+form.Answer.value = "";
+}
+
+
+</script>
+
+
 
 <footer class="pinson" role="contentinfo">
   <div class="pinson-dance">
