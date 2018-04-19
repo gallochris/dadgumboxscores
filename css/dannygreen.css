@@ -623,14 +623,6 @@ header nav a {
   margin: 15px;
 }
 
-header nav a {
-	color:#fff;
-}
-
- header a:visited {
-  color: inherit;
-}
-
 
 @media screen and (max-width: 750px) {
 
