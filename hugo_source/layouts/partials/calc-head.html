@@ -1,0 +1,157 @@
+<!DOCTYPE html
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ .Title }}</title>
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+   <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700,700italic,100,100italic,300,300italic,500,400italic,500italic' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="{{ .Site.BaseURL }}js/felton.min.js"></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
+
+    <script language="JavaScript">
+
+
+function CalculateEFG(Atext, Btext, Ctext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+var C = parseFloat(Ctext);
+form.Answer.value = (A + (.5 * B)) / C;
+}
+
+function CalculateTOV(Atext, Btext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+form.Answer.value =  A / B;
+}
+
+function CalculateORB(Atext, Btext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+form.Answer.value = (A / (A + B);
+}
+
+function CalculateFTRate(Atext, Btext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+form.Answer.value = A / B;
+}
+
+
+function CalculatePOSS(Atext, Btext, Ctext, Dtext, form)
+{
+var A = parseFloat(Atext);
+var B = parseFloat(Btext);
+var C = parseFloat(Ctext);
+var D = parseFloat(Dtext);
+form.Answer.value = A - B + C + (.475 * D);
+}
+
+
+/* ClearForm: this function has 1 argument: form.
+   It clears the input and answer fields on the form. 
+   It needs to know the names of the INPUT elements in order
+   to do this. */
+
+function ClearForm1(form)
+{
+form.input_A.value = "";
+form.input_B.value = "";
+form.input_C.value = "";
+form.Answer.value = "";
+}
+
+function ClearForm2(form)
+{
+form.input_A.value = "";
+form.input_B.value = "";
+form.Answer.value = "";
+}
+
+function ClearForm3(form)
+{
+form.input_A.value = "";
+form.input_B.value = "";
+form.input_C.value = "";
+form.input_D.value = "";
+form.Answer.value = "";
+}
+
+// end of JavaScript functions -->
+</script>
+    <!-- start autocompletejs -->
+    <script>
+    $(document).ready( function () {
+    $('#table_id').DataTable();
+    responsive: true
+    } );
+    </script>
+
+
+    <script type="text/javascript" class="init">
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "paging":   false,
+        "info":     true,
+        "dom": '<"top"iflp<"clear">>',
+        "order": [],
+        "oSearch": {"sSearch": $.urlParam('filter')} 
+    } );
+    } );
+
+   $.urlParam = function(name){
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (!results)
+    { 
+    return ; 
+    }
+    return decodeURI(results[1]) || 0;
+    } 
+
+
+
+    // Read a page's GET URL variables and return them as an associative array.
+    function getUrlVars()
+    {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = decodeURIComponent(value);
+
+    
+        
+    });
+    return vars;
+
+    }
+
+    $(document).ready(function() {
+    // Get the query from the url
+    var query = getUrlVars()['q'];
+    // create the table
+    var oTable = $('#example').dataTable();
+    // Filter it
+    oTable.fnFilter( query, 2 );
+    });
+
+    </script>
+
+    <!-- end autocompletejs -->
+
+    <!-- styles -->
+    <link href="{{ .Site.BaseURL }}css/calc.css" rel="stylesheet" type="text/css">
+    <!-- end styles -->
+    {{ .Hugo.Generator }}
+</head>
+<body>
+
+
+
