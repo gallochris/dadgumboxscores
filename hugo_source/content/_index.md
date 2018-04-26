@@ -6,7 +6,7 @@ title: Dadgum Box Scores
 
 #### Follow [@dadgumboxscores](https://twitter.com/dadgumboxscores) for updates
 
-#### Filter by season, wins, losses, opponent or type of game
+#### Filter by season, wins, losses, opponent, or type of game
 
 
 
