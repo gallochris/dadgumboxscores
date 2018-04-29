@@ -23,4 +23,4 @@ layout: four-factors
 
 #### Not sure what the Four Factors are? Get [help here](https://cbbstatshelp.com/four-factors/intro/).
 
-#### View four factors game-by-game for the [2016-17 season here](/four-factors-16-17).
+#### View four factors game-by-game for the [2016-17 season](/four-factors-16-17) or [2003-04 season](/four-factors-03-04).
