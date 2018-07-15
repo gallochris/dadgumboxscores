@@ -221,7 +221,7 @@
       "oppp": "0.86",
       "result": "win",
       "style": "99ffb2",
-      "box": "boxes/2005/unc-85-uva-61/"
+      "box": "/boxes/2005/unc-85-uva-61/"
    },
    {
       "game": "UNC 77 | UConn 70",
@@ -587,7 +587,7 @@
       "oor": "0.464",
       "oft": "0.580",
       "oppp": "1.07",
-      "result": "win",
+      "result": "loss",
       "style": "ffbfb2",
       "box": "/boxes/2005/sc-77-unc-66/"
    }
