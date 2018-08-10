@@ -1,0 +1,54 @@
+{{ partial "ff-head.html" . }}
+{{ partial "nav.html" . }}  
+<div class="row ten columns offset by-one">
+<body>
+    
+    {{ .Content }}
+
+
+<table id="example" class="display center" cellspacing="0" width="100%">
+  <thead>
+     <tr>
+     <th scope="col" colspan="1" class="larrydrew"></th>
+     <th scope="col" colspan="4" class="larrydrew"><b>Offense</b></th>
+     <th scope="col" colspan="8" class="larrydrew"><b>Defense</b></th>
+    </tr>
+         <tr> 
+          <th class="wow" data-sortable="false">Box Score</th>
+          <th class="larrydrew janet">PPP</th>
+          <th class="larrydrew janet">eFG%</th>
+          <th class="larrydrew janet">TO%</th>
+          <th class="larrydrew janet">OR%</th>
+          <th class="larrydrew janet">FTRate</th>
+          <th class="larrydrew janet wide rohlman"></td>
+          <th class="larrydrew janet">PPP</th>
+          <th class="larrydrew janet">eFG%</th>
+          <th class="larrydrew janet">TO%</th>
+          <th class="larrydrew janet">OR%</th>
+          <th class="larrydrew janet">FTRate</th>
+         </tr>
+     </thead>
+
+    <tbody>
+  {{ range $.Site.Data.f1415 }}
+    <tr>
+        <td><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td class="larrydrew janet wide kanema">{{ .ppp }}</td>
+        <td class="larrydrew janet wide">{{ .efg }}</td> 
+        <td class="larrydrew janet wide">{{ .to }}</td>
+        <td class="larrydrew janet wide">{{ .or }}</td>
+        <td class="larrydrew janet wide">{{ .ft }}</td>
+        <td class="larrydrew janet wide rohlman"></td>
+        <td class="larrydrew janet wide kanema">{{ .oppp }}</td>
+        <td class="larrydrew janet wide">{{ .oefg }}</td> 
+        <td class="larrydrew janet wide">{{ .oto }}</td>
+        <td class="larrydrew janet wide">{{ .oor }}</td>
+        <td class="larrydrew janet wide">{{ .oft }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+</body>
+
+{{ partial "footer.html" . }}
+</div>
