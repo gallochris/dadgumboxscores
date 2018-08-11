@@ -4,23 +4,8 @@ type: four-factors
 layout: four-factors
 ---
 
-# Four Factors game-by-game (2017-18 season)
+# Four Factors game-by-game since '03-04
 
-<pre class="huffman stilwata">
-| When UNC has a . .  | its record is . . .|
-|:-------------------:|:------------------:|
-|     Higher eFG%     |         21-3       |
-|      Lower eFG%     |         5-7        |
-|      Same eFG%      |         0-1        |
-|      Higher TO%     |         9-7        |
-|      Lower TO%      |         14-3       |
-|       Same TO%      |         3-1        |
-|      Higher OR%     |         24-7       |
-|      Lower OR%      |         2-4        |
-|    Higher FTRate    |         19-5       |
-|     Lower FTRate    |         9-6        |
-</pre>
+#### What are the Four Factors? [Learn here](https://cbbstatshelp.com/four-factors/intro/).
 
-#### Not sure what the Four Factors are? Get [help here](https://cbbstatshelp.com/four-factors/intro/).
-
-#### View four factors game-by-game for the [2016-17 season](/four-factors-16-17) or [2003-04 season](/four-factors-03-04).
+#### Click to a column to sort or view four factors by a specific season

@@ -4,46 +4,56 @@
 <body>
     
     {{ .Content }}
+      <ul id="horizontal-list">
+      <li><a href="/four-factors-17-18">2018</a></li>
+      <li><a href="/four-factors-16-17">2017</a></li>
+      <li><a href="/four-factors-15-16">2016</a></li>
+      <li><a href="/four-factors-14-15">2015</a></li>
+      <li><a href="/four-factors-13-14">2014</a></li>
+      <li><a href="/four-factors-12-13">2013</a></li>
+      <li><a href="/four-factors-11-12">2012</a></li>
+      <li><a href="/four-factors-10-11">2011</a></li>
+      <li><a href="/four-factors-09-10">2010</a></li>
+      <li><a href="/four-factors-08-09">2009</a></li>
+      <li><a href="/four-factors-07-08">2008</a></li>
+      <li><a href="/four-factors-06-07">2007</a></li>
+      <li><a href="/four-factors-05-06">2006</a></li>
+      <li><a href="/four-factors-04-05">2005</a></li>
+      <li><a href="/four-factors-03-04">2004</a></li>
+    </ul>
 
 
 <table id="example" class="display center" cellspacing="0" width="100%">
   <thead>
-     <tr>
-     <th scope="col" colspan="1" class="larrydrew"></th>
-     <th scope="col" colspan="4" class="larrydrew"><b>Offense</b></th>
-     <th scope="col" colspan="8" class="larrydrew"><b>Defense</b></th>
-    </tr>
-         <tr> 
-          <th class="wow" data-sortable="false">Box Score</th>
-          <th class="larrydrew janet">PPP</th>
-          <th class="larrydrew janet">eFG%</th>
-          <th class="larrydrew janet">TO%</th>
-          <th class="larrydrew janet">OR%</th>
-          <th class="larrydrew janet">FTRate</th>
-          <th class="larrydrew janet wide rohlman"></td>
-          <th class="larrydrew janet">PPP</th>
-          <th class="larrydrew janet">eFG%</th>
-          <th class="larrydrew janet">TO%</th>
-          <th class="larrydrew janet">OR%</th>
-          <th class="larrydrew janet">FTRate</th>
+          <tr> 
+          <th style="color: #56a0d3;">PPP</th>
+          <th style="color: #56a0d3;">eFG%</th>
+          <th style="color: #56a0d3;">TO%</th>
+          <th style="color: #56a0d3;">OR%</th>
+          <th style="color: #56a0d3;">FTRate</th>
+          <th class="wallace" data-sortable="false">Box Score</th>
+          <th>PPP</th>
+          <th>eFG%</th>
+          <th>TO%</th>
+          <th>OR%</th>
+          <th>FTRate</th>
          </tr>
      </thead>
 
     <tbody>
   {{ range $.Site.Data.factors }}
     <tr>
-        <td><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
-        <td class="larrydrew janet wide kanema">{{ .ppp }}</td>
-        <td class="larrydrew janet wide">{{ .efg }}</td> 
-        <td class="larrydrew janet wide">{{ .to }}</td>
-        <td class="larrydrew janet wide">{{ .or }}</td>
-        <td class="larrydrew janet wide">{{ .ft }}</td>
-        <td class="larrydrew janet wide rohlman"></td>
-        <td class="larrydrew janet wide kanema">{{ .oppp }}</td>
-        <td class="larrydrew janet wide">{{ .oefg }}</td> 
-        <td class="larrydrew janet wide">{{ .oto }}</td>
-        <td class="larrydrew janet wide">{{ .oor }}</td>
-        <td class="larrydrew janet wide">{{ .oft }}</td>
+        <td>{{ .ppp }}</td>
+        <td>{{ .efg }}</td> 
+        <td>{{ .to }}</td>
+        <td>{{ .or }}</td>
+        <td>{{ .ft }}</td>
+        <td class="wallace"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td>{{ .oppp }}</td>
+        <td>{{ .oefg }}</td> 
+        <td>{{ .oto }}</td>
+        <td>{{ .oor }}</td>
+        <td>{{ .oft }}</td>
         </tr>
         {{ end }}
     </tbody>

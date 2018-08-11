@@ -6,23 +6,23 @@
 	<table id="example" class="display center" cellspacing="0" width="100%" table-layout="fixed">
 	<thead>
          <tr> 
-          <th class="larrydrew nate">Type</th>
-          <th class="larrydrew nate">Location</th>
-          <th class="janet britt">Year</th>
-          <th class="cj">Date</th>
-          <th class="cj" data-sortable="false">Box Score</th>
-          <th class="cj britt">Result</th>
+          <th>Type</th>
+          <th>Location</th>
+          <th class="britt">Year</th>
+          <th>Date</th>
+          <th data-sortable="false">Box Score</th>
+          <th class="britt">Result</th>
          </tr>
      </thead>
 
     <tbody>
 	{{ range $.Site.Data.games }}
 		<tr>
-        <td class="larrydrew nate">{{ .type }}</td>
-        <td class="larrydrew nate">{{ .location }}</td>
-        <td class="cj britt">{{ .season }}</td> 
-        <td class="cj">{{ .date }}</td> 
-        <td class="cj"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td>{{ .type }}</td>
+        <td>{{ .location }}</td>
+        <td class="britt">{{ .season }}</td> 
+        <td>{{ .date }}</td> 
+        <td><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         <td class="britt">{{ .result }}</td>
                 </tr>
   			{{ end }}

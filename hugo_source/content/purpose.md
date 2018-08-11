@@ -6,7 +6,7 @@ layout: thepurpose
 
 # Purpose
 
-Dadgum box scores is a collection of every UNC men's basketball box score since the 2003-04 season. Nothing else. Just box scores. Dadgum box scores.
+Dadgum box scores is a collection of every UNC men's basketball box score since the 2003-04 season.
 
 Who am I? 
 
@@ -18,27 +18,29 @@ Or UNC's record in the [ACC Tournament Championship](/?filter=acc%20tournament%2
 
 Or how many times [UNC has beaten Michigan State](/?filter=michigan%20state) in the last decade? 
 
-Stop scouring different sites and wasting your time. Find any box score by season or opponent. Sort by wins or losses, location, conference or non-conference. And get exactly what you need without any headaches.
+Stop scouring different sites and wasting your time. Find any box score by season or opponent. Filter by wins or losses, location, conference or non-conference. And get exactly what you need without any headaches.
 
 The focus of this site is box scores. There are a few other pieces of information you can find too:
 
 - [officials](/officials): list of refs for every game since '03-04 
-- [four factors:](/four-factors/) game-by-game stats of the [four factors](https://cbbstatshelp.com/four-factors/) during the current season
+- [four factors:](/four-factors/) game-by-game stats of the [four factors](https://cbbstatshelp.com/four-factors/) for every game since '03-04
 - [blog](https://fyi.dadgumboxscores.com): every so often I share some written observations and opinions
 
 You should also follow along on Twitter. I share gif highlights and other random notes there, follow me [@dadgumboxscores](https://twitter.com/dadgumboxscores). 
 
-But this site doesn't include schedules, player interviews, or any other stats. I'm not a reporter, and I'm not going to break any news. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
+But this site doesn't include schedules, player stats, or interviews. I'm not a reporter, and I'm not going to break any news. If you're looking for other places to find information like that, here's a few site recommendations and people to follow. 
 
 
 - Adrian Atkinson - [@FreeportKid](https://twitter.com/FreeportKid) shares dynamite stats/analysis
 - R.L. Bynum - lots of useful info, covered UNC athletics for many years, [follow him](https://twitter.com/RL_Bynum)
-- Turner Walston - covers all 28 UNC sports, find him [@TurnerWalston](https://twitter.com/TurnerWalston) and support [Argyle Report](https://www.argylereport.com/)
-- Jones Angell - play-by-play voice for UNC, [@JonesAngell](https://twitter.com/JonesAngell) 
 - [insidecarolina.com](http://insidecarolina.com) - this site covers it all, has in-depth analysis and scoops 
 - Sherrell D. McMillan - covers recuriting for Inside Carolina, follow him [@RellDMC](https://twitter.com/RellDMC)
+- [Argyle Report](https://www.argylereport.com/) - covers all 28 UNC sports, founded by [@TurnerWalston](https://twitter.com/TurnerWalston) and run by UNC students
+- Jones Angell - play-by-play voice for UNC, [@JonesAngell](https://twitter.com/JonesAngell) 
 - [goheels.com](http://goheels.com) - official site of UNC athletics 
 - [kenpom.com](http://kenpom.com) - holy grail for advanced stats, totally worth a yearly $19.95 subscription
+- [kenpom.com](http://kenpom.com) - holy grail for advanced stats, totally worth a yearly $19.95 subscription
+- [bartorvik.com](http://barttorvik.com/team.php?year=2019&team=North+Carolina) - similar to KenPom, has some secret sauce advanced stats, totally free 
 - [cbbstatshelp.com](https://cbbstatshelp.com) - explains what advanced stats mean, like a KenPom for Dummies 
 
 * * *
@@ -49,7 +51,7 @@ But this site doesn't include schedules, player interviews, or any other stats. 
 
 ### What format are the box scores in?
 
-All box scores are in txt or PDF format. This makes the box scores both human and machine readable.
+All box scores are in txt or PDF format. 
 
 ### Why only box scores since the 2003-2004 season?
 

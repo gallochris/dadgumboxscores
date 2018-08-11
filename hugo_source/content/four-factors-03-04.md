@@ -6,4 +6,6 @@ layout: four-factors-03-04
 
 # Four Factors game-by-game (2003-04 season)
 
-#### Not sure what the Four Factors are? Get [help here](https://cbbstatshelp.com/four-factors/intro/).
+#### What are the Four Factors? [Learn here](https://cbbstatshelp.com/four-factors/intro/).
+
+#### Click to a column to sort or view four factors by a specific season
