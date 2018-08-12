@@ -145,7 +145,7 @@ table th {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 800px) {
   table {
     border: 0;
   }
