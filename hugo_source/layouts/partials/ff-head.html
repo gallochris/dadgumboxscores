@@ -1,5 +1,8 @@
-<!DOCTYPE html
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<!DOCTYPE html>
+<html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
   <head>
    <title>{{ .Title }}</title>
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
@@ -10,7 +13,6 @@
     <script src="{{ .Site.BaseURL }}js/felton.min.js"></script>
     <meta charset="utf-8">
     <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
-
     <!-- start autocompletejs -->
     <script>
     $(document).ready( function () {
