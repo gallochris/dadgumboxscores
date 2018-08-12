@@ -206,11 +206,11 @@ table th {
     padding-left: 0;
   }
 
-
-  header nav a {
-    display: inline;
-    padding: 6px;
-    font-size: 14px;
+    header nav a {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: #fff;
   }
 
   h1 { 
@@ -592,6 +592,8 @@ div.column_half {
 	}
 }
 
+
+
 .dataTables_filter {
    width: 100%;
    text-align: center;
@@ -648,18 +650,6 @@ header nav a {
   margin: 15px;
 }
 
-
-
-
-@media screen and (max-width: 650px) {
-
-  header nav a {
-    display: block;
-    margin: auto;
-    text-align: center;
-    color: #fff;
-  }
-}
 
 /* End Nav */ 
 
