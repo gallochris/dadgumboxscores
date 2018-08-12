@@ -1,33 +1,33 @@
 {{ partial "header.html" . }}
 {{ partial "nav.html" . }}     
-<div class="row ten columns offset by-one">
-    
+<div class="container">   
 		
 		{{ .Content }}
 
-<table id="example" class="display center" cellspacing="0" width="100%">
+<table id="example" class="display center" cellspacing="0" width="100%" table-layout="fixed">
   <thead>
          <tr> 
-           <th class="nate" >Player</th>
-           <th class="larrydrew nate" >Class</th>
-           <th class="larrydrew nate" >Drafted Team</th>
-           <th class="janet">Year</th>
-           <th class="janet">Pick #</th>
+           <th scope="col" >Player</th>
+           <th scope="col" >Class</th>
+           <th scope="col"  >Drafted Team</th>
+           <th scope="col" >Year</th>
+           <th scope="col" >Pick #</th>
          </tr>
      </thead>
 
     <tbody>
    {{ range $.Site.Data.pros }}
     <tr>
-        <td class="nate">{{ .player }}</td> 
-        <td class="larrydrew nate">{{ .classyear }}</td>
-        <td class="larrydrew nate">{{ .draftedteam }}</td>
-        <td class="janet">{{ .theyear }}</td> 
-        <td class="janet">{{ .thepicknumber }}</td> 
+        <td data-label="Name">{{ .player }}</td> 
+        <td data-label="Class">{{ .classyear }}</td>
+        <td data-label="Team">{{ .draftedteam }}</td>
+        <td data-label="Year">{{ .theyear }}</td> 
+        <td data-label="Pick #">{{ .thepicknumber }}</td> 
         </tr>
         {{ end }}
     </tbody>
 </table>
+
 
 {{ partial "footer.html" . }}
 </div>
