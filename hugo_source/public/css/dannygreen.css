@@ -106,8 +106,9 @@ body.dt-example-bootstrap {
 }
 
 div.container {
-	max-width: 1080px;
+	max-width: 980px;
 	margin: 0 auto;
+		padding: 1em;
 }
 
 /*Table */ 
@@ -144,7 +145,7 @@ table th {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   table {
     border: 0;
   }
