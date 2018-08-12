@@ -106,7 +106,7 @@ body.dt-example-bootstrap {
 }
 
 div.container {
-	max-width: 980px;
+	max-width: 1080px;
 	margin: 0 auto;
 }
 
@@ -117,7 +117,7 @@ table {
   padding: 0;
   width: 100%;
   table-layout: fixed;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 
@@ -145,7 +145,7 @@ table th {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 667px) {
+@media screen and (max-width: 850px) {
   table {
     border: 0;
   }
