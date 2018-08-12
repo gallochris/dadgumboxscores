@@ -26,34 +26,34 @@
 <table id="example" class="display center" cellspacing="0" width="100%">
   <thead>
           <tr> 
-          <th style="color: #56a0d3;">PPP</th>
-          <th style="color: #56a0d3;">eFG%</th>
-          <th style="color: #56a0d3;">TO%</th>
-          <th style="color: #56a0d3;">OR%</th>
-          <th style="color: #56a0d3;">FTRate</th>
-          <th class="wallace" data-sortable="false">Box Score</th>
-          <th>PPP</th>
-          <th>eFG%</th>
-          <th>TO%</th>
-          <th>OR%</th>
-          <th>FTRate</th>
+          <th scope="col" style="color: #56a0d3;">PPP</th>
+          <th scope="col" style="color: #56a0d3;">eFG%</th>
+          <th scope="col" style="color: #56a0d3;">TO%</th>
+          <th scope="col" style="color: #56a0d3;">OR%</th>
+          <th scope="col" style="color: #56a0d3;">FTRate</th>
+          <th scope="col" class="wallace" data-sortable="false">Box Score</th>
+          <th scope="col">PPP</th>
+          <th scope="col">eFG%</th>
+          <th scope="col">TO%</th>
+          <th scope="col">OR%</th>
+          <th scope="col">FTRate</th>
          </tr>
      </thead>
 
     <tbody>
   {{ range $.Site.Data.f1718 }}
     <tr>
-        <td>{{ .ppp }}</td>
-        <td>{{ .efg }}</td> 
-        <td>{{ .to }}</td>
-        <td>{{ .or }}</td>
-        <td>{{ .ft }}</td>
-        <td class="wallace"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
-        <td>{{ .oppp }}</td>
-        <td>{{ .oefg }}</td> 
-        <td>{{ .oto }}</td>
-        <td>{{ .oor }}</td>
-        <td>{{ .oft }}</td>
+        <td data-label="PPP" >{{ .ppp }}</td>
+        <td data-label="eFG" >{{ .efg }}</td> 
+        <td data-label="TO%" >{{ .to }}</td>
+        <td data-label="OR%" >{{ .or }}</td>
+        <td data-label="FTRate" >{{ .ft }}</td>
+        <td data-label="Box Score" class="wallace"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td data-label="PPP">{{ .oppp }}</td>
+        <td data-label="eFG">{{ .oefg }}</td> 
+        <td data-label="TO%">{{ .oto }}</td>
+        <td data-label="OR%">{{ .oor }}</td>
+        <td data-label="FTRate">{{ .oft }}</td>
         </tr>
         {{ end }}
     </tbody>
