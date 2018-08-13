@@ -201,6 +201,10 @@ table th {
   font-size: 10px;
  }
 
+ .jalek { 
+ 	display: none;
+  }
+
   header h1, header nav {
     float: none;
     padding-left: 0;
