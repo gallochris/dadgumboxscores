@@ -122,6 +122,7 @@ table {
   padding: 0;
   width: 100%;
   table-layout: fixed;
+  font-size: 14px;
 }
 
 table caption {
