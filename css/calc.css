@@ -6,7 +6,7 @@ body {
   line-height: 1.25;
   margin: 0 auto;
   color: #14191d; 
-	background-color: #F2FAFD;
+  background-color: #F2FAFD;
 }
 
 .nate { 
@@ -88,7 +88,8 @@ body.dt-example-bootstrap {
 
 div.container {
 	max-width: 980px;
-	margin: 0 auto;
+		margin: 0 auto;
+	padding: 1em;
 }
 
 thead th {
