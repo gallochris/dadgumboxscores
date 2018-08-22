@@ -1,0 +1,49 @@
+{{ partial "ref-head.html" . }}
+{{ partial "nav.html" . }}
+  
+<div class="container">
+    
+    
+    {{ .Content }}
+      <ul id="horizontal-list">
+      <li><a href="/officials/">Officials only</a></li>
+      <li><a href="/fouls/">Fouls only</a></li>
+      <li><a href="/spread/">Spread only</a></li>
+    </ul>
+
+  <table id="example" class="display center" cellspacing="0" width="100%">
+  <thead>
+         <tr> 
+           <th scope="col" class="britt">Location</th>
+           <th scope="col" class="britt">Type</th>
+           <th scope="col" data-sortable="false">Ref 1</th>
+           <th scope="col" data-sortable="false">Ref 2</th>
+           <th scope="col" data-sortable="false">Ref 3</th>
+           <th scope="col" data-sortable="false">UNC Tech</th>
+           <th scope="col" data-sortable="false">Opp Tech</th>
+           <th scope="col" class="britt">Result</th>
+           <th scope="col" >Season</th>
+           <th scope="col" data-sortable="false">Box Score</th>
+         </tr>
+     </thead>
+
+    <tbody>
+    {{ range $.Site.Data.tech }}
+    <tr>
+        <td class="britt">{{ .location }}</td> 
+        <td class="britt">{{ .type }}</td> 
+        <td data-label="Ref1" >{{ .off1 }}</td> 
+        <td data-label="Ref2" >{{ .off2 }}</td>
+        <td data-label="Ref3" >{{ .off3 }}</td>
+        <td data-label="Ref2" >{{ .unctech }} {{ .unctechtype }}</td>
+        <td data-label="Ref3" >{{ .opptech }} {{ .opptechtype }}</td>
+        <th class="britt">{{ .result }}</th>
+        <td data-label="Year" >{{ .season }}</td>
+        <td data-label="Box Score" ><span style="background-color:#{{.style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+{{ partial "footer.html" . }}
+</div>

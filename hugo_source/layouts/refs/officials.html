@@ -5,6 +5,11 @@
     
 		
 		{{ .Content }}
+          <ul id="horizontal-list">
+      <li><a href="/fouls/">Fouls only</a></li>
+      <li><a href="/technicals/">Technical fouls only</a></li>
+      <li><a href="/spread/">Spread only</a></li>
+    </ul>
 
 	<table id="example" class="display center" cellspacing="0" width="100%">
   <thead>
@@ -21,7 +26,7 @@
      </thead>
 
     <tbody>
-    {{ range $.Site.Data.refs }}
+    {{ range $.Site.Data.refs2 }}
     <tr>
         <td class="britt">{{ .location }}</td> 
         <td class="britt">{{ .type }}</td> 

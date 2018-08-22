@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html>
+
+
+<html class="no-js" lang="en">
+  <head>
+   <title>Dadgum Box Scores | Techincals</title>
+    <meta name="description" content="Every UNC basketball box score since 03-04.">
+    <meta name="author" content="Chris Gallo">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="https://dadgumboxscores.com/js/ayers.min.js"></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="https://dadgumboxscores.com/images/favicon.ico">
+
+    
+    <script>
+    $(document).ready( function () {
+    $('#table_id').DataTable();
+    responsive: true
+    } );
+    </script>
+
+
+    <script type="text/javascript" class="init">
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "paging":   false,
+        "info":     true,
+        "dom": '<"top"iflp<"clear">>',
+        "order": [],
+        "oSearch": {"sSearch": $.urlParam('filter')} 
+    } );
+    } );
+
+
+   $.urlParam = function(name){
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (!results)
+    { 
+    return ; 
+    }
+    return decodeURI(results[1]) || 0;
+    } 
+
+
+
+    
+    function getUrlVars()
+    {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = decodeURIComponent(value);
+
+    
+        
+    });
+    return vars;
+
+    }
+
+    $(document).ready(function() {
+    
+    var query = getUrlVars()['q'];
+    
+    var oTable = $('#example').dataTable();
+    
+    oTable.fnFilter( query, 2 );
+    });
+
+    </script>
+
+
+
+    
+
+    
+    <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
+    
+  </head>
+
+
+<header>
+  <a href="https://dadgumboxscores.com/#top" style="display: none"></a>
+ <h1>
+   <a href="/" class="luther" >Dadgum Box Scores</a>
+  </h1>
+  <nav>
+   <a href="https://fyi.dadgumboxscores.com/">Blog</a>
+   <a href="/four-factors/">Factors</a>
+   <a href="/officials/">Refs</a>
+   <a href="/purpose/">Purpose</a>
+ </nav>
+</header>
+  
+<div class="container">
+    
+    
+    
+
+<h1 id="technical-fouls-since-03-04">Technical fouls since 03-04</h1>
+
+<h4 id="filter-by-a-ref-s-name-or-sort-by-season">Filter by a ref&rsquo;s name or sort by season</h4>
+
+<h4 id="games-only-shown-if-a-technical-foul-was-called">Games only shown if a technical foul was called</h4>
+
+      <ul id="horizontal-list">
+      <li><a href="/officials/">Officials only</a></li>
+      <li><a href="/fouls/">Fouls only</a></li>
+      <li><a href="/spread/">Spread only</a></li>
+    </ul>
+
+  <table id="example" class="display center" cellspacing="0" width="100%">
+  <thead>
+         <tr> 
+           <th scope="col" class="britt">Location</th>
+           <th scope="col" class="britt">Type</th>
+           <th scope="col" data-sortable="false">Ref 1</th>
+           <th scope="col" data-sortable="false">Ref 2</th>
+           <th scope="col" data-sortable="false">Ref 3</th>
+           <th scope="col" data-sortable="false">UNC Tech</th>
+           <th scope="col" data-sortable="false">Opp Tech</th>
+           <th scope="col" class="britt">Result</th>
+           <th scope="col" >Season</th>
+           <th scope="col" data-sortable="false">Box Score</th>
+         </tr>
+     </thead>
+
+    <tbody>
+    
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Ted Valentine</td> 
+        <td data-label="Ref2" >Bill Covington Jr.</td>
+        <td data-label="Ref3" >Jeb Hartness</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Jose Alvarado</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >17-18</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2018/unc-80-gt-66.pdf" target="_blank">UNC 80 | Georgia Tech 66</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Tom Eades</td> 
+        <td data-label="Ref2" >Pat Evans</td>
+        <td data-label="Ref3" >Roger Ayers</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >17-18</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2018/unc-86-osu-72.pdf" target="_blank">UNC 86 | Ohio State 72</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Ron Groover</td> 
+        <td data-label="Ref2" >Sean Hull</td>
+        <td data-label="Ref3" >John Gaffney</td>
+        <td data-label="Ref2" > Joel Berry II</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >16-17</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2017/unc-62-um-77" target="_blank">Miami 77 | UNC 62</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Roger Ayers</td> 
+        <td data-label="Ref2" >David Hall</td>
+        <td data-label="Ref3" >Verne Harris</td>
+        <td data-label="Ref2" > Team</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >16-17</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2017/kentucky-103-unc-100/" target="_blank">Kentucky 103 | UNC 100</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Ron Groover</td> 
+        <td data-label="Ref2" >Tim Nestor</td>
+        <td data-label="Ref3" >Les Jones</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Grayson Allen</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >16-17</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2017/unc-90-duke-83" target="_blank">UNC 90 | Duke 83</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Ron Groover</td> 
+        <td data-label="Ref2" >Keith Kimble</td>
+        <td data-label="Ref3" >Matt Potter</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >16-17</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2017/unc-107-ncsu-56" target="_blank">UNC 107 | North Carolina State 56</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Les Jones</td> 
+        <td data-label="Ref2" >Doug Sirmons</td>
+        <td data-label="Ref3" >Jeb Hartness</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" >[3] Je&#39;lon Hornbeak, Josh James, Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >16-17</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2017/unc-102-mon-74" target="_blank">UNC 102 | Monmouth 74</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">NCAA Tournament Elite 8</td> 
+        <td data-label="Ref1" >Michael Stephens</td> 
+        <td data-label="Ref2" >Ed Corbett</td>
+        <td data-label="Ref3" >Tom Eades</td>
+        <td data-label="Ref2" > Brice Johnson</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >15-16</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-88-nd-74" target="_blank">UNC 88 | Notre Dame 74</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Tim Comer</td>
+        <td data-label="Ref3" >Tim Kelly</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >15-16</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-83-wake-68" target="_blank">UNC 83 | Wake Forest 68</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Mike Eades</td> 
+        <td data-label="Ref2" >Terry Wymer</td>
+        <td data-label="Ref3" >Mike Roberts</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Chris Koumadje</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >15-16</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-106-fsu-90" target="_blank">UNC 106 | Florida State 90</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Mike Stuart</td> 
+        <td data-label="Ref2" >Gerry Pollard</td>
+        <td data-label="Ref3" >Don Daily</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >15-16</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2016/uni-71-unc-67" target="_blank">Northern Iowa 71 | UNC 67</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">Non-conference (Veterans Classic)</td> 
+        <td data-label="Ref1" >Michael Stephens</td> 
+        <td data-label="Ref2" >Lamar Simpson</td>
+        <td data-label="Ref3" >Mike Roberts</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Levan S. Alston Jr.</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >15-16</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-91-temple-67" target="_blank">UNC 91 | Temple 67</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Louie Andrakakos</td>
+        <td data-label="Ref3" >Andrew Marotta</td>
+        <td data-label="Ref2" > Team</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >14-15</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2015/unc-86-bill-and-mary-64" target="_blank">UNC 86 | William &amp; Mary 64</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Bryan Kersey</td> 
+        <td data-label="Ref2" >Brian Dorsey</td>
+        <td data-label="Ref3" >Gary Maxwell</td>
+        <td data-label="Ref2" > Joel James</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/miami-63-unc-57" target="_blank">Miami 63 | UNC 57</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Mike Eades</td> 
+        <td data-label="Ref2" >Mike Roberts</td>
+        <td data-label="Ref3" >Doug Shows</td>
+        <td data-label="Ref2" > Leslie McDonald</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/wake-73-unc-67" target="_blank">Wake Forest 73 | UNC 67</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Les Jones</td> 
+        <td data-label="Ref2" >Ray Natili</td>
+        <td data-label="Ref3" >Dwayne Gladden</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Tyler Cavanaugh</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-105-wake-72" target="_blank">UNC 105 | Wake Forest 72</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Tim Nestor</td> 
+        <td data-label="Ref2" >Tim Comer</td>
+        <td data-label="Ref3" >Bill Covington Jr.</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-bc-71" target="_blank">UNC 82 | Boston College 71</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Karl Hess</td> 
+        <td data-label="Ref2" >Les Jones</td>
+        <td data-label="Ref3" >Bryan Kersey</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Isaiah Taylor</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/texas-86-unc-83" target="_blank">Texas 86 | UNC 83</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Roger Ayers</td> 
+        <td data-label="Ref2" >Mike Eades</td>
+        <td data-label="Ref3" >Joe Lindsay</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-kentucky-77" target="_blank">UNC 82 | Kentucky 77</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Les Jones</td> 
+        <td data-label="Ref2" >Mike Roberts</td>
+        <td data-label="Ref3" >Sean Casady</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Tevon Saddler</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >13-14</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-81-uncg-50" target="_blank">UNC 81 | UNCG 50</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Tim Nestor</td>
+        <td data-label="Ref3" >Gary Maxwell</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Julian Gamble</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >12-13</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2013/miami-87-unc-61" target="_blank">Miami 87 | UNC 61</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Bryan Kersey</td> 
+        <td data-label="Ref2" >Raymond Styons</td>
+        <td data-label="Ref3" >Andrew Marotta</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Andre Mattison</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >12-13</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2013/unc-70-fau-56" target="_blank">UNC 70 | Florida Atlantic 56</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">NCAA Tournament 2nd Round</td> 
+        <td data-label="Ref1" >Pat Driscoll</td> 
+        <td data-label="Ref2" >Mike Stuart</td>
+        <td data-label="Ref3" >Tom O&#39;Neill</td>
+        <td data-label="Ref2" > John Henson</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >11-12</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-87-creighton-73" target="_blank">UNC 87 | Creighton 73</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Roger Ayers</td>
+        <td data-label="Ref3" >Ray Perone</td>
+        <td data-label="Ref2" > Team</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >11-12</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-93-gt-81" target="_blank">UNC 93 | Georgia Tech 81</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Mike Eades</td>
+        <td data-label="Ref3" >Sean Corbin</td>
+        <td data-label="Ref2" > John Henson</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >11-12</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2012/fsu-90-unc-57" target="_blank">Florida State 90 | UNC 57</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Brian Dorsey</td> 
+        <td data-label="Ref2" >Tim Kelly</td>
+        <td data-label="Ref3" >Jeff Clark</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >11-12</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-88-maryland-64" target="_blank">UNC 88 | Maryland 64</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">Non-conference (Las Vegas Invitational)</td> 
+        <td data-label="Ref1" >Tom O&#39;Neill</td> 
+        <td data-label="Ref2" >Jon Stigliano</td>
+        <td data-label="Ref3" >Mark Schnur</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" >[2] Brian Richardson, Malik Cooke</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >11-12</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-87-usc-62" target="_blank">UNC 87 | South Carolina 62</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Bryan Kersey</td> 
+        <td data-label="Ref2" >Jamie Luckie</td>
+        <td data-label="Ref3" >Brian Dorsey</td>
+        <td data-label="Ref2" > John Henson</td>
+        <td data-label="Ref3" > Deividas Dulkys</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >10-11</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-72-fsu-70" target="_blank">UNC 72 | Florida State 70</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">NCAA Tournament Sweet 16</td> 
+        <td data-label="Ref1" >Mark Whitehead</td> 
+        <td data-label="Ref2" >Joe DeRosa</td>
+        <td data-label="Ref3" >Tony Padilla</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Jae Crowder</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >10-11</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-81-marq-63" target="_blank">UNC 81 | Marquette 63</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">NCAA Tournament 1st Round</td> 
+        <td data-label="Ref1" >Doug Shows</td> 
+        <td data-label="Ref2" >Ed Hightower</td>
+        <td data-label="Ref3" >Lamont Simpson</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Jamal Olasewere</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >10-11</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-102-liu-87" target="_blank">UNC 102 | LIU 87</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Mike Kitts</td> 
+        <td data-label="Ref2" >Michael Stephens</td>
+        <td data-label="Ref3" >Sean Corbin</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >10-11</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-75-state-63" target="_blank">UNC 75 | North Carolina State 63</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Bryan Kersey</td> 
+        <td data-label="Ref2" >Les Jones</td>
+        <td data-label="Ref3" >Tim Nestor</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Javier Gonzalez</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >10-11</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-84-state-64" target="_blank">UNC 84 | North Carolina State 64</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Karl Hess</td> 
+        <td data-label="Ref2" >Brent Hampton</td>
+        <td data-label="Ref3" >Pat Adams</td>
+        <td data-label="Ref2" > Deon Thompson</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >09-10</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2010/unc-88-valpo-77" target="_blank">UNC 88 | Valparaiso 77</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Sean Hull</td>
+        <td data-label="Ref3" >Pat Driscoll</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Josh Southern</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >09-10</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2010/bc-71-unc-67" target="_blank">Boston College 71 | UNC 67</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">ACC Tournament Semifinal</td> 
+        <td data-label="Ref1" >Karl Hess</td> 
+        <td data-label="Ref2" >Bryan Kersey</td>
+        <td data-label="Ref3" >Gary Maxwell</td>
+        <td data-label="Ref2" > Wayne Ellington</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >07-08</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-68-vt-66" target="_blank">UNC 68 | Virginia Tech 66</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Ed Corbett</td> 
+        <td data-label="Ref2" >Jamie Luckie</td>
+        <td data-label="Ref3" >J.D. Collins</td>
+        <td data-label="Ref2" > Team</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >07-08</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-93-rutgers-71" target="_blank">UNC 93 | Rutgers 71</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Mike Wood</td> 
+        <td data-label="Ref2" >Zelton Steed</td>
+        <td data-label="Ref3" >Gary Maxwell</td>
+        <td data-label="Ref2" > Tyler Hansbrough</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >07-08</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-72-davidson-68" target="_blank">UNC 72 | Davidson 68</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Gary Maxwell</td>
+        <td data-label="Ref3" >Roger Ayers</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > John Oates</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >07-08</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-90-bc-80" target="_blank">UNC 90 | Boston College 80</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Les Jones</td> 
+        <td data-label="Ref2" >Jose Carrion</td>
+        <td data-label="Ref3" >Brian Dorsey</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" >[2] Justin Payne, Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >07-08</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-88-ns-78" target="_blank">UNC 88 | Nicholls State 78</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >John Gaffney</td> 
+        <td data-label="Ref2" >Paul Faia</td>
+        <td data-label="Ref3" >Earl Walton</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >07-08</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-107-iona-72" target="_blank">UNC 107 | Iona 72</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Ted Valentine</td> 
+        <td data-label="Ref2" >Gary Maxwell</td>
+        <td data-label="Ref3" >Reggie Greenwood</td>
+        <td data-label="Ref2" > Deon Thompson</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-79-duke-73" target="_blank">UNC 79 | Duke 73</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Bryan Kersey</td> 
+        <td data-label="Ref2" >Ray Natili</td>
+        <td data-label="Ref3" >Curtis Shaw</td>
+        <td data-label="Ref2" > Tyler Hansbrough</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/state-83-unc-79" target="_blank">North Carolina State 83 | UNC 79</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">NCAA Tournament Elite 8</td> 
+        <td data-label="Ref1" >Curtis Shaw</td> 
+        <td data-label="Ref2" >Mike Scyphers</td>
+        <td data-label="Ref3" >John Higgins</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/gtown-96-unc-84" target="_blank">Georgetown 96 | UNC 84 (OT)</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">NCAA Tournament Sweet 16</td> 
+        <td data-label="Ref1" >Tom Lopes</td> 
+        <td data-label="Ref2" >Mike Sanzere</td>
+        <td data-label="Ref3" >Mike Roberts</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-74-usc-64" target="_blank">UNC 74 | USC 64</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">neutral</td> 
+        <td class="britt">ACC Tournament Quarterfinal</td> 
+        <td data-label="Ref1" >Mike Wood</td> 
+        <td data-label="Ref2" >Les Jones</td>
+        <td data-label="Ref3" >Roger Ayers</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-73-fsu-58" target="_blank">UNC 73 | Florida State 58</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Karl Hess</td> 
+        <td data-label="Ref2" >Earl Walton</td>
+        <td data-label="Ref3" >Ray Natili</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-77-bc-72" target="_blank">UNC 77 | Boston College 72</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >J.B. Caldwell</td>
+        <td data-label="Ref3" >Curtis Shaw</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Team</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >06-07</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/vt-81-unc-80" target="_blank">Virginia Tech 81 | UNC 80 (OT)</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Tony Greene</td>
+        <td data-label="Ref3" >Tim Nestor</td>
+        <td data-label="Ref2" > Tyler Hansbrough</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >05-06</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2006/unc-80-miami-70" target="_blank">UNC 80 | Miami 70</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Stanley Reynolds</td> 
+        <td data-label="Ref2" >Jim Giron</td>
+        <td data-label="Ref3" >Martin Cota</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Nick Young</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >05-06</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2006/usc-74-unc-59" target="_blank">USC 74 | UNC 59</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Jamie Luckie</td> 
+        <td data-label="Ref2" >Ray Natili</td>
+        <td data-label="Ref3" >Bryan Kersey</td>
+        <td data-label="Ref2" > </td>
+        <td data-label="Ref3" > Travis Niesen</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >05-06</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2006/unc-76-sc-58" target="_blank">UNC 76 | Santa Clara 58</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference</td> 
+        <td data-label="Ref1" >Duke Edsall</td> 
+        <td data-label="Ref2" >Mike Eades</td>
+        <td data-label="Ref3" >Alan Spainhour</td>
+        <td data-label="Ref2" >[3] Sean May, Melvin Scott, Marvin Williams</td>
+        <td data-label="Ref3" > Spencer Laue</td>
+        <th class="britt">win</th>
+        <td data-label="Year" >04-05</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2005/unc-96-uncw-75" target="_blank">UNC 96 | UNC Wilmington 75</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Non-conference (Maui Invitational)</td> 
+        <td data-label="Ref1" >Verne Harris</td> 
+        <td data-label="Ref2" >Mike Eades</td>
+        <td data-label="Ref3" >Pat Evans</td>
+        <td data-label="Ref2" > Jawad Williams</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >04-05</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2005/unc-94-tenn-81" target="_blank">UNC 94 | Tennessee 81</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">home</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Mike Wood</td> 
+        <td data-label="Ref2" >Gary Maxwell</td>
+        <td data-label="Ref3" >Steve Gordon</td>
+        <td data-label="Ref2" > Team</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">win</th>
+        <td data-label="Year" >03-04</td>
+        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2004/unc-78-fsu-71" target="_blank">UNC 78 | Florida State 71</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Karl Hess</td> 
+        <td data-label="Ref2" >Ray Natili</td>
+        <td data-label="Ref3" >Mike Eades</td>
+        <td data-label="Ref2" > Team</td>
+        <td data-label="Ref3" > </td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >03-04</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2004/gt-88-unc-77" target="_blank">Georgia Tech 88 | UNC 77</a></span></td>
+        </tr>
+        
+    <tr>
+        <td class="britt">away</td> 
+        <td class="britt">Conference</td> 
+        <td data-label="Ref1" >Duke Edsall</td> 
+        <td data-label="Ref2" >Mike Wood</td>
+        <td data-label="Ref3" >Bryan Kersey</td>
+        <td data-label="Ref2" > Rashad McCants</td>
+        <td data-label="Ref3" > Ekene Ibekwe</td>
+        <th class="britt">loss</th>
+        <td data-label="Year" >03-04</td>
+        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2004/maryland-90-unc-84" target="_blank">Maryland 90 | UNC 84</a></span></td>
+        </tr>
+        
+    </tbody>
+</table>
+
+<footer class="pinson" role="contentinfo">
+  <div class="pinson-dance">
+  <ul>
+  <li><a href="/technicals/#top">↑ Go back to the top of the page</a></li>
+  <li></li>
+  <li>© 2016-2018 Dadgum Box Scores</li>
+    </ul>
+  </div>
+</footer>
+</div>
