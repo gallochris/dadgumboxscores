@@ -8206,6 +8206,15 @@ VISITORS: North Carolina 12-4, 1-2
     </item>
     
     <item>
+      <title>Dadgum Box Scores | Fouls</title>
+      <link>https://dadgumboxscores.com/fouls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dadgumboxscores.com/fouls/</guid>
+      <description> Officials and fouls game-by-game since 03-04 Filter by a ref&amp;rsquo;s name or sort by fouls and season </description>
+    </item>
+    
+    <item>
       <title>Dadgum Box Scores | Four Factor Calculators</title>
       <link>https://dadgumboxscores.com/calc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -8394,6 +8403,24 @@ VISITORS: North Carolina 12-4, 1-2
       <description>Purpose Dadgum box scores is a collection of every UNC men&amp;rsquo;s basketball box score since the 2003-04 season.
 Who am I?
 I&amp;rsquo;m Chris. I put together this site because I wanted it to be easier to find old UNC box scores. I was tried of navigating crappy sites and not finding what I wanted. It shouldn&amp;rsquo;t be that hard to find a box score. It should be fast, easy, and organized.</description>
+    </item>
+    
+    <item>
+      <title>Dadgum Box Scores | Spread</title>
+      <link>https://dadgumboxscores.com/spread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dadgumboxscores.com/spread/</guid>
+      <description> Officials and spread game-by-game since 03-04 Filter by a ref&amp;rsquo;s name or sort by spread/line and season Spreads pulled for available games via covers.com </description>
+    </item>
+    
+    <item>
+      <title>Dadgum Box Scores | Techincals</title>
+      <link>https://dadgumboxscores.com/technicals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dadgumboxscores.com/technicals/</guid>
+      <description> Technical fouls since 03-04 Filter by a ref&amp;rsquo;s name or sort by season Games only shown if a technical foul was called </description>
     </item>
     
   </channel>
