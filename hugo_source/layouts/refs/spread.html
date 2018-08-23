@@ -20,6 +20,7 @@
            <th scope="col" data-sortable="false">Ref 2</th>
            <th scope="col" data-sortable="false">Ref 3</th>
            <th scope="col" data-sortable="true">Line</th>
+           <th scope="col" class="britt">Cover</th>
            <th scope="col" class="britt">Result</th>
            <th scope="col" >Season</th>
            <th scope="col" data-sortable="false">Box Score</th>
@@ -35,6 +36,7 @@
         <td data-label="Ref2" >{{ .off2 }}</td>
         <td data-label="Ref3" >{{ .off3 }}</td>
         <td data-label="Line" ><span style="background-color:#{{.coverstyle }}; padding: 2px 2px;">{{ .line }}</span></td>
+        <th class="britt">{{ .cover }}</th>
         <th class="britt">{{ .result }}</th>
         <td data-label="Year" >{{ .season }}</td>
         <td data-label="Box Score" ><span style="background-color:#{{.style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
