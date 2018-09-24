@@ -35,6 +35,8 @@
     } );
 
 
+
+
    $.urlParam = function(name){
     var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
     if (!results)
@@ -77,6 +79,9 @@
 
     <!-- styles -->
     <link href="{{ .Site.BaseURL }}css/dannygreen.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.2/css/fixedHeader.dataTables.min.css">
     <!-- end styles -->
   </head>
+
+
 

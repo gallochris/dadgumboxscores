@@ -21,10 +21,15 @@
     } );
     </script>
 
-
     <script type="text/javascript" class="init">
     $(document).ready(function() {
-    $('#example').DataTable( {
+    $('#example').DataTable( 
+            { 
+    scrollY:  '650px',
+    fixedHeader: {
+      header: true,
+      footer: true
+    },
         "paging":   false,
         "info":     false,
         "order": [],
@@ -37,6 +42,7 @@
 
     
     <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.2/css/fixedHeader.dataTables.min.css">
     
   </head>
 <header>
@@ -64,6 +70,7 @@
 
       <ul id="horizontal-list">
       <li><a href="/four-factors/">All</a></li>
+      <li><a href="/four-factors-17-18">2018</a></li>
       <li><a href="/four-factors-15-16">2016</a></li>
       <li><a href="/four-factors-14-15">2015</a></li>
       <li><a href="/four-factors-13-14">2014</a></li>

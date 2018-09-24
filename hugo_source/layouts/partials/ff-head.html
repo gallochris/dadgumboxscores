@@ -21,10 +21,15 @@
     } );
     </script>
 
-
     <script type="text/javascript" class="init">
     $(document).ready(function() {
-    $('#example').DataTable( {
+    $('#example').DataTable( 
+            { 
+    scrollY:  '650px',
+    fixedHeader: {
+      header: true,
+      footer: true
+    },
         "paging":   false,
         "info":     false,
         "order": [],
@@ -37,5 +42,6 @@
 
     <!-- styles -->
     <link href="{{ .Site.BaseURL }}css/dannygreen.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.2/css/fixedHeader.dataTables.min.css">
     <!-- end styles -->
   </head>
