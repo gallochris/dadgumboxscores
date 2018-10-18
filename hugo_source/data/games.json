@@ -1362,7 +1362,7 @@
       "season": "15-16",
       "result": "loss",
       "style": "ffbfb2",
-      "location": "neutral",
+      "location": "away",
       "type": "Non-conference",
       "type-sort": 1,
       "box": "boxes/2016/uni-71-unc-67"
@@ -3583,7 +3583,7 @@
       "result": "win",
       "style": "99ffb2",
       "location": "neutral",
-      "type": "Non-conference",
+      "type": "Non-conference (Puerto Rico Tip-Off)",
       "type-sort": 1,
       "box": "boxes/2011/unc-107-hof-63"
    },
@@ -4962,7 +4962,7 @@
       "season": "07-08",
       "result": "win",
       "style": "99ffb2",
-      "location": "away",
+      "location": "neutral",
       "type": "Non-conference",
       "type-sort": 1,
       "box": "boxes/2008/unc-72-davidson-68"
@@ -6198,7 +6198,7 @@
       "season": "04-05",
       "result": "win",
       "style": "99ffb2",
-      "location": "home",
+      "location": "neutral",
       "type": "Non-conference (Maui Invitational)",
       "type-sort": 1,
       "box": "boxes/2005/unc-106-iowa-92"
@@ -6210,7 +6210,7 @@
       "season": "04-05",
       "result": "win",
       "style": "99ffb2",
-      "location": "home",
+      "location": "neutral",
       "type": "Non-conference (Maui Invitational)",
       "type-sort": 1,
       "box": "boxes/2005/unc-94-tenn-81"
@@ -6222,7 +6222,7 @@
       "season": "04-05",
       "result": "win",
       "style": "99ffb2",
-      "location": "home",
+      "location": "neutral",
       "type": "Non-conference (Maui Invitational)",
       "type-sort": 1,
       "box": "boxes/2005/unc-86-byu-50"
@@ -6234,7 +6234,7 @@
       "season": "04-05",
       "result": "loss",
       "style": "ffbfb2",
-      "location": "home",
+      "location": "neutral",
       "type": "Non-conference",
       "type-sort": 1,
       "box": "boxes/2005/sc-77-unc-66"
