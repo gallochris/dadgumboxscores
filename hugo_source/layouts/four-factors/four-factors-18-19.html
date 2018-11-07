@@ -6,7 +6,6 @@
     {{ .Content }}
       <ul id="horizontal-list">
       <li><a href="/four-factors/">All</a></li>
-      <li><a href="/four-factors-18-19">2019</a></li>
       <li><a href="/four-factors-17-18">2018</a></li>
       <li><a href="/four-factors-16-17">2017</a></li>
       <li><a href="/four-factors-15-16">2016</a></li>
@@ -19,6 +18,7 @@
       <li><a href="/four-factors-08-09">2009</a></li>
       <li><a href="/four-factors-07-08">2008</a></li>
       <li><a href="/four-factors-06-07">2007</a></li>
+      <li><a href="/four-factors-05-06">2006</a></li>
       <li><a href="/four-factors-04-05">2005</a></li>
       <li><a href="/four-factors-03-04">2004</a></li>
     </ul>
@@ -42,14 +42,14 @@
      </thead>
 
     <tbody>
-  {{ range $.Site.Data.f0506 }}
+  {{ range $.Site.Data.f1819 }}
     <tr>
         <td data-label="PPP" >{{ .ppp }}</td>
         <td data-label="eFG" >{{ .efg }}</td> 
         <td data-label="TO%" >{{ .to }}</td>
         <td data-label="OR%" >{{ .or }}</td>
         <td data-label="FTRate" >{{ .ft }}</td>
-        <td data-label="Box Score" ><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td data-label="Box Score" class="wallace"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         <td data-label="PPP">{{ .oppp }}</td>
         <td data-label="eFG">{{ .oefg }}</td> 
         <td data-label="TO%">{{ .oto }}</td>

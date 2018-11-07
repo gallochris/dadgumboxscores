@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 78 | Wofford 67",
+      "date": "November 5, 2018",
+      "time": 20181105,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-78-woff-67.pdf"
+   },
+   {
       "game": "Texas A&M 85 | UNC 65",
       "date": "March 18, 2018",
       "time": 20180318,

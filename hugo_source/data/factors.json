@@ -1,5 +1,21 @@
 [
   {
+    "game": "UNC 78 | Wofford 67 ",
+    "efg": "56.8",
+    "to": "21.4",
+    "or": "35.7",
+    "ft": "25.4",
+    "ppp": "1.11",
+    "oefg": "45.2",
+    "oto": "12.9",
+    "oor": "26.5",
+    "oft": "17.5",
+    "oppp": "0.96",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-78-woff-67.pdf"
+  },
+  {
     "game": "Texas A&M 85 | UNC 65",
     "efg": "37.2",
     "to": "7.7",

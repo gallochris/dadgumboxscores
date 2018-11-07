@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 78 | Wofford 67",
+      "off1": "Bret Smith",
+      "off2": "Glen Tuitt",
+      "off3": "Evan Berg",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "/boxes/2019/unc-78-woff-67.pdf"
+   },
+   {
       "game": "Texas A&M 85 | UNC 65",
       "off1": "Pat Driscoll",
       "off2": "Michael Irving",
