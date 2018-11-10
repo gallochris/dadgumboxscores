@@ -1,5 +1,28 @@
 [
   {
+    "game": "UNC 116 | Elong 67",
+    "off1": "Bill Covington Jr.",
+    "off2": "Raymond Styons",
+    "off3": "Jerry Heater",
+    "result": "win",
+    "style": "99ffb2",
+    "season": "18-19",
+    "location": "away",
+    "uncfouls": 22,
+    "oppfouls": 25,
+    "sumfouls": 47,
+    "line": -18,
+    "cover": "yes",
+    "coverstyle": "99ffb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Non-conference",
+    "type-sort": 1,
+    "box": "boxes/2019/unc-116-elon-67.pdf"
+  },
+   {
     "game": "UNC 78 | Wofford 67",
     "off1": "Bret Smith",
     "off2": "Glen Tuitt",

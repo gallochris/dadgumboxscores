@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 116 | Elon 67",
+      "date": "November 9, 2018",
+      "time": 20181109,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-116-elon-67.pdf"
+   },
+   {
       "game": "UNC 78 | Wofford 67",
       "date": "November 5, 2018",
       "time": 20181105,

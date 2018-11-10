@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 116 | Elon 67",
+      "off1": "Bill Covington Jr.",
+      "off2": "Raymond Styons",
+      "off3": "Jerry Heater",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-116-elon-67.pdf"
+   },
+   {
       "game": "UNC 78 | Wofford 67",
       "off1": "Bret Smith",
       "off2": "Glen Tuitt",
