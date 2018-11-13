@@ -1,5 +1,21 @@
 [
   {
+    "game": "UNC 90 | Stanford 72",
+    "efg": "53.5",
+    "to": "15.2",
+    "or": "35.1",
+    "ft": "29.6",
+    "ppp": "1.14",
+    "oefg": "45.5",
+    "oto": "19.0",
+    "oor": "25.6",
+    "oft": "23.9",
+    "oppp": "0.91",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-90-stan-72.pdf"
+  },
+  {
     "game": "UNC 116 | Elon 67",
     "efg": "55.8",
     "to": "13.1",
