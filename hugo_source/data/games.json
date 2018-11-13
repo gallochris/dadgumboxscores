@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 90 | Stanford 72",
+      "date": "November 12, 2018",
+      "time": 20181112,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-90-stan-72.pdf"
+   },
+   {
       "game": "UNC 116 | Elon 67",
       "date": "November 9, 2018",
       "time": 20181109,
