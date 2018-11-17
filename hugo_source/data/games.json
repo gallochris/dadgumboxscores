@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 108 | Tennessee Tech 58",
+      "date": "November 16, 2018",
+      "time": 20181116,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-108-tt-58.pdf"
+   },
+   {
       "game": "UNC 90 | Stanford 72",
       "date": "November 12, 2018",
       "time": 20181112,

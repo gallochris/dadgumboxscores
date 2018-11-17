@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 108 | Tennessee Tech 58",
+      "off1": "Roger Ayers",
+      "off2": "Bert Smith",
+      "off3": "Jeremy Mosier",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "/boxes/2019/unc-108-tt-58.pdf"
+   },
+   {
       "game": "UNC 90 | Stanford 72",
       "off1": "John Higgins",
       "off2": "Keith Kimble",
