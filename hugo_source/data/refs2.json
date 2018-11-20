@@ -1,5 +1,28 @@
 [
   {
+    "game": "UNC 101 | St. Francis PA 76",
+    "off1": "Michael Stephens",
+    "off2": "Tim Clougherty",
+    "off3": "Lee Cassell",
+    "result": "win",
+    "style": "99ffb2",
+    "season": "18-19",
+    "location": "home",
+    "uncfouls": 20,
+    "oppfouls": 23,
+    "sumfouls": 43,
+    "line": 26.5,
+    "cover": "no",
+    "coverstyle": "ffbfb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Non-conference",
+    "type-sort": 1,
+    "box": "/boxes/2019/unc-101-sf-76.pdf"
+  },
+  {
     "game": "UNC 108 | Tennessee Tech 58",
     "off1": "Roger Ayers",
     "off2": "Bert Smith",

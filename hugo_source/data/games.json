@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 101 | St. Francis PA 76",
+      "date": "November 19, 2018",
+      "time": 20181119,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-101-sf-76.pdf"
+   },
+   {
       "game": "UNC 108 | Tennessee Tech 58",
       "date": "November 16, 2018",
       "time": 20181116,
