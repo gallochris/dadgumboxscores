@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "Texas 92 | UNC 89",
+      "off1": "Roger Ayers",
+      "off2": "Mike Roberts",
+      "off3": "Kelly Self",
+      "result": "loss",
+      "style": "ffbfb2",
+      "season": "18-19",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "/boxes/2019/texas-92-unc-89.pdf"
+   },
+   {
       "game": "UNC 101 | St. Francis PA 76",
       "off1": "Michael Stephens",
       "off2": "Tim Clougherty",
@@ -275,7 +288,7 @@
  {
    "game": "Virginia Tech 80 | UNC 69",
    "off1": "Michael Stephens",
-   "off2": "Michael Roberts",
+   "off2": "Mike Roberts",
    "off3": "Doug Shows",
    "result": "loss",
    "style": "ffbfb2",

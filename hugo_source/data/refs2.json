@@ -1,5 +1,28 @@
 [
   {
+    "game": "Texas 92 | UNC 89",
+    "off1": "Roger Ayers",
+    "off2": "Mike Roberts",
+    "off3": "Kelly Self",
+    "result": "loss",
+    "style": "ffbfb2",
+    "season": "18-19",
+    "location": "neutral",
+    "uncfouls": 23,
+    "oppfouls": 18,
+    "sumfouls": 41,
+    "line": 8.5,
+    "cover": "no",
+    "coverstyle": "ffbfb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Non-conference",
+    "type-sort": 1,
+    "box": "/boxes/2019/texas-92-unc-89.pdf"
+  },
+  {
     "game": "UNC 101 | St. Francis PA 76",
     "off1": "Michael Stephens",
     "off2": "Tim Clougherty",

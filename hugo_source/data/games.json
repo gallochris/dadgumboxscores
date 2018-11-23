@@ -1,5 +1,17 @@
 [
    {
+      "game": "Texas 92 | UNC 89",
+      "date": "November 22, 2018",
+      "time": 20181122,
+      "season": "18-19",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/texas-92-unc-89.pdf"
+   },
+   {
       "game": "UNC 101 | St. Francis PA 76",
       "date": "November 19, 2018",
       "time": 20181119,
