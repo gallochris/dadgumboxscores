@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 94 | UCLA 78",
+      "off1": "Roger Ayers",
+      "off2": "Lee Cassell",
+      "off3": "Kelly Self",
+      "result": "winn",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "/boxes/2019/unc-94-ucla-78.pdf"
+   },
+    {
       "game": "Texas 92 | UNC 89",
       "off1": "Roger Ayers",
       "off2": "Mike Roberts",

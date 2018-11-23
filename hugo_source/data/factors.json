@@ -1,5 +1,21 @@
 [
-  {
+ {
+    "game": "UNC 94 | UCLA 78",
+    "efg": "57.0",
+    "to": "8.2",
+    "or": "26.5",
+    "ft": "43.8",
+    "ppp": "1.29",
+    "oefg": "52.5",
+    "oto": "17.8",
+    "oor": "30.0",
+    "oft": "44.1",
+    "oppp": "1.07",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-94-ucla-78.pdf"
+  },
+   {
     "game": "Texas 92 | UNC 89",
     "efg": "52.1",
     "to": "21.2",

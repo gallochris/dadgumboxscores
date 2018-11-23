@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 94 | UCLA 78",
+      "date": "November 23, 2018",
+      "time": 20181123,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-94-ucla-78.pdf"
+   },
+   {
       "game": "Texas 92 | UNC 89",
       "date": "November 22, 2018",
       "time": 20181122,
