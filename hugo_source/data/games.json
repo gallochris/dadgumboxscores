@@ -1,5 +1,17 @@
 [
    {
+      "game": "Michigan 84 | UNC 67",
+      "date": "November 28, 2018",
+      "time": 20181128,
+      "season": "18-19",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/mich-84-unc-67.pdf"
+   },
+   {
       "game": "UNC 94 | UCLA 78",
       "date": "November 23, 2018",
       "time": 20181123,

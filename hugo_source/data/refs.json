@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "Michigan 84 | UNC 67",
+      "off1": "Terry Wymer",
+      "off2": "D.J. Carstensen",
+      "off3": "Courtney Green",
+      "result": "loss",
+      "style": "ffbfb2",
+      "season": "18-19",
+      "location": "away",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "/boxes/2019/mich-84-unc-67.pdf"
+   },
+   {
       "game": "UNC 94 | UCLA 78",
       "off1": "Roger Ayers",
       "off2": "Lee Cassell",
@@ -5435,7 +5448,7 @@
  },
  {
    "game": "UNC 110 | South Carolina State 64",
-   "off1": "D.J. Tarstensen",
+   "off1": "D.J. Carstensen",
    "off2": "Frankie Bordeaux",
    "off3": "Jay Gwynn",
    "result": "win",

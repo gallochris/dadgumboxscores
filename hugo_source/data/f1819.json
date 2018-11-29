@@ -1,5 +1,21 @@
 [
   {
+    "game": "Michigan 84 | UNC 67",
+    "efg": "44.7",
+    "to": "10.0",
+    "or": "6.2",
+    "ft": "19.7",
+    "ppp": "0.96",
+    "oefg": "67.6",
+    "oto": "14.3",
+    "oor": "31.0",
+    "oft": "42.6",
+    "oppp": "1.20",
+    "result": "loss",
+    "style": "ffbfb2",
+    "box": "/boxes/2019/mich-84-unc-67.pdf"
+  },
+  {
     "game": "UNC 94 | UCLA 78",
     "efg": "57.0",
     "to": "8.2",
