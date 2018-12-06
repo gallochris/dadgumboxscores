@@ -1,4 +1,17 @@
 [ 
+    {
+      "game": "UNC 97 | UNC Wilmington 69",
+      "off1": "Ron Groover",
+      "off2": "A.J. Desai",
+      "off3": "Tim Clougherty",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-97-uncw-69.pdf"
+   },
    {
       "game": "Michigan 84 | UNC 67",
       "off1": "Terry Wymer",
