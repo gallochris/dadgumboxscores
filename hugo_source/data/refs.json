@@ -1,5 +1,18 @@
 [ 
     {
+      "game": "UNC 103 | Gonzaga 90",
+      "off1": "Jeffrey Anderson",
+      "off2": "Jeff Clark",
+      "off3": "Bert Smith",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-103-gonzaga-90.pdf"
+   },
+   {
       "game": "UNC 97 | UNC Wilmington 69",
       "off1": "Ron Groover",
       "off2": "A.J. Desai",

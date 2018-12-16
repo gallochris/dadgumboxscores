@@ -1,5 +1,21 @@
 [
   {
+    "game": "UNC 103 | Gonzaga 90",
+    "efg": "64.8",
+    "to": "27.4",
+    "or": "46.7",
+    "ft": "39.1",
+    "ppp": "1.23",
+    "oefg": "57.1",
+    "oto": "16.7",
+    "oor": "15.2",
+    "oft": "36.5",
+    "oppp": "1.07",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-103-gonzaga-90.pdf"
+  },
+  {
     "game": "UNC 97 | UNC-Wilmington 69",
     "efg": "53.3",
     "to": "17.6",

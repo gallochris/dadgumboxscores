@@ -1,5 +1,17 @@
 [
     {
+      "game": "UNC 103 | Gonzaga 90",
+      "date": "December 15, 2018",
+      "time": 20181215,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-103-gonzaga-90.pdf"
+   },
+   {
       "game": "UNC 97 | UNC Wilmington 69",
       "date": "December 5, 2018",
       "time": 20181205,
