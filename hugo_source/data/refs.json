@@ -1,5 +1,18 @@
 [ 
     {
+      "game": "Kentucky 80 | UNC 72",
+      "off1": "Ted Valentine",
+      "off2": "Chris Rastatter",
+      "off3": "Patrick Evans",
+      "result": "loss",
+      "style": "ffbfb2",
+      "season": "18-19",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/kentucky-80-unc-72.pdf"
+   },
+   {
       "game": "UNC 103 | Gonzaga 90",
       "off1": "Jeffrey Anderson",
       "off2": "Jeff Clark",

@@ -1,5 +1,17 @@
 [
     {
+      "game": "Kentucky 80 | UNC 72",
+      "date": "December 22, 2018",
+      "time": 20181222,
+      "season": "18-19",
+      "result": "loss",
+      "style": "ffbfb2",
+      "location": "neutral",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/kentucky-80-unc-72.pdf"
+   },
+    {
       "game": "UNC 103 | Gonzaga 90",
       "date": "December 15, 2018",
       "time": 20181215,

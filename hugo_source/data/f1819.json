@@ -1,4 +1,20 @@
 [
+   {
+    "game": "Kentucky 80 | UNC 72",
+    "efg": "48.4",
+    "to": "21.8",
+    "or": "13.5",
+    "ft": "25.4",
+    "ppp": "0.87",
+    "oefg": "50.0",
+    "oto": "21.8",
+    "oor": "30.0",
+    "oft": "33.9",
+    "oppp": "0.96",
+    "result": "loss",
+    "style": "ffbfb2",
+    "box": "/boxes/2019/kentucky-80-unc-72.pdf"
+  },
   {
     "game": "UNC 103 | Gonzaga 90",
     "efg": "64.8",
