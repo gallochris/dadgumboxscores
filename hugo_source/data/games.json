@@ -1,5 +1,17 @@
 [
     {
+      "game": "UNC 82 | Davidson 60",
+      "date": "December 29, 2018",
+      "time": 20181229,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Non-conference",
+      "type-sort": 1,
+      "box": "boxes/2019/unc-82-dav-60.pdf"
+   },
+   {
       "game": "Kentucky 80 | UNC 72",
       "date": "December 22, 2018",
       "time": 20181222,
