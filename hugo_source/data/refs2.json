@@ -1,5 +1,28 @@
 [
   {
+   "game": "UNC 77 | Harvard 57",
+    "off1": "Bill Covington",
+    "off2": "Sean Hull",
+    "off3": "Jeff Clarke",
+    "result": "win",
+    "style": "99ffb2",
+    "season": "18-19",
+    "location": "home",
+    "uncfouls": 13,
+    "oppfouls": 16,
+    "sumfouls": 29,
+    "line": -17,
+    "cover": "yes",
+    "coverstyle": "99ffb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Non-conference",
+    "type-sort": 1,
+    "box": "boxes/2019/unc-77-harvard-57.pdf"
+  },
+  {
    "game": "UNC 82 | Davidson 60",
     "off1": "Mike Eades",
     "off2": "Tony Henderson",
