@@ -10,7 +10,7 @@
       "location": "home",
       "type": "Non-conference",
       "type-sort": 1,
-      "box": "boxes/2019/unc-77-harvard-57.pdf"
+      "box": "/boxes/2019/unc-77-harvard-57.pdf"
    },
    {
       "game": "UNC 82 | Davidson 60",
@@ -23,7 +23,7 @@
       "location": "home",
       "type": "Non-conference",
       "type-sort": 1,
-      "box": "boxes/2019/unc-82-dav-60.pdf"
+      "box": "/boxes/2019/unc-82-dav-60.pdf"
    },
    {
       "game": "Kentucky 80 | UNC 72",
@@ -36,7 +36,7 @@
       "location": "neutral",
       "type": "Non-conference",
       "type-sort": 1,
-      "box": "boxes/2019/kentucky-80-unc-72.pdf"
+      "box": "/boxes/2019/kentucky-80-unc-72.pdf"
    },
    {
       "game": "UNC 103 | Gonzaga 90",
@@ -49,7 +49,7 @@
       "location": "home",
       "type": "Non-conference",
       "type-sort": 1,
-      "box": "boxes/2019/unc-103-gonzaga-90.pdf"
+      "box": "/boxes/2019/unc-103-gonzaga-90.pdf"
    },
    {
       "game": "UNC 97 | UNC Wilmington 69",
@@ -62,7 +62,7 @@
       "location": "home",
       "type": "Non-conference",
       "type-sort": 1,
-      "box": "boxes/2019/unc-97-uncw-69.pdf"
+      "box": "/boxes/2019/unc-97-uncw-69.pdf"
    },
    {
       "game": "Michigan 84 | UNC 67",
