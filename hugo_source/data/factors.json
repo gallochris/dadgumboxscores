@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 85 | Pittsburgh 60",
+    "efg": "50.0",
+    "to": "14.4",
+    "or": "36.2",
+    "ft": "23.0",
+    "ppp": "1.12",
+    "oefg": "32.3",
+    "oto": "19.7",
+    "oor": "32.0",
+    "oft": "51.6",
+    "oppp": "0.79",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-85-pitt-60.pdf"
+  },
+  {
     "game": "UNC 77 | Harvard 57",
     "efg": "46.8",
     "to": "14.4",

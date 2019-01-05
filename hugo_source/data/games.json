@@ -1,5 +1,17 @@
 [
     {
+      "game": "UNC 85 | Pittsburgh 60",
+      "date": "January 5, 2019",
+      "time": 20190105,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-85-pitt-60.pdf"
+   },
+   {
       "game": "UNC 77 | Harvard 57",
       "date": "January 2, 2019",
       "time": 20190102,
