@@ -1,4 +1,27 @@
-[    
+[   
+  {
+   "game": "UNC 90 | North Carolina State 82",
+    "off1": "Doug Sirmons",
+    "off2": "Kipp Kissinger",
+    "off3": "Don Daily", 
+    "result": "win",
+    "style": "99ffb2",
+    "season": "18-19",
+    "location": "away",
+    "uncfouls": 20,
+    "oppfouls": 21,
+    "sumfouls": 41,
+    "line": 1,
+    "cover": "yes",
+    "coverstyle": "99ffb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/unc-90-ncsu-82.pdf"
+  },
   {
    "game": "UNC 85 | Pittsburgh 60",
     "off1": "Ted Valentine",
@@ -7,7 +30,7 @@
     "result": "win",
     "style": "99ffb2",
     "season": "18-19",
-    "location": "home",
+    "location": "away",
     "uncfouls": 24,
     "oppfouls": 19,
     "sumfouls": 43,
@@ -19,7 +42,7 @@
     "opptech": "",
     "opptechtype": "",
     "type": "Conference",
-    "type-sort": 1,
+    "type-sort": 2,
     "box": "/boxes/2019/unc-85-pitt-60.pdf"
   },
   {

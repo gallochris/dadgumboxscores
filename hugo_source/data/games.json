@@ -1,12 +1,24 @@
 [
     {
+      "game": "UNC 90 | North Carolina State 82",
+      "date": "January 8, 2019",
+      "time": 20190108,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-90-ncsu-82.pdf"
+   },
+   {
       "game": "UNC 85 | Pittsburgh 60",
       "date": "January 5, 2019",
       "time": 20190105,
       "season": "18-19",
       "result": "win",
       "style": "99ffb2",
-      "location": "home",
+      "location": "away",
       "type": "Conference",
       "type-sort": 2,
       "box": "boxes/2019/unc-85-pitt-60.pdf"

@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 90 | North Carolina State 82",
+    "efg": "53.1",
+    "to": "27.1",
+    "or": "37.8",
+    "ft": "40.6",
+    "ppp": "1.06",
+    "oefg": "48.0",
+    "oto": "15.3",
+    "oor": "21.3",
+    "oft": "23.3",
+    "oppp": "0.96",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-90-ncsu-82.pdf"
+  },
+  {
     "game": "UNC 85 | Pittsburgh 60",
     "efg": "50.0",
     "to": "14.4",
