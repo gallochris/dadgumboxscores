@@ -1,5 +1,21 @@
 [
    {
+    "game": "Louisville 83 | UNC 62",
+    "efg": "37.1",
+    "to": "19.7",
+    "or": "30.2",
+    "ft": "46.5",
+    "ppp": "0.87",
+    "oefg": "62.0",
+    "oto": "19.7",
+    "oor": "35.7",
+    "oft": "48.1",
+    "oppp": "1.17",
+    "result": "loss",
+    "style": "ffbfb2",
+    "box": "/boxes/2019/lville-83-unc-62.pdf"
+  },
+  {
     "game": "UNC 90 | North Carolina State 82",
     "efg": "53.1",
     "to": "27.1",

@@ -1,5 +1,28 @@
 [   
   {
+   "game": "Louisville 83 | UNC 62",
+    "off1": "Mike Eades",
+    "off2": "Bill Covington",
+    "off3": "Tony Henderson",
+    "result": "loss",
+    "style": "ffbfb2",
+    "season": "18-19",
+    "location": "home",
+    "uncfouls": 20,
+    "oppfouls": 21,
+    "sumfouls": 41,
+    "line": -11.5,
+    "cover": "no",
+    "coverstyle": "ffbfb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/lville-83-unc-63.pdf"
+  },
+  {
    "game": "UNC 90 | North Carolina State 82",
     "off1": "Doug Sirmons",
     "off2": "Kipp Kissinger",
