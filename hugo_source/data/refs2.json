@@ -1,4 +1,27 @@
-[   
+[  
+  {
+   "game": "UNC 75 | Notre Dame 69",
+   "off1": "Roger Ayers",
+    "off2": "Jamie Luckie",
+    "off3": "Ted Valentine",
+    "result": "win",
+    "style": "99ffb2",
+    "season": "18-19",
+    "location": "home",
+    "uncfouls": 15,
+    "oppfouls": 16,
+    "sumfouls": 31,
+    "line": -13,
+    "cover": "no",
+    "coverstyle": "ffbfb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/unc-75-nd-69.pdf"
+  },
   {
    "game": "Louisville 83 | UNC 62",
     "off1": "Mike Eades",

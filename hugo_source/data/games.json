@@ -1,5 +1,17 @@
 [
     {
+      "game": "UNC 75 | Notre Dame 69",
+      "date": "January 15, 2019",
+      "time": 20190115,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-75-nd-69.pdf"
+   },
+   {
       "game": "Louisville 83 | UNC 62",
       "date": "January 12, 2019",
       "time": 20190112,
