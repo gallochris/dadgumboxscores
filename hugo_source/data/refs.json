@@ -15,7 +15,7 @@
    {
       "game": "Louisville 83 | UNC 62",
       "off1": "Mike Eades",
-      "off2": "Bill Covington",
+      "off2": "Bill Covington Jr.",
       "off3": "Tony Henderson",
       "result": "loss",
       "style": "ffbfb2",
@@ -53,9 +53,9 @@
    },
    {
       "game": "UNC 77 | Harvard 57",
-      "off1": "Bill Covington",
+      "off1": "Bill Covington Jr.",
       "off2": "Sean Hull",
-      "off3": "Jeff Clarke",
+      "off3": "Jeff Clark",
       "result": "win",
       "style": "99ffb2",
       "season": "18-19",
@@ -209,7 +209,7 @@
    },
    {
       "game": "UNC 78 | Wofford 67",
-      "off1": "Bret Smith",
+      "off1": "Bert Smith",
       "off2": "Glen Tuitt",
       "off3": "Evan Berg",
       "result": "win",
