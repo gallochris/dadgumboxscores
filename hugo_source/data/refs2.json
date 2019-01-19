@@ -1,4 +1,27 @@
-[  
+[ 
+    {
+    "game": "UNC 85 | Miami 76",
+    "off1": "Bert Smith",
+    "off2": "Jeffrey Anderson",
+    "off3": "Brent Hampton", 
+    "result": "win",
+    "style": "99ffb2",
+    "season": "18-19",
+    "location": "home",
+    "uncfouls": 19,
+    "oppfouls": 15,
+    "sumfouls": 34,
+    "line": -6.5,
+    "cover": "yes",
+    "coverstyle": "99ffb2",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "1",
+    "opptechtype": "Team",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/unc-85-um-76.pdf"
+  },
   {
    "game": "UNC 75 | Notre Dame 69",
    "off1": "Roger Ayers",

@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 85 | Miami 76",
+    "efg": "62.5",
+    "to": "21.9",
+    "or": "43.3",
+    "ft": "23.3",
+    "ppp": "1.23",
+    "oefg": "57.3",
+    "oto": "16.0",
+    "oor": "19.4",
+    "oft": "32.7",
+    "oppp": "1.10",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-85-um-76.pdf"
+  },
+  {
     "game": "UNC 75 | Notre Dame 69",
     "efg": "46.3",
     "to": "15.3",
