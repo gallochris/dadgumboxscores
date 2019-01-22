@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 103 | Virginia Tech 82",
+    "efg": "65.7",
+    "to": "17.0",
+    "or": "31.2",
+    "ft": "25.4",
+    "ppp": "1.36",
+    "oefg": "54.9",
+    "oto": "21.0",
+    "oor": "28.6",
+    "oft": "26.2",
+    "oppp": "1.08",
+    "result": "win",
+    "style": "99ffb2",
+    "box": "/boxes/2019/unc-103-vt-82.pdf"
+  },
+  {
     "game": "UNC 85 | Miami 76",
     "efg": "62.5",
     "to": "21.9",

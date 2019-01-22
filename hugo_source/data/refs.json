@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 103 | Virginia Tech 82",
+      "off1": "Doug Shows",
+      "off2": "John Higgins",
+      "off3": "Terry Wymer",
+      "result": "win",
+      "style": "99ffb2",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-103-vt-82.pdf"
+   },
+   {
       "game": "UNC 85 | Miami 76",
       "off1": "Bert Smith",
       "off2": "Jeffrey Anderson",

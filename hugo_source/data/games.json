@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 103 | Virginia Tech 82",
+      "date": "January 21, 2019",
+      "time": 20190121,
+      "season": "18-19",
+      "result": "win",
+      "style": "99ffb2",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-103-vt-82.pdf"
+   },
+   {
       "game": "UNC 85 | Miami 76",
       "date": "January 19, 2019",
       "time": 20190119,
