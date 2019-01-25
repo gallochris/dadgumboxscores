@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html>
-
-
-<html class="no-js" lang="en">
+<!doctype html>
+<html lang="en">
   <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Dadgum Box Scores | Four Factors</title>
     <meta name="description" content="Every UNC basketball box score since 03-04.">
     <meta name="author" content="Chris Gallo">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="//code.jquery.com/jquery-1.12.3.js"></script>
     <script src="https://dadgumboxscores.com/js/felton.min.js"></script>
@@ -36,8 +38,10 @@
     
 
     
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.2/css/fixedHeader.dataTables.min.css">
+    <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
     
   </head>
 <header>
@@ -53,7 +57,8 @@
  </nav>
 </header>  
 <div class="container">
-<body>
+
+
     
     
 
@@ -63,9 +68,10 @@
 
 <h4 class="jalek" >Click to a column to sort or view four factors by a specific season</h4> 
 
+<h4 class="d-sm-none">You're on smaller screen, flip to landscape or scroll</h4>
+
       <ul id="horizontal-list">
       <li><a href="/four-factors/">All</a></li>
-      <li><a href="/four-factors-18-19">2019</a></li>
       <li><a href="/four-factors-17-18">2018</a></li>
       <li><a href="/four-factors-16-17">2017</a></li>
       <li><a href="/four-factors-15-16">2016</a></li>
@@ -77,26 +83,28 @@
       <li><a href="/four-factors-09-10">2010</a></li>
       <li><a href="/four-factors-08-09">2009</a></li>
       <li><a href="/four-factors-07-08">2008</a></li>
+      <li><a href="/four-factors-06-07">2007</a></li>
       <li><a href="/four-factors-05-06">2006</a></li>
       <li><a href="/four-factors-04-05">2005</a></li>
       <li><a href="/four-factors-03-04">2004</a></li>
     </ul>
 
 
-<table id="example" class="display center" cellspacing="0" width="100%">
+<div class="table-responsive">
+<table id="example"  class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
           <tr> 
           <th scope="col" style="color: #56a0d3;">PPP</th>
           <th scope="col" style="color: #56a0d3;">eFG%</th>
           <th scope="col" style="color: #56a0d3;">TO%</th>
           <th scope="col" style="color: #56a0d3;">OR%</th>
-          <th scope="col" style="color: #56a0d3;">FTRate</th>
-          <th scope="col" class="wallace" data-sortable="false">Box Score</th>
+          <th scope="col" style="color: #56a0d3;">FTR</th>
+          <th scope="col"  data-sortable="false">Box Score</th>
           <th scope="col">PPP</th>
           <th scope="col">eFG%</th>
           <th scope="col">TO%</th>
           <th scope="col">OR%</th>
-          <th scope="col">FTRate</th>
+          <th scope="col">FTR</th>
          </tr>
      </thead>
 
@@ -104,547 +112,548 @@
   
     <tr>
         <td data-label="PPP" >1.14</td>
-        <td data-label="eFG" >38.7</td> 
+        <td data-label="eFG">38.7</td> 
         <td data-label="TO%" >12.2</td>
         <td data-label="OR%" >43.8</td>
-        <td data-label="FTRate" >47.9</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/gtown-96-unc-84/" target="_blank">Georgetown 96 | UNC 84 (OT)</a></span></td>
+        <td data-label="FTR" >47.9</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/gtown-96-unc-84/" target="_blank">Georgetown 96 | UNC 84 (OT)</a></span></td>
         <td data-label="PPP">1.30</td>
         <td data-label="eFG">63.6</td> 
         <td data-label="TO%">13.5</td>
         <td data-label="OR%">33.3</td>
-        <td data-label="FTRate">27.3</td>
+        <td data-label="FTR">27.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.00</td>
-        <td data-label="eFG" >40.3</td> 
+        <td data-label="eFG">40.3</td> 
         <td data-label="TO%" >12.2</td>
         <td data-label="OR%" >40.8</td>
-        <td data-label="FTRate" >22.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-74-usc-64/" target="_blank">UNC 74 | USC 64</a></span></td>
+        <td data-label="FTR" >22.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-74-usc-64/" target="_blank">UNC 74 | USC 64</a></span></td>
         <td data-label="PPP">0.86</td>
         <td data-label="eFG">46.7</td> 
         <td data-label="TO%">24.3</td>
         <td data-label="OR%">27.8</td>
-        <td data-label="FTRate">14.8</td>
+        <td data-label="FTR">14.8</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.25</td>
-        <td data-label="eFG" >53.8</td> 
+        <td data-label="eFG">53.8</td> 
         <td data-label="TO%" >15.4</td>
         <td data-label="OR%" >42.8</td>
-        <td data-label="FTRate" >65.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-81-msu-67/" target="_blank">UNC 81 | Michigan State 67</a></span></td>
+        <td data-label="FTR" >65.4</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-81-msu-67/" target="_blank">UNC 81 | Michigan State 67</a></span></td>
         <td data-label="PPP">1.03</td>
         <td data-label="eFG">44.1</td> 
         <td data-label="TO%">15.4</td>
         <td data-label="OR%">29.7</td>
-        <td data-label="FTRate">28.8</td>
+        <td data-label="FTR">28.8</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.18</td>
-        <td data-label="eFG" >70.2</td> 
+        <td data-label="eFG">70.2</td> 
         <td data-label="TO%" >30.1</td>
         <td data-label="OR%" >52.4</td>
-        <td data-label="FTRate" >19.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-86-eku-65/" target="_blank">UNC 86 | EKU 65</a></span></td>
+        <td data-label="FTR" >19.3</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-86-eku-65/" target="_blank">UNC 86 | EKU 65</a></span></td>
         <td data-label="PPP">0.89</td>
         <td data-label="eFG">52.5</td> 
         <td data-label="TO%">21.9</td>
         <td data-label="OR%">18.2</td>
-        <td data-label="FTRate">10.2</td>
+        <td data-label="FTR">10.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.31</td>
-        <td data-label="eFG" >63.6</td> 
+        <td data-label="eFG">63.6</td> 
         <td data-label="TO%" >14.7</td>
         <td data-label="OR%" >27.3</td>
-        <td data-label="FTRate" >46.2</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-89-state-80/" target="_blank">UNC 89 | NCSU 80</a></span></td>
+        <td data-label="FTR" >46.2</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-89-state-80/" target="_blank">UNC 89 | NCSU 80</a></span></td>
         <td data-label="PPP">1.18</td>
         <td data-label="eFG">60.4</td> 
         <td data-label="TO%">22.1</td>
         <td data-label="OR%">30.8</td>
-        <td data-label="FTRate">35.8</td>
+        <td data-label="FTR">35.8</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.20</td>
-        <td data-label="eFG" >51.6</td> 
+        <td data-label="eFG">51.6</td> 
         <td data-label="TO%" >15.3</td>
         <td data-label="OR%" >50.0</td>
-        <td data-label="FTRate" >14.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-71-bc-56/" target="_blank">UNC 71 | Boston College 56</a></span></td>
+        <td data-label="FTR" >14.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-71-bc-56/" target="_blank">UNC 71 | Boston College 56</a></span></td>
         <td data-label="PPP">0.95</td>
         <td data-label="eFG">40.9</td> 
         <td data-label="TO%">11.9</td>
         <td data-label="OR%">30.6</td>
-        <td data-label="FTRate">29.1</td>
+        <td data-label="FTR">29.1</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.00</td>
-        <td data-label="eFG" >58.8</td> 
+        <td data-label="eFG">58.8</td> 
         <td data-label="TO%" >26.0</td>
         <td data-label="OR%" >27.6</td>
-        <td data-label="FTRate" >49.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-73-fsu-58/" target="_blank">UNC 73 | Florida State 58</a></span></td>
+        <td data-label="FTR" >49.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-73-fsu-58/" target="_blank">UNC 73 | Florida State 58</a></span></td>
         <td data-label="PPP">0.79</td>
         <td data-label="eFG">37.3</td> 
         <td data-label="TO%">23.4</td>
         <td data-label="OR%">25.6</td>
-        <td data-label="FTRate">36.4</td>
+        <td data-label="FTR">36.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.16</td>
-        <td data-label="eFG" >51.6</td> 
+        <td data-label="eFG">51.6</td> 
         <td data-label="TO%" >14.9</td>
         <td data-label="OR%" >33.3</td>
-        <td data-label="FTRate" >43.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-86-duke-72/" target="_blank">UNC 86 | Duke 72</a></span></td>
+        <td data-label="FTR" >43.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-86-duke-72/" target="_blank">UNC 86 | Duke 72</a></span></td>
         <td data-label="PPP">0.97</td>
         <td data-label="eFG">47.7</td> 
         <td data-label="TO%">20.3</td>
         <td data-label="OR%">32.5</td>
-        <td data-label="FTRate">25.0</td>
+        <td data-label="FTR">25.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.05</td>
-        <td data-label="eFG" >52.0</td> 
+        <td data-label="eFG">52.0</td> 
         <td data-label="TO%" >19.5</td>
         <td data-label="OR%" >29.0</td>
-        <td data-label="FTRate" >77.6</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/gt-84-unc-77/" target="_blank">Georgia Tech 84 | UNC 77</a></span></td>
+        <td data-label="FTR" >77.6</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/gt-84-unc-77/" target="_blank">Georgia Tech 84 | UNC 77</a></span></td>
         <td data-label="PPP">1.15</td>
         <td data-label="eFG">59.7</td> 
         <td data-label="TO%">21.9</td>
         <td data-label="OR%">39.4</td>
-        <td data-label="FTRate">24.2</td>
+        <td data-label="FTR">24.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.10</td>
-        <td data-label="eFG" >52.7</td> 
+        <td data-label="eFG">52.7</td> 
         <td data-label="TO%" >12.7</td>
         <td data-label="OR%" >32.6</td>
-        <td data-label="FTRate" >22.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/maryland-89-unc-87/" target="_blank">Maryland 89 | UNC 87</a></span></td>
+        <td data-label="FTR" >22.7</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/maryland-89-unc-87/" target="_blank">Maryland 89 | UNC 87</a></span></td>
         <td data-label="PPP">1.13</td>
         <td data-label="eFG">52.3</td> 
         <td data-label="TO%">21.5</td>
         <td data-label="OR%">47.2</td>
-        <td data-label="FTRate">39.4</td>
+        <td data-label="FTR">39.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.19</td>
-        <td data-label="eFG" >54.0</td> 
+        <td data-label="eFG">54.0</td> 
         <td data-label="TO%" >18.6</td>
         <td data-label="OR%" >47.1</td>
-        <td data-label="FTRate" >35.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-83-state-64/" target="_blank">UNC 83 | NCSU 64</a></span></td>
+        <td data-label="FTR" >35.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-83-state-64/" target="_blank">UNC 83 | NCSU 64</a></span></td>
         <td data-label="PPP">0.91</td>
         <td data-label="eFG">50.0</td> 
         <td data-label="TO%">24.3</td>
         <td data-label="OR%">16.7</td>
-        <td data-label="FTRate">34.0</td>
+        <td data-label="FTR">34.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.17</td>
-        <td data-label="eFG" >56.5</td> 
+        <td data-label="eFG">56.5</td> 
         <td data-label="TO%" >24.2</td>
         <td data-label="OR%" >48.1</td>
-        <td data-label="FTRate" >37.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-77-bc-72/" target="_blank">UNC 77 | Boston College 72</a></span></td>
+        <td data-label="FTR" >37.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-77-bc-72/" target="_blank">UNC 77 | Boston College 72</a></span></td>
         <td data-label="PPP">1.09</td>
         <td data-label="eFG">56.5</td> 
         <td data-label="TO%">19.7</td>
         <td data-label="OR%">35.5</td>
-        <td data-label="FTRate">38.9</td>
+        <td data-label="FTR">38.9</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.01</td>
-        <td data-label="eFG" >42.3</td> 
+        <td data-label="eFG">42.3</td> 
         <td data-label="TO%" >13.8</td>
         <td data-label="OR%" >33.3</td>
-        <td data-label="FTRate" >56.9</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/vt-81-unc-80/" target="_blank">Virginia Tech 81 | UNC (OT)</a></span></td>
+        <td data-label="FTR" >56.9</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/vt-81-unc-80/" target="_blank">Virginia Tech 81 | UNC (OT)</a></span></td>
         <td data-label="PPP">1.03</td>
         <td data-label="eFG">41.5</td> 
         <td data-label="TO%">12.5</td>
         <td data-label="OR%">32.6</td>
-        <td data-label="FTRate">42.3</td>
+        <td data-label="FTR">42.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.30</td>
-        <td data-label="eFG" >59.4</td> 
+        <td data-label="eFG">59.4</td> 
         <td data-label="TO%" >16.3</td>
         <td data-label="OR%" >36.4</td>
-        <td data-label="FTRate" >53.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-104-wake-67/" target="_blank">UNC 104 | Wake Forest 67</a></span></td>
+        <td data-label="FTR" >53.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-104-wake-67/" target="_blank">UNC 104 | Wake Forest 67</a></span></td>
         <td data-label="PPP">0.84</td>
         <td data-label="eFG">40.8</td> 
         <td data-label="TO%">21.3</td>
         <td data-label="OR%">27.9</td>
-        <td data-label="FTRate">29.2</td>
+        <td data-label="FTR">29.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.05</td>
-        <td data-label="eFG" >53.3</td> 
+        <td data-label="eFG">53.3</td> 
         <td data-label="TO%" >17.3</td>
         <td data-label="OR%" >31.3</td>
-        <td data-label="FTRate" >29.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-79-duke-73/" target="_blank">UNC 79 | Duke 73</a></span></td>
+        <td data-label="FTR" >29.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-79-duke-73/" target="_blank">UNC 79 | Duke 73</a></span></td>
         <td data-label="PPP">0.97</td>
         <td data-label="eFG">48.4</td> 
         <td data-label="TO%">21.3</td>
         <td data-label="OR%">27.5</td>
-        <td data-label="FTRate">30.2</td>
+        <td data-label="FTR">30.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.08</td>
-        <td data-label="eFG" >51.6</td> 
+        <td data-label="eFG">51.6</td> 
         <td data-label="TO%" >16.4</td>
         <td data-label="OR%" >31.4</td>
-        <td data-label="FTRate" >32.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/state-83-unc-79/" target="_blank">NCSU 83 | UNC 79</a></span></td>
+        <td data-label="FTR" >32.3</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/state-83-unc-79/" target="_blank">NCSU 83 | UNC 79</a></span></td>
         <td data-label="PPP">1.14</td>
         <td data-label="eFG">69.8</td> 
         <td data-label="TO%">30.1</td>
         <td data-label="OR%">33.3</td>
-        <td data-label="FTRate">74.4</td>
+        <td data-label="FTR">74.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.36</td>
-        <td data-label="eFG" >65.6</td> 
+        <td data-label="eFG">65.6</td> 
         <td data-label="TO%" >15.6</td>
         <td data-label="OR%" >45.2</td>
-        <td data-label="FTRate" >42.2</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-105-miami-64/" target="_blank">UNC 105 | Miami 64</a></span></td>
+        <td data-label="FTR" >42.2</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-105-miami-64/" target="_blank">UNC 105 | Miami 64</a></span></td>
         <td data-label="PPP">0.83</td>
         <td data-label="eFG">41.9</td> 
         <td data-label="TO%">20.8</td>
         <td data-label="OR%">16.7</td>
-        <td data-label="FTRate">27.4</td>
+        <td data-label="FTR">27.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.12</td>
-        <td data-label="eFG" >54.6</td> 
+        <td data-label="eFG">54.6</td> 
         <td data-label="TO%" >14.6</td>
         <td data-label="OR%" >27.5</td>
-        <td data-label="FTRate" >17.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-92-zona-64/" target="_blank">UNC 92 | Arizona 64</a></span></td>
+        <td data-label="FTR" >17.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-92-zona-64/" target="_blank">UNC 92 | Arizona 64</a></span></td>
         <td data-label="PPP">0.78</td>
         <td data-label="eFG">34.7</td> 
         <td data-label="TO%">24.4</td>
         <td data-label="OR%">30.4</td>
-        <td data-label="FTRate">54.2</td>
+        <td data-label="FTR">54.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.11</td>
-        <td data-label="eFG" >62.9</td> 
+        <td data-label="eFG">62.9</td> 
         <td data-label="TO%" >23.8</td>
         <td data-label="OR%" >25.9</td>
-        <td data-label="FTRate" >36.2</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-88-wake-60/" target="_blank">UNC 88 | Wake Forest 60</a></span></td>
+        <td data-label="FTR" >36.2</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-88-wake-60/" target="_blank">UNC 88 | Wake Forest 60</a></span></td>
         <td data-label="PPP">0.75</td>
         <td data-label="eFG">38.7</td> 
         <td data-label="TO%">23.8</td>
         <td data-label="OR%">32.7</td>
-        <td data-label="FTRate">22.5</td>
+        <td data-label="FTR">22.5</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.05</td>
-        <td data-label="eFG" >52.7</td> 
+        <td data-label="eFG">52.7</td> 
         <td data-label="TO%" >26.0</td>
         <td data-label="OR%" >38.2</td>
-        <td data-label="FTRate" >49.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-77-gt-61/" target="_blank">UNC 77 | Georgia Tech 61</a></span></td>
+        <td data-label="FTR" >49.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-77-gt-61/" target="_blank">UNC 77 | Georgia Tech 61</a></span></td>
         <td data-label="PPP">0.84</td>
         <td data-label="eFG">45.8</td> 
         <td data-label="TO%">28.8</td>
         <td data-label="OR%">37.1</td>
-        <td data-label="FTRate">16.7</td>
+        <td data-label="FTR">16.7</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.97</td>
-        <td data-label="eFG" >54.2</td> 
+        <td data-label="eFG">54.2</td> 
         <td data-label="TO%" >27.8</td>
         <td data-label="OR%" >35.5</td>
-        <td data-label="FTRate" >28.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-77-clem-55/" target="_blank">UNC 77 | Clemson 55</a></span></td>
+        <td data-label="FTR" >28.3</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-77-clem-55/" target="_blank">UNC 77 | Clemson 55</a></span></td>
         <td data-label="PPP">0.70</td>
         <td data-label="eFG">36.8</td> 
         <td data-label="TO%">24.1</td>
         <td data-label="OR%">33.3</td>
-        <td data-label="FTRate">27.9</td>
+        <td data-label="FTR">27.9</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.13</td>
-        <td data-label="eFG" >49.3</td> 
+        <td data-label="eFG">49.3</td> 
         <td data-label="TO%" >21.8</td>
         <td data-label="OR%" >50.0</td>
-        <td data-label="FTRate" >39.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/vt-94-unc-88/" target="_blank">Virginia Tech 94 | UNC 88</a></span></td>
+        <td data-label="FTR" >39.7</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/vt-94-unc-88/" target="_blank">Virginia Tech 94 | UNC 88</a></span></td>
         <td data-label="PPP">1.21</td>
         <td data-label="eFG">58.8</td> 
         <td data-label="TO%">14.1</td>
         <td data-label="OR%">28.1</td>
-        <td data-label="FTRate">66.7</td>
+        <td data-label="FTR">66.7</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.07</td>
-        <td data-label="eFG" >40.2</td> 
+        <td data-label="eFG">40.2</td> 
         <td data-label="TO%" >13.5</td>
         <td data-label="OR%" >44.7</td>
-        <td data-label="FTRate" >62.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-79-uva-69/" target="_blank">UNC 79 | UVA 69</a></span></td>
+        <td data-label="FTR" >62.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-79-uva-69/" target="_blank">UNC 79 | UVA 69</a></span></td>
         <td data-label="PPP">0.93</td>
         <td data-label="eFG">51.7</td> 
         <td data-label="TO%">24.3</td>
         <td data-label="OR%">23.5</td>
-        <td data-label="FTRate">18.6</td>
+        <td data-label="FTR">18.6</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.20</td>
-        <td data-label="eFG" >50.0</td> 
+        <td data-label="eFG">50.0</td> 
         <td data-label="TO%" >14.3</td>
         <td data-label="OR%" >42.1</td>
-        <td data-label="FTRate" >22.9</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-84-fsu-58/" target="_blank">UNC 84 | Florida State 58</a></span></td>
+        <td data-label="FTR" >22.9</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-84-fsu-58/" target="_blank">UNC 84 | Florida State 58</a></span></td>
         <td data-label="PPP">0.83</td>
         <td data-label="eFG">37.5</td> 
         <td data-label="TO%">15.7</td>
         <td data-label="OR%">29.5</td>
-        <td data-label="FTRate">23.4</td>
+        <td data-label="FTR">23.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.34</td>
-        <td data-label="eFG" >60.3</td> 
+        <td data-label="eFG">60.3</td> 
         <td data-label="TO%" >13.2</td>
         <td data-label="OR%" >40.6</td>
-        <td data-label="FTRate" >38.2</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-102-penn-64/" target="_blank">UNC 102 | Penn 64</a></span></td>
+        <td data-label="FTR" >38.2</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-102-penn-64/" target="_blank">UNC 102 | Penn 64</a></span></td>
         <td data-label="PPP">0.84</td>
         <td data-label="eFG">46.6</td> 
         <td data-label="TO%">27.6</td>
         <td data-label="OR%">34.3</td>
-        <td data-label="FTRate">25.4</td>
+        <td data-label="FTR">25.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.07</td>
-        <td data-label="eFG" >59.5</td> 
+        <td data-label="eFG">59.5</td> 
         <td data-label="TO%" >27.6</td>
         <td data-label="OR%" >35.5</td>
-        <td data-label="FTRate" >31.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-81-dayton-51/" target="_blank">UNC 81 | Dayton 51</a></span></td>
+        <td data-label="FTR" >31.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-81-dayton-51/" target="_blank">UNC 81 | Dayton 51</a></span></td>
         <td data-label="PPP">0.67</td>
         <td data-label="eFG">35.6</td> 
         <td data-label="TO%">27.6</td>
         <td data-label="OR%">25.0</td>
-        <td data-label="FTRate">23.7</td>
+        <td data-label="FTR">23.7</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.30</td>
-        <td data-label="eFG" >61.7</td> 
+        <td data-label="eFG">61.7</td> 
         <td data-label="TO%" >16.4</td>
         <td data-label="OR%" >44.8</td>
-        <td data-label="FTRate" >30.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-87-rutgers-48/" target="_blank">UNC 87 | Rutgers 48</a></span></td>
+        <td data-label="FTR" >30.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-87-rutgers-48/" target="_blank">UNC 87 | Rutgers 48</a></span></td>
         <td data-label="PPP">0.72</td>
         <td data-label="eFG">37.1</td> 
         <td data-label="TO%">26.9</td>
         <td data-label="OR%">35.0</td>
-        <td data-label="FTRate">17.2</td>
+        <td data-label="FTR">17.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.11</td>
-        <td data-label="eFG" >48.3</td> 
+        <td data-label="eFG">48.3</td> 
         <td data-label="TO%" >12.9</td>
         <td data-label="OR%" >36.8</td>
-        <td data-label="FTRate" >30.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-69-slu-48/" target="_blank">UNC 69 | Saint Louis 48</a></span></td>
+        <td data-label="FTR" >30.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-69-slu-48/" target="_blank">UNC 69 | Saint Louis 48</a></span></td>
         <td data-label="PPP">0.77</td>
         <td data-label="eFG">37.5</td> 
         <td data-label="TO%">12.9</td>
         <td data-label="OR%">20.6</td>
-        <td data-label="FTRate">21.2</td>
+        <td data-label="FTR">21.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.36</td>
-        <td data-label="eFG" >72.3</td> 
+        <td data-label="eFG">72.3</td> 
         <td data-label="TO%" >19.5</td>
         <td data-label="OR%" >34.8</td>
-        <td data-label="FTRate" >53.6</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-105-fau-52/" target="_blank">UNC 105 | Florida Atlantic 52</a></span></td>
+        <td data-label="FTR" >53.6</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-105-fau-52/" target="_blank">UNC 105 | Florida Atlantic 52</a></span></td>
         <td data-label="PPP">0.68</td>
         <td data-label="eFG">41.1</td> 
         <td data-label="TO%">31.2</td>
         <td data-label="OR%">23.1</td>
-        <td data-label="FTRate">19.6</td>
+        <td data-label="FTR">19.6</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.21</td>
-        <td data-label="eFG" >52.0</td> 
+        <td data-label="eFG">52.0</td> 
         <td data-label="TO%" >15.6</td>
         <td data-label="OR%" >44.2</td>
-        <td data-label="FTRate" >29.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-93-unca-62/" target="_blank">UNC 93 | UNC Asheville 62</a></span></td>
+        <td data-label="FTR" >29.3</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-93-unca-62/" target="_blank">UNC 93 | UNC Asheville 62</a></span></td>
         <td data-label="PPP">0.81</td>
         <td data-label="eFG">38.4</td> 
         <td data-label="TO%">23.4</td>
         <td data-label="OR%">24.4</td>
-        <td data-label="FTRate">46.4</td>
+        <td data-label="FTR">46.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.38</td>
-        <td data-label="eFG" >67.3</td> 
+        <td data-label="eFG">67.3</td> 
         <td data-label="TO%" >20.3</td>
         <td data-label="OR%" >59.3</td>
-        <td data-label="FTRate" >8.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-94-hpu-69/" target="_blank">UNC 94 | High Point 69</a></span></td>
+        <td data-label="FTR" >8.7</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-94-hpu-69/" target="_blank">UNC 94 | High Point 69</a></span></td>
         <td data-label="PPP">1.01</td>
         <td data-label="eFG">47.8</td> 
         <td data-label="TO%">14.5</td>
         <td data-label="OR%">34.1</td>
-        <td data-label="FTRate">22.4</td>
+        <td data-label="FTR">22.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.04</td>
-        <td data-label="eFG" >44.0</td> 
+        <td data-label="eFG">44.0</td> 
         <td data-label="TO%" >12.5</td>
         <td data-label="OR%" >33.3</td>
-        <td data-label="FTRate" >32.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-75-kentucky-63/" target="_blank">UNC 75 | Kentucky 63</a></span></td>
+        <td data-label="FTR" >32.8</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-75-kentucky-63/" target="_blank">UNC 75 | Kentucky 63</a></span></td>
         <td data-label="PPP">0.88</td>
         <td data-label="eFG">49.1</td> 
         <td data-label="TO%">30.6</td>
         <td data-label="OR%">36.4</td>
-        <td data-label="FTRate">31.5</td>
+        <td data-label="FTR">31.5</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.29</td>
-        <td data-label="eFG" >59.4</td> 
+        <td data-label="eFG">59.4</td> 
         <td data-label="TO%" >14.5</td>
         <td data-label="OR%" >47.1</td>
-        <td data-label="FTRate" >53.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-98-osu-89/" target="_blank">UNC 98 | Ohio State 89</a></span></td>
+        <td data-label="FTR" >53.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-98-osu-89/" target="_blank">UNC 98 | Ohio State 89</a></span></td>
         <td data-label="PPP">1.17</td>
         <td data-label="eFG">62.3</td> 
         <td data-label="TO%">19.7</td>
         <td data-label="OR%">26.5</td>
-        <td data-label="FTRate">20.0</td>
+        <td data-label="FTR">20.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.17</td>
-        <td data-label="eFG" >62.3</td> 
+        <td data-label="eFG">62.3</td> 
         <td data-label="TO%" >30.2</td>
         <td data-label="OR%" >46.9</td>
-        <td data-label="FTRate" >54.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-101-tenn-87" target="_blank">UNC 101 | Tennessee 87</a></span></td>
+        <td data-label="FTR" >54.1</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-101-tenn-87" target="_blank">UNC 101 | Tennessee 87</a></span></td>
         <td data-label="PPP">1.01</td>
         <td data-label="eFG">52.2</td> 
         <td data-label="TO%">16.3</td>
         <td data-label="OR%">27.1</td>
-        <td data-label="FTRate">47.1</td>
+        <td data-label="FTR">47.1</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.95</td>
-        <td data-label="eFG" >41.2</td> 
+        <td data-label="eFG">41.2</td> 
         <td data-label="TO%" >15.4</td>
         <td data-label="OR%" >30.8</td>
-        <td data-label="FTRate" >44.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/zaga-82-unc-74/" target="_blank">Gonzaga 82 | UNC 74</a></span></td>
+        <td data-label="FTR" >44.1</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/zaga-82-unc-74/" target="_blank">Gonzaga 82 | UNC 74</a></span></td>
         <td data-label="PPP">1.05</td>
         <td data-label="eFG">59.0</td> 
         <td data-label="TO%">21.8</td>
         <td data-label="OR%">18.8</td>
-        <td data-label="FTRate">21.3</td>
+        <td data-label="FTR">21.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.23</td>
-        <td data-label="eFG" >57.6</td> 
+        <td data-label="eFG">57.6</td> 
         <td data-label="TO%" >25.0</td>
         <td data-label="OR%" >61.3</td>
-        <td data-label="FTRate" >50.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-103-gw-50/" target="_blank">UNC 103 | Gardner-Webb 50</a></span></td>
+        <td data-label="FTR" >50.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-103-gw-50/" target="_blank">UNC 103 | Gardner-Webb 50</a></span></td>
         <td data-label="PPP">0.60</td>
         <td data-label="eFG">33.6</td> 
         <td data-label="TO%">25.0</td>
         <td data-label="OR%">18.8</td>
-        <td data-label="FTRate">10.4</td>
+        <td data-label="FTR">10.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.03</td>
-        <td data-label="eFG" >55.4</td> 
+        <td data-label="eFG">55.4</td> 
         <td data-label="TO%" >23.9</td>
         <td data-label="OR%" >37.5</td>
-        <td data-label="FTRate" >33.9</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-73-win-66/" target="_blank">UNC 73 | Winthrop 66</a></span></td>
+        <td data-label="FTR" >33.9</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-73-win-66/" target="_blank">UNC 73 | Winthrop 66</a></span></td>
         <td data-label="PPP">0.93</td>
         <td data-label="eFG">47.8</td> 
         <td data-label="TO%">25.4</td>
         <td data-label="OR%">37.2</td>
-        <td data-label="FTRate">1.4</td>
+        <td data-label="FTR">1.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.27</td>
-        <td data-label="eFG" >63.2</td> 
+        <td data-label="eFG">63.2</td> 
         <td data-label="TO%" >14.8</td>
         <td data-label="OR%" >33.3</td>
-        <td data-label="FTRate" >41.2</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-103-sc-81/" target="_blank">UNC 103 | Sacred Heart 81</a></span></td>
+        <td data-label="FTR" >41.2</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-103-sc-81/" target="_blank">UNC 103 | Sacred Heart 81</a></span></td>
         <td data-label="PPP">1.00</td>
         <td data-label="eFG">51.4</td> 
         <td data-label="TO%">18.5</td>
         <td data-label="OR%">31.7</td>
-        <td data-label="FTRate">16.7</td>
+        <td data-label="FTR">16.7</td>
         </tr>
         
     </tbody>
 </table>
-</body>
+</div>
+
 
 <footer class="pinson" role="contentinfo">
   <div class="pinson-dance">
   <ul>
   <li><a href="/four-factors-06-07/#top">↑ Go back to the top of the page</a></li>
   <li></li>
-  <li>© 2016-2018 Dadgum Box Scores</li>
+  <li>© 2016-2019 Dadgum Box Scores</li>
     </ul>
   </div>
 </footer>
-</div>
+</div></div></div>

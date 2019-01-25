@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html>
-
-
-<html class="no-js" lang="en">
+<!doctype html>
+<html lang="en">
   <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Dadgum Box Scores | Four Factors</title>
     <meta name="description" content="Every UNC basketball box score since 03-04.">
     <meta name="author" content="Chris Gallo">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="//code.jquery.com/jquery-1.12.3.js"></script>
     <script src="https://dadgumboxscores.com/js/felton.min.js"></script>
@@ -36,8 +38,10 @@
     
 
     
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.2/css/fixedHeader.dataTables.min.css">
+    <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
     
   </head>
 <header>
@@ -53,7 +57,8 @@
  </nav>
 </header>  
 <div class="container">
-<body>
+
+
     
     
 
@@ -63,13 +68,15 @@
 
 <h4 class="jalek" >Click to a column to sort or view four factors by a specific season</h4> 
 
+<h4 class="d-sm-none">You're on smaller screen, flip to landscape or scroll</h4>
+
       <ul id="horizontal-list">
       <li><a href="/four-factors/">All</a></li>
-      <li><a href="/four-factors-18-19">2019</a></li>
       <li><a href="/four-factors-17-18">2018</a></li>
       <li><a href="/four-factors-16-17">2017</a></li>
       <li><a href="/four-factors-15-16">2016</a></li>
       <li><a href="/four-factors-14-15">2015</a></li>
+      <li><a href="/four-factors-13-14">2014</a></li>
       <li><a href="/four-factors-12-13">2013</a></li>
       <li><a href="/four-factors-11-12">2012</a></li>
       <li><a href="/four-factors-10-11">2011</a></li>
@@ -83,20 +90,21 @@
     </ul>
 
 
-<table id="example" class="display center" cellspacing="0" width="100%">
+<div class="table-responsive">
+<table id="example"  class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
           <tr> 
           <th scope="col" style="color: #56a0d3;">PPP</th>
           <th scope="col" style="color: #56a0d3;">eFG%</th>
           <th scope="col" style="color: #56a0d3;">TO%</th>
           <th scope="col" style="color: #56a0d3;">OR%</th>
-          <th scope="col" style="color: #56a0d3;">FTRate</th>
-          <th scope="col" class="wallace" data-sortable="false">Box Score</th>
+          <th scope="col" style="color: #56a0d3;">FTR</th>
+          <th scope="col" data-sortable="false">Box Score</th>
           <th scope="col">PPP</th>
           <th scope="col">eFG%</th>
           <th scope="col">TO%</th>
           <th scope="col">OR%</th>
-          <th scope="col">FTRate</th>
+          <th scope="col">FTR</th>
          </tr>
      </thead>
 
@@ -104,490 +112,491 @@
   
     <tr>
         <td data-label="PPP" >1.06</td>
-        <td data-label="eFG" >51.1</td> 
+        <td data-label="eFG">51.1</td> 
         <td data-label="TO%" >15.4</td>
         <td data-label="OR%" >31.6</td>
-        <td data-label="FTRate" >21.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/isu-85-unc-83/" target="_blank">Iowa State 85 | UNC 83</a></span></td>
+        <td data-label="FTR" >21.4</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/isu-85-unc-83/" target="_blank">Iowa State 85 | UNC 83</a></span></td>
         <td data-label="PPP">1.09</td>
         <td data-label="eFG">49.9</td> 
         <td data-label="TO%">17.9</td>
         <td data-label="OR%">29.7</td>
-        <td data-label="FTRate">31.8</td>
+        <td data-label="FTR">31.8</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.22</td>
-        <td data-label="eFG" >49.3</td> 
+        <td data-label="eFG">49.3</td> 
         <td data-label="TO%" >13.9</td>
         <td data-label="OR%" >55.3</td>
-        <td data-label="FTRate" >18.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-79-prov-77/" target="_blank">UNC 79 | Providence 77</a></span></td>
+        <td data-label="FTR" >18.3</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-79-prov-77/" target="_blank">UNC 79 | Providence 77</a></span></td>
         <td data-label="PPP">1.18</td>
         <td data-label="eFG">56.6</td> 
         <td data-label="TO%">15.5</td>
         <td data-label="OR%">32.1</td>
-        <td data-label="FTRate">39.6</td>
+        <td data-label="FTR">39.6</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.99</td>
-        <td data-label="eFG" >44.3</td> 
+        <td data-label="eFG">44.3</td> 
         <td data-label="TO%" >15.8</td>
         <td data-label="OR%" >26.2</td>
-        <td data-label="FTRate" >52.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/pitt-80-unc-75/" target="_blank">Pittsburgh 80 | UNC 75</a></span></td>
+        <td data-label="FTR" >52.5</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/pitt-80-unc-75/" target="_blank">Pittsburgh 80 | UNC 75</a></span></td>
         <td data-label="PPP">1.05</td>
         <td data-label="eFG">56.7</td> 
         <td data-label="TO%">19.8</td>
         <td data-label="OR%">33.3</td>
-        <td data-label="FTRate">78.9</td>
+        <td data-label="FTR">78.9</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.19</td>
-        <td data-label="eFG" >64.4</td> 
+        <td data-label="eFG">64.4</td> 
         <td data-label="TO%" >19.0</td>
         <td data-label="OR%" >25.0</td>
-        <td data-label="FTRate" >36.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/duke-93-unc-81/" target="_blank">Duke 93 | UNC 81</a></span></td>
+        <td data-label="FTR" >36.5</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/duke-93-unc-81/" target="_blank">Duke 93 | UNC 81</a></span></td>
         <td data-label="PPP">1.37</td>
         <td data-label="eFG">57.9</td> 
         <td data-label="TO%">19.0</td>
         <td data-label="OR%">53.3</td>
-        <td data-label="FTRate">54.4</td>
+        <td data-label="FTR">54.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.98</td>
-        <td data-label="eFG" >49.1</td> 
+        <td data-label="eFG">49.1</td> 
         <td data-label="TO%" >15.6</td>
         <td data-label="OR%" >31.4</td>
-        <td data-label="FTRate" >40.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-63-nd-61/" target="_blank">UNC 63 | Notre Dame 61</a></span></td>
+        <td data-label="FTR" >40.7</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-63-nd-61/" target="_blank">UNC 63 | Notre Dame 61</a></span></td>
         <td data-label="PPP">0.95</td>
         <td data-label="eFG">53.8</td> 
         <td data-label="TO%">20.3</td>
         <td data-label="OR%">20.0</td>
-        <td data-label="FTRate">23.1</td>
+        <td data-label="FTR">23.1</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.00</td>
-        <td data-label="eFG" >46.4</td> 
+        <td data-label="eFG">46.4</td> 
         <td data-label="TO%" >11.7</td>
         <td data-label="OR%" >28.9</td>
-        <td data-label="FTRate" >32.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-60-vt-56/" target="_blank">UNC 60 | Virginia Tech 56</a></span></td>
+        <td data-label="FTR" >32.7</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-60-vt-56/" target="_blank">UNC 60 | Virginia Tech 56</a></span></td>
         <td data-label="PPP">0.93</td>
         <td data-label="eFG">43.3</td> 
         <td data-label="TO%">20.1</td>
         <td data-label="OR%">24.1</td>
-        <td data-label="FTRate">46.7</td>
+        <td data-label="FTR">46.7</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.16</td>
-        <td data-label="eFG" >50.8</td> 
+        <td data-label="eFG">50.8</td> 
         <td data-label="TO%" >16.5</td>
         <td data-label="OR%" >46.3</td>
-        <td data-label="FTRate" >47.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-85-state-84/" target="_blank">UNC 85 | NCSU 84 (OT)</a></span></td>
+        <td data-label="FTR" >47.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-85-state-84/" target="_blank">UNC 85 | NCSU 84 (OT)</a></span></td>
         <td data-label="PPP">1.15</td>
         <td data-label="eFG">52.4</td> 
         <td data-label="TO%">13.8</td>
         <td data-label="OR%">37.5</td>
-        <td data-label="FTRate">50.0</td>
+        <td data-label="FTR">50.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.44</td>
-        <td data-label="eFG" >66.4</td> 
+        <td data-label="eFG">66.4</td> 
         <td data-label="TO%" >13.8</td>
         <td data-label="OR%" >41.4</td>
-        <td data-label="FTRate" >47.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-105-wake-72/" target="_blank">UNC 105 | Wake Forest 72</a></span></td>
+        <td data-label="FTR" >47.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-105-wake-72/" target="_blank">UNC 105 | Wake Forest 72</a></span></td>
         <td data-label="PPP">0.99</td>
         <td data-label="eFG">54.5</td> 
         <td data-label="TO%">19.3</td>
         <td data-label="OR%">23.3</td>
-        <td data-label="FTRate">40.0</td>
+        <td data-label="FTR">40.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.07</td>
-        <td data-label="eFG" >49.1</td> 
+        <td data-label="eFG">49.1</td> 
         <td data-label="TO%" >18.9</td>
         <td data-label="OR%" >44.1</td>
-        <td data-label="FTRate" >56.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-74-duke-66/" target="_blank">UNC 74 | Duke 66</a></span></td>
+        <td data-label="FTR" >56.4</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-74-duke-66/" target="_blank">UNC 74 | Duke 66</a></span></td>
         <td data-label="PPP">0.96</td>
         <td data-label="eFG">46.8</td> 
         <td data-label="TO%">17.5</td>
         <td data-label="OR%">28.2</td>
-        <td data-label="FTRate">19.1</td>
+        <td data-label="FTR">19.1</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.17</td>
-        <td data-label="eFG" >53.9</td> 
+        <td data-label="eFG">53.9</td> 
         <td data-label="TO%" >13.1</td>
         <td data-label="OR%" >38.9</td>
-        <td data-label="FTRate" >31.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-81-fsu-75/" target="_blank">UNC 81 | Florida State 75</a></span></td>
+        <td data-label="FTR" >31.3</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-81-fsu-75/" target="_blank">UNC 81 | Florida State 75</a></span></td>
         <td data-label="PPP">1.09</td>
         <td data-label="eFG">47.4</td> 
         <td data-label="TO%">11.6</td>
         <td data-label="OR%">26.3</td>
-        <td data-label="FTRate">48.3</td>
+        <td data-label="FTR">48.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.06</td>
-        <td data-label="eFG" >49.2</td> 
+        <td data-label="eFG">49.2</td> 
         <td data-label="TO%" >18.3</td>
         <td data-label="OR%" >41.0</td>
-        <td data-label="FTRate" >41.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-75-pitt-71/" target="_blank">UNC 75 | Pittsburgh 71</a></span></td>
+        <td data-label="FTR" >41.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-75-pitt-71/" target="_blank">UNC 75 | Pittsburgh 71</a></span></td>
         <td data-label="PPP">1.00</td>
         <td data-label="eFG">43.8</td> 
         <td data-label="TO%">19.7</td>
         <td data-label="OR%">41.5</td>
-        <td data-label="FTRate">35.9</td>
+        <td data-label="FTR">35.9</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.09</td>
-        <td data-label="eFG" >46.7</td> 
+        <td data-label="eFG">46.7</td> 
         <td data-label="TO%" >16.5</td>
         <td data-label="OR%" >40.5</td>
-        <td data-label="FTRate" >34.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-73-nd-62/" target="_blank">UNC 73 | Notre Dame 62</a></span></td>
+        <td data-label="FTR" >34.4</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-73-nd-62/" target="_blank">UNC 73 | Notre Dame 62</a></span></td>
         <td data-label="PPP">0.93</td>
         <td data-label="eFG">50.9</td> 
         <td data-label="TO%">25.4</td>
         <td data-label="OR%">31.3</td>
-        <td data-label="FTRate">18.2</td>
+        <td data-label="FTR">18.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.03</td>
-        <td data-label="eFG" >54.9</td> 
+        <td data-label="eFG">54.9</td> 
         <td data-label="TO%" >19.3</td>
         <td data-label="OR%" >31.4</td>
-        <td data-label="FTRate" >72.6</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-75-maryland-63/" target="_blank">UNC 75 | Maryland 63</a></span></td>
+        <td data-label="FTR" >72.6</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-75-maryland-63/" target="_blank">UNC 75 | Maryland 63</a></span></td>
         <td data-label="PPP">0.86</td>
         <td data-label="eFG">44.6</td> 
         <td data-label="TO%">22.1</td>
         <td data-label="OR%">21.6</td>
-        <td data-label="FTRate">35.7</td>
+        <td data-label="FTR">35.7</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.09</td>
-        <td data-label="eFG" >42.8</td> 
+        <td data-label="eFG">42.8</td> 
         <td data-label="TO%" >16.9</td>
         <td data-label="OR%" >47.8</td>
-        <td data-label="FTRate" >47.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-84-state-70/" target="_blank">UNC 84 | NCSU 70</a></span></td>
+        <td data-label="FTR" >47.8</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-84-state-70/" target="_blank">UNC 84 | NCSU 70</a></span></td>
         <td data-label="PPP">0.91</td>
         <td data-label="eFG">42.4</td> 
         <td data-label="TO%">15.6</td>
         <td data-label="OR%">28.6</td>
-        <td data-label="FTRate">39.4</td>
+        <td data-label="FTR">39.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.13</td>
-        <td data-label="eFG" >48.4</td> 
+        <td data-label="eFG">48.4</td> 
         <td data-label="TO%" >8.7</td>
         <td data-label="OR%" >32.5</td>
-        <td data-label="FTRate" >36.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-78-gt-65/" target="_blank">UNC 78 | Georgia Tech 65</a></span></td>
+        <td data-label="FTR" >36.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-78-gt-65/" target="_blank">UNC 78 | Georgia Tech 65</a></span></td>
         <td data-label="PPP">0.94</td>
         <td data-label="eFG">45.5</td> 
         <td data-label="TO%">14.5</td>
         <td data-label="OR%">15.8</td>
-        <td data-label="FTRate">47.3</td>
+        <td data-label="FTR">47.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.31</td>
-        <td data-label="eFG" >62.5</td> 
+        <td data-label="eFG">62.5</td> 
         <td data-label="TO%" >19.7</td>
         <td data-label="OR%" >48.3</td>
-        <td data-label="FTRate" >33.9</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-80-clem-61/" target="_blank">UNC 80 | Clemson 61</a></span></td>
+        <td data-label="FTR" >33.9</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-80-clem-61/" target="_blank">UNC 80 | Clemson 61</a></span></td>
         <td data-label="PPP">1.00</td>
         <td data-label="eFG">39.6</td> 
         <td data-label="TO%">16.4</td>
         <td data-label="OR%">41.0</td>
-        <td data-label="FTRate">47.2</td>
+        <td data-label="FTR">47.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.98</td>
-        <td data-label="eFG" >44.4</td> 
+        <td data-label="eFG">44.4</td> 
         <td data-label="TO%" >17.7</td>
         <td data-label="OR%" >41.5</td>
-        <td data-label="FTRate" >19.1</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/uva-76-unc-61/" target="_blank">UVA 76 | UNC 61</a></span></td>
+        <td data-label="FTR" >19.1</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/uva-76-unc-61/" target="_blank">UVA 76 | UNC 61</a></span></td>
         <td data-label="PPP">1.23</td>
         <td data-label="eFG">55.6</td> 
         <td data-label="TO%">12.9</td>
         <td data-label="OR%">38.9</td>
-        <td data-label="FTRate">53.7</td>
+        <td data-label="FTR">53.7</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.17</td>
-        <td data-label="eFG" >56.4</td> 
+        <td data-label="eFG">56.4</td> 
         <td data-label="TO%" >17.1</td>
         <td data-label="OR%" >29.0</td>
-        <td data-label="FTRate" >54.6</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-bc-71/" target="_blank">UNC 82 | Boston College 71</a></span></td>
+        <td data-label="FTR" >54.6</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-82-bc-71/" target="_blank">UNC 82 | Boston College 71</a></span></td>
         <td data-label="PPP">1.01</td>
         <td data-label="eFG">55.2</td> 
         <td data-label="TO%">25.6</td>
         <td data-label="OR%">33.3</td>
-        <td data-label="FTRate">54.2</td>
+        <td data-label="FTR">54.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.75</td>
-        <td data-label="eFG" >41.2</td> 
+        <td data-label="eFG">41.2</td> 
         <td data-label="TO%" >23.5</td>
         <td data-label="OR%" >29.4</td>
-        <td data-label="FTRate" >17.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/cuse-57-unc-45/" target="_blank">Syracuse 57 | UNC 45</a></span></td>
+        <td data-label="FTR" >17.7</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/cuse-57-unc-45/" target="_blank">Syracuse 57 | UNC 45</a></span></td>
         <td data-label="PPP">0.95</td>
         <td data-label="eFG">38.3</td> 
         <td data-label="TO%">16.8</td>
         <td data-label="OR%">40.5</td>
-        <td data-label="FTRate">25.0</td>
+        <td data-label="FTR">25.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.86</td>
-        <td data-label="eFG" >34.6</td> 
+        <td data-label="eFG">34.6</td> 
         <td data-label="TO%" >16.7</td>
         <td data-label="OR%" >40.8</td>
-        <td data-label="FTRate" >30.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/miami-63-unc-57/" target="_blank">Miami 63 | UNC 57</a></span></td>
+        <td data-label="FTR" >30.8</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/miami-63-unc-57/" target="_blank">Miami 63 | UNC 57</a></span></td>
         <td data-label="PPP">0.95</td>
         <td data-label="eFG">47.0</td> 
         <td data-label="TO%">19.7</td>
         <td data-label="OR%">29.0</td>
-        <td data-label="FTRate">52.0</td>
+        <td data-label="FTR">52.0</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.91</td>
-        <td data-label="eFG" >40.0</td> 
+        <td data-label="eFG">40.0</td> 
         <td data-label="TO%" >23.0</td>
         <td data-label="OR%" >48.0</td>
-        <td data-label="FTRate" >14.7</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/wake-73-unc-67/" target="_blank">Wake Forest 73 | UNC 67</a></span></td>
+        <td data-label="FTR" >14.7</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/wake-73-unc-67/" target="_blank">Wake Forest 73 | UNC 67</a></span></td>
         <td data-label="PPP">0.99</td>
         <td data-label="eFG">50.0</td> 
         <td data-label="TO%">17.6</td>
         <td data-label="OR%">21.6</td>
-        <td data-label="FTRate">61.1</td>
+        <td data-label="FTR">61.1</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.22</td>
-        <td data-label="eFG" >54.6</td> 
+        <td data-label="eFG">54.6</td> 
         <td data-label="TO%" >23.1</td>
         <td data-label="OR%" >57.6</td>
-        <td data-label="FTRate" >26.2</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-84-uncw-51/" target="_blank">UNC 84 | UNCW 51</a></span></td>
+        <td data-label="FTR" >26.2</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-84-uncw-51/" target="_blank">UNC 84 | UNCW 51</a></span></td>
         <td data-label="PPP">0.74</td>
         <td data-label="eFG">33.6</td> 
         <td data-label="TO%">24.6</td>
         <td data-label="OR%">37.2</td>
-        <td data-label="FTRate">21.3</td>
+        <td data-label="FTR">21.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.04</td>
-        <td data-label="eFG" >52.9</td> 
+        <td data-label="eFG">52.9</td> 
         <td data-label="TO%" >19.5</td>
         <td data-label="OR%" >22.7</td>
-        <td data-label="FTRate" >60.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-75-nk-60/" target="_blank">UNC 75 | Northern Kentucky 60</a></span></td>
+        <td data-label="FTR" >60.8</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-75-nk-60/" target="_blank">UNC 75 | Northern Kentucky 60</a></span></td>
         <td data-label="PPP">0.83</td>
         <td data-label="eFG">37.1</td> 
         <td data-label="TO%">11.2</td>
         <td data-label="OR%">22.7</td>
-        <td data-label="FTRate">24.3</td>
+        <td data-label="FTR">24.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.99</td>
-        <td data-label="eFG" >50.8</td> 
+        <td data-label="eFG">50.8</td> 
         <td data-label="TO%" >17.1</td>
         <td data-label="OR%" >35.3</td>
-        <td data-label="FTRate" >75.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-87-davidson-85/" target="_blank">UNC 87 | Davidson 85 (OT)</a></span></td>
+        <td data-label="FTR" >75.8</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-87-davidson-85/" target="_blank">UNC 87 | Davidson 85 (OT)</a></span></td>
         <td data-label="PPP">0.97</td>
         <td data-label="eFG">52.2</td> 
         <td data-label="TO%">25.0</td>
         <td data-label="OR%">30.2</td>
-        <td data-label="FTRate">35.3</td>
+        <td data-label="FTR">35.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.04</td>
-        <td data-label="eFG" >45.4</td> 
+        <td data-label="eFG">45.4</td> 
         <td data-label="TO%" >10.0</td>
         <td data-label="OR%" >32.6</td>
-        <td data-label="FTRate" >72.3</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/texas-86-unc-83/" target="_blank">Texas 86 | UNC 83</a></span></td>
+        <td data-label="FTR" >72.3</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/texas-86-unc-83/" target="_blank">Texas 86 | UNC 83</a></span></td>
         <td data-label="PPP">1.08</td>
         <td data-label="eFG">45.8</td> 
         <td data-label="TO%">15.0</td>
         <td data-label="OR%">42.6</td>
-        <td data-label="FTRate">45.8</td>
+        <td data-label="FTR">45.8</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.11</td>
-        <td data-label="eFG" >50.0</td> 
+        <td data-label="eFG">50.0</td> 
         <td data-label="TO%" >12.1</td>
         <td data-label="OR%" >30.8</td>
-        <td data-label="FTRate" >80.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-kentucky-77/" target="_blank">UNC 82 | Kentucky 77</a></span></td>
+        <td data-label="FTR" >80.4</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-82-kentucky-77/" target="_blank">UNC 82 | Kentucky 77</a></span></td>
         <td data-label="PPP">1.04</td>
         <td data-label="eFG">44.4</td> 
         <td data-label="TO%">22.8</td>
         <td data-label="OR%">45.9</td>
-        <td data-label="FTRate">79.6</td>
+        <td data-label="FTR">79.6</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.19</td>
-        <td data-label="eFG" >49.2</td> 
+        <td data-label="eFG">49.2</td> 
         <td data-label="TO%" >19.2</td>
         <td data-label="OR%" >54.8</td>
-        <td data-label="FTRate" >39.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-81-uncg-50/" target="_blank">UNC 81 | UNCG 50</a></span></td>
+        <td data-label="FTR" >39.4</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-81-uncg-50/" target="_blank">UNC 81 | UNCG 50</a></span></td>
         <td data-label="PPP">0.74</td>
         <td data-label="eFG">43.9</td> 
         <td data-label="TO%">31.0</td>
         <td data-label="OR%">28.1</td>
-        <td data-label="FTRate">26.5</td>
+        <td data-label="FTR">26.5</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.07</td>
-        <td data-label="eFG" >46.2</td> 
+        <td data-label="eFG">46.2</td> 
         <td data-label="TO%" >17.5</td>
         <td data-label="OR%" >39.0</td>
-        <td data-label="FTRate" >41.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-79-msu-65/" target="_blank">UNC 79 | Michigan State 65</a></span></td>
+        <td data-label="FTR" >41.5</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-79-msu-65/" target="_blank">UNC 79 | Michigan State 65</a></span></td>
         <td data-label="PPP">0.88</td>
         <td data-label="eFG">41.4</td> 
         <td data-label="TO%">18.9</td>
         <td data-label="OR%">28.3</td>
-        <td data-label="FTRate">28.1</td>
+        <td data-label="FTR">28.1</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.89</td>
-        <td data-label="eFG" >43.7</td> 
+        <td data-label="eFG">43.7</td> 
         <td data-label="TO%" >13.6</td>
         <td data-label="OR%" >26.2</td>
-        <td data-label="FTRate" >17.5</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/uab-63-unc-59/" target="_blank">UAB 63 | UNC 59</a></span></td>
+        <td data-label="FTR" >17.5</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/uab-63-unc-59/" target="_blank">UAB 63 | UNC 59</a></span></td>
         <td data-label="PPP">0.95</td>
         <td data-label="eFG">33.1</td> 
         <td data-label="TO%">18.1</td>
         <td data-label="OR%">44.7</td>
-        <td data-label="FTRate">45.2</td>
+        <td data-label="FTR">45.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.19</td>
-        <td data-label="eFG" >56.8</td> 
+        <td data-label="eFG">56.8</td> 
         <td data-label="TO%" >18.0</td>
         <td data-label="OR%" >38.7</td>
-        <td data-label="FTRate" >64.4</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-93-lville-84/" target="_blank">UNC 93 | Louisville 84</a></span></td>
+        <td data-label="FTR" >64.4</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-93-lville-84/" target="_blank">UNC 93 | Louisville 84</a></span></td>
         <td data-label="PPP">1.08</td>
         <td data-label="eFG">47.0</td> 
         <td data-label="TO%">18.0</td>
         <td data-label="OR%">36.4</td>
-        <td data-label="FTRate">37.3</td>
+        <td data-label="FTR">37.3</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.14</td>
-        <td data-label="eFG" >52.8</td> 
+        <td data-label="eFG">52.8</td> 
         <td data-label="TO%" >19.5</td>
         <td data-label="OR%" >36.1</td>
-        <td data-label="FTRate" >69.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-richmond-72/" target="_blank">UNC 82 | Richmond 72</a></span></td>
+        <td data-label="FTR" >69.8</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-82-richmond-72/" target="_blank">UNC 82 | Richmond 72</a></span></td>
         <td data-label="PPP">1.00</td>
         <td data-label="eFG">52.0</td> 
         <td data-label="TO%">23.7</td>
         <td data-label="OR%">25.8</td>
-        <td data-label="FTRate">59.2</td>
+        <td data-label="FTR">59.2</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.10</td>
-        <td data-label="eFG" >50.0</td> 
+        <td data-label="eFG">50.0</td> 
         <td data-label="TO%" >17.9</td>
         <td data-label="OR%" >48.8</td>
-        <td data-label="FTRate" >82.8</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/belmont-83-unc-80/" target="_blank">Belmont 83 | UNC 80</a></span></td>
+        <td data-label="FTR" >82.8</td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/belmont-83-unc-80/" target="_blank">Belmont 83 | UNC 80</a></span></td>
         <td data-label="PPP">1.14</td>
         <td data-label="eFG">59.4</td> 
         <td data-label="TO%">22.0</td>
         <td data-label="OR%">23.3</td>
-        <td data-label="FTRate">41.5</td>
+        <td data-label="FTR">41.5</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >1.05</td>
-        <td data-label="eFG" >46.7</td> 
+        <td data-label="eFG">46.7</td> 
         <td data-label="TO%" >22.4</td>
         <td data-label="OR%" >51.1</td>
-        <td data-label="FTRate" >38.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-62-hc-54/" target="_blank">UNC 62 | Holy Cross 54</a></span></td>
+        <td data-label="FTR" >38.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-62-hc-54/" target="_blank">UNC 62 | Holy Cross 54</a></span></td>
         <td data-label="PPP">0.74</td>
         <td data-label="eFG">32.4</td> 
         <td data-label="TO%">22.4</td>
         <td data-label="OR%">28.9</td>
-        <td data-label="FTRate">34.4</td>
+        <td data-label="FTR">34.4</td>
         </tr>
         
     <tr>
         <td data-label="PPP" >0.89</td>
-        <td data-label="eFG" >40.8</td> 
+        <td data-label="eFG">40.8</td> 
         <td data-label="TO%" >12.8</td>
         <td data-label="OR%" >21.1</td>
-        <td data-label="FTRate" >30.0</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-84-oak-61/" target="_blank">UNC 84 | Oakland 61</a></span></td>
+        <td data-label="FTR" >30.0</td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-84-oak-61/" target="_blank">UNC 84 | Oakland 61</a></span></td>
         <td data-label="PPP">0.77</td>
         <td data-label="eFG">34.3</td> 
         <td data-label="TO%">22.7</td>
         <td data-label="OR%">20.5</td>
-        <td data-label="FTRate">51.0</td>
+        <td data-label="FTR">51.0</td>
         </tr>
         
     </tbody>
 </table>
-</body>
+</div>
+
 
 <footer class="pinson" role="contentinfo">
   <div class="pinson-dance">
   <ul>
   <li><a href="/four-factors-13-14/#top">↑ Go back to the top of the page</a></li>
   <li></li>
-  <li>© 2016-2018 Dadgum Box Scores</li>
+  <li>© 2016-2019 Dadgum Box Scores</li>
     </ul>
   </div>
 </footer>

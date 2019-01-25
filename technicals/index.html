@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html>
-
-
-<html class="no-js" lang="en">
+<!doctype html>
+<html lang="en">
   <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Dadgum Box Scores | Techincals</title>
     <meta name="description" content="Every UNC basketball box score since 03-04.">
     <meta name="author" content="Chris Gallo">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="//code.jquery.com/jquery-1.12.3.js"></script>
     <script src="https://dadgumboxscores.com/js/ayers.min.js"></script>
@@ -80,6 +82,8 @@
     
     <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.2/css/fixedHeader.dataTables.min.css">
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
     
   </head>
 
@@ -110,14 +114,16 @@
 
 <h4 id="games-only-shown-if-a-technical-foul-was-called">Games only shown if a technical foul was called</h4>
 
+<h4 class="d-sm-none">You're on smaller screen, flip to landscape or scroll</h4>
+
       <ul id="horizontal-list">
       <li><a href="/officials/">Officials only</a></li>
       <li><a href="/fouls/">Fouls only</a></li>
       <li><a href="/spread/">Spread only</a></li>
     </ul>
 
-  <table id="example" class="display center" cellspacing="0" width="100%">
-  <thead>
+<table id="example"  class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead class="thead-light">
          <tr> 
            <th scope="col" class="britt">Location</th>
            <th scope="col" class="britt">Type</th>
@@ -144,7 +150,7 @@
         <td data-label="Ref3" >1 Kerry Blackshear</td>
         <th class="britt">win</th>
         <td data-label="Year" >18-19</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2019/unc-103-vt-82.pdf" target="_blank">UNC 103 | Virginia Tech 82</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2019/unc-103-vt-82.pdf" target="_blank">UNC 103 | Virginia Tech 82</a></span></td>
         </tr>
         
     <tr>
@@ -157,7 +163,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >18-19</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2019/unc-85-um-76.pdf" target="_blank">UNC 85 | Miami 76</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2019/unc-85-um-76.pdf" target="_blank">UNC 85 | Miami 76</a></span></td>
         </tr>
         
     <tr>
@@ -170,7 +176,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">loss</th>
         <td data-label="Year" >18-19</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2019/kentucky-80-unc-72.pdf" target="_blank">Kentucky 80 | UNC 72</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2019/kentucky-80-unc-72.pdf" target="_blank">Kentucky 80 | UNC 72</a></span></td>
         </tr>
         
     <tr>
@@ -183,7 +189,7 @@
         <td data-label="Ref3" > Jose Alvarado</td>
         <th class="britt">win</th>
         <td data-label="Year" >17-18</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2018/unc-80-gt-66.pdf" target="_blank">UNC 80 | Georgia Tech 66</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2018/unc-80-gt-66.pdf" target="_blank">UNC 80 | Georgia Tech 66</a></span></td>
         </tr>
         
     <tr>
@@ -196,7 +202,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >17-18</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2018/unc-86-osu-72.pdf" target="_blank">UNC 86 | Ohio State 72</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2018/unc-86-osu-72.pdf" target="_blank">UNC 86 | Ohio State 72</a></span></td>
         </tr>
         
     <tr>
@@ -209,7 +215,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >16-17</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2017/unc-62-um-77" target="_blank">Miami 77 | UNC 62</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2017/unc-62-um-77" target="_blank">Miami 77 | UNC 62</a></span></td>
         </tr>
         
     <tr>
@@ -222,7 +228,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >16-17</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2017/kentucky-103-unc-100/" target="_blank">Kentucky 103 | UNC 100</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2017/kentucky-103-unc-100/" target="_blank">Kentucky 103 | UNC 100</a></span></td>
         </tr>
         
     <tr>
@@ -235,7 +241,7 @@
         <td data-label="Ref3" > Grayson Allen</td>
         <th class="britt">win</th>
         <td data-label="Year" >16-17</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2017/unc-90-duke-83" target="_blank">UNC 90 | Duke 83</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2017/unc-90-duke-83" target="_blank">UNC 90 | Duke 83</a></span></td>
         </tr>
         
     <tr>
@@ -248,7 +254,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >16-17</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2017/unc-107-ncsu-56" target="_blank">UNC 107 | North Carolina State 56</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2017/unc-107-ncsu-56" target="_blank">UNC 107 | North Carolina State 56</a></span></td>
         </tr>
         
     <tr>
@@ -261,7 +267,7 @@
         <td data-label="Ref3" >[3] Je&#39;lon Hornbeak, Josh James, Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >16-17</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2017/unc-102-mon-74" target="_blank">UNC 102 | Monmouth 74</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2017/unc-102-mon-74" target="_blank">UNC 102 | Monmouth 74</a></span></td>
         </tr>
         
     <tr>
@@ -274,7 +280,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >15-16</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-88-nd-74" target="_blank">UNC 88 | Notre Dame 74</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2016/unc-88-nd-74" target="_blank">UNC 88 | Notre Dame 74</a></span></td>
         </tr>
         
     <tr>
@@ -287,7 +293,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >15-16</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-83-wake-68" target="_blank">UNC 83 | Wake Forest 68</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2016/unc-83-wake-68" target="_blank">UNC 83 | Wake Forest 68</a></span></td>
         </tr>
         
     <tr>
@@ -300,7 +306,7 @@
         <td data-label="Ref3" > Chris Koumadje</td>
         <th class="britt">win</th>
         <td data-label="Year" >15-16</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-106-fsu-90" target="_blank">UNC 106 | Florida State 90</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2016/unc-106-fsu-90" target="_blank">UNC 106 | Florida State 90</a></span></td>
         </tr>
         
     <tr>
@@ -313,7 +319,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">loss</th>
         <td data-label="Year" >15-16</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2016/uni-71-unc-67" target="_blank">Northern Iowa 71 | UNC 67</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2016/uni-71-unc-67" target="_blank">Northern Iowa 71 | UNC 67</a></span></td>
         </tr>
         
     <tr>
@@ -326,7 +332,7 @@
         <td data-label="Ref3" > Levan S. Alston Jr.</td>
         <th class="britt">win</th>
         <td data-label="Year" >15-16</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2016/unc-91-temple-67" target="_blank">UNC 91 | Temple 67</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2016/unc-91-temple-67" target="_blank">UNC 91 | Temple 67</a></span></td>
         </tr>
         
     <tr>
@@ -339,7 +345,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >14-15</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2015/unc-86-bill-and-mary-64" target="_blank">UNC 86 | William &amp; Mary 64</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2015/unc-86-bill-and-mary-64" target="_blank">UNC 86 | William &amp; Mary 64</a></span></td>
         </tr>
         
     <tr>
@@ -352,7 +358,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/miami-63-unc-57" target="_blank">Miami 63 | UNC 57</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/miami-63-unc-57" target="_blank">Miami 63 | UNC 57</a></span></td>
         </tr>
         
     <tr>
@@ -365,7 +371,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/wake-73-unc-67" target="_blank">Wake Forest 73 | UNC 67</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/wake-73-unc-67" target="_blank">Wake Forest 73 | UNC 67</a></span></td>
         </tr>
         
     <tr>
@@ -378,7 +384,7 @@
         <td data-label="Ref3" > Tyler Cavanaugh</td>
         <th class="britt">win</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-105-wake-72" target="_blank">UNC 105 | Wake Forest 72</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-105-wake-72" target="_blank">UNC 105 | Wake Forest 72</a></span></td>
         </tr>
         
     <tr>
@@ -391,7 +397,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-bc-71" target="_blank">UNC 82 | Boston College 71</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-82-bc-71" target="_blank">UNC 82 | Boston College 71</a></span></td>
         </tr>
         
     <tr>
@@ -404,7 +410,7 @@
         <td data-label="Ref3" > Isaiah Taylor</td>
         <th class="britt">loss</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2014/texas-86-unc-83" target="_blank">Texas 86 | UNC 83</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2014/texas-86-unc-83" target="_blank">Texas 86 | UNC 83</a></span></td>
         </tr>
         
     <tr>
@@ -417,7 +423,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-82-kentucky-77" target="_blank">UNC 82 | Kentucky 77</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-82-kentucky-77" target="_blank">UNC 82 | Kentucky 77</a></span></td>
         </tr>
         
     <tr>
@@ -430,7 +436,7 @@
         <td data-label="Ref3" > Tevon Saddler</td>
         <th class="britt">win</th>
         <td data-label="Year" >13-14</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2014/unc-81-uncg-50" target="_blank">UNC 81 | UNCG 50</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2014/unc-81-uncg-50" target="_blank">UNC 81 | UNCG 50</a></span></td>
         </tr>
         
     <tr>
@@ -443,7 +449,7 @@
         <td data-label="Ref3" > Julian Gamble</td>
         <th class="britt">loss</th>
         <td data-label="Year" >12-13</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2013/miami-87-unc-61" target="_blank">Miami 87 | UNC 61</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2013/miami-87-unc-61" target="_blank">Miami 87 | UNC 61</a></span></td>
         </tr>
         
     <tr>
@@ -456,7 +462,7 @@
         <td data-label="Ref3" > Andre Mattison</td>
         <th class="britt">win</th>
         <td data-label="Year" >12-13</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2013/unc-70-fau-56" target="_blank">UNC 70 | Florida Atlantic 56</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2013/unc-70-fau-56" target="_blank">UNC 70 | Florida Atlantic 56</a></span></td>
         </tr>
         
     <tr>
@@ -469,7 +475,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >11-12</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-87-creighton-73" target="_blank">UNC 87 | Creighton 73</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2012/unc-87-creighton-73" target="_blank">UNC 87 | Creighton 73</a></span></td>
         </tr>
         
     <tr>
@@ -482,7 +488,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >11-12</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-93-gt-81" target="_blank">UNC 93 | Georgia Tech 81</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2012/unc-93-gt-81" target="_blank">UNC 93 | Georgia Tech 81</a></span></td>
         </tr>
         
     <tr>
@@ -495,7 +501,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >11-12</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2012/fsu-90-unc-57" target="_blank">Florida State 90 | UNC 57</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2012/fsu-90-unc-57" target="_blank">Florida State 90 | UNC 57</a></span></td>
         </tr>
         
     <tr>
@@ -508,7 +514,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >11-12</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-88-maryland-64" target="_blank">UNC 88 | Maryland 64</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2012/unc-88-maryland-64" target="_blank">UNC 88 | Maryland 64</a></span></td>
         </tr>
         
     <tr>
@@ -521,7 +527,7 @@
         <td data-label="Ref3" >[2] Brian Richardson, Malik Cooke</td>
         <th class="britt">win</th>
         <td data-label="Year" >11-12</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2012/unc-87-usc-62" target="_blank">UNC 87 | South Carolina 62</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2012/unc-87-usc-62" target="_blank">UNC 87 | South Carolina 62</a></span></td>
         </tr>
         
     <tr>
@@ -534,7 +540,7 @@
         <td data-label="Ref3" > Deividas Dulkys</td>
         <th class="britt">win</th>
         <td data-label="Year" >10-11</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-72-fsu-70" target="_blank">UNC 72 | Florida State 70</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2011/unc-72-fsu-70" target="_blank">UNC 72 | Florida State 70</a></span></td>
         </tr>
         
     <tr>
@@ -547,7 +553,7 @@
         <td data-label="Ref3" > Jae Crowder</td>
         <th class="britt">win</th>
         <td data-label="Year" >10-11</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-81-marq-63" target="_blank">UNC 81 | Marquette 63</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2011/unc-81-marq-63" target="_blank">UNC 81 | Marquette 63</a></span></td>
         </tr>
         
     <tr>
@@ -560,7 +566,7 @@
         <td data-label="Ref3" > Jamal Olasewere</td>
         <th class="britt">win</th>
         <td data-label="Year" >10-11</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-102-liu-87" target="_blank">UNC 102 | LIU 87</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2011/unc-102-liu-87" target="_blank">UNC 102 | LIU 87</a></span></td>
         </tr>
         
     <tr>
@@ -573,7 +579,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >10-11</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-75-state-63" target="_blank">UNC 75 | North Carolina State 63</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2011/unc-75-state-63" target="_blank">UNC 75 | North Carolina State 63</a></span></td>
         </tr>
         
     <tr>
@@ -586,7 +592,7 @@
         <td data-label="Ref3" > Javier Gonzalez</td>
         <th class="britt">win</th>
         <td data-label="Year" >10-11</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2011/unc-84-state-64" target="_blank">UNC 84 | North Carolina State 64</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2011/unc-84-state-64" target="_blank">UNC 84 | North Carolina State 64</a></span></td>
         </tr>
         
     <tr>
@@ -599,7 +605,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >09-10</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2010/unc-88-valpo-77" target="_blank">UNC 88 | Valparaiso 77</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2010/unc-88-valpo-77" target="_blank">UNC 88 | Valparaiso 77</a></span></td>
         </tr>
         
     <tr>
@@ -612,7 +618,7 @@
         <td data-label="Ref3" > Josh Southern</td>
         <th class="britt">loss</th>
         <td data-label="Year" >09-10</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2010/bc-71-unc-67" target="_blank">Boston College 71 | UNC 67</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2010/bc-71-unc-67" target="_blank">Boston College 71 | UNC 67</a></span></td>
         </tr>
         
     <tr>
@@ -625,7 +631,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >07-08</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-68-vt-66" target="_blank">UNC 68 | Virginia Tech 66</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2008/unc-68-vt-66" target="_blank">UNC 68 | Virginia Tech 66</a></span></td>
         </tr>
         
     <tr>
@@ -638,7 +644,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >07-08</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-93-rutgers-71" target="_blank">UNC 93 | Rutgers 71</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2008/unc-93-rutgers-71" target="_blank">UNC 93 | Rutgers 71</a></span></td>
         </tr>
         
     <tr>
@@ -651,7 +657,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >07-08</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-72-davidson-68" target="_blank">UNC 72 | Davidson 68</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2008/unc-72-davidson-68" target="_blank">UNC 72 | Davidson 68</a></span></td>
         </tr>
         
     <tr>
@@ -664,7 +670,7 @@
         <td data-label="Ref3" > John Oates</td>
         <th class="britt">win</th>
         <td data-label="Year" >07-08</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-90-bc-80" target="_blank">UNC 90 | Boston College 80</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2008/unc-90-bc-80" target="_blank">UNC 90 | Boston College 80</a></span></td>
         </tr>
         
     <tr>
@@ -677,7 +683,7 @@
         <td data-label="Ref3" >[2] Justin Payne, Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >07-08</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-88-ns-78" target="_blank">UNC 88 | Nicholls State 78</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2008/unc-88-ns-78" target="_blank">UNC 88 | Nicholls State 78</a></span></td>
         </tr>
         
     <tr>
@@ -690,7 +696,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >07-08</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2008/unc-107-iona-72" target="_blank">UNC 107 | Iona 72</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2008/unc-107-iona-72" target="_blank">UNC 107 | Iona 72</a></span></td>
         </tr>
         
     <tr>
@@ -703,7 +709,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-79-duke-73" target="_blank">UNC 79 | Duke 73</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-79-duke-73" target="_blank">UNC 79 | Duke 73</a></span></td>
         </tr>
         
     <tr>
@@ -716,7 +722,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/state-83-unc-79" target="_blank">North Carolina State 83 | UNC 79</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/state-83-unc-79" target="_blank">North Carolina State 83 | UNC 79</a></span></td>
         </tr>
         
     <tr>
@@ -729,7 +735,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">loss</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/gtown-96-unc-84" target="_blank">Georgetown 96 | UNC 84 (OT)</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/gtown-96-unc-84" target="_blank">Georgetown 96 | UNC 84 (OT)</a></span></td>
         </tr>
         
     <tr>
@@ -742,7 +748,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-74-usc-64" target="_blank">UNC 74 | USC 64</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-74-usc-64" target="_blank">UNC 74 | USC 64</a></span></td>
         </tr>
         
     <tr>
@@ -755,7 +761,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-73-fsu-58" target="_blank">UNC 73 | Florida State 58</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-73-fsu-58" target="_blank">UNC 73 | Florida State 58</a></span></td>
         </tr>
         
     <tr>
@@ -768,7 +774,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">win</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2007/unc-77-bc-72" target="_blank">UNC 77 | Boston College 72</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2007/unc-77-bc-72" target="_blank">UNC 77 | Boston College 72</a></span></td>
         </tr>
         
     <tr>
@@ -781,7 +787,7 @@
         <td data-label="Ref3" > Team</td>
         <th class="britt">loss</th>
         <td data-label="Year" >06-07</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2007/vt-81-unc-80" target="_blank">Virginia Tech 81 | UNC 80 (OT)</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2007/vt-81-unc-80" target="_blank">Virginia Tech 81 | UNC 80 (OT)</a></span></td>
         </tr>
         
     <tr>
@@ -794,7 +800,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >05-06</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2006/unc-80-miami-70" target="_blank">UNC 80 | Miami 70</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2006/unc-80-miami-70" target="_blank">UNC 80 | Miami 70</a></span></td>
         </tr>
         
     <tr>
@@ -807,7 +813,7 @@
         <td data-label="Ref3" > Nick Young</td>
         <th class="britt">loss</th>
         <td data-label="Year" >05-06</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2006/usc-74-unc-59" target="_blank">USC 74 | UNC 59</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2006/usc-74-unc-59" target="_blank">USC 74 | UNC 59</a></span></td>
         </tr>
         
     <tr>
@@ -820,7 +826,7 @@
         <td data-label="Ref3" > Travis Niesen</td>
         <th class="britt">win</th>
         <td data-label="Year" >05-06</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2006/unc-76-sc-58" target="_blank">UNC 76 | Santa Clara 58</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2006/unc-76-sc-58" target="_blank">UNC 76 | Santa Clara 58</a></span></td>
         </tr>
         
     <tr>
@@ -833,7 +839,7 @@
         <td data-label="Ref3" > Spencer Laue</td>
         <th class="britt">win</th>
         <td data-label="Year" >04-05</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2005/unc-96-uncw-75" target="_blank">UNC 96 | UNC Wilmington 75</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2005/unc-96-uncw-75" target="_blank">UNC 96 | UNC Wilmington 75</a></span></td>
         </tr>
         
     <tr>
@@ -846,7 +852,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >04-05</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2005/unc-94-tenn-81" target="_blank">UNC 94 | Tennessee 81</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2005/unc-94-tenn-81" target="_blank">UNC 94 | Tennessee 81</a></span></td>
         </tr>
         
     <tr>
@@ -859,7 +865,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">win</th>
         <td data-label="Year" >03-04</td>
-        <td data-label="Box Score" ><span style="background-color:#99ffb2; padding: 2px 2px;"><a href="/boxes/2004/unc-78-fsu-71" target="_blank">UNC 78 | Florida State 71</a></span></td>
+        <td data-label="Box Score" class="table-success"><a href="/boxes/2004/unc-78-fsu-71" target="_blank">UNC 78 | Florida State 71</a></span></td>
         </tr>
         
     <tr>
@@ -872,7 +878,7 @@
         <td data-label="Ref3" > </td>
         <th class="britt">loss</th>
         <td data-label="Year" >03-04</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2004/gt-88-unc-77" target="_blank">Georgia Tech 88 | UNC 77</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2004/gt-88-unc-77" target="_blank">Georgia Tech 88 | UNC 77</a></span></td>
         </tr>
         
     <tr>
@@ -885,7 +891,7 @@
         <td data-label="Ref3" > Ekene Ibekwe</td>
         <th class="britt">loss</th>
         <td data-label="Year" >03-04</td>
-        <td data-label="Box Score" ><span style="background-color:#ffbfb2; padding: 2px 2px;"><a href="/boxes/2004/maryland-90-unc-84" target="_blank">Maryland 90 | UNC 84</a></span></td>
+        <td data-label="Box Score" class="table-danger"><a href="/boxes/2004/maryland-90-unc-84" target="_blank">Maryland 90 | UNC 84</a></span></td>
         </tr>
         
     </tbody>
@@ -896,7 +902,7 @@
   <ul>
   <li><a href="/technicals/#top">↑ Go back to the top of the page</a></li>
   <li></li>
-  <li>© 2016-2018 Dadgum Box Scores</li>
+  <li>© 2016-2019 Dadgum Box Scores</li>
     </ul>
   </div>
 </footer>
