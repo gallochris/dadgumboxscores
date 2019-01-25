@@ -11,8 +11,8 @@
       <li><a href="/spread/">Spread only</a></li>
     </ul>
 
-	<table id="example" class="display center" cellspacing="0" width="100%">
-  <thead>
+<table id="example"  class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead class="thead-light">
          <tr> 
            <th scope="col" class="britt">Location</th>
            <th scope="col" class="britt">Type</th>
@@ -41,7 +41,7 @@
         <td data-label="Ref3" >{{ .sumfouls }}</td>
         <th class="britt">{{ .result }}</th>
         <td data-label="Year" >{{ .season }}</td>
-        <td data-label="Box Score" class="wallace" ><span style="background-color:#{{.style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td data-label="Box Score" class="{{ .style }}" ><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         </tr>
         {{ end }}
     </tbody>

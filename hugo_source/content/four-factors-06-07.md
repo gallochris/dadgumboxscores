@@ -9,3 +9,5 @@ layout: four-factors-06-07
 #### What are the Four Factors? [Learn here](https://cbbstatshelp.com/four-factors/intro/)
 
 <h4 class="jalek" >Click to a column to sort or view four factors by a specific season</h4> 
+
+<h4 class="d-sm-none">You're on smaller screen, flip to landscape or scroll</h4>

@@ -12,7 +12,7 @@
     "oft": "26.2",
     "oppp": "1.08",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-103-vt-82.pdf"
   },
   {
@@ -28,7 +28,7 @@
     "oft": "32.7",
     "oppp": "1.10",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-85-um-76.pdf"
   },
   {
@@ -44,7 +44,7 @@
     "oft": "22.9",
     "oppp": "0.96",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-75-nd-69.pdf"
   },
   {
@@ -60,7 +60,7 @@
     "oft": "48.1",
     "oppp": "1.17",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2019/lville-83-unc-62.pdf"
   },
   {
@@ -76,7 +76,7 @@
     "oft": "23.3",
     "oppp": "0.96",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-90-ncsu-82.pdf"
   },
   {
@@ -92,7 +92,7 @@
     "oft": "51.6",
     "oppp": "0.79",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-85-pitt-60.pdf"
   },
   {
@@ -108,7 +108,7 @@
     "oft": "24.1",
     "oppp": "0.75",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-77-harvard-57.pdf"
   },
   {
@@ -124,7 +124,7 @@
     "oft": "16.4",
     "oppp": "0.78",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-82-dav-60.pdf"
   },
   {
@@ -140,7 +140,7 @@
     "oft": "33.9",
     "oppp": "0.96",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2019/kentucky-80-unc-72.pdf"
   },
   {
@@ -156,7 +156,7 @@
     "oft": "36.5",
     "oppp": "1.07",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-103-gonzaga-90.pdf"
   },
   {
@@ -172,7 +172,7 @@
     "oft": "33.9",
     "oppp": "0.81",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-97-uncw-69.pdf"
   },
   {
@@ -188,7 +188,7 @@
     "oft": "42.6",
     "oppp": "1.20",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2019/mich-84-unc-67.pdf"
   },
   {
@@ -204,7 +204,7 @@
     "oft": "44.1",
     "oppp": "1.07",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-94-ucla-78.pdf"
   },
   {
@@ -220,7 +220,7 @@
     "oft": "49.2",
     "oppp": "1.15",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2019/texas-92-unc-89.pdf"
   },
   {
@@ -236,7 +236,7 @@
     "oft": "40.3",
     "oppp": "0.90",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-101-sf-76.pdf"
   },
   {
@@ -252,7 +252,7 @@
     "oft": "20.3",
     "oppp": "0.71",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-108-tt-58.pdf"
   },
   {
@@ -268,7 +268,7 @@
     "oft": "23.9",
     "oppp": "0.91",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-90-stan-72.pdf"
   },
   {
@@ -284,7 +284,7 @@
     "oft": "47.5",
     "oppp": "0.80",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-116-elon-67.pdf"
   },
   {
@@ -300,7 +300,7 @@
     "oft": "17.5",
     "oppp": "0.96",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2019/unc-78-woff-67.pdf"
   }
 ]

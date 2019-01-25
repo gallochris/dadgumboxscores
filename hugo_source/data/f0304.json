@@ -12,7 +12,7 @@
     "oft": "41.8",
     "oppp": "1.13",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/texas-78-unc-75/"
   },
   {
@@ -28,7 +28,7 @@
     "oft": "33.3",
     "oppp": "0.87",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-63-af-52/"
   },
   {
@@ -44,7 +44,7 @@
     "oft": "45.6",
     "oppp": "1.06",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/gt-83-unc-82/"
   },
   {
@@ -60,7 +60,7 @@
     "oft": "31.0",
     "oppp": "1.04",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/duke-70-unc-65/"
   },
   {
@@ -76,7 +76,7 @@
     "oft": "16.3",
     "oppp": "0.84",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-69-clem-53/"
   },
   {
@@ -92,7 +92,7 @@
     "oft": "20.3",
     "oppp": "1.00",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-71-state-64/"
   },
   {
@@ -108,7 +108,7 @@
     "oft": "32.8",
     "oppp": "1.03",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/uva-74-unc-72/"
   },
   {
@@ -124,7 +124,7 @@
     "oft": "33.9",
     "oppp": "0.96",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-78-fsu-71/"
   },
   {
@@ -140,7 +140,7 @@
     "oft": "38.5",
     "oppp": "1.02",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-97-maryland-86/"
   },
   {
@@ -156,7 +156,7 @@
     "oft": "51.9",
     "oppp": "1.14",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/gt-88-unc-77/"
   },
   {
@@ -172,7 +172,7 @@
     "oft": "37.5",
     "oppp": "1.14",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-79-wake-73/"
   },
   {
@@ -188,7 +188,7 @@
     "oft": "40.6",
     "oppp": "1.02",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/duke-83-unc-81/"
   },
   {
@@ -204,7 +204,7 @@
     "oft": "73.3",
     "oppp": "1.17",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/clem-81-unc-72/"
   },
   {
@@ -220,7 +220,7 @@
     "oft": "22.9",
     "oppp": "0.97",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-68-state-66/"
   },
   {
@@ -236,7 +236,7 @@
     "oft": "43.4",
     "oppp": "1.03",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-96-uva-77/"
   },
   {
@@ -252,7 +252,7 @@
     "oft": "37.3",
     "oppp": "1.17",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/fsu-90-unc-81/"
   },
   {
@@ -268,7 +268,7 @@
     "oft": "21.4",
     "oppp": "1.05",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-86-uconn-83/"
   },
   {
@@ -284,7 +284,7 @@
     "oft": "61.4",
     "oppp": "1.11",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/maryland-90-unc-84/"
   },
   {
@@ -300,7 +300,7 @@
     "oft": "52.3",
     "oppp": "0.97",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-103-gt-88/"
   },
   {
@@ -316,7 +316,7 @@
     "oft": "26.6",
     "oppp": "0.78",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-89-miami-64/"
   },
   {
@@ -332,7 +332,7 @@
     "oft": "21.0",
     "oppp": "0.92",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/kentucky-61-unc-56/"
   },
   {
@@ -348,7 +348,7 @@
     "oft": "21.3",
     "oppp": "0.87",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-105-coastal-72/"
   },
   {
@@ -364,7 +364,7 @@
     "oft": "36.0",
     "oppp": "0.75",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-71-uncw-54/"
   },
   {
@@ -380,7 +380,7 @@
     "oft": "34.4",
     "oppp": "1.17",
     "result": "loss",
-    "style": "ffbfb2",
+    "style": "table-danger",
     "box": "/boxes/2004/wake-119-unc-114/"
   },
   {
@@ -396,7 +396,7 @@
     "oft": "7.8",
     "oppp": "0.75",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-64-akron-53/"
   },
   {
@@ -412,7 +412,7 @@
     "oft": "33.3",
     "oppp": "1.04",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-115-gmason-81/"
   },
   {
@@ -428,7 +428,7 @@
     "oft": "24.0",
     "oppp": "1.04",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-88-ill-81/"
   },
   {
@@ -444,7 +444,7 @@
     "oft": "36.7",
     "oppp": "0.99",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-82-cs-76/"
   },
   {
@@ -460,7 +460,7 @@
     "oft": "34.6",
     "oppp": "0.85",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-91-davidson-68/"
   },
   {
@@ -476,7 +476,7 @@
     "oft": "4.3",
     "oppp": "0.83",
     "result": "win",
-    "style": "99ffb2",
+    "style": "table-success",
     "box": "/boxes/2004/unc-90-odu-64/"
   }
 ]

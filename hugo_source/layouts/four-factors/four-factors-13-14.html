@@ -1,16 +1,17 @@
 {{ partial "ff-head.html" . }}
 {{ partial "nav.html" . }}  
 <div class="container">
-<body>
+
+
     
     {{ .Content }}
       <ul id="horizontal-list">
       <li><a href="/four-factors/">All</a></li>
-      <li><a href="/four-factors-18-19">2019</a></li>
       <li><a href="/four-factors-17-18">2018</a></li>
       <li><a href="/four-factors-16-17">2017</a></li>
       <li><a href="/four-factors-15-16">2016</a></li>
       <li><a href="/four-factors-14-15">2015</a></li>
+      <li><a href="/four-factors-13-14">2014</a></li>
       <li><a href="/four-factors-12-13">2013</a></li>
       <li><a href="/four-factors-11-12">2012</a></li>
       <li><a href="/four-factors-10-11">2011</a></li>
@@ -24,20 +25,21 @@
     </ul>
 
 
-<table id="example" class="display center" cellspacing="0" width="100%">
+<div class="table-responsive">
+<table id="example"  class="table table-striped table-bordered" cellspacing="0" width="100%">
   <thead>
           <tr> 
           <th scope="col" style="color: #56a0d3;">PPP</th>
           <th scope="col" style="color: #56a0d3;">eFG%</th>
           <th scope="col" style="color: #56a0d3;">TO%</th>
           <th scope="col" style="color: #56a0d3;">OR%</th>
-          <th scope="col" style="color: #56a0d3;">FTRate</th>
-          <th scope="col" class="wallace" data-sortable="false">Box Score</th>
+          <th scope="col" style="color: #56a0d3;">FTR</th>
+          <th scope="col" data-sortable="false">Box Score</th>
           <th scope="col">PPP</th>
           <th scope="col">eFG%</th>
           <th scope="col">TO%</th>
           <th scope="col">OR%</th>
-          <th scope="col">FTRate</th>
+          <th scope="col">FTR</th>
          </tr>
      </thead>
 
@@ -45,21 +47,22 @@
   {{ range $.Site.Data.f1314 }}
     <tr>
         <td data-label="PPP" >{{ .ppp }}</td>
-        <td data-label="eFG" >{{ .efg }}</td> 
+        <td data-label="eFG">{{ .efg }}</td> 
         <td data-label="TO%" >{{ .to }}</td>
         <td data-label="OR%" >{{ .or }}</td>
-        <td data-label="FTRate" >{{ .ft }}</td>
-        <td data-label="Box Score" class="wallace"><span style="background-color:#{{ .style }}; padding: 2px 2px;"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td data-label="FTR" >{{ .ft }}</td>
+        <td data-label="Box Score" class="{{ .style }}"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         <td data-label="PPP">{{ .oppp }}</td>
         <td data-label="eFG">{{ .oefg }}</td> 
         <td data-label="TO%">{{ .oto }}</td>
         <td data-label="OR%">{{ .oor }}</td>
-        <td data-label="FTRate">{{ .oft }}</td>
+        <td data-label="FTR">{{ .oft }}</td>
         </tr>
         {{ end }}
     </tbody>
 </table>
-</body>
+</div>
+
 
 {{ partial "footer.html" . }}
 </div>

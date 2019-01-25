@@ -10,6 +10,4 @@ layout: spread
 
 #### Spreads pulled for available games via [covers.com](https://www.covers.com/pageLoader/pageLoader.aspx?page=/data/ncb/teams/pastresults/2017-2018/team2266.html)
 
-
-
-
+<h4 class="d-sm-none">You're on smaller screen, flip to landscape or scroll</h4>
