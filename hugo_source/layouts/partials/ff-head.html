@@ -12,7 +12,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="//code.jquery.com/jquery-1.12.3.js"></script>
-    <script src="{{ .Site.BaseURL }}js/felton.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/dean.min.js"></script>
     <meta charset="utf-8">
     <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
     <!-- start autocompletejs -->
@@ -23,17 +23,56 @@
     } );
     </script>
 
-    <script type="text/javascript" class="init">
+     <script type="text/javascript" class="init">
     $(document).ready(function() {
-    $('#example').DataTable( 
-            { 
+    $('#example').DataTable( {
         "paging":   false,
-        "info":     false,
+        "info":     true,
+        "dom": '<"top"iflp<"clear">>',
         "order": [],
-        "bFilter": false,
+        "oSearch": {"sSearch": $.urlParam('filter')} 
     } );
     } );
+
+
+
+
+   $.urlParam = function(name){
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (!results)
+    { 
+    return ; 
+    }
+    return decodeURI(results[1]) || 0;
+    } 
+
+
+
+    // Read a page's GET URL variables and return them as an associative array.
+    function getUrlVars()
+    {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = decodeURIComponent(value);
+
+    
+        
+    });
+    return vars;
+
+    }
+
+    $(document).ready(function() {
+    // Get the query from the url
+    var query = getUrlVars()['q'];
+    // create the table
+    var oTable = $('#example').dataTable();
+    // Filter it
+    oTable.fnFilter( query, 2 );
+    });
+
     </script>
+
 
     <!-- end autocompletejs -->
 
