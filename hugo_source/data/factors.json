@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 77 | Georgia Tech 54",
+    "efg": "58.2",
+    "to": "19.9",
+    "or": "20.0",
+    "ft": "18.0",
+    "ppp": "1.03",
+    "oefg": "36.7",
+    "oto": "21.3",
+    "oor": "15.8",
+    "oft": "21.7",
+    "oppp": "0.72",
+    "result": "win",
+    "style": "table-success",
+    "box": "/boxes/2019/unc-77-gt-54.pdf"
+  },
+  {
     "game": "UNC 103 | Virginia Tech 82",
     "efg": "65.7",
     "to": "17.0",

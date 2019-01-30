@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 77 | Georgia Tech 54",
+      "date": "January 29, 2019",
+      "time": 20190129,
+      "season": "18-19",
+      "result": "win",
+      "style": "table-success",
+      "location": "away",
+      "type": "League",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-77-gt-54.pdf"
+   },
+   {
       "game": "UNC 103 | Virginia Tech 82",
       "date": "January 21, 2019",
       "time": 20190121,

@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 77 | Georgia Tech 54",
+      "off1": "Roger Ayers",
+      "off2": "Jeffrey Anderson",
+      "off3": "Pat Driscoll",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-77-gt-54.pdf"
+   },
+   {
       "game": "UNC 103 | Virginia Tech 82",
       "off1": "Doug Shows",
       "off2": "John Higgins",
