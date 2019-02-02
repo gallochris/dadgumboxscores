@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 79 | Louisville 69",
+      "off1": "Ted Valentine",
+      "off2": "Earl Walton",
+      "off3": "Bert Smith",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-7-lville-69.pdf"
+   },
+   {
       "game": "UNC 77 | Georgia Tech 54",
       "off1": "Roger Ayers",
       "off2": "Jeffrey Anderson",

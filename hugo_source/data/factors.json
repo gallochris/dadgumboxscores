@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 79 | Louisville 69",
+    "efg": "46.4",
+    "to": "14.3",
+    "or": "41.9",
+    "ft": "27.5",
+    "ppp": "1.13",
+    "oefg": "50.0",
+    "oto": "15.7",
+    "oor": "18.4",
+    "oft": "14.5",
+    "oppp": "0.99",
+    "result": "win",
+    "style": "table-success",
+    "box": "/boxes/2019/unc-79-lville-69.pdf"
+  },
+  {
     "game": "UNC 77 | Georgia Tech 54",
     "efg": "58.2",
     "to": "19.9",
