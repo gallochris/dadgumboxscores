@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 113 | North Carolina State 96",
+      "off1": "Michael Stephens",
+      "off2": "Jeff Clark",
+      "off3": "Brent Hampton",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-113-ncsu-96.pdf"
+   },
+   {
       "game": "UNC 79 | Louisville 69",
       "off1": "Ted Valentine",
       "off2": "Earl Walton",
@@ -10,7 +23,7 @@
       "location": "away",
       "type": "Conference",
       "type-sort": 2,
-      "box": "/boxes/2019/unc-7-lville-69.pdf"
+      "box": "/boxes/2019/unc-79-lville-69.pdf"
    },
    {
       "game": "UNC 77 | Georgia Tech 54",

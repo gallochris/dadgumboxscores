@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 113 | North Carolina State 96",
+      "date": "February 5, 2019",
+      "time": 20190205,
+      "season": "18-19",
+      "result": "win",
+      "style": "table-success",
+      "location": "home",
+      "type": "League",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-113-ncsu-96.pdf"
+   },
+   {
       "game": "UNC 79 | Louisville 69",
       "date": "February 2, 2019",
       "time": 20190202,

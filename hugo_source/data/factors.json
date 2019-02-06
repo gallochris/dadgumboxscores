@@ -1,5 +1,21 @@
 [
  {
+    "game": "UNC 113 | North Carolina State 96",
+    "efg": "62.1",
+    "to": "20.1",
+    "or": "51.9",
+    "ft": "56.1",
+    "ppp": "1.35",
+    "oefg": "54.7",
+    "oto": "13.0",
+    "oor": "34.1",
+    "oft": "32.4",
+    "oppp": "1.14",
+    "result": "win",
+    "style": "table-success",
+    "box": "/boxes/2019/unc-113-ncsu-96.pdf"
+  },
+  {
     "game": "UNC 79 | Louisville 69",
     "efg": "46.4",
     "to": "14.3",
@@ -1760,7 +1776,7 @@
     "box": "/boxes/2016/uva-79-unc-74/"
   },
   {
-    "game": "UNC 80 | NCSU 68",
+    "game": "UNC 80 | North Carolina State 68",
     "efg": "50.0",
     "to": "12.1",
     "or": "47.2",
