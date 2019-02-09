@@ -13,7 +13,7 @@
     "sumfouls": 29,
     "line": -16,
     "cover": "no",
-    "coverstyle": "table-success",
+    "coverstyle": "table-danger",
     "unctech": "",
     "unctechtype": "",
     "opptech": "",
