@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 88 | Miami 85 (OT)",
+      "off1": "Roger Ayers",
+      "off2": "Bill Covington Jr.",
+      "off3": "Tony Henderson",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-88-miami-85.pdf"
+   },
+   {
       "game": "UNC 113 | North Carolina State 96",
       "off1": "Michael Stephens",
       "off2": "Jeff Clark",

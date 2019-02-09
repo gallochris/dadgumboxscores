@@ -1,5 +1,21 @@
 [
     {
+    "game": "UNC 88 | Miami 85 (OT)",
+    "efg": "56.8",
+    "to": "12.8",
+    "or": "16.7",
+    "ft": "25.8",
+    "ppp": "1.13",
+    "oefg": "57.4",
+    "oto": "20.5",
+    "oor": "25.7",
+    "oft": "10.3",
+    "oppp": "1.09",
+    "result": "win",
+    "style": "table-success",
+    "box": "/boxes/2019/unc-88-miami-85.pdf"
+  },
+  {
     "game": "UNC 113 | North Carolina State 96",
     "efg": "62.1",
     "to": "20.1",
