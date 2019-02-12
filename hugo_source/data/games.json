@@ -1,5 +1,17 @@
 [
    {
+      "game": "UVA 69 | UNC 61",
+      "date": "February 11, 2019",
+      "time": 20190211,
+      "season": "18-19",
+      "result": "loss",
+      "style": "table-danger",
+      "location": "home",
+      "type": "League",
+      "type-sort": 2,
+      "box": "boxes/2019/uva-69-unc-61.pdf"
+   },
+   {
       "game": "UNC 88 | Miami 85 (OT)",
       "date": "February 9, 2019",
       "time": 20190209,

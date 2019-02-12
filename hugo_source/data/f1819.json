@@ -1,5 +1,21 @@
 [
-    {
+   {
+    "game": "UVA 69 | UNC 61",
+    "efg": "",
+    "to": "",
+    "or": "",
+    "ft": "",
+    "ppp": "",
+    "oefg": "",
+    "oto": "",
+    "oor": "",
+    "oft": "",
+    "oppp": "1",
+    "result": "loss",
+    "style": "table-danger",
+    "box": "/boxes/2019/uva-69-unc-61.pdf"
+  },
+  {
     "game": "UNC 88 | Miami 85 (OT)",
     "efg": "56.8",
     "to": "12.8",

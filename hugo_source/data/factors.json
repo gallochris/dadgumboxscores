@@ -1,5 +1,21 @@
 [
  {
+    "game": "UVA 69 | UNC 61",
+    "efg": "",
+    "to": "",
+    "or": "",
+    "ft": "",
+    "ppp": "",
+    "oefg": "",
+    "oto": "",
+    "oor": "",
+    "oft": "",
+    "oppp": "1",
+    "result": "loss",
+    "style": "table-danger",
+    "box": "/boxes/2019/uva-69-unc-61.pdf"
+  },
+  {
     "game": "UNC 88 | Miami 85 (OT)",
     "efg": "56.8",
     "to": "12.8",
@@ -1952,7 +1968,7 @@
     "box": "/boxes/2016/unc-83-wake-68/"
   },
   {
-    "game": "UNC 67 | NCSU 55",
+    "game": "UNC 67 | North Carolina State 55",
     "efg": "41.7",
     "to": "14.5",
     "or": "51.2",
@@ -2400,7 +2416,7 @@
     "box": "/boxes/2015/unc-73-miami-64/"
   },
   {
-    "game": "NCSU 58 | UNC 46",
+    "game": "North Carolina State 58 | UNC 46",
     "efg": "37.3",
     "to": "19.9",
     "or": "28.2",
@@ -2576,7 +2592,7 @@
     "box": "/boxes/2015/unc-68-vt-63/"
   },
   {
-    "game": "UNC 81 | NCSU 79",
+    "game": "UNC 81 | North Carolina State 79",
     "efg": "60.2",
     "to": "18.9",
     "or": "32.1",
@@ -2944,7 +2960,7 @@
     "box": "/boxes/2014/unc-60-vt-56/"
   },
   {
-    "game": "UNC 85 | NCSU 84 (OT)",
+    "game": "UNC 85 | North Carolina State 84 (OT)",
     "efg": "50.8",
     "to": "16.5",
     "or": "46.3",
@@ -3056,7 +3072,7 @@
     "box": "/boxes/2014/unc-75-maryland-63/"
   },
   {
-    "game": "UNC 84 | NCSU 70",
+    "game": "UNC 84 | North Carolina State 70",
     "efg": "42.8",
     "to": "16.9",
     "or": "47.8",
@@ -3536,7 +3552,7 @@
     "box": "/boxes/2013/unc-68-clem-59/"
   },
   {
-    "game": "UNC 76 | NCSU 65",
+    "game": "UNC 76 | North Carolina State 65",
     "efg": "48.3",
     "to": "14.1",
     "or": "25.6",
@@ -3664,7 +3680,7 @@
     "box": "/boxes/2013/unc-82-bc-70/"
   },
   {
-    "game": "NCSU 91 | UNC 83",
+    "game": "North Carolina State 91 | UNC 83",
     "efg": "50.5",
     "to": "17.5",
     "or": "23.1",
@@ -4048,7 +4064,7 @@
     "box": "/boxes/2012/fsu-85-unc-82/"
   },
   {
-    "game": "UNC 69 | NCSU 67",
+    "game": "UNC 69 | North Carolina State 67",
     "efg": "49.1",
     "to": "20.3",
     "or": "19.4",
@@ -4128,7 +4144,7 @@
     "box": "/boxes/2012/unc-54-uva-51/"
   },
   {
-    "game": "UNC 86 | NCSU 74",
+    "game": "UNC 86 | North Carolina State 74",
     "efg": "59.6",
     "to": "13.5",
     "or": "33.3",
@@ -4256,7 +4272,7 @@
     "box": "/boxes/2012/unc-93-gt-81/"
   },
   {
-    "game": "UNC 74 | NCSU 55",
+    "game": "UNC 74 | North Carolina State 55",
     "efg": "52.3",
     "to": "21.1",
     "or": "42.9",
@@ -4736,7 +4752,7 @@
     "box": "/boxes/2011/unc-87-maryland-76/"
   },
   {
-    "game": "UNC 75 | NCSU 63",
+    "game": "UNC 75 | North Carolina State 63",
     "efg": "46.2",
     "to": "16.4",
     "or": "47.5",
@@ -4848,7 +4864,7 @@
     "box": "/boxes/2011/unc-106-bc-74/"
   },
   {
-    "game": "UNC 84 | NCSU 64",
+    "game": "UNC 84 | North Carolina State 64",
     "efg": "50.0",
     "to": "19.6",
     "or": "44.4",
@@ -5360,7 +5376,7 @@
     "box": "/boxes/2010/gt-68-unc-51/"
   },
   {
-    "game": "UNC 74 | NCSU 61",
+    "game": "UNC 74 | North Carolina State 61",
     "efg": "45.8",
     "to": "15.1",
     "or": "43.6",
@@ -5440,7 +5456,7 @@
     "box": "/boxes/2010/uva-75-unc-60/"
   },
   {
-    "game": "UNC 77 | NCSU 63",
+    "game": "UNC 77 | North Carolina State 63",
     "efg": "45.8",
     "to": "15.1",
     "or": "43.6",
@@ -5952,7 +5968,7 @@
     "box": "/boxes/2009/maryland-88-unc-85/"
   },
   {
-    "game": "UNC 89 | NCSU 80",
+    "game": "UNC 89 | North Carolina State 80",
     "efg": "58.5",
     "to": "13.0",
     "or": "40.0",
@@ -6032,7 +6048,7 @@
     "box": "/boxes/2009/unc-108-maryland-91/"
   },
   {
-    "game": "UNC 93 | NCSU 76",
+    "game": "UNC 93 | North Carolina State 76",
     "efg": "60.5",
     "to": "15.6",
     "or": "39.3",
@@ -6560,7 +6576,7 @@
     "box": "/boxes/2008/unc-89-wake-73/"
   },
   {
-    "game": "UNC 84 | NCSU 70",
+    "game": "UNC 84 | North Carolina State 70",
     "efg": "55.5",
     "to": "15.8",
     "or": "42.4",
@@ -6720,7 +6736,7 @@
     "box": "/boxes/2008/unc-83-gt-82/"
   },
   {
-    "game": "UNC 93 | NCSU 62",
+    "game": "UNC 93 | North Carolina State 62",
     "efg": "52.7",
     "to": "15.7",
     "or": "46.2",
@@ -7056,7 +7072,7 @@
     "box": "/boxes/2007/unc-86-eku-65/"
   },
   {
-    "game": "UNC 89 | NCSU 80",
+    "game": "UNC 89 | North Carolina State 80",
     "efg": "63.6",
     "to": "14.7",
     "or": "27.3",
@@ -7152,7 +7168,7 @@
     "box": "/boxes/2007/maryland-89-unc-87/"
   },
   {
-    "game": "UNC 83 | NCSU 64",
+    "game": "UNC 83 | North Carolina State 64",
     "efg": "54.0",
     "to": "18.6",
     "or": "47.1",
@@ -7232,7 +7248,7 @@
     "box": "/boxes/2007/unc-79-duke-73/"
   },
   {
-    "game": "NCSU 83 | UNC 79",
+    "game": "North Carolina State 83 | UNC 79",
     "efg": "51.6",
     "to": "16.4",
     "or": "31.4",
@@ -7712,7 +7728,7 @@
     "box": "/boxes/2006/unc-81-maryland-57/"
   },
   {
-    "game": "UNC 95 | NCSU 71",
+    "game": "UNC 95 | North Carolina State 71",
     "efg": "60.9",
     "to": "9.1",
     "or": "39.5",
@@ -7920,7 +7936,7 @@
     "box": "/boxes/2006/unc-64-vt-61/"
   },
   {
-    "game": "UNC 82 | NCSU 69",
+    "game": "UNC 82 | North Carolina State 69",
     "efg": "59.6",
     "to": "24.7",
     "or": "27.3",

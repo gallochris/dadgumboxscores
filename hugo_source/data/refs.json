@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UVA 69 | UNC 61",
+      "off1": "Jeffrey Anderson",
+      "off2": "Doug Shows",
+      "off3": "James Breeding",
+      "result": "loss",
+      "style": "table-danger",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/uva-69-unc-61.pdf"
+   },
+   {
       "game": "UNC 88 | Miami 85 (OT)",
       "off1": "Roger Ayers",
       "off2": "Bill Covington Jr.",
