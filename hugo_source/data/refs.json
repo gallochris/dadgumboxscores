@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 95 | Wake Forest 57",
+      "off1": "A.J. Desai",
+      "off2": "Tim Clougherty",
+      "off3": "Brian O'Connell",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-95-wake-57.pdf"
+   },
+   {
       "game": "UVA 69 | UNC 61",
       "off1": "Jeffrey Anderson",
       "off2": "Doug Shows",
