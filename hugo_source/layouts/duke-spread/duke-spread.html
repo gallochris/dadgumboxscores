@@ -1,12 +1,13 @@
 {{ partial "ref-head.html" . }}
-{{ partial "nav.html" . }}   
+{{ partial "nav.html" . }}
+  
 <div class="container">
-        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-        {{.Content}}
-
+    
+    
+    {{ .Content }}
           <ul id="horizontal-list">
-      <li><a href="/duke-fouls/">Duke Fouls only</a></li>
-      <li><a href="/duke-spread/">Duke Spread only</a></li>
+      <li><a href="/duke-refs/">Duke Officials only</a></li>
+      <li><a href="/duke-fouls/">Fouls only</a></li>
       <li><a href="/four-factors/?filter=duke">Duke Factors only</a></li>
     </ul>
 
@@ -18,8 +19,10 @@
            <th scope="col" data-sortable="false">Ref 1</th>
            <th scope="col" data-sortable="false">Ref 2</th>
            <th scope="col" data-sortable="false">Ref 3</th>
+           <th scope="col" data-sortable="true">Line</th>
+           <th scope="col" class="britt">Cover</th>
            <th scope="col" class="britt">Result</th>
-           <th scope="col">Season</th>
+           <th scope="col" >Season</th>
            <th scope="col" data-sortable="false">Box Score</th>
          </tr>
      </thead>
@@ -29,11 +32,13 @@
     <tr>
         <td class="britt">{{ .location }}</td> 
         <td class="britt">{{ .type }}</td> 
-        <td data-label="Ref1">{{ .off1 }}</td> 
-        <td data-label="Ref2">{{ .off2 }}</td>
-        <td data-label="Ref3">{{ .off3 }}</td>
-        <td class="britt">{{ .result }}</td>
-        <td data-label="Year">{{ .season }}</td>
+        <td data-label="Ref1" >{{ .off1 }}</td> 
+        <td data-label="Ref2" >{{ .off2 }}</td>
+        <td data-label="Ref3" >{{ .off3 }}</td>
+        <td data-label="Line" class="{{ .coverstyle }}">{{ .line }}</span></td>
+        <th class="britt">{{ .cover }}</th>
+        <th class="britt">{{ .result }}</th>
+        <td data-label="Year" >{{ .season }}</td>
         <td data-label="Box Score" class="{{ .style }}"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         </tr>
         {{ end }}
