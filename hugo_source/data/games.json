@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 88 | Duke 72",
+      "date": "February 20, 2019",
+      "time": 20190220,
+      "season": "18-19",
+      "result": "win",
+      "style": "table-success",
+      "location": "away",
+      "type": "League",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-88-duke-72.pdf"
+   },
+   {
       "game": "UNC 95 | Wake Forest 57",
       "date": "February 16, 2019",
       "time": 20190216,

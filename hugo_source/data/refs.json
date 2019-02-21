@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 88 | Duke 72",
+      "off1": "Mike Eades",
+      "off2": "Brian Dorsey",
+      "off3": "Ron Groover",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "away",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-88-duke-72.pdf"
+   },
+   {
       "game": "UNC 95 | Wake Forest 57",
       "off1": "A.J. Desai",
       "off2": "Tim Clougherty",

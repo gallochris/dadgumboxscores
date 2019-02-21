@@ -1,5 +1,22 @@
 [
    {
+        "game": "UNC 88 | Duke 72",
+        "efg": "52.0",
+        "to": "17.2",
+        "or": "26.3",
+        "ft": "18.7",
+        "ppp": "1.01",
+        "oefg": "40.3",
+        "oto": "22.9",
+        "oor": "26.5",
+        "oft": "26.4",
+        "oppp": "0.83",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-88-duke-72.pdf",
+        "location": "away"
+    },
+    {
     "game": "UNC 95 | Wake Forest 57",
     "efg": "75.4",
     "to": "20.4",
