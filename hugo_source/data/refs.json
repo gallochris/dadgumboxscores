@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 77 | Florida State 59",
+      "off1": "Bert Smith",
+      "off2": "Michael Stephens",
+      "off3": "Brent Hampton",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-77-fsu-59.pdf"
+   },
+    {
       "game": "UNC 88 | Duke 72",
       "off1": "Mike Eades",
       "off2": "Brian Dorsey",

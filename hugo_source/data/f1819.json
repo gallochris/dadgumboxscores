@@ -1,5 +1,22 @@
 [
    {
+        "game": "UNC 77 | Florida State 59",
+        "efg": "48.4",
+        "to": "14.2",
+        "or": "33.3",
+        "ft": "41.0",
+        "ppp": "1.10",
+        "oefg": "39.0",
+        "oto": "14.2",
+        "oor": "15.0",
+        "oft": "27.1",
+        "oppp": "0.84",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-77-fsu-59.pdf",
+        "location": "home"
+    },
+    {
         "game": "UNC 88 | Duke 72",
         "efg": "52.0",
         "to": "17.2",
