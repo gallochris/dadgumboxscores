@@ -4,12 +4,12 @@
       "date": "February 23, 2019",
       "time": 20190223,
       "season": "18-19",
-      "result": "",
-      "style": "",
+      "result": "win",
+      "style": "table-success",
       "location": "home",
       "type": "League",
       "type-sort": 2,
-      "box": "boxes/2019/unc-fsu2.pdf"
+      "box": "boxes/2019/unc-77-fsu-59.pdf"
    },
    {
       "game": "UNC 88 | Duke 72",
