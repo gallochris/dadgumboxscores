@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 93 | Syracuse 85",
+      "off1": "Jamie Luckie",
+      "off2": "Lee Cassell",
+      "off3": "Bill Covington Jr.",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-93-cus-85.pdf"
+   },
+   {
       "game": "UNC 77 | Florida State 59",
       "off1": "Bert Smith",
       "off2": "Michael Stephens",

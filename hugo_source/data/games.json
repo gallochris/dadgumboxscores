@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 93 | Syracuse 85",
+      "date": "February 26, 2019",
+      "time": 20190226,
+      "season": "18-19",
+      "result": "win",
+      "style": "table-success",
+      "location": "home",
+      "type": "League",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-93-cuse-85.pdf"
+   },
+    {
       "game": "UNC 77 | Florida State 59",
       "date": "February 23, 2019",
       "time": 20190223,

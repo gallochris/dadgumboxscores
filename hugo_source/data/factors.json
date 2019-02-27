@@ -1,5 +1,22 @@
 [
     {
+        "game": "UNC 93 | Syracuse 85",
+        "efg": "47.6",
+        "to": "12.5",
+        "or": "51.4",
+        "ft": "59.7",
+        "ppp": "1.29",
+        "oefg": "60.0",
+        "oto": "13.9",
+        "oor": "22.2",
+        "oft": "38.3",
+        "oppp": "1.18",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-93-cuse-85.pdf",
+        "location": "home"
+    },
+    {
         "game": "UNC 77 | Florida State 59",
         "efg": "48.4",
         "to": "14.2",
