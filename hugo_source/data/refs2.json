@@ -1,6 +1,6 @@
 [  
      {
-    "game": "UNC 93 | Sryacuse 85",
+    "game": "UNC 93 | Syracuse 85",
     "off1": "Jamie Luckie",
     "off2": "Lee Cassell",
     "off3": "Bill Covington Jr.",
@@ -182,6 +182,29 @@
     "type": "Conference",
     "type-sort": 2,
     "box": "/boxes/2019/unc-79-lville-69.pdf"
+  },
+  {
+    "game": "UNC 77 | Georgia Tech 54",
+    "off1": "Roger Ayers",
+    "off2": "Jeffrey Anderson",
+    "off3": "Pat Driscoll",
+    "result": "win",
+    "style": "table-success",
+    "season": "18-19",
+    "location": "home",
+    "uncfouls": 13,
+    "oppfouls": 12,
+    "sumfouls": 25,
+    "line": -11,
+    "cover": "yes",
+    "coverstyle": "table-success",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/unc-77-gt-54.pdf"
   },
   {
     "game": "UNC 103 | Virginia Tech 82",
