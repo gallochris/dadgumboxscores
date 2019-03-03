@@ -1,5 +1,28 @@
 [  
      {
+    "game": "UNC 81 | Clemson 79",
+    "off1": "Ron Groover",
+    "off2": "Jeffrey Anderson",
+    "off3": "Clarence Armstrong",
+    "result": "win",
+    "style": "table-success",
+    "season": "18-19",
+    "location": "away",
+    "uncfouls": 17,
+    "oppfouls": 20,
+    "sumfouls": 37,
+    "line": "-4",
+    "cover": "no",
+    "coverstyle": "table-danger",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/unc-81-clem-79.pdf"
+  },
+   {
     "game": "UNC 93 | Syracuse 85",
     "off1": "Jamie Luckie",
     "off2": "Lee Cassell",

@@ -1,5 +1,22 @@
 [
    {
+        "game": "UNC 81 | Clemson 79",
+        "efg": "51.6",
+        "to": "18.6",
+        "or": "26.2",
+        "ft": "38.1",
+        "ppp": "1.08",
+        "oefg": "54.4",
+        "oto": "14.6",
+        "oor": "15.2",
+        "oft": "38.6",
+        "oppp": "1.05",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-81-clem-79.pdf",
+        "location": "away"
+    },
+    {
         "game": "UNC 93 | Syracuse 85",
         "efg": "47.6",
         "to": "12.5",
