@@ -1,5 +1,28 @@
 [  
      {
+    "game": "UNC 79 | Boston College 66",
+    "off1": "Jeff Clark",
+    "off2": "Brian O’Connell",
+    "off3": "James Breeding",
+    "result": "win",
+    "style": "table-success",
+    "season": "18-19",
+    "location": "away",
+    "uncfouls": 12,
+    "oppfouls": 14,
+    "sumfouls": 26,
+    "line": "-10.5",
+    "cover": "yes",
+    "coverstyle": "table-success",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "Conference",
+    "type-sort": 2,
+    "box": "/boxes/2019/unc-79-bc-66.pdf"
+  },
+   {
     "game": "UNC 81 | Clemson 79",
     "off1": "Ron Groover",
     "off2": "Jeffrey Anderson",

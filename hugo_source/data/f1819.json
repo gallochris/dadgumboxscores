@@ -1,5 +1,22 @@
 [
    {
+        "game": "UNC 79 | Boston College 66",
+        "efg": "46.7",
+        "to": "14.8",
+        "or": "41.7",
+        "ft": "17.1",
+        "ppp": "1.07",
+        "oefg": "42.9",
+        "oto": "10.7",
+        "oor": "14.9",
+        "oft": "14.3",
+        "oppp": "0.89",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-79-bc-66.pdf",
+        "location": "away"
+    },
+    {
         "game": "UNC 81 | Clemson 79",
         "efg": "51.6",
         "to": "18.6",
