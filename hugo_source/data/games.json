@@ -1,5 +1,17 @@
 [
    {
+      "game": "UNC 79 | Duke 70",
+      "date": "March 9, 2019",
+      "time": 20190309,
+      "season": "18-19",
+      "result": "win",
+      "style": "table-success",
+      "location": "home",
+      "type": "League",
+      "type-sort": 2,
+      "box": "boxes/2019/unc-79-duke-70.pdf"
+   },
+   {
       "game": "UNC 79 | Boston College 66",
       "date": "March 5, 2019",
       "time": 20190305,

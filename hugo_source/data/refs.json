@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 79 | Duke 70",
+      "off1": "Roger Ayers",
+      "off2": "Ted Valentine",
+      "off3": "Bill Convington Jr.",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "home",
+      "type": "Conference",
+      "type-sort": 2,
+      "box": "/boxes/2019/unc-79-duke-70.pdf"
+   },
+   {
       "game": "UNC 79 | Boston College 66",
       "off1": "Jeff Clark",
       "off2": "Brian O’Connell",
@@ -11,7 +24,8 @@
       "type": "Conference",
       "type-sort": 2,
       "box": "/boxes/2019/unc-79-bc-66.pdf"
-   },{
+   },
+   {
 
       "game": "UNC 81 | Clemson 79",
       "off1": "Ron Groover",

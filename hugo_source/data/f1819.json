@@ -1,5 +1,22 @@
 [
-   {
+   
+      { "game": "UNC 79 | Duke 70",
+        "efg": "48.6",
+        "to": "13.1",
+        "or": "30.4",
+        "ft": "17.6",
+        "ppp": "1.03",
+        "oefg": "39.7",
+        "oto": "15.7",
+        "oor": "32.0",
+        "oft": "23.3",
+        "oppp": "0.91",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-79-duke-70.pdf",
+        "location": "home"
+    },
+    {
         "game": "UNC 79 | Boston College 66",
         "efg": "46.7",
         "to": "14.8",
