@@ -1,5 +1,18 @@
 [ 
    {
+      "game": "UNC 83 | Louisville 70",
+      "off1": "Ted Valentine",
+      "off2": "Lee Cassell",
+      "off3": "Tony Henderson",
+      "result": "win",
+      "style": "table-success",
+      "season": "18-19",
+      "location": "neutral",
+      "type": "ACC Tournament",
+      "type-sort": 3,
+      "box": "/boxes/2019/unc-83-lville-70.pdf"
+   },
+   {
       "game": "UNC 79 | Duke 70",
       "off1": "Roger Ayers",
       "off2": "Ted Valentine",
