@@ -1,5 +1,17 @@
 [
    {
+      "game": "Duke 74 | UNC 73",
+      "date": "March 15, 2019",
+      "time": 20190315,
+      "season": "18-19",
+      "result": "loss",
+      "style": "table-danger",
+      "location": "neutral",
+      "type": "ACC Tournament",
+      "type-sort": 3,
+      "box": "boxes/2019/duke-74-unc-73.pdf"
+   },
+   {
       "game": "UNC 83 | Louisville 70",
       "date": "March 14, 2019",
       "time": 20190314,

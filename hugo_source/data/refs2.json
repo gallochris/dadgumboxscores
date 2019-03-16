@@ -1,4 +1,27 @@
 [  
+    {
+    "game": "Duke 74 | UNC 73",
+    "off1": "Roger Ayers",
+    "off2": "Jamie Luckie",
+    "off3": "Clarence Armstrong",
+    "result": "loss",
+    "style": "table-danger",
+    "season": "18-19",
+    "location": "neutral",
+    "uncfouls": 16,
+    "oppfouls": 15,
+    "sumfouls": 31,
+    "line": "+3.5",
+    "cover": "positive",
+    "coverstyle": "table-success",
+    "unctech": "",
+    "unctechtype": "",
+    "opptech": "",
+    "opptechtype": "",
+    "type": "ACC Tournament",
+    "type-sort": 3,
+    "box": "/boxes/2019/duke-74-unc-73.pdf"
+  },
      {
     "game": "UNC 83 | Louisville 70",
     "off1": "Ted Valentine",

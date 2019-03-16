@@ -1,5 +1,22 @@
 [
     {
+        "game": "Duke 74 | UNC 73",
+        "efg": "42.5",
+        "to": "11.0",
+        "or": "35.6",
+        "ft": "20.6",
+        "ppp": "1.00",
+        "oefg": "51.5",
+        "oto": "16.5",
+        "oor": "26.3",
+        "oft": "20.0",
+        "oppp": "1.01",
+        "result": "loss",
+        "style": "table-danger",
+        "box": "/boxes/2019/duke-74-unc=73.pdf",
+        "location": "neutral"
+    },
+    {
         "game": "UNC 83 | Louisville 70",
         "efg": "51.5",
         "to": "12.0",
