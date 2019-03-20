@@ -39,11 +39,14 @@
           <th scope="col">FTRate</th>
           <th scope="col" class="britt">Result</th>
           <th scope="col" class="britt">Location</th>
+          <th scope="col" class="britt">Type</th>
+          <th scope="col" class="britt">Date</th>
+          <th scope="col" class="britt">Season/th>
          </tr>
      </thead>
 
     <tbody>
-  {{ range $.Site.Data.factors }}
+  {{ range $.Site.Data.master }}
     <tr>
         <td data-label="PPP" >{{ .ppp }}</td>
         <td data-label="eFG" >{{ .efg }}</td> 
@@ -57,7 +60,9 @@
         <td data-label="OR%">{{ .oor }}</td>
         <td data-label="FTRate">{{ .oft }}</td>
         <td class="britt">{{ .result }}</td>
-         <td class="britt">{{ .location }}</td>
+        <td class="britt">{{ .location }}</td>
+        <td class="britt">{{ .type }}</td>
+        <td class="britt">{{ .season }}</td>
         </tr>
         {{ end }}
     </tbody>
