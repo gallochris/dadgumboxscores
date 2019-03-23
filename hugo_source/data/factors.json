@@ -1,5 +1,22 @@
 [
     {
+        "game": "UNC 88 | Iona 73",
+        "efg":"51.3",
+        "to":"16.4",
+        "or":"45.5",
+        "ft":"20.0",
+        "ppp":"1.21",
+        "oefg":"53.6",
+        "oto":"16.4",
+        "oor":"5.9",
+        "oft":"27.3",
+        "oppp":"1.00",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-88-iona-73.pdf",
+        "location": "neutral"
+    },
+    {
         "game": "Duke 74 | UNC 73",
         "efg": "42.5",
         "to": "11.0",
