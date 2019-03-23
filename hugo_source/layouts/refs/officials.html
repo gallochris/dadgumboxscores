@@ -26,7 +26,7 @@
      </thead>
 
     <tbody>
-    {{ range $.Site.Data.refs2 }}
+    {{ range $.Site.Data.master }}
     <tr>
         <td class="britt">{{ .location }}</td> 
         <td class="britt">{{ .type }}</td> 
@@ -35,7 +35,7 @@
         <td data-label="Ref3" >{{ .off3 }}</td>
         <th class="britt">{{ .result }}</th>
         <td data-label="Year" >{{ .season }}</td>
-        <td data-label="Box Score" class="{{ .style }}"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td data-label="Box Score" class="{{ .style }}"><a href="https://dadgumboxscores.com/{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         </tr>
         {{ end }}
     </tbody>

@@ -46,14 +46,14 @@
      </thead>
 
     <tbody>
-  {{ range $.Site.Data.factors }}
+  {{ range $.Site.Data.master }}
     <tr>
         <td data-label="PPP" >{{ .ppp }}</td>
         <td data-label="eFG" >{{ .efg }}</td> 
         <td data-label="TO%" >{{ .to }}</td>
         <td data-label="OR%" >{{ .or }}</td>
         <td data-label="FTRate" >{{ .ft }}</td>
-        <td data-label="Box Score" class="wallace {{ .style }}"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td data-label="Box Score" class="wallace {{ .style }}"><a href="https://dadgumboxscores.com/{{ .box }}" target="_blank">{{ .game }}</a></span></td>
         <td data-label="PPP">{{ .oppp }}</td>
         <td data-label="eFG">{{ .oefg }}</td> 
         <td data-label="TO%">{{ .oto }}</td>
