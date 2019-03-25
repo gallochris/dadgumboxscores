@@ -1,5 +1,22 @@
 [
    {
+        "game": "UNC 81 | Washington 59",
+        "efg":"57.9",
+        "to":"22.0",
+        "or":"48.4",
+        "ft":"15.9",
+        "ppp":"1.19",
+        "oefg":"45.8",
+        "oto":"17.6",
+        "oor":"19.5",
+        "oft":"16.7",
+        "oppp":"0.87",
+        "result": "win",
+        "style": "table-success",
+        "box": "/boxes/2019/unc-81-wash-59.pdf",
+        "location": "neutral"
+    },
+    {
         "game": "UNC 88 | Iona 73",
         "efg":"51.3",
         "to":"16.4",
