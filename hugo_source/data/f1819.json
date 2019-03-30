@@ -1,5 +1,22 @@
 [
    {
+       "game": "Auburn 97 | UNC 80",
+        "efg": "48.5",
+        "to": "18.6",
+        "or": "35.0",
+        "ft": "33.9",
+        "ppp": "1.07",
+        "oefg": "67.4",
+        "oto": "14.6",
+        "oor": "27.8",
+        "oft": "25.8",
+        "oppp": "1.29",
+        "result": "loss",
+        "style": "table-danger",
+        "box": "/boxes/2019/aub-97-unc-80.pdf",
+        "location": "neutral"
+    },
+    {
         "game": "UNC 81 | Washington 59",
         "efg":"57.9",
         "to":"22.0",
