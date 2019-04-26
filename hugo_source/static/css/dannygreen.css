@@ -72,6 +72,12 @@ ul#horizontal-list li {
 .wow {
 	text-align: left;
 }
+
+.liney { 
+    list-style: none;
+    text-align: center;
+    font-size: 14px;
+}
 body a {
 	font-weight: bolder;
 	text-decoration: none;
