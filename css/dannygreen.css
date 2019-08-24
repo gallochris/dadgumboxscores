@@ -1,19 +1,29 @@
 /* Body */
 
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	line-height: 1.25;
-	margin: 0 auto;
-	color: #14191d;
-	background-color: #F2FAFD;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.38;
+  margin: 0 auto;
+  color: #14191d; 
+  background-color: #F2FAFD;
 }
 pre {
 	padding: 1em;
 }
 
+a, li, p {
+
+  margin-top: 18px;
+    font-size: 18px;
+    letter-spacing: -.02px;
+    line-height: 1.38;
+}
+
+
 h1 {
-	font-size: 24px;
+    font-size: 36px;
+    line-height: 1.5em;
 }
 h4 {
 	font-size: 18px;
@@ -82,15 +92,11 @@ body a {
 	font-weight: bolder;
 	text-decoration: none;
 }
-body h1, h2, h4 {
-	text-align: center;
-}
+
 body p {
 	line-height: 1.7;
 }
-body h3 {
-	font-size: 20px;
-}
+
 body li {
 	line-height: 1.7;
 }
@@ -127,26 +133,11 @@ div.tain {
 		text-align: center;
 		color: #fff;
 	}
-	h1 {
-		font-size: 16px;
-	}
-	h4 {
-		font-size: 14px;
-	}
+
 
 	body { 
 font-size: 12px;
 	 }
-
-	 body h1 { 
-font-size: 18px;
-	 }
-
-	 body h3 { 
-font-size: 14px;
-	 }
-
-
 
 	table {
 		font-size: 12px;
@@ -481,17 +472,18 @@ input {
 
 header {
 	overflow: hidden;
-	background-color: #56a0d3;
+	background-color: #7BAFD4;
 	color: #fff;
 }
 header h1 {
 	text-align: center;
-	font-size: 24px;
+	font-size: 36px;
 	color: #fff;
 	margin: 1em;
 }
 header h1 a {
 	color: #fff;
+	font-size: 36px;
 }
 header nav {
 	text-align: center;
