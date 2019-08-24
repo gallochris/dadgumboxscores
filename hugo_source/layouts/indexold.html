@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}   
+<div class="container table-responsive">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+
+<table id="example"  class="table table-striped table-bordered" cellspacing="0" width="100%">
+	<thead class="thead-light">
+         <tr> 
+          <th scope="col">Date</th>
+          <th scope="col">Location</th>
+          <th scope="col">Type</th>
+          <th scope="col" class="britt">Year</th>
+          <th scope="col" data-sortable="false">Box Score</th>
+          <th scope="col" class="britt">Result</th>
+         </tr>
+     </thead>
+
+    <tbody>
+	{{ range $.Site.Data.master }}
+		<tr class="{{ .style }}">
+        <td data-label="Date" >{{ .date }}</td> 
+         <td data-label="Location">{{ .location }}</td>
+        <td data-label="Type">{{ .type }}</td>
+        <td class="britt">{{ .season }}</td> 
+         <td data-label="Box Score"><a href="{{ .box }}" target="_blank">{{ .game }}</a></span></td>
+        <td class="britt">{{ .result }}</td>
+                </tr>
+  			{{ end }}
+    </tbody>
+</table>
+
+
+{{ partial "footer.html" . }}
+      </div>
+
+
+
