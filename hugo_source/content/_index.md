@@ -11,7 +11,7 @@ I put together this site because I wanted it to be easier to find old UNC box sc
 
 ## The Dadgum App 
 
-You can find sortable data at the [dadgum app](https://dadgum.shinyapps.io/boxscores/), including: 
+You can find sortable data at the [dadgum app](https://app.dadgumboxscores.com/), including: 
 
 - officials: a list of all refs for every game since '03-04
 - four factors: game-by-game numbers of the building blicks of effiency
