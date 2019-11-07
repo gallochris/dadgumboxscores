@@ -1,4 +1,5 @@
 Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
+2019-20,6-Nov-19,Notre Dame,W,76,65,,home,League
 2018-19,29-Mar-19,Auburn,L,80,97,,neutral,NCAA Tournament Sweet 16
 2018-19,24-Mar-19,Washington,W,81,59,,neutral,NCAA Tournament 2nd Round
 2018-19,22-Mar-19,Iona,W,88,73,,neutral,NCAA Tournament 1st Round
@@ -26,7 +27,7 @@ Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
 2018-19,29-Dec-18,Davidson,W,82,60,,home,Non-Conference
 2018-19,22-Dec-18,Kentucky,L,72,80,,neutral,Non-Conference
 2018-19,15-Dec-18,Gonzaga,W,103,90,,home,Non-Conference
-2018-19,5-Dec-18,Wilmington,W,97,69,,home,Non-Conference
+2018-19,5-Dec-18,UNC-Wilmington,W,97,69,,home,Non-Conference
 2018-19,28-Nov-18,Michigan,L,67,84,,away,Non-Conference
 2018-19,23-Nov-18,UCLA,W,94,78,,neutral,Non-Conference
 2018-19,22-Nov-18,Texas,L,89,92,,neutral,Non-Conference
@@ -139,7 +140,7 @@ Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
 2015-16,4-Jan-16,Florida State,W,106,90,,away,League
 2015-16,2-Jan-16,Georgia Tech,W,86,68,,home,League
 2015-16,30-Dec-15,Clemson,W,80,69,,home,League
-2015-16,28-Dec-15,G,W,96,63,,home,Non-Conference
+2015-16,28-Dec-15,UNC-G,W,96,63,,home,Non-Conference
 2015-16,21-Dec-15,Appalachian State,W,94,70,,home,Non-Conference
 2015-16,19-Dec-15,UCLA,W,89,76,,neutral,Non-Conference
 2015-16,16-Dec-15,Tulane,W,96,72,,home,Non-Conference
@@ -180,7 +181,7 @@ Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
 2014-15,30-Dec-14,William & Mary,W,86,64,,home,Non-Conference
 2014-15,27-Dec-14,UAB,W,89,58,,home,Non-Conference
 2014-15,20-Dec-14,Ohio State,W,82,74,,neutral,Non-Conference
-2014-15,16-Dec-14,G,W,79,56,,away,Non-Conference
+2014-15,16-Dec-14,UNC-G,W,79,56,,away,Non-Conference
 2014-15,13-Dec-14,Kentucky,L,70,84,,away,Non-Conference
 2014-15,7-Dec-14,East Carolina,W,108,64,,home,Non-Conference
 2014-15,3-Dec-14,Iowa,L,55,60,,home,Non-Conference (Big Ten Challenge)
@@ -211,12 +212,12 @@ Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
 2013-14,11-Jan-14,Syracuse,L,45,57,,away,League
 2013-14,8-Jan-14,Miami,L,57,63,,home,League
 2013-14,5-Jan-14,Wake Forest,L,67,73,,away,League
-2013-14,31-Dec-13,Wilmington,W,84,51,,home,Non-Conference
+2013-14,31-Dec-13,UNC-Wilmington,W,84,51,,home,Non-Conference
 2013-14,27-Dec-13,NKU,W,75,60,,home,Non-Conference
 2013-14,21-Dec-13,Davidson ,W,87,85,OT,home,Non-Conference
 2013-14,18-Dec-13,Texas,L,83,86,,home,Non-Conference
 2013-14,14-Dec-13,Kentucky,W,82,77,,home,Non-Conference
-2013-14,7-Dec-13,G,W,81,50,,home,Non-Conference
+2013-14,7-Dec-13,UNC-G,W,81,50,,home,Non-Conference
 2013-14,4-Dec-13,Michigan State,W,79,65,,away,Non-Conference
 2013-14,1-Dec-13,UAB,L,59,63,,away,Non-Conference
 2013-14,24-Nov-13,Louisville,W,93,84,,neutral,Non-Conference (Hall of Fame Tipoff)
@@ -544,7 +545,7 @@ Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
 2004-05,8-Jan-05,Maryland,W,109,75,,home,League
 2004-05,2-Jan-05,William & Mary,W,105,66,,home,Non-Conference
 2004-05,30-Dec-04,Cleveland State,W,107,64,,home,Non-Conference
-2004-05,28-Dec-04,Wilmington,W,96,75,,home,Non-Conference
+2004-05,28-Dec-04,UNC-Wilmington,W,96,75,,home,Non-Conference
 2004-05,21-Dec-04,Vermont,W,93,65,,home,Non-Conference
 2004-05,19-Dec-04,Virginia Tech,W,85,51,,away,League
 2004-05,12-Dec-04,Loyola Chicago,W,109,60,,home,Non-Conference
@@ -577,7 +578,7 @@ Season,Date,Opponent,Result,UNC Score,Opponent Score,Overtime?,Location,Type
 2003-04,7-Jan-04,Miami,W,89,64,,home,Non-Conference
 2003-04,3-Jan-04,Kentucky,L,56,61,,away,Non-Conference
 2003-04,30-Dec-03,Coastal Carolina,W,105,72,,home,Non-Conference
-2003-04,28-Dec-03,Wilmington,W,71,54,,neutral,Non-Conference
+2003-04,28-Dec-03,UNC-Wilmington,W,71,54,,neutral,Non-Conference
 2003-04,20-Dec-03,Wake Forest ,L,114,119,OT,home,League
 2003-04,14-Dec-03,Akron,W,64,53,,home,Non-Conference
 2003-04,7-Dec-03,George Mason,W,115,81,,home,Non-Conference
