@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Every UNC basketball box score since 03-04.">
+    <meta name="author" content="Chris Gallo">
+    <meta name="title" content="Dadgum Box Scores">
+    <meta content="Dadgum Box Scores" name="application-name" /><title>Dadgum Box Scores</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.3.js"></script>
+    <script src="https://dadgumboxscores.com/js/felton.min.js"></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="https://dadgumboxscores.com/images/favicon.ico">
+
+
+    
+    <script>
+    $(document).ready( function () {
+    $('#table_id').DataTable();
+    responsive: true
+    } );
+    </script>
+
+
+    <script type="text/javascript" class="init">
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "paging":   false,
+        "info":     true,
+        "dom": '<"top"iflp<"clear">>',
+        "order": [],
+        "oSearch": {"sSearch": $.urlParam('filter')} 
+    } );
+    } );
+
+   $.urlParam = function(name){
+    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (!results)
+    { 
+    return ; 
+    }
+    return decodeURI(results[1]) || 0;
+    } 
+
+
+
+    
+    function getUrlVars()
+    {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = decodeURIComponent(value);
+
+    
+        
+    });
+    return vars;
+
+    }
+
+    $(document).ready(function() {
+    
+    var query = getUrlVars()['q'];
+    
+    var oTable = $('#example').dataTable();
+    
+    oTable.fnFilter( query, 2 );
+    });
+
+    </script>
+
+    
+
+    
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link href="https://dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
+    
+</head>
+
+
+
+
+
+	<main>
+		
+	</main>
+<footer class="pinson" role="contentinfo">
+  <div class="pinson-dance">
+  <ul>
+  <li><a href="/tags/#top">↑ Go back to the top of the page</a></li>
+  <li></li>
+  <li>© 2016-2019 Dadgum Box Scores</li>
+    </ul>
+  </div>
+</footer>
