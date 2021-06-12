@@ -1,8 +1,8 @@
 /* Tables and Body */ 
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: "Roboto Mono", monospace, serif;
+  font-size: 14px;
   line-height: 1.25;
   margin: 0 auto;
   color: #14191d; 
@@ -56,6 +56,14 @@ display: none;
  .wow { 
  text-align: left;
   }
+
+  .liney {
+    list-style: none;
+    text-align: center;
+    font-size: 14px;
+}
+
+
 input {
     font-size: 12px;
     margin-bottom: 1em;
@@ -78,9 +86,9 @@ body h3{
 }
 
 body li {
-	font-size: 14px;
-	line-height: 1.5;
+    line-height: 1.7;
 }
+
 body.dt-example-bootstrap {
 	font-size: 14px;
 	line-height: 1.42857143;
@@ -422,33 +430,31 @@ div.column_half {
 
 /* Nav */ 
 
- header {
-  overflow: hidden;
-  background-color: #56a0d3;
-  color:#fff;
+header {
+	overflow: hidden;
+	background-color: #7BAFD4;
+	color: #fff;
 }
-
 header h1 {
-  text-align: center;
-  font-size: 24px;
-  color: #fff;
+	text-align: center;
+	font-size: 36px;
+	color: #fff;
+	margin: 1em;
 }
-
 header h1 a {
-  color: #fff;
+	color: #fff;
+	font-size: 36px;
 }
-
 header nav {
-  text-align: center;
-  margin: 1em;
+	text-align: center;
+	margin: 1em;
 }
-
 header nav a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 18px ;
-  font-weight: 700;
-  margin: 15px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 700;
+	margin: 15px;
 }
 
 

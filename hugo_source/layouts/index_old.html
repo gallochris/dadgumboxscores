@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}   
+<div class="container table-responsive">
+
+<div class="huffman">
+<h2>Every UNC Box Score Since 03-04</h2>
+
+<h4>Follow <a href="https://twitter.com/dadgumboxscores" target="_blank" >@dadgumboxscores</a> for updates</h4>
+</div>
+
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+
+
+{{ partial "footer.html" . }}
+      </div>
+
+
+

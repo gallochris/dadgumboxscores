@@ -1,19 +1,49 @@
 {{ partial "header.html" . }}
 {{ partial "nav.html" . }}   
 <div class="container table-responsive">
-
-<div class="huffman">
-<h2>Every UNC Box Score Since 03-04</h2>
-
-<h4>Follow <a href="https://twitter.com/dadgumboxscores" target="_blank" >@dadgumboxscores</a> for updates</h4>
-</div>
-
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
 
+<h3 class="huffman">Every UNC Box Score Since 03-04</h3>
+
+<h4 class="huffman">Filter by season, wins, losses, opponent or type of game</h4>
+
+
+<table id="example"  class="table table-sm" cellspacing="0" width="100%">
+	<thead class="thead-dark">
+         <tr>
+          <th scope="col">Date</th>
+          <th scope="col">Opponent</th>
+          <th scope="col">Result</th>
+          <th scope="col">UNC</th>
+          <th scope="col">Opp</th>
+          <th scope="col">Location</th>
+          <th scope="col">Type</th>
+          <th class="britt">LongType</th>
+          <th class="britt">Season</th>
+         </tr>
+     </thead>
+
+    <tbody>
+	{{ range $.Site.Data.games }}
+        <tr class="{{ .style }}">
+        <td data-label="Date"><a href="{{ .box }}" target="_blank">{{ .date }}</a></span></td>
+        <td data-label="Opponent" >{{ .opponent }}</td>
+        <td data-label="Type">{{ .result }}</td>
+        <td data-label="Type">{{ .unc }}</td>
+        <td data-label="Type">{{ .opp }}</td>
+        <td data-label="Location">{{ .location }}</td>
+        <td data-label="Type">{{ .type }}</td>
+        <td class="britt" data-label="LongType">{{ .longtype }}</td>
+        <td class="britt" data-label="LongType">{{ .season }}</td>
+        </tr>
+  	{{ end }}
+    </tbody>
+</table>
+
 
 {{ partial "footer.html" . }}
-      </div>
+</div>
 
 
 

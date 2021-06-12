@@ -1,8 +1,8 @@
 /* Body */
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-family: "Roboto Mono", monospace, serif;
+  font-size: 14px;
   line-height: 1.38;
   margin: 0 auto;
   color: #14191d; 
@@ -13,11 +13,10 @@ pre {
 }
 
 a, li, p {
-
   margin-top: 18px;
-    font-size: 18px;
-    letter-spacing: -.02px;
-    line-height: 1.38;
+  font-size: 14px;
+  letter-spacing: -.02px;
+  line-height: 1.38;
 }
 
 
@@ -124,12 +123,9 @@ div.tain {
 		display: none;
 	}
 	header h1, header nav {
-		float: none;
-		padding-left: 0;
+		text-align: center;
 	}
 	header nav a {
-		display: block;
-		margin: auto;
 		text-align: center;
 		color: #fff;
 	}
