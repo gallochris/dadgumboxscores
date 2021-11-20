@@ -52,6 +52,6 @@ For example, if you wanted to share all box scores against Michigan State, add `
 
 **I found an error, what should I do next?**
 
-If you can't find something you're looking for or spot an typo, please let me know via email [here](mailto:chris@hellogallo.com).
+If you can't find something you're looking for or spot an typo, please let me know via Twitter - [@dadgumboxscores](https://twitter.com/dadgumboxscores).
 
 * * * 
