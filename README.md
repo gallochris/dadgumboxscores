@@ -5,5 +5,4 @@ Dadgum box scores is a collection of every UNC men’s basketball box score sinc
 
 Read more about the [purpose behind it here](http://dadgumboxscores.com/purpose). 
 
-
-
+_This project is now archived._
